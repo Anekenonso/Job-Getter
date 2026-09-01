@@ -1,0 +1,35 @@
+# Node / Next.js
+node_modules/
+.next/
+out/
+.npm/
+.env.local
+.env*
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.pytest_cache/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Build / logs
+*.log
+coverage/
+frontend-dev.log
+
+# Local design files
+architecture.html
+brand.html
+logo.svg
+ui-mobile.html
+ui-mockups.html
+
+# Local data
+*.sqlite3

@@ -1,0 +1,134 @@
+[
+  {
+    "id": "job-001",
+    "title": "AI Automation Engineer",
+    "company": "Northstar Labs",
+    "location": "Remote",
+    "remote": true,
+    "salary": "$110k - $150k",
+    "url": "https://example.com/jobs/ai-automation-engineer",
+    "description": "Build AI-powered workflows, orchestrate integrations, and automate tasks across product and operations systems.",
+    "required_skills": ["python", "automation", "ai", "apis", "sql"]
+  },
+  {
+    "id": "job-002",
+    "title": "Python Developer",
+    "company": "Brightlane",
+    "location": "Remote",
+    "remote": true,
+    "salary": "$100k - $140k",
+    "url": "https://example.com/jobs/python-developer",
+    "description": "Develop backend services and APIs using Python, FastAPI, and modern cloud tooling.",
+    "required_skills": ["python", "fastapi", "sql", "apis"]
+  },
+  {
+    "id": "job-003",
+    "title": "Automation Engineer",
+    "company": "HelioOps",
+    "location": "Remote",
+    "remote": true,
+    "salary": "$95k - $130k",
+    "url": "https://example.com/jobs/automation-engineer",
+    "description": "Design automation flows and integrate internal tools with ETL, APIs, and orchestration systems.",
+    "required_skills": ["automation", "python", "apis", "sql"]
+  },
+  {
+    "id": "job-004",
+    "title": "Full Stack Engineer",
+    "company": "Signal Forge",
+    "location": "Remote",
+    "remote": true,
+    "salary": "$105k - $145k",
+    "url": "https://example.com/jobs/full-stack-engineer",
+    "description": "Build user-facing interfaces and backend endpoints for a modern SaaS platform.",
+    "required_skills": ["javascript", "react", "node", "python", "sql"]
+  },
+  {
+    "id": "job-005",
+    "title": "Backend Engineer",
+    "company": "Monsoon Cloud",
+    "location": "Remote",
+    "remote": true,
+    "salary": "$115k - $155k",
+    "url": "https://example.com/jobs/backend-engineer",
+    "description": "Own API design, data pipeline processing, and system reliability for a remote-first product team.",
+    "required_skills": ["python", "sql", "aws", "apis"]
+  },
+  {
+    "id": "job-006",
+    "title": "ML Engineer",
+    "company": "Kite Research",
+    "location": "Remote",
+    "remote": true,
+    "salary": "$120k - $170k",
+    "url": "https://example.com/jobs/ml-engineer",
+    "description": "Use machine learning models to improve product intelligence and operational automation systems.",
+    "required_skills": ["ai", "python", "sql", "machine learning"]
+  },
+  {
+    "id": "job-007",
+    "title": "Data Analyst",
+    "company": "Metric Harbor",
+    "location": "Remote",
+    "remote": true,
+    "salary": "$90k - $120k",
+    "url": "https://example.com/jobs/data-analyst",
+    "description": "Analyze product and operational data, build dashboards, and provide actionable insights.",
+    "required_skills": ["data", "sql", "python", "analytics"]
+  },
+  {
+    "id": "job-008",
+    "title": "QA Automation Engineer",
+    "company": "Circle Peak",
+    "location": "Remote",
+    "remote": true,
+    "salary": "$90k - $125k",
+    "url": "https://example.com/jobs/qa-automation-engineer",
+    "description": "Build automated test coverage for a product suite spanning frontend and backend systems.",
+    "required_skills": ["testing", "python", "automation", "javascript"]
+  },
+  {
+    "id": "job-009",
+    "title": "DevOps Engineer",
+    "company": "Atlas One",
+    "location": "Remote",
+    "remote": true,
+    "salary": "$110k - $150k",
+    "url": "https://example.com/jobs/devops-engineer",
+    "description": "Improve deployment workflows, CI/CD pipelines, and cloud infrastructure for distributed services.",
+    "required_skills": ["aws", "docker", "kubernetes", "python"]
+  },
+  {
+    "id": "job-010",
+    "title": "Product Analyst",
+    "company": "Aster Works",
+    "location": "Remote",
+    "remote": true,
+    "salary": "$95k - $130k",
+    "url": "https://example.com/jobs/product-analyst",
+    "description": "Translate business needs into workflows, dashboards, and customer insights using data and automation.",
+    "required_skills": ["data", "sql", "automation", "python"]
+  },
+  {
+    "id": "job-011",
+    "title": "Operations Automation Specialist",
+    "company": "Oakstream",
+    "location": "Remote",
+    "remote": true,
+    "salary": "$85k - $120k",
+    "url": "https://example.com/jobs/operations-automation-specialist",
+    "description": "Automate repetitive operational processes and maintain integrations between internal systems.",
+    "required_skills": ["automation", "apis", "python", "sql"]
+  },
+  {
+    "id": "job-012",
+    "title": "AI Operations Engineer",
+    "company": "Verve Systems",
+    "location": "Remote",
+    "remote": true,
+    "salary": "$115k - $160k",
+    "url": "https://example.com/jobs/ai-operations-engineer",
+    "description": "Support AI workflows in production, optimize toolchains, and create scalable automation for internal ops.",
+    "required_skills": ["ai", "automation", "python", "aws"]
+  }
+]
