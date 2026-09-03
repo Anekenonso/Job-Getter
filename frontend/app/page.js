@@ -83,12 +83,18 @@ export default function HomePage() {
 
       {candidate ? (
         <section style={styles.results}>
-          <h2 style={styles.sectionTitle}>Your candidate profile</h2>
+          <div style={styles.resultHeader}>
+            <div>
+              <p style={styles.mutedLabel}>Candidate profile</p>
+              <h2 style={styles.sectionTitle}>{candidate.professional_title}</h2>
+            </div>
+            <div style={styles.badge}>{candidate.seniority}</div>
+          </div>
+
           <div style={styles.profileCard}>
-            <p><strong>Title:</strong> {candidate.professional_title}</p>
-            <p><strong>Seniority:</strong> {candidate.seniority}</p>
-            <p><strong>Experience:</strong> {candidate.years_experience} years</p>
+            <p><strong>Years of experience:</strong> {candidate.years_experience}</p>
             <p><strong>Skills:</strong> {candidate.skills.join(", ") || "N/A"}</p>
+            <p><strong>Tools:</strong> {candidate.tools.join(", ") || "N/A"}</p>
           </div>
 
           <h2 style={styles.sectionTitle}>Top 10 matches</h2>
@@ -216,9 +222,30 @@ const styles = {
     maxWidth: "1100px",
     margin: "30px auto 0",
   },
+  resultHeader: {
+    display: "flex",
+    alignItems: "center",
+    justifyContent: "space-between",
+    gap: "12px",
+    marginBottom: "18px",
+  },
+  mutedLabel: {
+    margin: 0,
+    color: "#475569",
+    fontSize: "0.75rem",
+    letterSpacing: "0.08em",
+    textTransform: "uppercase",
+  },
   sectionTitle: {
-    margin: "0 0 18px",
+    margin: "6px 0 0",
     fontSize: "1.8rem",
+  },
+  badge: {
+    background: "#dbeafe",
+    color: "#1d4ed8",
+    padding: "8px 12px",
+    borderRadius: "999px",
+    fontWeight: 700,
   },
   profileCard: {
     background: "#fff",

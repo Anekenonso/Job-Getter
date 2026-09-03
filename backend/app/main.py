@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import json
 import re
+from io import BytesIO
 from pathlib import Path
 from typing import Any
 
@@ -13,6 +14,8 @@ from pypdf import PdfReader
 
 APP_ROOT = Path(__file__).resolve().parents[2]
 JOB_CACHE_PATH = APP_ROOT / "data" / "jobs_cache.json"
+MAX_FILE_SIZE_BYTES = 10 * 1024 * 1024
+ALLOWED_SUFFIXES = {".pdf", ".docx", ".txt"}
 
 app = FastAPI(title="Job Getter API")
 app.add_middleware(
@@ -27,8 +30,8 @@ SKILL_KEYWORDS = {
     "python": ["python", "django", "fastapi", "flask", "pandas", "numpy"],
     "javascript": ["javascript", "typescript", "react", "node", "next", "vue"],
     "sql": ["sql", "postgres", "mysql", "database", "query optimization"],
-    "ai": ["ai", "machine learning", "ml", "llm", "nlp", "genai"],
-    "automation": ["automation", "workflow", "zapier", "integration", "apis", "etl"],
+    "ai": ["ai", "machine learning", "ml", "llm", "nlp", "genai", "computer vision"],
+    "automation": ["automation", "workflow", "zapier", "integration", "apis", "etl", "orchestration"],
     "aws": ["aws", "lambda", "s3", "ec2", "docker", "kubernetes"],
     "data": ["data analysis", "analytics", "bi", "tableau", "power bi"],
     "testing": ["pytest", "playwright", "cypress", "unit testing", "qa"],
@@ -82,15 +85,17 @@ def normalize_text(text: str) -> str:
 
 
 def extract_text_from_pdf(file_bytes: bytes) -> str:
-    reader = PdfReader(__import__("io").BytesIO(file_bytes))
+    reader = PdfReader(BytesIO(file_bytes))
     pages = []
     for page in reader.pages:
-        pages.append(page.extract_text() or "")
+        extracted = page.extract_text()
+        if extracted:
+            pages.append(extracted)
     return "\n".join(pages)
 
 
 def extract_text_from_docx(file_bytes: bytes) -> str:
-    doc = Document(__import__("io").BytesIO(file_bytes))
+    doc = Document(BytesIO(file_bytes))
     paragraphs = [p.text for p in doc.paragraphs if p.text.strip()]
     return "\n".join(paragraphs)
 
@@ -105,9 +110,19 @@ def extract_text(file_name: str, file_bytes: bytes) -> str:
         return extract_text_from_pdf(file_bytes)
     if suffix == ".docx":
         return extract_text_from_docx(file_bytes)
-    if suffix in {".txt", ".md"}:
+    if suffix == ".txt":
         return extract_text_from_txt(file_bytes)
     raise HTTPException(status_code=400, detail="Unsupported file type. Use PDF, DOCX, or TXT.")
+
+
+def valid_cv_upload(file_name: str, file_bytes: bytes) -> None:
+    if not file_name:
+        raise HTTPException(status_code=400, detail="No file uploaded.")
+    suffix = Path(file_name).suffix.lower()
+    if suffix not in ALLOWED_SUFFIXES:
+        raise HTTPException(status_code=400, detail="Unsupported file type. Use PDF, DOCX, or TXT.")
+    if len(file_bytes) > MAX_FILE_SIZE_BYTES:
+        raise HTTPException(status_code=413, detail="File exceeds the 10 MB limit.")
 
 
 def detect_skills(text: str) -> list[str]:
@@ -120,12 +135,6 @@ def detect_skills(text: str) -> list[str]:
 
 
 def infer_title(text: str, skills: list[str]) -> str:
-    title_candidates = []
-    for keyword, labels in SKILL_KEYWORDS.items():
-        if keyword in skills:
-            title_candidates.append(keyword)
-    if not title_candidates:
-        title_candidates = ["software", "data", "product"]
     if "ai" in skills or "machine learning" in text.lower():
         return "AI Automation Engineer"
     if "python" in skills and "automation" in skills:
@@ -142,13 +151,13 @@ def infer_title(text: str, skills: list[str]) -> str:
 
 
 def estimate_years_experience(text: str) -> int:
-    matches = re.findall(r"(\d+)\s*(?:years?|yrs?)(?:\s+of)?\s+experience", text.lower())
-    if matches:
-        return int(matches[0])
-    experience_years = re.findall(r"\b(\d{1,2})\b", text)
-    for year in experience_years:
-        if 1 <= int(year) <= 15:
-            return int(year)
+    match = re.search(r"(\d+)\s*(?:years?|yrs?)\s+(?:of\s+)?experience", text.lower())
+    if match:
+        return int(match.group(1))
+    for value in re.findall(r"\b(\d{1,2})\b", text):
+        year = int(value)
+        if 1 <= year <= 15:
+            return year
     return 2
 
 
@@ -161,10 +170,10 @@ def infer_seniority(years: int) -> str:
 
 
 def infer_tools(text: str) -> list[str]:
-    tools = ["Python", "FastAPI", "SQL", "GitHub", "Docker", "React", "PostgreSQL"]
+    tool_names = ["Python", "FastAPI", "SQL", "GitHub", "Docker", "React", "PostgreSQL", "AWS", "Node.js"]
     lower = text.lower()
     found = []
-    for tool in tools:
+    for tool in tool_names:
         if tool.lower() in lower:
             found.append(tool)
     return found[:5]
@@ -207,9 +216,9 @@ def compute_match_score(profile: dict[str, Any], job: dict[str, Any]) -> tuple[i
     overlap = candidate_skills & required_skills
     title_overlap = 1 if any(title.lower() in job.get("title", "").lower() for title in profile["job_titles"]) else 0
     score = min(98, 30 + (len(overlap) * 18) + (title_overlap * 18))
-    if score > 80:
+    if score >= 80:
         reason = "Strong skill overlap with the requested role and relevant tools."
-    elif score > 60:
+    elif score >= 60:
         reason = "Good technical match with a few additional qualifications to confirm."
     else:
         reason = "Useful adjacent experience but not a direct fit for the core role."
@@ -223,9 +232,8 @@ def health() -> dict[str, str]:
 
 @app.post("/api/analyze-cv", response_model=CVAnalysisResponse)
 async def analyze_cv(file: UploadFile = File(...)) -> dict[str, Any]:
-    if not file.filename:
-        raise HTTPException(status_code=400, detail="No file uploaded.")
     content = await file.read()
+    valid_cv_upload(file.filename, content)
     parsed_text = extract_text(file.filename, content)
     if not parsed_text.strip():
         raise HTTPException(status_code=400, detail="The uploaded file did not contain readable text.")
@@ -234,9 +242,9 @@ async def analyze_cv(file: UploadFile = File(...)) -> dict[str, Any]:
     jobs = load_jobs()
     scored_jobs = []
     for job in jobs:
-        score, reason = compute_match_score(profile, job)
         if job.get("remote") is False:
             continue
+        score, reason = compute_match_score(profile, job)
         scored_jobs.append({
             **job,
             "match_score": score,
