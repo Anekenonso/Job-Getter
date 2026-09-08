@@ -80,8 +80,8 @@ export default function HomePage() {
   }
 
   return (
-    <main className="min-h-screen py-8 px-5 pb-20">
-      <div className="max-w-[1000px] mx-auto bg-white rounded-2xl overflow-hidden shadow-[0_10px_34px_rgba(15,23,42,.12)]">
+    <main className="min-h-screen py-6 px-4 sm:px-6 pb-20">
+      <div className="max-w-[1280px] mx-auto bg-white rounded-2xl overflow-hidden shadow-[0_10px_34px_rgba(15,23,42,.12)]">
         {/* Nav */}
         <div className="flex items-center justify-between px-7 py-4 border-b border-line">
           <button
@@ -137,17 +137,17 @@ function UploadScreen({ onUpload, error }) {
   return (
     <>
       <div
-        className="px-7 pt-14 pb-10 text-center"
+        className="px-7 pt-16 pb-12 lg:pt-24 lg:pb-16 text-center"
         style={{
           background:
             "radial-gradient(1200px 300px at 50% -40%, #ECFDF5, #ffffff)",
         }}
       >
-        <h1 className="text-[34px] leading-tight mx-auto mb-3 max-w-[560px] font-bold tracking-tight">
+        <h1 className="text-[34px] lg:text-[52px] leading-tight mx-auto mb-3 max-w-[560px] lg:max-w-[760px] font-bold tracking-tight">
           Upload your CV.<br />
           Get <span className="brand-text">10 remote jobs</span> that fit.
         </h1>
-        <p className="text-muted text-base max-w-[460px] mx-auto mb-8">
+        <p className="text-muted text-base lg:text-lg max-w-[460px] lg:max-w-[560px] mx-auto mb-8">
           No sign-up. No profiles to fill in. Drop your CV and our agents match
           you against fresh remote roles in under a minute.
         </p>
