@@ -1,0 +1,41 @@
+name: Refresh job cache
+
+# Pulls fresh remote jobs from public APIs, normalizes them, and commits the
+# updated cache. Runs a few times a day plus on-demand.
+on:
+  schedule:
+    - cron: "0 */8 * * *" # every 8 hours
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r backend/requirements.txt
+
+      - name: Refresh cache
+        run: python ingestion/refresh_cache.py
+
+      - name: Commit updated cache
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [[ -n "$(git status --porcelain data/jobs_cache.json)" ]]; then
+            git add data/jobs_cache.json
+            git commit -m "chore: refresh job cache [skip ci]"
+            git push
+          else
+            echo "No changes to the job cache."
+          fi
