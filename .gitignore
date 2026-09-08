@@ -34,3 +34,6 @@ remote_job_matching_saas_v1_spec.md
 
 # Local data
 *.sqlite3
+
+# Local scratch / transient tooling (screenshot capture, sample CVs, temp logs)
+.tmp/
