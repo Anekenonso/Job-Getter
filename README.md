@@ -12,7 +12,7 @@ No account. No profile to fill in. No data stored.
 
 <br />
 
-**[Follow @JobGetter on X](https://x.com/JobGetter)** · Privacy-first remote-job matching
+**[Follow @AI_jobgetter on X](https://x.com/AI_jobgetter)** · Privacy-first remote-job matching
 
 </div>
 
@@ -98,7 +98,7 @@ That means the product ships and serves real users at essentially **$0 fixed cos
 
 ## Contact
 
-Questions, feedback, or a hired shout-out — reach us on X: **[@JobGetter](https://x.com/JobGetter)**.
+Questions, feedback, or a hired shout-out — reach us on X: **[@AI_jobgetter](https://x.com/AI_jobgetter)**.
 
 ## License
 

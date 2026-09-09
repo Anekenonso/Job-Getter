@@ -33,5 +33,5 @@ export function XIcon({ className = "w-4 h-4" }) {
 }
 
 // Placeholder handle — swap before launch.
-export const X_HANDLE = "JobGetter";
+export const X_HANDLE = "AI_jobgetter";
 export const X_URL = `https://x.com/${X_HANDLE}`;
