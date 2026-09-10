@@ -7,8 +7,10 @@ COPY backend/requirements.txt ./
 RUN pip install --no-cache-dir --upgrade pip && \
     pip install --no-cache-dir -r requirements.txt
 
-COPY backend/app ./app
+COPY backend/app ./backend/app
 COPY data ./data
+
+WORKDIR /app/backend
 
 EXPOSE 8000
 
