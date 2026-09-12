@@ -1,19 +1,172 @@
 [
   {
-    "id": "jobicy-9bef59f8b4b5",
-    "title": "Application Support / SQL - (12 Month Maternity-leave Contract)",
-    "company": "Varicent",
-    "location": "Romania",
+    "id": "jobicy-aa250be5a71c",
+    "title": "Lifecycle Specialist, Employee Relations & Transitions - Canada",
+    "company": "Remote",
+    "location": "Canada",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "At Varicent, we’re not just transforming the Sales Performance Management (SPM) market—we’re redefining how organizations achieve revenue success. Our cutting-edge SaaS solutions empower revenue leaders globally to design smarter go-to-market strategies, maximize seller performance, and unlock untapped potential. Varicent stands at the forefront of innovation, celebrated as a market leader in the 2025 Forrester Wave&hellip;",
+    "description": "About Remote Remote is solving modern organizations’ biggest challenge – navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focused work culture, our team works tirelessly on ambitious problems, asynchronously, around the world. You&hellip;",
     "required_skills": [
-      "technical support"
+      "hr & recruiting"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153061-application-support-sql-12-month-maternity-leave-contract",
+    "url": "https://jobicy.com/jobs/153083-lifecycle-specialist-employee-relations-transitions-canada-2",
+    "date_posted": "2026-09-11"
+  },
+  {
+    "id": "jobicy-98297b07a039",
+    "title": "Sales Representative - Brescia",
+    "company": "Deliveroo",
+    "location": "Italy",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Siamo alla ricerca di un Sales Representative per la zona di Brescia. È un'opportunità unica per entrare a far parte di un'azienda solida e in forte espansione, ricoprendo un ruolo chiave fin dal primo giorno. Ti occuperai di sviluppare il business collaborando con i ristoranti più iconici e prestigiosi d'Italia. Inserito/a nel team Sales di&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153079-sales-representative-brescia",
+    "date_posted": "2026-09-11"
+  },
+  {
+    "id": "jobicy-5de113afee79",
+    "title": "Engineering Manager, SRE",
+    "company": "Remote",
+    "location": "APAC,  EMEA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Remote Remote is solving modern organizations’ biggest challenge – navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focused work culture, our team works tirelessly on ambitious problems, asynchronously, around the world. You&hellip;",
+    "required_skills": [
+      "devops & infrastructure"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153081-engineering-manager-sre",
+    "date_posted": "2026-09-11"
+  },
+  {
+    "id": "jobicy-de91495b59b8",
+    "title": "Strategic Account Executive, New Business",
+    "company": "Ceros",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Location: Remote within the US ⬆ Reporting Into: Head of Sales Compensation: $110,000–$140,000 base salary, plus uncapped commission, with a total expected compensation range of $210,000–$280,000+, depending on qualifications and experience. About Ceros At Ceros, you’ll help ambitious brands create digital experiences that people actually want to explore. Our platform gives marketers and designers&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153080-strategic-account-executive-new-business",
+    "date_posted": "2026-09-11"
+  },
+  {
+    "id": "jobicy-fa987e1cceea",
+    "title": "Talent Programs Lead",
+    "company": "Grove Collaborative",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Grove Collaborative is a sustainability-focused consumer products company creating household and personal care essentials that are effective, beautifully designed, and healthier for people and the planet. We are a certified B Corp, plastic-neutral, and on a mission to transform the CPG industry for good. Most companies can't tell you why one person is a Senior&hellip;",
+    "required_skills": [
+      "hr & recruiting"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153076-talent-programs-lead",
+    "date_posted": "2026-09-11"
+  },
+  {
+    "id": "jobicy-d91e5c810c55",
+    "title": "HR AI & Automation Operations Lead",
+    "company": "Remote",
+    "location": "LATAM,  Canada,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Remote Remote is solving modern organizations’ biggest challenge – navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focused work culture, our team works tirelessly on ambitious problems, asynchronously, around the world. You&hellip;",
+    "required_skills": [
+      "hr & recruiting"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153082-hr-ai-automation-operations-lead",
+    "date_posted": "2026-09-11"
+  },
+  {
+    "id": "jobicy-8e7c0272f9fe",
+    "title": "Sr. Sales Development Representative",
+    "company": "Ceros",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Location: Remote within the US ⬆ Reporting Into: Director of Sales Development Compensation: $60,000 - $65,000 base plus uncapped commission, with a total expected compensation of $85,000 to $110,000, based on qualifications and experience. About Ceros At Ceros, you’ll help ambitious brands create digital experiences that people actually want to explore. Our platform gives&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153077-sr-sales-development-representative",
+    "date_posted": "2026-09-11"
+  },
+  {
+    "id": "jobicy-b5c00be17a37",
+    "title": "Sales Development Representative",
+    "company": "dscout",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "At Dscout, we’re building the most flexible and powerful UX research platform on the market—trusted by the world’s top brands in finance (JP Morgan Chase, Intuit, Charles Schwab, PayPal), healthcare (Aya, Headspace), consumer goods (Keen, Verizon, Target, Northface), and tech (Google, Amazon, Facebook, Meta, Spotify, AirBnB). Our tools help teams deeply understand the humans behind&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153078-sales-development-representative-10",
+    "date_posted": "2026-09-11"
+  },
+  {
+    "id": "jobicy-7181e83038ab",
+    "title": "Customer Success Lead",
+    "company": "dscout",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "At Dscout, we’re building the most flexible and powerful UX research platform on the market—trusted by the world’s top brands in finance (JP Morgan Chase, Intuit, Charles Schwab, PayPal), healthcare (Aya, Headspace), consumer goods (Keen, Verizon, Target, Northface), and tech (Google, Amazon, Facebook, Meta, Spotify, AirBnB). Our tools help teams deeply understand the humans behind&hellip;",
+    "required_skills": [
+      "customer support & success"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153074-customer-success-lead-2",
+    "date_posted": "2026-09-11"
+  },
+  {
+    "id": "jobicy-f1e3649e7759",
+    "title": "Senior Software Engineer - Full Stack (Merchants)",
+    "company": "Deliveroo",
+    "location": "UK",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About the Team Merchant EMEA Engineering builds the technology that helps merchants join, grow, and operate successfully across our markets. Our organization brings together the strengths of Wolt and Deliveroo and supports merchants across 37 countries. We work across the merchant journey, including onboarding, business growth and support, analytics and recommendations, menu and order management,&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153075-senior-software-engineer-full-stack-merchants",
     "date_posted": "2026-09-11"
   },
   {
@@ -34,37 +187,20 @@
     "date_posted": "2026-09-11"
   },
   {
-    "id": "jobicy-051f048ea06f",
-    "title": "Japanese - English PPC Freelancer (remote freelance)",
-    "company": "Brafton",
-    "location": "UK",
+    "id": "jobicy-9bef59f8b4b5",
+    "title": "Application Support / SQL - (12 Month Maternity-leave Contract)",
+    "company": "Varicent",
+    "location": "Romania",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Brafton is one of the world's leading content marketing firms, with offices in Boston, London, Toronto and Sydney. We aspire to continually raise the bar on what people consider \"marketing content.\" We create result-focused strategies and content to drive SEO, social engagement and leads for our clients. Our teams continuously build expertise across new media&hellip;",
-    "required_skills": [
-      "marketing & sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153060-japanese-english-ppc-freelancer-remote-freelance",
-    "date_posted": "2026-09-11"
-  },
-  {
-    "id": "jobicy-8986bb080fd0",
-    "title": "Product Support Specialist - EMEA",
-    "company": "Ashby",
-    "location": "Europe",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Hello! I’m Barry, Support Manager at Ashby. I'm excited to share that we're hiring Product Support Specialists in Europe. Please note: we’re currently hiring Product Support Specialists to work one weekend day in exchange for a weekday off. This role will follow either a Tuesday–Saturday or Sunday–Thursday schedule, with occasional adjustments for holidays or business&hellip;",
+    "description": "At Varicent, we’re not just transforming the Sales Performance Management (SPM) market—we’re redefining how organizations achieve revenue success. Our cutting-edge SaaS solutions empower revenue leaders globally to design smarter go-to-market strategies, maximize seller performance, and unlock untapped potential. Varicent stands at the forefront of innovation, celebrated as a market leader in the 2025 Forrester Wave&hellip;",
     "required_skills": [
       "technical support"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153069-product-support-specialist-emea",
+    "url": "https://jobicy.com/jobs/153061-application-support-sql-12-month-maternity-leave-contract",
     "date_posted": "2026-09-11"
   },
   {
@@ -99,6 +235,23 @@
     "requirements": [],
     "source": "Jobicy",
     "url": "https://jobicy.com/jobs/153062-staff-platform-engineer-uk",
+    "date_posted": "2026-09-11"
+  },
+  {
+    "id": "jobicy-8986bb080fd0",
+    "title": "Product Support Specialist - EMEA",
+    "company": "Ashby",
+    "location": "Europe",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Hello! I’m Barry, Support Manager at Ashby. I'm excited to share that we're hiring Product Support Specialists in Europe. Please note: we’re currently hiring Product Support Specialists to work one weekend day in exchange for a weekday off. This role will follow either a Tuesday–Saturday or Sunday–Thursday schedule, with occasional adjustments for holidays or business&hellip;",
+    "required_skills": [
+      "technical support"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153069-product-support-specialist-emea",
     "date_posted": "2026-09-11"
   },
   {
@@ -221,23 +374,6 @@
     "date_posted": "2026-09-11"
   },
   {
-    "id": "jobicy-2eddd8c8ca6f",
-    "title": "Abuse Research Engineer",
-    "company": "Stripe",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work&hellip;",
-    "required_skills": [
-      "cybersecurity"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153053-abuse-research-engineer",
-    "date_posted": "2026-09-11"
-  },
-  {
     "id": "jobicy-e8b404415b2d",
     "title": "Account Executive - Enterprise, Grower",
     "company": "Stripe",
@@ -255,20 +391,20 @@
     "date_posted": "2026-09-11"
   },
   {
-    "id": "jobicy-b3bf1b15a7c5",
-    "title": "FP&A Manager",
-    "company": "AlertMedia",
+    "id": "jobicy-2eddd8c8ca6f",
+    "title": "Abuse Research Engineer",
+    "company": "Stripe",
     "location": "USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Do work that matters. At AlertMedia, we help organizations protect their people, operations, and brand. Our modern Risk Intelligence and Response platform empowers teams to detect emerging threats, assess impact, and respond with confidence. We believe building resilience should be simpler—and it starts with bringing critical information and workflows together in one unified platform. Our&hellip;",
+    "description": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work&hellip;",
     "required_skills": [
-      "finance & accounting"
+      "cybersecurity"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153054-fpa-manager-2",
+    "url": "https://jobicy.com/jobs/153053-abuse-research-engineer",
     "date_posted": "2026-09-11"
   },
   {
@@ -286,6 +422,23 @@
     "requirements": [],
     "source": "Jobicy",
     "url": "https://jobicy.com/jobs/153052-customer-success-manager-45",
+    "date_posted": "2026-09-11"
+  },
+  {
+    "id": "jobicy-b3bf1b15a7c5",
+    "title": "FP&A Manager",
+    "company": "AlertMedia",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Do work that matters. At AlertMedia, we help organizations protect their people, operations, and brand. Our modern Risk Intelligence and Response platform empowers teams to detect emerging threats, assess impact, and respond with confidence. We believe building resilience should be simpler—and it starts with bringing critical information and workflows together in one unified platform. Our&hellip;",
+    "required_skills": [
+      "finance & accounting"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153054-fpa-manager-2",
     "date_posted": "2026-09-11"
   },
   {
@@ -694,159 +847,6 @@
     "requirements": [],
     "source": "Jobicy",
     "url": "https://jobicy.com/jobs/153026-binance-accelerator-program-global-affiliate-bd",
-    "date_posted": "2026-09-11"
-  },
-  {
-    "id": "jobicy-1877653cb78c",
-    "title": "Senior Sales Engineer | Houston, TX",
-    "company": "ExtraHop",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At ExtraHop, we’re on a mission to protect and empower the connected enterprise. We reveal what is happening in the very infrastructure that sustains businesses, lives, and communities, and ensure the integrity of networks, data, systems, and processes. Organizations rely on ExtraHop to provide visibility into the cyber threats, vulnerabilities, and network performance issues that&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153025-senior-sales-engineer-houston-tx",
-    "date_posted": "2026-09-11"
-  },
-  {
-    "id": "jobicy-f926d46cc462",
-    "title": "Binance Accelerator Program - Enterprise Wide Risk Assessment (EWRA)",
-    "company": "Binance",
-    "location": "APAC",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. Binance is trusted by more than 320 million people in 100+ countries for its industry-leading security, transparency, trading engine speed, protections for investors, and unmatched portfolio of digital asset products and offerings from trading and finance&hellip;",
-    "required_skills": [
-      "legal & compliance"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153024-binance-accelerator-program-enterprise-wide-risk-assessment-ewra",
-    "date_posted": "2026-09-11"
-  },
-  {
-    "id": "jobicy-112fc704efc9",
-    "title": "Senior Sales Engineer | Financial Services",
-    "company": "ExtraHop",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At ExtraHop, we’re on a mission to protect and empower the connected enterprise. We reveal what is happening in the very infrastructure that sustains businesses, lives, and communities, and ensure the integrity of networks, data, systems, and processes. Organizations rely on ExtraHop to provide visibility into the cyber threats, vulnerabilities, and network performance issues that&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153023-senior-sales-engineer-financial-services",
-    "date_posted": "2026-09-11"
-  },
-  {
-    "id": "jobicy-5b232cd54402",
-    "title": "Senior Data Scientist",
-    "company": "ExtraHop",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At ExtraHop, we’re on a mission to protect and empower the connected enterprise. We reveal what is happening in the very infrastructure that sustains businesses, lives, and communities, and ensure the integrity of networks, data, systems, and processes. Organizations rely on ExtraHop to provide visibility into the cyber threats, vulnerabilities, and network performance issues that&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153021-senior-data-scientist-2",
-    "date_posted": "2026-09-11"
-  },
-  {
-    "id": "jobicy-639d89398a56",
-    "title": "Binance Accelerator Program - Compliance/Sanctions",
-    "company": "Binance",
-    "location": "Hong Kong,  Singapore",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. Binance is trusted by more than 320 million people in 100+ countries for its industry-leading security, transparency, trading engine speed, protections for investors, and unmatched portfolio of digital asset products and offerings from trading and finance&hellip;",
-    "required_skills": [
-      "legal & compliance"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153020-binance-accelerator-program-compliance-sanctions",
-    "date_posted": "2026-09-11"
-  },
-  {
-    "id": "jobicy-a9cda24f8303",
-    "title": "Salesforce Developer III",
-    "company": "ExtraHop",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At ExtraHop, we’re on a mission to protect and empower the connected enterprise. We reveal what is happening in the very infrastructure that sustains businesses, lives, and communities, and ensure the integrity of networks, data, systems, and processes. Organizations rely on ExtraHop to provide visibility into the cyber threats, vulnerabilities, and network performance issues that&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153019-salesforce-developer-iii",
-    "date_posted": "2026-09-11"
-  },
-  {
-    "id": "jobicy-51e1f8bdbd8d",
-    "title": "Binance Accelerator Program - Brand Partnerships",
-    "company": "Binance",
-    "location": "APAC",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. Binance is trusted by more than 320 million people in 100+ countries for its industry-leading security, transparency, trading engine speed, protections for investors, and unmatched portfolio of digital asset products and offerings from trading and finance&hellip;",
-    "required_skills": [
-      "business development"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153018-binance-accelerator-program-brand-partnerships",
-    "date_posted": "2026-09-11"
-  },
-  {
-    "id": "jobicy-487dffdc46c7",
-    "title": "Regional Sales Manager | Canada",
-    "company": "ExtraHop",
-    "location": "Canada",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At ExtraHop, we’re on a mission to protect and empower the connected enterprise. We reveal what is happening in the very infrastructure that sustains businesses, lives, and communities, and ensure the integrity of networks, data, systems, and processes. Organizations rely on ExtraHop to provide visibility into the cyber threats, vulnerabilities, and network performance issues that&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153017-regional-sales-manager-canada",
-    "date_posted": "2026-09-11"
-  },
-  {
-    "id": "jobicy-a09aa2c29640",
-    "title": "Binance Accelerator Program - Brand KOL",
-    "company": "Binance",
-    "location": "APAC",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. Binance is trusted by more than 320 million people in 100+ countries for its industry-leading security, transparency, trading engine speed, protections for investors, and unmatched portfolio of digital asset products and offerings from trading and finance&hellip;",
-    "required_skills": [
-      "business development"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153016-binance-accelerator-program-brand-kol",
     "date_posted": "2026-09-11"
   },
   {
@@ -1440,75 +1440,72 @@
     "date_posted": "2026-08-11"
   },
   {
-    "id": "arbeitnow-91913c9f2e00",
-    "title": "Senior Backend Engineer - Core Engine / Decision Intelligence (m/w/d)",
-    "company": "Taledo GmbH",
-    "location": "Homeoffice",
+    "id": "arbeitnow-d4c5bd4d1750",
+    "title": "(Senior) Software Engineer - Data Integration Focus - Remote (m/f/d)",
+    "company": "praxipal",
+    "location": "Remote",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Unser Mandant entwickelt innovative Decision-Intelligence-Software für datengestützte Entscheidungen und komplexe betriebliche Abläufe. Das Ziel ist es, Organisationen dabei zu helfen, Abhängigkeiten transparent zu machen, Handlungsoptionen zu evaluieren und Entscheidungen zu treffen, deren Logik und Annahmen jederzeit nachvollziehbar sind. Dafür wird eine leistungsfähige Kerntechnologie aufgebaut, die strukturiertes Wissen, logisches Schlussfolgern (Reasoning), Planung und KI-Komponenten vereint. Als Senior Backend Engineer konzipierst und baust du zentrale Kernkomponenten dieser Software. In enger Zusammenarbeit mit dem CTO und dem Engineering-Team übersetzt du technische Konzepte und Algorithmen in hochverlässliche Software, gestaltest Schnittstellen sowie Datenstrukturen und übernimmst die Verantwortung für Komponenten vom Entwurf bis hin zur Integration und Validierung. Deine Challenges: Kernentwicklung: Konzeption und Implementierung von Backend-Komponenten zur Abbildung von Abhängigkeiten, Evaluierung von Szenarien und Unterstützung von Reasoning- sowie Planungs-Workflows. Architektur &amp; APIs: Aufbau klarer APIs, Datenstrukturen und Schnittstellen für das nahtlose Zusammenspiel der Engine-Komponenten und zukünftige Erweiterungen. Prototyp-Transformation: Überführung von Prototypen und algorithmischen Konzepten in wartbare, skalierbare Software (inkl. Fundierter Entscheidungen bezüglich Eigenentwicklung vs. Integration bestehender Tools). Qualität &amp; Performance : Verantwortung für die Komponentenqualität durch automatisierte Tests, Benchmarks, Debugging und Profiling zur Sicherstellung von Korrektheit und Performance. Nachvollziehbarkeit &amp; Diagnostik: Entwicklung von Diagnosewerkzeugen und Strukturen, um Ergebnisse in Bezug auf Eingaben, Modellversionen und Annahmen jederzeit rückverfolgbar zu machen. Produkt-Zusammenarbeit: Übersetzung von Kundenanwendungsfällen gemeinsam mit dem Produktteam in technische Akzeptanzkriterien und wiederverwendbare Kernverbesserungen. Engineering Standards: Aktive Mitgestaltung von Code-Reviews, Dokumentationen sowie Build- und Deployment-Workflows für eine saubere Codebasis. Ausbildung: Erfolgreich abgeschlossenes Studium im Bereich Informatik, Mathematik, Software Engineering, Physik oder eine vergleichbare technische Qualifikation. Backend-Expertise: Starke Programmierkenntnisse in mindestens einer Backend-Sprache (z. B. Python, Java, C++, Go oder Rust) sowie Erfahrung in der Arbeit mit bestehenden Codebasen. Fundament: Solides Wissen in Algorithmen, Datenstrukturen, Softwaredesign und automatisiertem Testen. Schnittstellen &amp; Daten: Erfahrung im API-Design sowie in der Arbeit mit Datenspeicher- und Datenverarbeitungssystemen unter Berücksichtigung von Performance- und Verlässlichkeitsparametern. Mindset: Fähigkeit, komplexe und unklare Problemstellungen eigenständig zu zerlegen, Alternativen zu bewerten und verlässliche Software-Inkremente zu liefern. Kommunikation &amp; Arbeitsweise: Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift sowie Freude an schnellen, iterativen Entwicklungsschritten im Team. Von Vorteil (kein MUSS): Erfahrungen in mindestens einem der folgenden Bereiche sind ein Pluspunkt: Graphbasierte Systeme oder Wissensrepräsentation Planung, Terminierung (Scheduling) oder Optimierung Rule Engines oder Constraint Solver Integration von ML- / LLM-Komponenten Überführung von Forschungsprototypen in den Produktionsbetrieb Warum wir? Technologischer Impact: Gestalte die Kerntechnologie in einer frühen Phase entscheidend mit. Direkte Zusammenarbeit: Enge Abstimmung mit dem CTO und breite Mitgestaltungsmöglichkeiten über Komponentengrenzen hinweg. Praktische Verantwortung: Hohes Maß an Autonomie und direkte Anwendung deiner Entwicklungen an realen, komplexen Entscheidungsproblemen. Fachliche Vertiefung: Raum zur stetigen Weiterentwicklung deiner Expertise in den Zukunftsfeldern Reasoning, Planung und KI-Systeme. Find Jobs in Germany on Arbeitnow",
+    "description": "At praxipal, we are building an AI-powered healthcare admin workforce to address the global shortage of medical staff. Medical assistants are too valuable to spend their days chasing callbacks, cleaning up schedules, sending repetitive messages, or wrestling with invoicing and documentation workflows. Staff should spend time on patients. That’s why we build Luna. Our AI receptionist, Luna, answers and automates phone calls and she’s loved by hundreds of medical practitioners. Right now, we’re expanding her from calls to end-to-end patient communication across any channel. Over the next years, we’ll grow her into an AI worker that automates all administrative processes in medical practices, embedded directly into the systems practice teams already use. We’re backed by one of Europe’s leading investors and are one of the fastest growing healthtech startups in Germany. Our team has previously worked and studied at Palantir, Amazon, SAP, the University of Cambridge, and Hasso Plattner Institute. We're hiring a (Senior) Software Engineer to help us scale Luna from hundreds of medical practitioners to hundreds of thousands. The role Integration is the bottleneck and the unlock: Luna can only automate workflows when she can reliably read and write the source of truth inside a practice: schedules, patient context, messages, statuses, and workflow metadata. That data lives in practice management systems (PMS) and related tools. You’ll work hands-on, shipping production integrations. As the integration surface grows, you’ll shape the architecture, standards, and processes that keep integration work scalable. What you'll do Build integrations that unlock Luna’s next capabilities Design and implement read/write integrations into third-party practice management systems Design infrastructure that scales to hundreds of thousands of individual practice servers Engineer reliability into the system: data consistency, idempotency, retries, error handling, observability Triage integration failures in production, communicate impact clearly, and harden the system so the same class of failure doesn’t repeat Make integration a scalable capability Define technical standards and architecture for integrations Establish pragmatic processes for development, maintenance, and incident handling What we're looking for Must-have Strong hands-on programming experience in Python, TypeScript and/or Rust Proven experience building and running software in production Strong understanding of integration patterns, distributed systems, and failure modes Comfort operating in messy environments (inconsistent behavior, missing docs, etc.) Clear communication under pressure (during incidents, vendor issues, competing priorities) Excited to work in a fast-paced environment Nice-to-have Prior work on healthcare software or practice management systems Familiarity with healthcare workflows, terminology, or data standards (e.g. FHIR) Fluent German (spoken and written) Experience in startups or scale-ups Location &amp; compensation Location: Remote Compensation: Competitive salary and participation in our VSOP program Team bonding : Regular get-togethers, happy hours and offsites Health and productivity : Urban Sports Club subscription If you want to shape the next generation of healthcare software with us, apply now. Compensation: €70K – €100K • Offers Equity • €70K – €100K • Offers Equity Find more English Speaking Jobs in Germany on Arbeitnow",
     "required_skills": [
-      "it",
-      "remote"
+      "engineering"
     ],
     "requirements": [],
     "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/taledo-gmbh/remote-senior-backend-engineer-core-engine-decision-intelligence-deutschlandweit-13391",
+    "url": "https://www.arbeitnow.com/jobs/companies/praxipal/senior-software-engineer-data-integration-focus-remote-416977",
     "date_posted": null
   },
   {
-    "id": "arbeitnow-0f0e12a4563e",
-    "title": "Dozent*in für SAP (FI / CO) für EdTech Startup (remote)",
-    "company": "Syntax Institut",
-    "location": "Berlin",
+    "id": "arbeitnow-15a44042c47c",
+    "title": "Senior Sales Engineer - MENA",
+    "company": "Sardine",
+    "location": "Remote",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "ÜBER DAS SYNTAX INSTITUT Das Syntax Institut ist ein schnell wachsendes EdTech-Unternehmen aus Berlin, das von erfolgreichen Unternehmern gegründet wurde. Unsere Mission ist es, Menschen praxisnah für gefragte Berufe in der Tech-Branche zu qualifizieren und sie erfolgreich in den Arbeitsmarkt zu integrieren. Unser Angebot umfasst praxisnahe Weiterbildungen in den Bereichen Softwareentwicklung, IT-Administration, Cloud &#x26; IT-Security, Künstliche Intelligenz sowie Projektmanagement. Darüber hinaus bieten wir deutschlandweit an mehreren Standorten Umschulungen im Bereich Fachinformatik an. Dabei vermitteln wir aktuelle Technologien, moderne Arbeitsmethoden und die Fähigkeiten, die Unternehmen heute tatsächlich benötigen. Aufgaben DEINE ROLLE Als Dozent*in für SAP (FI / CO) brennst du für Controlling und Finanzwesen und steckst andere mit deiner Begeisterung an. Dabei schaffst du als Wegbegleiter*in eine wertschätzende und motivierende Lernatmosphäre auf Augenhöhe. Dein Ziel ist es, die Teilnehmenden zum Abschluss zu begleiten und das Fundament zu legen für eine erfolgreiche Integration in den Arbeitsmarkt. DEINE AUFGABEN Leitung und Durchführung von Kursen: Du planst und leitest den Unterricht im remote Format für die Fachrichtung(en) FI und/oder CO, passend zu deinem Eignungsprofil (siehe unten). Praxisnahe Vermittlung: Du übersetzt komplexe Lernziele in verständliche Lerneinheiten. Diese reicherst du mit Beispielen aus deiner eigenen IT-Praxis an. Teamentwicklung: Du förderst die Zusammenarbeit sowie die Selbstorganisation in den Lerngruppen und begleitest sie mit einem starken Konflikt- und Feedback-Management. Zusätzlich entwickelst du gezielte Initiativen für leistungsschwächere Teilnehmende und arbeitest eng mit unserem Student Success Team zusammen. Entwicklung und Verbesserung von Lehrmaterialien: Du erstellst praxisnahe Lernmaterialien in enger Zusammenarbeit mit unserem Produktteam. Weiterhin bist du verantwortlich für die fachliche und didaktische Qualität deines Kurses. Qualifikation DAS SOLLTEST DU MITBRINGEN Schwerpunkt FI / CO: Du bist SAP zertifiziert in den Bereichen FI (Finance) und/oder CO (Controlling) und bringst mindestens 2 Jahre SAP-Projekterfahrung im jeweiligen Bereich mit. Idealerweise konntest du bereits Erfahrung mit S/4HANA- sowie Implementierung- und Customization sammeln. Von Vorteil ist es, wenn du am “Train the Trainer” (PTWTTT) teilgenommen hast und EWM Erfahrung mitbringst. Sprache und Kommunikation: Deine fließenden Deutschkenntnisse (mind. C1-Niveau) und deine ausgeprägte Kommunikationsstärke runden dein Profil ab und ermöglichen es dir, Lerninhalte klar und motivierend zu vermitteln. Vermittlung: Du besitzt die Fähigkeit, SAP verständlich auf Anwender- und perspektivisch Beraterniveau zu vermitteln. Freude am Lehren und Lernen: Dich begeistert es, anderen Wissen zu vermitteln und sie aktiv beim Lernen zu unterstützen. Du arbeitest eigenverantwortlich und erklärst komplexe Themen logisch und nachvollziehbar. Du bringst eine Affinität zur (Online-)Lehre / E-Learning und web-basierten Lernprogrammen mit. Benefits DAS BIETEN WIR DIR Ein Business mit Purpose: Bei uns arbeitest du an Themen, die wirtschaftlich, gesellschaftlich und sozial höchst relevant sind (Digitalisierung, Wettbewerbsfähigkeit des Wirtschaftsstandorts Deutschland, Arbeitsmarktpolitik, Gleichberechtigung, Technologie etc.) Verantwortung und Gestaltungsspielraum: Als Dozent*in hast du einen großen Einfluss auf die Ausgestaltung unserer Kurse und die Entwicklung unseres Unternehmens. Langzeitperspektive: Wir bieten dir einen unbefristeten Arbeitsvertrag und fördern deine Entwicklung. Falls du noch keinen AEVO-Schein besitzt, unterstützen wir dich bei deinem erfolgreichen Abschluss, damit du optimal für die Rolle aufgestellt bist. Attraktives Package: Neben einem marktüblichen Gehalt profitierst du bei uns von einem vergünstigten Sportangebot und erhältst hochwertige Betriebsgeräte. Wenn du glaubst, dass diese Rolle gut zu dir passt, bewirb dich gerne bei uns. Wir freuen uns darauf, dich kennenzulernen. Wir freuen uns über deine aussagekräftige Bewerbung mit CV und optional einem kurzen Anschreiben. Find more English Speaking Jobs in Germany on Arbeitnow",
+    "description": "Who we are: Sardine is the leading agentic risk platform for fighting financial crime. Our integrated solution unifies data across risk teams to help organizations stop fraud in real time, prevent AI-driven attacks, and automate fraud and AML operations. Sardine’s platform is strengthened by one of the fastest-growing fraud consortiums in the market, spanning more than 6 billion profiled devices, 800 million consumers, and 3 million businesses worldwide. Leading companies including FIS, GoDaddy, Intuit, Edward Jones, ZoomInfo, and Checkout.com rely on Sardine to secure and grow trust in their products. Our culture: We have hubs in the Bay Area, NYC, Austin, Toronto, and São Paulo. However, we maintain a remote-first work culture. #WorkFromAnywhere We hire talented, self-motivated individuals with extreme ownership and high growth orientation. We value performance and not hours worked. We believe you shouldn't have to miss your family dinner, your kid's school play, friends get-together, or doctor's appointments for the sake of adhering to an arbitrary work schedule. Location: Remote MENA - Preference for Dubai Please note: This role will require up to 50% travel. From Home / Beach / Mountain / Cafe / Anywhere! We are a remote-first company with a globally distributed team. You can find your productive zone and work from there. About the role: Sales Engineering is a team of subject matter experts who serve as the trusted technical advisor to prospective customers. You will lead prospects through the sales process by connecting their needs to Sardine’s value to win new customers and drive revenue growth. You will deliver best in class product demonstrations, fill out RFPs, and win over our prospective customer’s technical teams with your thought leadership and consultative approach. Internally, your insights from the field will help shape our product roadmap and will pave the way for future customers. You will play a key role in our commitment to customer excellence and allow Sardine to stay ahead of market trends. The SE team is a high visibility and high impact team. At the intersection of our Go-To-Market and Product and Engineering teams, we serve as the link between our customer’s needs and the Sardine’s capabilities, ensuring our platform is always adding value to our customer’s Fraud and Compliance stack. It's a great role for someone who enjoys learning the intricacies of a product to drive value to prospects, and leading through innovative problem-solving to convert prospects into customers. Variety, ambiguity, innovation, and ownership of complex problems are all big components of this role. What you'll be doing: Support Account Executives in identifying a prospect’s fraud and compliance needs. Prepare and deliver customized demos that showcase the impact of Sardine’s platform. Interface with Security teams to articulate our security posture and successfully complete security reviews. Complete RFPs for competitive opportunities. Create comprehensive Solution Designs that address our prospect’s needs. Collaborate with peers to improve all processes within the Sales Engineering team. Work together with our product and engineering teams to identify areas for improvement in our product suite and help prioritize and design solutions. What you’ll need: 7+ years prior experience as a Sales Engineer, System Engineer, Solutions Engineer, or similar roles Prior experience in similar roles within the Risk, Fraud, or Compliance domain Experience with APIs, a strong understanding of JSON, and proficiency in one or more of the following languages: Python, JavaScript, Ruby, Go, or Java. Bonus points for knowledge of web development principles and/or the ability to build internal tools using one of these languages. Strong analytical skills: you can dig into the technical details of a problem and turn it into a proposed solution Ability to thrive in a fast-paced remote environment working with global clients Excellent written and verbal communication skills, including the ability to communicate complex technical and business concepts to technical and non-technical personas. Benefits we offer: Generous compensation in cash and equity Early exercise for all options, including pre-vested Work from anywhere: Remote-first Culture Flexible paid time off and Year-end break Health insurance, dental, and vision coverage for employees and dependents - US and Canada specific 4% matching in 401k / RRSP - US and Canada specific MacBook Pro delivered to your door One-time stipend to set up a home office — desk, chair, screen, etc. Monthly meal stipend Monthly social meet-up stipend Annual health and wellness stipend Annual Learning stipend Join a fast-growing company with world-class professionals from around the world. If you are seeking a meaningful career, you found the right place, and we would love to hear from you. To learn more about how we process your personal information and your rights in regards to your personal information as an applicant and Sardine employee, please visit our Applicant and Worker Privacy Notice . Compensation: AED 340K – AED 475K • Offers Equity • Offers Commission • Dubai AED 340K – AED 475K • Offers Equity • Offers Commission Find Jobs in Germany on Arbeitnow",
     "required_skills": [
-      "remote",
-      "it"
+      "sales"
     ],
     "requirements": [],
     "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/syntax-institut/dozentin-fur-sap-fi-co-fur-edtech-startup-remote-berlin-425245",
+    "url": "https://www.arbeitnow.com/jobs/companies/sardine/remote-senior-sales-engineer-mena-179937",
     "date_posted": null
   },
   {
-    "id": "arbeitnow-739ccc92d491",
-    "title": "(Senior) Go-to-Market Scaling Manager - Germany (m/f/d)",
-    "company": "1KOMMA5˚",
-    "location": "Berlin",
+    "id": "arbeitnow-8b9ac81c4ff1",
+    "title": "UX/UI Designer | Intch",
+    "company": "Hirehire",
+    "location": "Remote",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "1KOMMA5° At 1KOMMA5° , we pursue a clear vision: Living on wind and sunlight forever for free . To make this a reality, we are building the energy system of the future with Heartbeat AI. Want to be part of it? We bring together regional craftsmanship and scalable software: We don't think of solar, batteries, heat pumps, and e-mobility as isolated components, but control them as an intelligent, integrated overall system in our virtual power plant. Directly connected to the electricity market – in real time, fully automated. This way, energy is used when it is available from renewables and particularly cost-effective. By 2030, our goal is to transition 1.5 million households to renewable energies. Over 3,000 people are working towards this every day, at more than 80 locations worldwide, from Finland to Australia. Want to take responsibility and build solutions that truly matter? Apply now and help us shape the energy world of tomorrow. Learn about our Product &#x26; Tech team! Deine Position Heartbeat AI is our energy optimisation platform that always provides our customers with the cleanest and cheapest energy. As the ( Senior) Go-to-Market Scaling Manager - Germany, your first focus is optimising the performance, positioning, and monetisation of Heartbeat AI within our largest and most established market while adding new products to it and making sure our new customer-facing features get seen. You will take ownership of what's already working and what isn't, fine-tuning pricing, packaging, and go-to-market execution while working closely across Product, Tech, Sales, and Marketing to keep the German market performing at its full potential. You own the performance and monetisation of Heartbeat AI within the German market, working to continuously optimise what's already in place rather than build from zero. You fine-tune pricing and packaging, identify where existing structures are leaving value on the table, and drive the changes needed to capture it. You bring new positioning ideas to an already mature market, testing and validating fresh angles alongside the initiatives already running. You develop a deep understanding of the unit economics behind Heartbeat AI in Germany, using that insight to shape monetisation strategy across pricing, packaging, and the broader product suite. You work closely with Product, Tech, Marketing, and Sales stakeholders, translating technical constraints into commercial decisions and commercial priorities into technical requirements. You track performance across the German market, using data to spot where monetisation or positioning is underperforming and turning that into concrete action. You operate with significant cross-functional influence, managing diagonally across tech, sales, and marketing to keep initiatives moving. You report into the Go-to-Market Director, working closely with senior leadership to present performance updates and build the case for changes to positioning or monetisation strategy. Dein Profil You bring at least 5 years of experience in a similar commercial, product, or GTM role, ideally within the tech and energy industry. You are confident optimising an already-established market, spotting where fine-tuning pricing, packaging, or positioning can unlock further performance. You are structured by default and follow through without being asked: you manage multiple concurrent initiatives and dependencies without losing the thread, and own action items end to end. You are ambitious and impact-driven, yet humble and a strong influencer in equal measure. You set a high bar for what \"good\" looks like, quickly credit the team and admit when something isn't working, and can bring sceptical stakeholders on board to inspire the cross-functional effort to scale the German market. You have a strong grasp of unit economics and a genuine passion for how they drive monetisation decisions, and you can translate margin and cost-structure insights into concrete pricing and product strategy. You are comfortable working closely with Tech, Sales and Marketing teams and fluent in both sales/marketing and technology language, translating technical trade-offs into business decisions and commercial priorities into technical requirements, without needing someone else to broker the conversation. You are confident presenting to and working directly with executives and can turn data and KPIs into clear, decision-ready updates. You are native in German and fluent in English (C1/C2), written and verbal. Knowledge of and experience in the German energy market is clearly a plus, but not a must. Benefits You are part of an international, dynamic, and highly motivated team of people who have proven to make things happen With your work, you accelerate the \"energy transition\" and hence have a direct impact on our climate Work with and learn from other super-smart colleagues You will enjoy direct contact with core decision-makers You will enjoy the best chances of entering full-time in one of Europe’s most thriving scaleups You work remotely (Germany-wide), with offices in Hamburg, Berlin or Munich Create a healthy balance alongside your work and enjoy all the benefits of the EGYM Wellpass Benefits and discounts are yours with Futurebens Whether city bike or e-bike - be flexible with our job bike leasing and do something good for the environment at the same time Find Jobs in Germany on Arbeitnow",
+    "description": "About Intch Intch is a professional social network with a marketplace for part time work. You can think of it as a professional network built for senior specialists who take on meaningful contracts alongside their main work. A typical contract lasts from three to six months. The product is used in 140 countries and is available in up to 20 languages. Intch has fewer than 40 people and four product areas, with three already live and one preparing to launch. Intch is rethinking how people and companies find each other and build trust online. Changes that made the interface feel more like a real conversation have already improved key metrics by up to three times. About the role Today one part time designer supports all Intch products. Since the company moved to a product based structure, that is no longer enough. Intch is now looking for its first full time designer. Product managers build and test early prototypes themselves. Around one in ten experiments moves forward. Your role is to join the thinking early, work through the problem with the product team and turn validated ideas into clear, production ready experiences. This is a hands on role with broad ownership. You will work across all Intch products and collaborate closely with product managers, engineers and the current designer. What you will work on Join product discussions early and help shape the problem before screens are made. Take a task from an open question to a production ready design. Design flows where the interface supports communication between people and businesses. Work on onboarding, profiles, discovery, paywalls and other core product areas. Cover key states, edge cases and handoff details, then stay involved during implementation. Extend the existing UI kit and keep patterns consistent across products. Increase the share of design work that can move into production without another rework round. What matters for this role Strong UI craft and a portfolio of clear, thoughtful interfaces. Solid web product experience. Web is the primary platform at Intch. The ability to explain your decisions through user context, not personal taste. Openness to evidence and the confidence to change your mind when a better argument appears. Experience owning design from an unclear problem through to launch. Comfort working with autonomy in a small product company. Experience in a startup, as a founding designer or in an in-house product role, would be useful. A practical approach to AI tools. The current workflow includes Figma handoff and clickable prototypes in Claude. Production code is not expected. English at B1, fluent Russian. What you get Remote, open geography. Time zone overlap with ~CET is what matters. Flexible schedule. Paid vacation, sick leave, and days off. A flat team under 40 where you can bring a worked-out idea into any product — and get paid for it if it performs. A design problem the market hasn't solved yet, in a product used across 140 countries. Real autonomy from day one. You'll sit in product discussions, not receive tickets. Find more English Speaking Jobs in Germany on Arbeitnow",
     "required_skills": [
-      "remote",
-      "software development"
+      "product design"
     ],
     "requirements": [],
     "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/1komma50/senior-go-to-market-scaling-manager-germany-berlin-307706",
+    "url": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-ux-ui-designer-intch-383599",
     "date_posted": null
   },
   {
-    "id": "arbeitnow-26a1549bc746",
-    "title": "Head of Sales (m/w/d)",
-    "company": "Pont Connects e.K.",
+    "id": "arbeitnow-0e1bf8aadc3d",
+    "title": "Influencer Marketing Manager (m/w/d), Vollzeit, 100% Remote",
+    "company": "Meluya GmbH",
     "location": "Düsseldorf",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Für meinen langjähringen Kunden bin ich auf der Suche nach einem Head of Sales (m/w/d) Wir suchen einen Head of Sales (m/w/d) , der nicht nur selbst erfolgreich verkaufen kann, sondern vor allem andere Vertriebler erfolgreich macht. In dieser Rolle übernimmst du die Verantwortung für die vertriebliche Performance und Weiterentwicklung unseres gesamten Key Account Teams . Du führst als Player-Coach, entwickelst unsere KAMs individuell weiter und sorgst dafür, dass aus guten Vertriebsmitarbeitern zunehmend selbstständige und strategisch agierende Umsatzträger werden. Dabei geht es nicht darum, die schwierigsten Deals selbst zu übernehmen. Dein Erfolg zeigt sich daran, dass dein Team diese Deals zunehmend selbst erfolgreich abschließt. Aufgaben Führung &#x26; Coaching Du kennst die Stärken und Entwicklungsfelder deiner KAMs und entwickelst sie gezielt weiter. Du definierst gemeinsam mit deinen Teammitgliedern konkrete Entwicklungsziele und Maßnahmen. Du coachst direkt an realen Accounts, Opportunities und Kundensituationen. Du entwickelst deine KAMs insbesondere in den Bereichen Neukundenakquisition, strategisches Account Management, Value Selling, Entscheider-Management, Verhandlung und Closing . Du bereitest wichtige Kundentermine und Verhandlungen gemeinsam mit deinen KAMs vor und reflektierst diese anschließend. Du gibst Verantwortung nicht an dich, sondern an dein Team zurück und entwickelst dadurch Selbstständigkeit und Ownership. Vertriebssteuerung &#x26; Performance Du übersetzt unsere Unternehmens- und Sales-Ziele in klare Ziele und Erwartungen für das Team. Du verantwortest gemeinsam mit den KAMs Umsatz, Pipeline, Account-Entwicklung und Neukundenakquisition . Du stellst eine belastbare Pipeline und einen realistischen Forecast sicher. Du erkennst frühzeitig Risiken, Pipeline-Lücken und Performance-Abweichungen und leitest gemeinsam mit dem Team konkrete Maßnahmen ein. Du führst regelmäßige Account- und Opportunity Reviews durch und stellst sicher, dass die richtigen Strategien und nächsten Schritte verfolgt werden. Sales Excellence Du etablierst klare und einheitliche Vertriebsstandards. Du entwickelst Best Practices und sorgst dafür, dass diese im gesamten Team angewendet werden. Du stärkst eine konsequente Akquisitions-, Wachstums- und Abschlussorientierung . Du entwickelst das Team von reaktiver Kundenbetreuung hin zu aktiver und strategischer Geschäftsentwicklung. Du stärkst die Ownership für Pipeline, Umsatz und nachhaltiges Subskriptionswachstum. Player-Coach – ca. 20 % eigene Sales-Aktivität Du bleibst selbst nah am Markt und an unseren Kunden. Rund 20 % deiner Zeit investierst du in eigene operative Vertriebsaktivitäten. Dabei übernimmst du bewusst eine begrenzte Anzahl eigener Accounts und Opportunities, betreibst selbst Neukundenakquisition und arbeitest bei ausgewählten strategischen oder komplexen Opportunities gemeinsam mit deinen KAMs. Deine eigene Vertriebsarbeit hat vor allem einen Zweck: Du machst Best Practices vor, bleibst nah am Markt und bringst deine Erfahrung direkt in das Coaching deines Teams ein. Qualifikation Du bist ein erfahrener Sales-Profi und hast selbst erfolgreich komplexe Vertriebsprozesse gesteuert. Du bringst insbesondere Erfahrung mit in: erfolgreicher Neukundenakquisition strategischer Account-Entwicklung komplexen Sales-Prozessen Value Selling Entscheider-Management Verhandlung und Closing Pipeline- und Forecast-Management Partner- und Ecosystem-Selling unternehmerischem und kaufmännischem Denken Idealerweise hast du bereits Führungserfahrung im Vertrieb gesammelt oder möchtest den nächsten Schritt vom Senior KAM zum Head of Sales gehen. Wichtig ist uns vor allem: Du kannst nicht nur selbst verkaufen – du kannst Vertriebskompetenz auf andere übertragen . Was dich in dieser Rolle auszeichnet: Du bist Coach und Führungskraft, ohne deinen Sales-Hintergrund zu verlieren. Du gibst Orientierung, stellst klare Erwartungen und forderst Ergebnisse ein. Gleichzeitig verstehst du, dass nachhaltiger Vertriebserfolg entsteht, wenn Menschen Verantwortung übernehmen und sich kontinuierlich weiterentwickeln. Dein Führungsprinzip: Vormachen → gemeinsam machen → Verantwortung übergeben. Find more English Speaking Jobs in Germany on Arbeitnow",
+    "description": "Du entdeckst gerne neue Creator, kannst Menschen für eine Zusammenarbeit begeistern und behältst auch bei mehreren laufenden Kooperationen den Überblick? Dann unterstütze uns dabei, unser Influencer Marketing bei meluya weiter auszubauen. Meluya ist eine Marke für Musselin-Bettwäsche und Wohntextilien. Wir suchen jemanden, der passende Influencer findet, Kooperationen organisiert und gemeinsam mit uns herausfindet, welche Partnerschaften unsere Marke voranbringen. Aufgaben Passende Influencer finden: Du recherchierst Creator, die zu unseren Produkten und unserer Zielgruppe passen, und prüfst ihre Insights, Inhalte und Community. Kontakte aufbauen: Du übernimmst den Outreach per E-Mail oder Direktnachricht, beantwortest Anfragen und hältst den Kontakt zu Influencern und Managements. Kooperationen abstimmen: Du holst Angebote und Insights ein und verhandelst Preise, Leistungen und Veröffentlichungstermine. Die Umsetzung begleiten: Du koordinierst Produktauswahl und Versand, bereitest Briefings vor und behältst vereinbarte Inhalte und Termine im Blick. Den Überblick behalten: Du dokumentierst Absprachen, pflegst unsere Kontakte und hakst nach, wenn noch etwas fehlt. Ergebnisse auswerten: Du sammelst die Ergebnisse der Kooperationen und wertest diese aus. Partnerschaften weiterentwickeln: Du betreust bestehende Kontakte und planst mit uns weitere Kooperationen mit Creatorn, die gut zu meluya passen. Qualifikation Du hast erste praktische Erfahrung im Influencer Marketing, Creator Management oder in der Betreuung von Kooperationen, idealerweise für eine Marke oder Agentur. Du kennst dich auf Instagram aus und hast ein Gespür dafür, welche Creator und Inhalte zu einer Marke passen. Du gehst gerne auf Menschen zu und traust dich, Preise zu besprechen und nachzuverhandeln. Du arbeitest strukturiert und zuverlässig. Auch bei mehreren Kooperationen gleichzeitig gehen dir Absprachen und Fristen nicht verloren. Du kannst mit Tabellen und Zahlen umgehen und möchtest verstehen, welche Kooperationen sich wirtschaftlich lohnen. Erfahrung mit Interior, Home &#x26; Living oder Lifestyle ist ein Plus. Benefits 100% Remote, du arbeitest, wo du willst. Flexible Arbeitszeiten, die sich deinem Leben anpassen. Wir bewerten dich nach Leistung, nicht nach Anwesenheit. Vertrauen statt Konzern-Bürokratie: brauchst du mal spontan einen freien Tag, reicht eine kurze Nachricht. 30 Tage Urlaub, am Geburtstag zusätzlich frei. Flache Hierarchien. Attraktives Gehalt plus Performance-Bonus Netzwerk: meluya ist eng mit den führenden D2C-Brands Deutschlands vernetzt und tauscht sich täglich mit anderen E-Commerce-Brands im 8- bis 9-stelligen Bereich aus. Lerneffekt: echte D2C-Skalierung von innen, ein 7-stelliges Unternehmen auf dem Weg zum 8-stelligen. Was dich bei uns erwartet Du findest passende Influencer, verhandelst Konditionen und buchst Kooperationen eigenständig. Vom ersten Kontakt bis zur Auswertung liegt die Zusammenarbeit in deiner Hand. Dabei siehst du direkt, was deine Arbeit bewirkt, und profitierst durch eine zusätzliche Erfolgsprovision vom Erfolg deiner Kooperationen. Klingt nach dir? Dann schick uns deinen Lebenslauf und ein paar kurze Zeilen: Welche Erfahrungen bringst du mit? Welche Kooperationen hast du schon begleitet und was war dabei deine Aufgabe? Sag uns auch, ab wann du starten könntest, wie viele Stunden du arbeiten möchtest und welche Vergütung du dir vorstellst. Wir freuen uns, von dir zu hören! Beste Grüße Marc Find Jobs in Germany on Arbeitnow",
     "required_skills": [
       "remote",
-      "it"
+      "marketing and communication"
     ],
     "requirements": [],
     "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/pont-connects-ek/head-of-sales-dusseldorf-172826",
+    "url": "https://www.arbeitnow.com/jobs/companies/meluya-gmbh/influencer-marketing-manager-vollzeit-100-remote-dusseldorf-165611",
     "date_posted": null
   }
 ]
