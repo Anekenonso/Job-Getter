@@ -1,5 +1,362 @@
 [
   {
+    "id": "jobicy-9f291cbbb421",
+    "title": "Account Executive - Chicago, IL",
+    "company": "PadSplit",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "The Role That We Need: PadSplit is hiring for an Account Executive to expand our marketplace by engaging traditional property owners to become PadSplit Hosts. This role is critical in helping homeowners unlock additional income by listing their properties, while addressing housing affordability by creating more shared housing opportunities in the Chicago, Illinois market. The&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153133-account-executive-chicago-il",
+    "date_posted": "2026-09-12"
+  },
+  {
+    "id": "jobicy-1c34ec832c20",
+    "title": "Account Executive - Denver, CO",
+    "company": "PadSplit",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "The Role That We Need: PadSplit is hiring for an Account Executive to expand our marketplace by engaging traditional property owners to become PadSplit Hosts. This role is critical in helping homeowners unlock additional income by listing their properties, while addressing housing affordability by creating more shared housing opportunities in the Denver, CO market. The&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153137-account-executive-denver-co",
+    "date_posted": "2026-09-12"
+  },
+  {
+    "id": "jobicy-6e3935cfae75",
+    "title": "Account Executive - Boston, MA",
+    "company": "PadSplit",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "The Role That We Need: PadSplit is hiring for an Account Executive to expand our marketplace by engaging traditional property owners to become PadSplit Hosts. This role is critical in helping homeowners unlock additional income by listing their properties, while addressing housing affordability by creating more shared housing opportunities in the Boston, MA market. The&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153128-account-executive-boston-ma",
+    "date_posted": "2026-09-12"
+  },
+  {
+    "id": "jobicy-13ba5beca2d2",
+    "title": "GTM Engineer",
+    "company": "Boulevard",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Who is Boulevard? Boulevard provides the first and only client experience platform for appointment-based, self-care businesses. We empower our customers to give their clients more of the magical moments that matter most. Before launching in 2016, our founders spent months interviewing salon managers and working behind front desks to understand their pain points so we&hellip;",
+    "required_skills": [
+      "product & operations"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153135-gtm-engineer-2",
+    "date_posted": "2026-09-12"
+  },
+  {
+    "id": "jobicy-b038b85db54e",
+    "title": "Compliance Engineer",
+    "company": "CertiK",
+    "location": "APAC,  Europe",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About the Company Born from groundbreaking research at Columbia University and Yale University, CertiK is a leading Web3 security company focused on securing blockchain protocols, smart contracts, and decentralized applications through cutting-edge security research, formal verification, and AI-powered technology. Founded in 2017 and headquartered in New York City, CertiK provides end-to-end security solutions including smart&hellip;",
+    "required_skills": [
+      "legal & compliance"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153132-compliance-engineer",
+    "date_posted": "2026-09-12"
+  },
+  {
+    "id": "jobicy-9adbb045a9c7",
+    "title": "Compliance Engineer Intern",
+    "company": "CertiK",
+    "location": "APAC,  Europe",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About the Company Born from groundbreaking research at Columbia University and Yale University, CertiK is a leading Web3 security company focused on securing blockchain protocols, smart contracts, and decentralized applications through cutting-edge security research, formal verification, and AI-powered technology. Founded in 2017 and headquartered in New York City, CertiK provides end-to-end security solutions including smart&hellip;",
+    "required_skills": [
+      "legal & compliance"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153136-compliance-engineer-intern",
+    "date_posted": "2026-09-12"
+  },
+  {
+    "id": "jobicy-c15dbc80906a",
+    "title": "Staff Software Engineer (SRE)",
+    "company": "Phantom",
+    "location": "Anywhere",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Phantom is on a mission to connect the world to the freedom of open markets. Tens of millions of people all over the world use Phantom to access global markets that never close, including perpetuals, prediction markets, tokenized assets, stablecoins and memes. Phantom users are able to discover the markets that matter and the cultural&hellip;",
+    "required_skills": [
+      "devops & infrastructure"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153134-staff-software-engineer-sre",
+    "date_posted": "2026-09-12"
+  },
+  {
+    "id": "jobicy-6ad28a37933b",
+    "title": "Event Marketing Manager",
+    "company": "Boulevard",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Who is Boulevard? Boulevard provides the first and only client experience platform for appointment-based, self-care businesses. We empower our customers to give their clients more of the magical moments that matter most. Before launching in 2016, our founders spent months interviewing salon managers and working behind front desks to understand their pain points so we&hellip;",
+    "required_skills": [
+      "marketing & sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153131-event-marketing-manager",
+    "date_posted": "2026-09-12"
+  },
+  {
+    "id": "jobicy-ba3d534edb9e",
+    "title": "Staff DevOps Engineer (Platform)",
+    "company": "Phantom",
+    "location": "Europe,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Phantom is on a mission to connect the world to the freedom of open markets. Tens of millions of people all over the world use Phantom to access global markets that never close, including perpetuals, prediction markets, tokenized assets, stablecoins and memes. Phantom users are able to discover the markets that matter and the cultural&hellip;",
+    "required_skills": [
+      "devops & infrastructure"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153130-staff-devops-engineer-platform",
+    "date_posted": "2026-09-12"
+  },
+  {
+    "id": "jobicy-616277f40dd4",
+    "title": "Chief Technology Officer",
+    "company": "GiveDirectly",
+    "location": "UK,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "GiveDirectly has delivered more than $1B in cash directly to 2+ million people living in poverty across 15 countries since 2011. We believe cash transfers are one of the most scalable, cost-effective, and dignified forms of aid, with the research to back it up. Our work has been covered by The Economist, NPR, TED, and&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153122-chief-technology-officer-2",
+    "date_posted": "2026-09-12"
+  },
+  {
+    "id": "jobicy-6a2ad9d9921f",
+    "title": "Data Analyst, Internal Audit",
+    "company": "GiveDirectly",
+    "location": "UK,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "GiveDirectly has delivered more than $1B in cash directly to 2+ million people living in poverty across 15 countries since 2011. We believe cash transfers are one of the most scalable, cost-effective, and dignified forms of aid, with the research to back it up. Our work has been covered by The Economist, NPR, TED, and&hellip;",
+    "required_skills": [
+      "data science & analytics"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153127-data-analyst-internal-audit",
+    "date_posted": "2026-09-12"
+  },
+  {
+    "id": "jobicy-02b04e275035",
+    "title": "Area Sales Manager (Veneto and Sardinia)",
+    "company": "Ajax Systems",
+    "location": "Italy",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Ajax Systems is an international tech company and the largest manufacturer of security systems in Europe, with over 4.5 million end users and 330K PRO users in more than 180 countries worldwide. The company offers end-to-end solutions for protecting homes and businesses оf any scale. To date, Ajax product portfolio includes 280 devices for intrusion&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153125-area-sales-manager-veneto-and-sardinia",
+    "date_posted": "2026-09-12"
+  },
+  {
+    "id": "jobicy-06f9ed7d406f",
+    "title": "Manager, Security Incident Response",
+    "company": "1Password",
+    "location": "Canada,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for a safe, productive digital future. Our mission is&hellip;",
+    "required_skills": [
+      "cybersecurity"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153123-manager-security-incident-response",
+    "date_posted": "2026-09-12"
+  },
+  {
+    "id": "jobicy-3a40bc987d5e",
+    "title": "Area Sales Manager (Toscana,Umbria and Marche)",
+    "company": "Ajax Systems",
+    "location": "Italy",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Ajax Systems is an international tech company and the largest manufacturer of security systems in Europe, with over 4.5 million end users and 330K PRO users in more than 180 countries worldwide. The company offers end-to-end solutions for protecting homes and businesses оf any scale. To date, Ajax product portfolio includes 280 devices for intrusion&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153120-area-sales-manager-toscanaumbria-and-marche",
+    "date_posted": "2026-09-12"
+  },
+  {
+    "id": "jobicy-b2bd24f41540",
+    "title": "Senior GTM Engineering Analyst",
+    "company": "1Password",
+    "location": "Canada,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for a safe, productive digital future. Our mission is&hellip;",
+    "required_skills": [
+      "data science & analytics"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153118-senior-gtm-engineering-analyst",
+    "date_posted": "2026-09-12"
+  },
+  {
+    "id": "jobicy-cd0981ed6e71",
+    "title": "Associate VP, Customer Success - Americas",
+    "company": "Semperis",
+    "location": "LATAM,  Canada,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "At Semperis, our mission is to be a Force for Good. Starting with being a great place to work. We believe that when people feel valued, supported, and empowered, they do their best work. That’s why we focus on creating an employee experience rooted in purpose, growth, and balance. Semperis has been recognized as one&hellip;",
+    "required_skills": [
+      "customer support & success"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153124-associate-vp-customer-success-americas",
+    "date_posted": "2026-09-12"
+  },
+  {
+    "id": "jobicy-351265d34671",
+    "title": "Digital Insurance Agent",
+    "company": "Insurify",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Warning: Fraudulent Job Adverts Beware of fraudulent activities claiming to represent Insurify. We are not associated with any entities soliciting personal information or payment. The safety of our job seekers is a top priority, and we actively work to prevent such incidents. Insurify will never request sensitive information or payment during the hiring process. Be&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153126-digital-insurance-agent",
+    "date_posted": "2026-09-12"
+  },
+  {
+    "id": "jobicy-b6545d099d62",
+    "title": "Customer Service Representative",
+    "company": "Insurify",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Warning: Fraudulent Job Adverts Beware of fraudulent activities claiming to represent Insurify. We are not associated with any entities soliciting personal information or payment. The safety of our job seekers is a top priority, and we actively work to prevent such incidents. Insurify will never request sensitive information or payment during the hiring process. Be&hellip;",
+    "required_skills": [
+      "customer support & success"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153121-customer-service-representative-6",
+    "date_posted": "2026-09-12"
+  },
+  {
+    "id": "jobicy-9cab0a27e08e",
+    "title": "Enterprise Sales Director, Kansas & Missouri",
+    "company": "Semperis",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "At Semperis, our mission is to be a Force for Good. Starting with being a great place to work. We believe that when people feel valued, supported, and empowered, they do their best work. That’s why we focus on creating an employee experience rooted in purpose, growth, and balance. Semperis has been recognized as one&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153119-enterprise-sales-director-kansas-missouri",
+    "date_posted": "2026-09-12"
+  },
+  {
+    "id": "jobicy-502a19e2327c",
+    "title": "Sr Customer Success Manager - Justice",
+    "company": "Axon",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Join Axon and be a Force for Good. At Axon, we’re on a mission to Protect Life. We’re explorers, pursuing society’s most critical safety and justice issues with our ecosystem of devices and cloud software. Like our products, we work better together. We connect with candor and care, seeking out diverse perspectives from our customers,&hellip;",
+    "required_skills": [
+      "customer support & success"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/151081-sr-customer-success-manager-justice",
+    "date_posted": "2026-09-12"
+  },
+  {
+    "id": "jobicy-483e1731e2af",
+    "title": "Advertising Paid Search Manager - Ecommerce",
+    "company": "Rithum",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Rithum™ is the world’s most trusted commerce network, accelerating how brands, suppliers, and retailers work together to deliver seamless e-commerce experiences. We provide an unmatched platform for brands and retailers, enabling them to accelerate growth, optimize operations across channels, scale product offerings and enhance margins. Today, more than 40,000 companies trust Rithum to grow their&hellip;",
+    "required_skills": [
+      "marketing & sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/151072-advertising-paid-search-manager-ecommerce",
+    "date_posted": "2026-09-12"
+  },
+  {
     "id": "jobicy-6ad9749514d6",
     "title": "Director, Corporate Development",
     "company": "Updater",
@@ -490,363 +847,6 @@
     "requirements": [],
     "source": "Jobicy",
     "url": "https://jobicy.com/jobs/149655-customer-success-associate",
-    "date_posted": "2026-09-12"
-  },
-  {
-    "id": "jobicy-1ef6ce546170",
-    "title": "Manager, Ad Operations",
-    "company": "StackAdapt",
-    "location": "Canada,  USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to drive measurable results across the entire customer journey. The most forward-thinking marketers choose StackAdapt to orchestrate high-impact campaigns across&hellip;",
-    "required_skills": [
-      "marketing & sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/149104-manager-ad-operations",
-    "date_posted": "2026-09-12"
-  },
-  {
-    "id": "jobicy-06a60a9b3ce1",
-    "title": "Senior Software Engineer, Backend (AI Agent Integrations)",
-    "company": "Cresta",
-    "location": "Canada",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channel. The world’s leading companies, including United Airlines, Cox Communications, and Marriott, use Cresta to&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/149101-senior-software-engineer-backend-ai-agent-integrations",
-    "date_posted": "2026-09-12"
-  },
-  {
-    "id": "jobicy-58d6aa5c5997",
-    "title": "Principal, Marketing Analytics",
-    "company": "Remote",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Remote Remote is solving modern organizations’ biggest challenge – navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focused work culture, our team works tirelessly on ambitious problems, asynchronously, around the world. You&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/145648-principal-marketing-analytics",
-    "date_posted": "2026-09-12"
-  },
-  {
-    "id": "jobicy-139f339aac24",
-    "title": "Application Support Engineer",
-    "company": "Cresta",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channel. The world’s leading companies, including United Airlines, Cox Communications, and Marriott, use Cresta to&hellip;",
-    "required_skills": [
-      "technical support"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/149098-application-support-engineer",
-    "date_posted": "2026-09-12"
-  },
-  {
-    "id": "jobicy-0f5a3a1a3ee2",
-    "title": "EDD Analyst",
-    "company": "Remote",
-    "location": "Europe",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Remote Remote is solving modern organizations’ biggest challenge – navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focused work culture, our team works tirelessly on ambitious problems, asynchronously, around the world. You&hellip;",
-    "required_skills": [
-      "finance & accounting"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/149090-edd-analyst",
-    "date_posted": "2026-09-12"
-  },
-  {
-    "id": "jobicy-d42e61b2c03d",
-    "title": "Senior Manager - Customer Success",
-    "company": "Coursera",
-    "location": "Singapore",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Coursera Coursera and Udemy are now one company, creating one of the world's most comprehensive skills development platforms for the AI era. This strengthens our ability to accelerate AI-powered innovation and shape how the world discovers and builds skills at a pivotal moment of change. Read more about the combined company by visiting our&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/150489-senior-manager-customer-success-3",
-    "date_posted": "2026-09-12"
-  },
-  {
-    "id": "jobicy-71c025e79bd9",
-    "title": "Project Director, Qualitative Research",
-    "company": "M3 USA",
-    "location": "UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Company DescriptionAbout M3: A Japanese global leader in the provision of ground-breaking and innovative technological and research solutions to the healthcare industry. The M3 Group operates in the US, Asia, and Europe with over 5.8 million physician members globally via its physician websites which include mdlinx.com, m3.com, research.m3.com, Doctors.net.uk, medigate.net, and medlive.cn. M3 Inc. is a&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/145885-project-director-qualitative-research",
-    "date_posted": "2026-09-12"
-  },
-  {
-    "id": "jobicy-4d64f2a0533b",
-    "title": "Staff Product Designer",
-    "company": "Fieldguide",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About UsFieldguide is establishing a new state of trust for global commerce and capital markets by automating and streamlining the work of assurance and audit practitioners, specifically in cybersecurity, privacy, and financial audits. Put simply, we build software for the people who enable trust between businesses.We’re based in San Francisco, CA, but built as a&hellip;",
-    "required_skills": [
-      "web, ui & ux design"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/149110-staff-product-designer",
-    "date_posted": "2026-09-12"
-  },
-  {
-    "id": "jobicy-fe526bba0d04",
-    "title": "Senior Software Engineer, Unsecured Installments",
-    "company": "Upstart",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Upstart At Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity, experimentation, and advanced AI to reshape access to credit, helping millions move forward financially with clarity and confidence. As the leading AI lending marketplace, we partner with&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/149108-senior-software-engineer-unsecured-installments",
-    "date_posted": "2026-09-12"
-  },
-  {
-    "id": "jobicy-9bca906b3846",
-    "title": "Compliance Risk & Controls Manager, Unsecured Line",
-    "company": "Upstart",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Upstart At Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity, experimentation, and advanced AI to reshape access to credit, helping millions move forward financially with clarity and confidence. As the leading AI lending marketplace, we partner with&hellip;",
-    "required_skills": [
-      "legal & compliance"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/149107-compliance-risk-controls-manager-unsecured-line",
-    "date_posted": "2026-09-12"
-  },
-  {
-    "id": "jobicy-df3e1cfe150f",
-    "title": "Senior Manager, Sales Compensation",
-    "company": "Webflow",
-    "location": "Canada,  USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Webflow is the agentic web marketing platform for modern marketing teams, helping organizations build, manage, and optimize high-performing web experiences that drive predictable growth and strengthen brand trust. Building at Webflow will need grit, because we move fast, without ever sacrificing craft or quality. We’re looking for a Senior Manager, Sales Compensation to lead the&hellip;",
-    "required_skills": [
-      "finance & accounting"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153113-senior-manager-sales-compensation",
-    "date_posted": "2026-09-12"
-  },
-  {
-    "id": "jobicy-54668060c077",
-    "title": "Staff Information Security Engineer - AI First",
-    "company": "Rithum",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Rithum™ is the world’s most trusted commerce network, accelerating how brands, suppliers, and retailers work together to deliver seamless e-commerce experiences. We provide an unmatched platform for brands and retailers, enabling them to accelerate growth, optimize operations across channels, scale product offerings and enhance margins. Today, more than 40,000 companies trust Rithum to grow their&hellip;",
-    "required_skills": [
-      "cybersecurity"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153112-staff-information-security-engineer-ai-first",
-    "date_posted": "2026-09-12"
-  },
-  {
-    "id": "jobicy-3f4b5d7509a4",
-    "title": "Senior Manager, Investor Relations",
-    "company": "Liftoff",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Liftoff is a leading AI-powered performance marketing platform for the mobile app economy. Our end-to-end technology stack helps app marketers acquire and retain high-value users, while enabling publishers to maximize revenue across programmatic and direct demand. Liftoff’s solutions, including Accelerate, Direct, Monetize, Intelligence, and Vungle Exchange, support over 6,600 mobile businesses across 74 countries in&hellip;",
-    "required_skills": [
-      "finance & accounting"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153111-senior-manager-investor-relations",
-    "date_posted": "2026-09-12"
-  },
-  {
-    "id": "jobicy-16849d11b05e",
-    "title": "Senior Manager, Engineering",
-    "company": "Webflow",
-    "location": "Canada,  USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Webflow is the agentic web marketing platform for modern marketing teams, helping organizations build, manage, and optimize high-performing web experiences that drive predictable growth and strengthen brand trust. Building at Webflow will need grit, because we move fast, without ever sacrificing craft or quality. We're looking for a Senior Engineering Manager to lead the team&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153110-senior-manager-engineering",
-    "date_posted": "2026-09-12"
-  },
-  {
-    "id": "jobicy-ba0b18a40489",
-    "title": "Senior Gen AI Software Engineer",
-    "company": "Liftoff",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Liftoff is a leading AI-powered performance marketing platform for the mobile app economy. Our end-to-end technology stack helps app marketers acquire and retain high-value users, while enabling publishers to maximize revenue across programmatic and direct demand. Liftoff’s solutions, including Accelerate, Direct, Monetize, Intelligence, and Vungle Exchange, support over 6,600 mobile businesses across 74 countries in&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153108-senior-gen-ai-software-engineer",
-    "date_posted": "2026-09-12"
-  },
-  {
-    "id": "jobicy-6e864ab030b7",
-    "title": "Senior Manager, Corporate Sales - West",
-    "company": "Webflow",
-    "location": "Canada,  USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Webflow is the agentic web marketing platform for modern marketing teams, helping organizations build, manage, and optimize high-performing web experiences that drive predictable growth and strengthen brand trust. Building at Webflow will need grit, because we move fast, without ever sacrificing craft or quality. We’re looking for a Sr. Manager, Corporate Sales to lead and&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153107-senior-manager-corporate-sales-west",
-    "date_posted": "2026-09-12"
-  },
-  {
-    "id": "jobicy-e5211b686fe5",
-    "title": "Senior Infrastructure Engineer",
-    "company": "Webflow",
-    "location": "Argentina",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Webflow is the agentic web marketing platform for modern marketing teams, helping organizations build, manage, and optimize high-performing web experiences that drive predictable growth and strengthen brand trust. Building at Webflow will need grit, because we move fast, without ever sacrificing craft or quality. About the Role We’re looking for a Senior Infrastructure Engineer to&hellip;",
-    "required_skills": [
-      "devops & infrastructure"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153105-senior-infrastructure-engineer-3",
-    "date_posted": "2026-09-12"
-  },
-  {
-    "id": "jobicy-cd06d4801c06",
-    "title": "Senior Software Engineer I",
-    "company": "Rithum",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Rithum Corporation (Plano, TX) seeks a Senior Software Engineer I to work remotely in the U.S. to improve on processes, quality and techniques, with the goal of producing the highest quality software solutions. Specifically, the Senior Software Engineer I will perform the following duties: Utilize the Lean approach to product development; Follow agile workflows such&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153109-senior-software-engineer-i",
-    "date_posted": "2026-09-12"
-  },
-  {
-    "id": "jobicy-1fc14681372b",
-    "title": "Senior Financial Analyst, FP&A (Contractor)",
-    "company": "Liftoff",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Liftoff is a leading AI-powered performance marketing platform for the mobile app economy. Our end-to-end technology stack helps app marketers acquire and retain high-value users, while enabling publishers to maximize revenue across programmatic and direct demand. Liftoff’s solutions, including Accelerate, Direct, Monetize, Intelligence, and Vungle Exchange, support over 6,600 mobile businesses across 74 countries in&hellip;",
-    "required_skills": [
-      "finance & accounting"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153106-senior-financial-analyst-fpa-contractor",
-    "date_posted": "2026-09-12"
-  },
-  {
-    "id": "jobicy-78ea26d69e05",
-    "title": "Senior Sales Engineer",
-    "company": "Rithum",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Rithum™ is the world’s most trusted commerce network, accelerating how brands, suppliers, and retailers work together to deliver seamless e-commerce experiences. We provide an unmatched platform for brands and retailers, enabling them to accelerate growth, optimize operations across channels, scale product offerings and enhance margins. Today, more than 40,000 companies trust Rithum to grow their&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153104-senior-sales-engineer",
-    "date_posted": "2026-09-12"
-  },
-  {
-    "id": "jobicy-d78f32b9f7f2",
-    "title": "Security Engineer, Detection & Response",
-    "company": "Liftoff",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Liftoff is a leading AI-powered performance marketing platform for the mobile app economy. Our end-to-end technology stack helps app marketers acquire and retain high-value users, while enabling publishers to maximize revenue across programmatic and direct demand. Liftoff’s solutions, including Accelerate, Direct, Monetize, Intelligence, and Vungle Exchange, support over 6,600 mobile businesses across 74 countries in&hellip;",
-    "required_skills": [
-      "cybersecurity"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153102-security-engineer-detection-response",
     "date_posted": "2026-09-12"
   },
   {
@@ -1424,330 +1424,56 @@
     "date_posted": "2026-08-13"
   },
   {
-    "id": "arbeitnow-6713524f8fa7",
-    "title": "Shopify Manager (m/w/d) - Conversion, Funnel & Shop-Entwicklung",
-    "company": "Neolymp",
-    "location": "Berlin",
+    "id": "arbeitnow-1306df74fff6",
+    "title": "Senior Manager, Clinical Operations - Clinical Process Owner",
+    "company": "Precisionmedicinegroup",
+    "location": "Remote",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Du willst nicht nur Tickets abarbeiten, sondern einen Shop wirklich verantworten? Bei NEOLYMP übernimmst du unseren Shopify-Shop in einer Phase, in der jede Optimierung sichtbar auf Umsatz und Wachstum wirkt – von der Landingpage bis zur letzten Zeile Liquid. Wer wir sind NEOLYMP ist eine Berliner Fitnessmarke, gegründet 2018. Wir entwickeln innovatives Fitnessequipment und ganzheitliche Trainingskonzepte für zu Hause – vom durchdachten Home-Gym-Equipment bis hin zu Online-Kursen, die Training, Motivation und Alltag zusammenbringen. Warum diese Rolle: Echte Verantwortung: Der Shop ist dein Bereich. Du entscheidest, was gebaut und getestet wird – und setzt es selbst um. Sichtbarer Impact: Conversion Rate, Bestellwert, Ladezeit – alles, was du bewegst, siehst du direkt in den Zahlen. Funnel-Fokus: Landingpages und Funnel-Seiten sind bei uns kein Nebenthema, sondern der Kern unseres Wachstums. Kein Silo: Du arbeitest eng mit Marketing und Performance zusammen und bist die Schnittstelle, die Ideen in fertige Seiten übersetzt. Benefits: Vollständige Remote-Arbeit mit flexiblen Arbeitszeiten. “Spenditcard” mit 50€ steuerfreier Sachprämie monatlich zur freien Verfügung. Regelmäßige Team-Events und ein motiviertes, modernes Arbeitsumfeld in einer schnell wachsenden E-Commerce-Marke. Aufbau und Verantwortung eines eigenen Bereichs mit sehr viel Gestaltungsspielraum. Kurze Entscheidungswege und starke Startup-Kultur mit Entwicklungsmöglichkeiten auf dich zugeschnitten. Aufgaben Funnel &#x26; Conversion Du konzipierst und baust Landingpages und Funnel-Seiten, die Kund:innen intuitiv zur Bestellung führen. Du optimierst unsere Produktseiten verkaufspsychologisch – von Struktur und Aufbau bis ins Detail. Du baust Upsells, Bundles und Trust-Elemente ein, die den durchschnittlichen Bestellwert messbar steigern. Testing &#x26; Analyse Du planst A/B-Tests, wertest sie aus und leitest daraus die nächsten Maßnahmen ab. Du analysierst Conversion Rate, Customer Journey und Bestellwert laufend und erkennst, wo Potenzial liegt. Technik &#x26; Performance Du entwickelst unser Shopify-Theme eigenständig weiter und setzt neue Features direkt im Code um. Du hältst den Shop technisch auf Top-Niveau – Ladezeiten, Performance und SEO inklusive. Qualifikation Das ist uns wichtig Mehrjährige Erfahrung mit Shopify und ein sicheres Verständnis von Theme-Architektur und Liquid. Solide HTML- und CSS-Kenntnisse, um Features eigenständig umzusetzen. Ein starkes Marketing- und Conversion-Verständnis: Du weißt, wie verkaufsstarke Produktseiten, Landingpages und Customer Journeys aufgebaut sind. Erfahrung mit CRO, A/B-Testing und Heat Maps. Eine datengetriebene Arbeitsweise – du triffst Entscheidungen auf Basis von Zahlen, nicht aus dem Bauch. Hands-on-Mentalität: Du setzt Dinge um, statt auf Zuarbeit zu warten. Das zählt für uns am meisten Lust und Motivation, dich weiterzuentwickeln und mit der Rolle zu wachsen. Die nächsten Meilensteine erreichen wir gemeinsam – dafür ist uns Drive wichtiger als das perfekte Profil. Nice to have Erfahrung mit Klaviyo oder vergleichbaren E-Mail-Marketing-Tools (Newsletter-Kampagnen, automatisierte Flows). So arbeiten wir: Remote first: Du arbeitest vollständig remote mit flexiblen Arbeitszeiten – wir messen Ergebnisse, nicht Anwesenheit. Im Team: Du bist Teil eines hochmotivierten Teams aus Marketing, Performance und E-Commerce, das gemeinsam an einem Ziel zieht. Kurze Wege: Entscheidungen fallen schnell, Feedback ist direkt, und gute Ideen werden umgesetzt, nicht vertagt. Startup-Kultur mit Substanz: Wir sind seit 2018 am Markt, wachsen profitabel und haben trotzdem den Drive der ersten Stunde behalten.Klingt nach dir? Dann freuen wir uns auf deine Bewerbung – und darauf, dich kennenzulernen. Kontakt: Josephine Steuer Wir glauben, dass Vielfalt uns stärker macht. Deshalb heißen wir alle Bewerbenden willkommen, unabhängig von Geschlecht, Herkunft, Religion, Alter, sexueller Identität oder Behinderung. Bei uns gibt es keinen Dresscode und wir duzen uns einfach. Der Einfachheit halber verwenden wir im Text eine Sprachform, schließen damit aber ausdrücklich alle Menschen ein. Find more English Speaking Jobs in Germany on Arbeitnow",
+    "description": "&lt;p&gt;&lt;strong&gt;Position Summary:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;The Senior Manager, Clinical Operations – Clinical Process Owner is responsible for leading the governance, harmonization, and continuous improvement of Clinical Operations processes across the organization. The role owns the development, simplification, alignment, and lifecycle management of Clinical Operations SOPs, work instructions, tools, templates, and related process documentation. Working cross-functionally and across regions, the role ensures that processes are compliant, practical, scalable, and consistently applied. As a senior Clinical Operations SME, the role also supports audits, inspections, CAPAs, strategic initiatives, and business development activities where Clinical Operations process expertise is required. This is an individual contributor leadership role requiring influence across functions, regions, and seniority levels. The role may lead cross-functional working groups, process teams, and strategic improvement initiatives.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Essential functions of the job include but are not limited to:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Serve as the Clinical Process Owner for Clinical Operations processes, ensuring effective governance, clear accountability, lifecycle management, and alignment across regions and functions.&lt;/li&gt; &lt;li&gt;Lead the development, review, harmonization, implementation, and maintenance of Clinical Operations SOPs, work instructions, tools, templates, and related documentation.&lt;/li&gt; &lt;li&gt;Identify and resolve process gaps, duplication, inconsistencies, conflicting requirements, and unnecessary complexity to establish clear, practical, and scalable ways of working.&lt;/li&gt; &lt;li&gt;Translate regulatory requirements, ICH-GCP principles, quality standards, audit and inspection findings, CAPAs, operational data, and stakeholder feedback into effective process solutions.&lt;/li&gt; &lt;li&gt;Lead and represent cross-functional process governance and decision-making, partnering with Clinical Operations, Quality Assurance, Regulatory, Project Management, Data Management, Biostatistics, Medical, Training, and other relevant functions.&lt;/li&gt; &lt;li&gt;Lead process implementation and change management, including impact assessment, stakeholder engagement, training and communication requirements, adoption monitoring, and evaluation of process effectiveness.&lt;/li&gt; &lt;li&gt;Act as a senior Clinical Operations SME for strategic initiatives, audits, inspections, CAPAs, process assessments, operational improvement activities, and business development support, as required, including including providing Clinical Operations input for proposals, budgets, contracts, and bid defense meetings, and representing Clinical Operations process capabilities, delivery models, and operational strengths to prospective clients.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Qualifications:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Minimum Required:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Bachelor’s degree in life sciences, healthcare, clinical research, business, or a related field; equivalent experience may be considered.&lt;/li&gt; &lt;li&gt;At least 5+ years of progressive clinical research or clinical operations experience in a CRO, pharmaceutical, biotechnology, or global clinical outsourcing environment.&lt;/li&gt; &lt;li&gt;Proven experience leading complex cross-functional or global process improvement initiatives from assessment and design through implementation and effectiveness evaluation within a CRO environment.&lt;/li&gt; &lt;li&gt;Strong knowledge of clinical trial operations, clinical monitoring, site management, and cross-functional trial delivery processes.&lt;/li&gt; &lt;li&gt;Strong knowledge of ICH-GCP, regulatory expectations, quality standards, and inspection readiness principles.&lt;/li&gt; &lt;li&gt;Demonstrated ability to influence stakeholders, facilitate decisions, resolve conflicting requirements, and drive outcomes in a matrix organization.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Preferred:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Demonstrated experience owning or leading the development, harmonization, implementation, and lifecycle management of Clinical Operations SOPs, work instructions, and related controlled documentation.&lt;/li&gt; &lt;li&gt;Experience with process mapping, change management, Lean, or continuous improvement methodologies.&lt;/li&gt; &lt;li&gt;Expert understanding of Clinical Operations processes and their cross-functional interfaces.&lt;/li&gt; &lt;li&gt;Ability to interpret regulatory and quality requirements and translate them into clear, proportionate, and operationally practical processes.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;div class=&quot;x_elementToProof&quot;&gt;Precision for Medicine is the first global precision medicine clinical research services organization, purpose-built to improve the clinical research and development process for new therapeutics. Our novel approach integrates clinical operations excellence, with laboratory expertise, and advanced data sciences to inform every step. We apply our expertise to trials at all stages—from early development through approval—with embedded experience in oncology and rare disease.&lt;/div&gt; &lt;div class=&quot;x_elementToProof&quot;&gt;&amp;nbsp;&lt;/div&gt; &lt;div class=&quot;x_elementToProof&quot;&gt;#LI-NC1 #LI-Remote&lt;/div&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;hr&gt; &lt;p&gt;Any data provided as a part of this application will be stored in accordance with our&amp;nbsp;&lt;a href=&quot;https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.precisionmedicinegrp.com%2Fprivacy-policy%2F&amp;amp;data=05%7C01%7Czeta.larcon%40precisionmedicinegrp.com%7Cb58fe8b0c3ea4dd2e79d08db5bd09a25%7Cb71ff3f628164ca8a9b938f820f91ad1%7C0%7C0%7C638204723732367131%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;amp;sdata=9DgboiHTFPrNYVhdKhyfdwVyNYwUvZbP%2FroLdWIIfxw%3D&amp;amp;reserved=0&quot;&gt;Privacy Policy.&lt;/a&gt;&amp;nbsp;For CA applicants, please also refer to our&amp;nbsp;&lt;a href=&quot;https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.precisionmedicinegrp.com%2Fca-applicants-privacy-notice%2F&amp;amp;data=05%7C01%7Czeta.larcon%40precisionmedicinegrp.com%7Cb58fe8b0c3ea4dd2e79d08db5bd09a25%7Cb71ff3f628164ca8a9b938f820f91ad1%7C0%7C0%7C638204723732367131%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;amp;sdata=tfAqqMZsG%2B11IchL45HFFVbfECCkYqQpNr0PQxrMFJU%3D&amp;amp;reserved=0&quot;&gt;CA Privacy Notice&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;Precision Medicine Group is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, age, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status or other characteristics protected by law.&lt;/p&gt; &lt;p&gt;If you are an individual with a disability and require a reasonable accommodation to complete any part of the application process or are limited in the ability or unable to access or use this online application process and need an alternative method for applying, you may contact Precision Medicine Group at &lt;a ---------- &lt;p&gt;&lt;span data-teams=&quot;true&quot;&gt;&lt;strong&gt;Recruitment Fraud Warning: &lt;/strong&gt;Please be aware that fraudulent individuals and websites may impersonate Precision Medicine Group or its affiliates and attempt to obtain personal, financial, or banking information through fake job postings or employment offers. Precision Medicine Group will never request payment, banking details, or other sensitive financial information as part of the recruitment process. If you believe you have been targeted by a recruitment scam, we encourage you to report the incident to your local law enforcement authorities, consumer protection agency, or relevant cybercrime reporting organization in your country. Please also notify us at &lt;a id=&quot;menur2oq&quot; class=&quot;fui-Link ___1q1shib f2hkw1w f3rmtva f1ewtqcl fyind8e f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1s184ao f1mk8lai fnbmjn9 f1o700av f13mvf36 f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh fhgqx19 f1olyrje f1p93eir f1nev41a f1h8hb77 f1lqvz6u f10aw75t fsle3fq f17ae5zn&quot; ----- ----- so we can investigate and take appropriate action.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt; Find Jobs in Germany on Arbeitnow",
     "required_skills": [
-      "remote",
-      "it"
+      "clinical solutions"
     ],
     "requirements": [],
     "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/neolymp/shopify-manager-conversion-funnel-shop-entwicklung-berlin-273884",
+    "url": "https://www.arbeitnow.com/jobs/companies/precisionmedicinegroup/remote-senior-manager-clinical-operations-clinical-process-owner-27828",
     "date_posted": null
   },
   {
-    "id": "arbeitnow-4774724178c4",
-    "title": "Senior Revenue Accountant",
-    "company": "Omilia Natural Language Solutions Ua Ltd",
-    "location": "Germany",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "The Senior Revenue Accountant owns revenue recognition execution and AR close for Omilia's multi-year enterprise contracts, reporting to the VP of Finance. Serving as Omilia's subject-matter expert on ASC 606/IFRS 15, this role manages complex customer accounts, owns credit risk assessment, and leads the revenue accounting and collections process as part of a small, high-accountability accounting team. Accountabilities Serve as Omilia's subject-matter expert on ASC 606/IFRS 15, reviewing enterprise contracts to determine performance obligations, standalone selling price (SSP) allocation, and timing of revenue recognition. Own AR month-end close, deferred revenue roll-forward, and revenue-to-cash reconciliation, hitting a 5-business-day close target. Own credit risk assessment and set collections strategy and priorities. Manage complex and enterprise customer accounts, including escalations that the Revenue Accountant or Collections Specialist cannot resolve alone. Partner with FP&amp;A on SaaS revenue metrics (ARR, NRR) to ensure consistency between GAAP revenue and management reporting. Review and mentor the Revenue Accountant and Collections Specialist, building a resilient, cross-trained revenue and billing function. Key Responsibilities Execute revenue recognition schedules per the Controller's policy, including variable consideration, contract modifications, and multi-element arrangements. Partner on new deal structuring via the BI Lead's deal desk process. Support FP&amp;A with ARR/NRR/renewals reporting and reconciliation between subscription metrics and GAAP revenue. Prepare audit schedules and respond to revenue-related inquiries from external auditors. Perform AR month-end close activities and deferred revenue roll-forward reconciliations. Conduct contract reviews to determine performance obligations and SSP allocation for enterprise deals. Set and communicate collections priorities to the Collections Specialist based on credit risk assessment. Provide day-to-day review and coaching to the Revenue Accountant and Collections Specialist. Requirements Required: 5+ years in revenue accounting, including hands-on ASC 606/IFRS 15 application to multi-element, usage-based and milestone SaaS arrangements. Experience with contract review, SSP analysis, variable consideration, and contract modifications. NetSuite experience required. Comfortable operating in a multi-entity, multi-currency environment typical of a scaling global SaaS company. Prior experience reviewing or mentoring junior accounting staff. Comfortable owning technical accounting judgment calls and defending them to auditors. Familiarity with SOX or equivalent internal-controls frameworks over revenue recognition, and experience supporting SOC 2 or financial-statement audit requests. Escalates revenue recognition risk or contract ambiguity early, before it affects close timing. Treats the 5-business-day close as a personal commitment, not just a team target. Full professional fluency in English, written and spoken. Valid work authorization for the location of hire required. Willingness to travel periodically for distributed team time (no customer travel required). Nice to have: NetSuite Advanced Revenue Management (ARM). Professional accounting qualification (ACCA, CPA, CIMA or international equivalent). Comfortable using AI tools (e.g. Claude) and automation platforms (e.g. n8n) to streamline contract review, reconciliations and reporting. Experience scaling revenue accounting processes through high-growth periods (e.g., ERP/revenue-engine migration, M&amp;A integration, or multi-entity expansion) common in SaaS companies. Omilia Note - Contribute actively and effectively as an integrated team member. - Act as an Omilia ambassador in all interactions. Benefits Competitive compensation package; Long-term employment with the working days vacation; Development in professional growth (courses, training, etc); Being part of successful cutting-edge technology products that are making a global impact in the service industry; Proficient and fun-to-work-with colleagues; Apple gear Omilia is proud to be an equal opportunity employer and is dedicated to fostering a diverse and inclusive workplace. We believe that embracing diversity in all its forms enriches our workplace and drives our collective success. We are committed to creating an environment where everyone feels welcomed, valued, and empowered to contribute their unique perspectives without regard to factors such as race, color, religion, gender, gender identity or expression, sexual orientation, national origin, heredity, disability, age, or veteran status, all eligible candidates will be given consideration for employment. Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "information technology and services",
-      "remote"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/omilia-natural-language-solutions-ua-ltd/remote-senior-revenue-accountant-germany-10691",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-468c993d4ca6",
-    "title": "Senior Expense Accountant",
-    "company": "Omilia Natural Language Solutions Ua Ltd",
-    "location": "Germany",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "The Senior Expense Accountant owns AP close and vendor account management, including complex and high-value vendor relationships, reporting to the VP of Finance. This role also owns the corporate card program and expense policy compliance, and mentors the Expense Accountant, building a resilient, cross-trained expense accounting function. Accountabilities Own AP month-end close and vendor account reconciliation, hitting a 5-business-day close target. Manage complex and high-value vendor relationships, including payment terms negotiation and escalations. Own the corporate card program (Payhawk) and expense policy compliance, including periodic T&amp;E audits. Drive AP and expense automation (e.g., OCR invoice capture, automated 3-way match, self-service reporting) to sustain close speed and accuracy as transaction volume scales. Partner with FP&amp;A and Procurement to drive spend visibility, budget accuracy, and continuous improvement of the source-to-pay process. Review and mentor junior accountant(s), building a resilient, cross-trained expense accounting function. Key Responsibilities Review payment runs (ACH/wire) and approval workflows, ensuring 2-way/3-way match discipline and segregation of duties. Identify opportunities to capture early-payment discounts and streamline vendor onboarding. Drive automation and continuous improvement of the AP/expense workflow (invoice OCR, automated 3-way match, spend analytics and self-service reporting). Conduct periodic T&amp;E audits to ensure expense policy compliance. Partner with FP&amp;A and Procurement on spend visibility, budget variance analysis, and source-to-pay improvements. Negotiate payment terms with high-value vendors and resolve escalations. Provide day-to-day review and coaching to the Expense Accountant. Requirements Required: 5+ years in AP or expense accounting. Experience with NetSuite and a modern expense/corporate card platform (e.g., Payhawk, Ramp, Brex, or Navan). Comfortable operating in a multi-entity, multi-currency environment typical of a scaling global SaaS company. Comfortable owning payment run governance, approval workflow design, and segregation of duties. Prior experience reviewing or mentoring junior accounting staff. Treats expense policy compliance as a control, not just a checklist. Escalates vendor risk early, before it affects payment timing. Familiarity with SOX or equivalent internal-controls frameworks, and experience supporting SOC 2 or financial-statement audit requests related to AP, T&amp;E, and vendor controls. Comfortable pushing back on non-compliant spend, including from senior stakeholders. Full professional fluency in English, written and spoken. Valid work authorization for the location of hire required; Omilia is not able to provide visa sponsorship for this role. Willingness to travel periodically for distributed team time. Nice to have: Professional accounting qualification (ACCA, CPA, CIMA or international equivalent). Comfortable using AI tools (e.g. Claude) and automation platforms (e.g. n8n) to streamline reconciliations, payment processing and reporting. Experience scaling AP/expense processes through high-growth periods (e.g., ERP migration, M&amp;A integration, or multi-entity expansion) common in SaaS companies. Omilia Note - Contribute actively and effectively as an integrated team member. - Act as an Omilia ambassador in all interactions. Benefits Competitive compensation; Long-term employment with the working days vacation; Development in professional growth (courses, training, etc); Being part of successful cutting-edge technology products that are making a global impact in the service industry; Proficient and fun-to-work-with colleagues; Apple gear Omilia is proud to be an equal opportunity employer and is dedicated to fostering a diverse and inclusive workplace. We believe that embracing diversity in all its forms enriches our workplace and drives our collective success. We are committed to creating an environment where everyone feels welcomed, valued, and empowered to contribute their unique perspectives without regard to factors such as race, color, religion, gender, gender identity or expression, sexual orientation, national origin, heredity, disability, age, or veteran status, all eligible candidates will be given consideration for employment. Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "information technology and services",
-      "remote"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/omilia-natural-language-solutions-ua-ltd/remote-senior-expense-accountant-germany-389027",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-933aa2c3c18c",
-    "title": "Senior ML Engineer | Germany (3 Month project)",
-    "company": "Intetics 2",
-    "location": "Germany",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "We are looking for an experienced We are looking for an experienced ML Engineer / MLOps Engineer to join a cloud-native project for a German customer. The role is strongly engineering-focused and involves building production-grade ML infrastructure, working with GPU workloads, ML pipelines, LLMs and large-scale data processing. 📍 Location: Germany 🗣 German: B2+ - must-have 🗣 English: B1+ 📅 Estimated start: September 30, 2026 What you'll be working on Build and orchestrate ML pipelines using Kubeflow Pipelines (KFP v2) Train ML models on GPUs and manage GPU resources within Kubernetes Fine-tune transformers and LLMs Track experiments and models using MLflow Build classical ML models with XGBoost and CatBoost Process large datasets using SQL Server and DuckDB Develop Python-based pipelines, integrations and tooling Maintain high engineering standards through testing, clean code and CI/CD with GitLab CI Work in a secure, zero-trust / secure-by-default environment with network policies and restrictive container permissions Requirements What we're looking for Hands-on experience with Kubeflow Pipelines, ideally KFP v2 Experience training models on GPUs Practical experience with LLM / transformer fine-tuning Experience with MLflow Strong knowledge of XGBoost, CatBoost or similar boosting models Strong Python engineering skills Solid SQL experience and understanding of large-scale data processing Experience with CI/CD, clean code and automated testing Production-grade ML/MLOps experience beyond notebook-based experimentation Experience working in enterprise or regulated cloud-native environments Nice to have Experience with LLM pre-training, beyond fine-tuning GPU orchestration in Kubernetes Experience with zero-trust environments, network policies and restrictive container rights Knowledge of DuckDB Experience with modern Python tooling such as uv Previous healthcare or billing domain experience is not required, but you should be comfortable quickly getting up to speed with a new domain. Find Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "information technology and services",
-      "ai",
-      "remote"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-senior-ml-engineer-germany-3-month-project-282468",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-f62d1b7fec1b",
-    "title": "Product Designer (1-year FTC)",
-    "company": "Fe Fundinfo",
-    "location": "Germany",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Shape intuitive digital experiences across Dericon’s product landscape and help define the future of a leading fintech platform in financial services. As a Product Designer at FE fundinfo, you’ll take ownership of user experience and interface design across a diverse digital product landscape. This is a fixed-term contract (1 year) providing maternity leave cover. This gives youthe opportunity to make a meaningful contribution while working across product design, user experience, brand development and communication. You’ll help modernise existing applications, build intuitive user journeys and strengthen the design system that supports a consistent experience across products. Working closely with Product Owners, business stakeholders, development teams and global UX colleagues at FE fundinfo, you’ll have a visible impact on both the customer experience and Dericon’s visual identity. Your key responsibilities as a Product Designer will include: Creating wireframes, user flows, interactive prototypes and intuitive interfaces that balance user needs, business requirements and technical feasibility. Planning and conducting user research, including interviews, usability testing, surveys and discovery sessions, and translating findings into actionable design insights. Building and maintaining design libraries, reusable components, patterns and guidelines to create a consistent experience across Dericon’s digital products. Iterating on designs using user feedback, usability testing, stakeholder input and data insights to continuously improve product experiences. Partnering with Product Owners, Engineering, business stakeholders and global UX colleagues to align designs with product roadmaps and ensure effective implementation. Supporting a modern, consistent and customer-focused brand experience across digital and physical touchpoints while considering accessibility and inclusive design principles. You will need the following experience and skills to join us as a Product Designer: You will have experience in UX research, UX design or a hybrid research and design role, with a strong portfolio demonstrating your approach and impact. You will have hands-on experience conducting user research and translating findings into effective design solutions. You will have strong proficiency in Figma, Sketch or similar design tools, with the ability to create high-quality wireframes, prototypes and user flows. You will have experience building or contributing to design systems and component libraries, with a strong understanding of consistency and reusable design patterns. You will be a confident communicator who can collaborate effectively with stakeholders and development teams, work independently and take ownership in an Agile environment. FE fundinfo is a leading financial data provider, connecting the investment industry across the UK, Europe, and Asia-Pacific through an integrated platform. Our skilled team empowers clients with data-driven insights, making the industry Navigate Complexity with Confidence! You’ll join a collaborative and international environment where design, product and engineering teams work closely together across geographies. The role offers the opportunity to contribute to meaningful fintech products, exchange knowledge with global UX colleagues and make a tangible impact on the way financial services professionals interact with digital solutions. Hybrid working is possible from our Frankfurt am Main office, providing flexibility alongside opportunities for in-person collaboration. Benefits: Enjoy 30 days of annual leave plus half-days on December 24th and 31st. Access leave for special occasions , including weddings, bereavements, moving, and family emergencies . Benefit from summer, marriage, and Christmas bonuses along with an anniversary bonus . Secure peace of mind with group accident insurance . Take advantage of versatile/hybrid working and extra leave for professional development (Bildungsurlaub), along with a sabbatical option. Utilize full access to Cashcalc and FE Analytics , and access LinkedIn Learning . Participate in our Community Day initiative. Apply now and we'll aim to get back to you with feedback within 5 working days. Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "design",
-      "financial services",
-      "engineering & data management",
-      "remote"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/fe-fundinfo/remote-product-designer-1-year-ftc-germany-253732",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-0b4853dae237",
-    "title": "Senior Technical Project Manager - PMO (all genders)",
-    "company": "Contabo",
-    "location": "Remote (Germany)",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Your creative field We are looking for a full-time, permanent Technical Project Manager (all genders) to join our PMO team as soon as possible. We embrace a remote-first approach (within Germany), but you can choose whether you’d like to work in a hybrid model or entirely on-site, depending on your proximity to one of our locations (Berlin, Hamburg, Cologne, Munich). As a Senior Technical Project Manager, you are a cornerstone of strategy execution at Contabo – and you're joining at a time when a lot is moving strategically. Alongside the continued evolution of our existing cloud infrastructure, we are driving initiatives that will expand our portfolio well beyond what exists today over the coming years. This is exactly where your role comes in: embedded in our PMO, you take end-to-end ownership of technical projects across development teams and business functions – including initiatives for which no blueprint exists yet, where you help shape structures from the ground up. You work at the intersection of technology and business: you translate sometimes still ambiguous requirements into executable plans, actively challenge requirements, and structure initiatives into scalable roadmaps, iterations, and implementation phases. In your day-to-day work, you coordinate priorities, dependencies, and delivery sequencing across multiple teams and parallel workstreams, identify resource bottlenecks and delivery risks early, and ensure transparency through structured reporting, clear governance, and effective escalation management – especially when scope and priorities shift in our fast-moving environment. You'll be working with tools like Jira, Confluence, and comparable solutions. Beyond individual projects, you shape the PMO itself: you continuously develop our standards and processes, support portfolio alignment and prioritisation, and share your knowledge as a mentor to junior project managers. A lean PMO at Contabo means a high degree of autonomy and genuine ownership – you report directly to the Head of Strategy Execution &amp; ESG and contribute measurably to the execution of Contabo's strategic roadmap. What convinces us Your personality, paired with: 5+ years of experience in technical project or program management within software development or technical delivery organisations Proven end-to-end delivery ownership of cross-functional initiatives with multiple parallel workstreams – not limited to governance or status-reporting roles Strong experience in stakeholder and escalation management A high degree of ownership and composure in an environment of shifting priorities and ambiguity Confident use of common PM tooling such as Jira, Confluence (or comparable) Experience in a cloud, hosting, or IT infrastructure environment, as well as with agile scaling, PMO, or portfolio management (a plus) A completed degree in Computer Science, Business Informatics, Engineering, or a comparable qualification Professional fluency in English; German language skills and certifications (PMP, PRINCE2, SAFe, PSM) are a plus We know that you may not currently meet all of these requirements. But if you bring the right amount of commitment and enthusiasm for the role, we can achieve great things together. Awesome Prospects At Contabo, we are constantly evolving. Our growth creates space for new ideas, ownership, and real impact for people who want to make a difference. What defines us is trust, direct communication, and an open feedback culture. We believe the best solutions are built together and that everyone has the opportunity to contribute, grow, and leave their own footprint. Additionally, we offer: Work the way that fits your life – Remote or hybrid with flexible hours for a healthy work-life balance and the same technical equipment at home as in the office Experience real freedom – Workation across the EU and in our summer office in Mallorca Stay active and healthy – Access to EGYM Wellpass and thousands of fitness and wellness facilities Enjoy exclusive perks – Attractive discounts on many products and services through our corporate benefits program Recharge your energy – 30 days of vacation plus additional days off on Christmas Eve and New Year’s Eve Give back – An extra day off to get involved in social activities through our Volunteer Day Make an impact – Take ownership and bring your ideas to life with real creative freedom Keep growing – Individual professional and personal development opportunities in an innovative tech environment Feel comfortable where you work – Modern, conveniently located offices across our European locations Be part of a diverse team – Work in an international environment shaped by diversity Create lasting memories – Company events and team activities you won’t forget How to reach us If you have any questions, you can reach out to Max by email at . Find Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "technical project management",
-      "it project management",
-      "it",
-      "cloud",
-      "hosting",
-      "remote",
-      "homeoffice in germany"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-technical-project-manager-pmo-all-genders-203868",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-02796688d43f",
-    "title": "Senior Software Developer – Platform & Infrastructure Engineering (all genders)",
-    "company": "Contabo",
-    "location": "Remote (Germany)",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Your creative field We are looking for two full-time, permanent Senior Software Developer – Platform &amp; Infrastructure Engineering (all genders) to start as soon as possible . We live remote-first within Germany , but you have the freedom to choose whether you want to work hybrid or completely on-site due to your proximity to one of our locations. You’ll become an integral part of a new team which is going to be responsible for the creation and maintenance of Contabo's new product line. You’ll be part of a new team in a green field scenario making design, code and infrastructure decisions based on our product strategy and time-to-market. We’re looking for brave, pragmatic risk takers who find a balance between speed and perfectionism, who participate in on-call but also proactively work with the team on improving the redundancy of our systems. Your main focus is going to creating the business logic side of our new product line, which means authentication, exposing infrastructure primatives such as virtual servers, storage, networking but also accounts, project, feature flags and everything else that comes with it. As the core team, you’ll be exposing our new product not just to our customers but other internal team who will be able to build on-top of our primatives to create more value on top like managed services. What convinces us Your personality, paired with: Backend &amp; API Engineering Production experience with at least one modern backend language (Go, Python, Java, or Rust) Experience designing and building APIs as a stable interface for infrastructure consumption Infrastructure Familiarity with IaaS provisioning stacks: OpenStack (Nova/Ironic/Octavia), KubeVirt/QEMU/libvirt, Ceph, LVM Kubernetes or comparable orchestration in production Virtualization platforms (KVM/OpenStack or similar) Infrastructure-as-code (Terraform/Ansible) Large-scale infrastructure operations Mindset &amp; Ways of Working Solution-agnostic: evaluates build-vs-buy without defaulting to a specific stack Ownership that spans backend and infrastructure, not one or the other Comfortable with on-call and production incident response Plus: 10+ years combined experience, English fluent, German nice to have We know that you may not currently meet all the requirements. But if you come to us with the right amount of commitment and enthusiasm, we can take off together and make a big difference. Awesome Prospects At Contabo, we are constantly evolving. Our growth creates space for new ideas, ownership, and real impact for people who want to make a difference. What defines us is trust, direct communication, and an open feedback culture. We believe the best solutions are built together and that everyone has the opportunity to contribute, grow, and leave their own footprint. Additionally, we offer: Work the way that fits your life – Remote or hybrid with flexible hours for a healthy work-life balance and the same technical equipment at home as in the office Experience real freedom – Workation across the EU and in our summer office in Mallorca Stay active and healthy – Access to EGYM Wellpass and thousands of fitness and wellness facilities Enjoy exclusive perks – Attractive discounts on many products and services through our corporate benefits program Recharge your energy – 30 days of vacation plus additional days off on Christmas Eve and New Year’s Eve Give back – An extra day off to get involved in social activities through our Volunteer Day Make an impact – Take ownership and bring your ideas to life with real creative freedom Keep growing – Individual professional and personal development opportunities in an innovative tech environment Feel comfortable where you work – Modern, conveniently located offices across our European locations Be part of a diverse team – Work in an international environment shaped by diversity Create lasting memories – Company events and team activities you won’t forget How to reach us If you have any questions, you can reach out to Alina by phone +49 89 2441067714 . Find Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "software",
-      "hosting",
-      "cloud hositng",
-      "vps",
-      "data center",
-      "remote company",
-      "remote",
-      "hybrid work",
-      "tech company",
-      "software developer",
-      "software egineer",
-      "hosting company",
-      "international"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-software-developer-platform-infrastructure-engineering-all-genders-398089",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-e64983ba93e4",
-    "title": "Senior Frontend Developer (all genders)",
-    "company": "Contabo",
-    "location": "Remote (Germany)",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Your creative field We are looking for two full-time, permanent Senior Frontend Developer (all genders) t o start as soon as possible . We live remote-first within Germany , but you have the freedom to choose whether you want to work hybrid or completely on-site due to your proximity to one of our locations. You’ll become an integral part of a new team which is going to be responsible for the creation and maintenance of Contabo's new product line. You’ll be part of a new team in a green field scenario making design, code and infrastructure decisions based on our product strategy and time-to-market. We’re looking for brave, pragmatic risk takers who find a balance between speed and perfectionism, who participate in on-call but also proactively work with the team on improving the redundancy and up-time of our systems. Your main focus is going to be on everything our customers can touch or use to interact with our platform – mainly GUI but also other cloud-native open source tools like terraform or CLIs etc, making sure we develop in the open with an active presence. You’ll be building on-top of an API teams and working closely with UX designers to build the best customer experience possible. Since the product is new you’ll have the chance to develop from the ground up, develop fast, fix fast and bring learnings back into the team. Standardise API’s but also join in on shaping the design of the product with integration to design frameworks. What convinces us Your personality, paired with: TypeScript 5.9 – strong production experience, you use the type system to actually prevent bugs Svelte 5 including client-side routing (svelte5-router); deep prior Svelte experience is not required if you're strong in TypeScript and a comparable modern reactive framework REST APIs – building and consuming them; comfortable with APIs that are still evolving Docker, Webpack 5, PostCSS – containerized builds and frontend tooling are not foreign territory Svelte Material UI (SMUI) or comparable component library experience E2E testing with Playwright and/or Cypress Keycloak.js or comparable SSO/OAuth implementation experience Fluent English skills are a must have and German language skills are a plus We know that you may not currently meet all the requirements. But if you come to us with the right amount of commitment and enthusiasm, we can take off together and make a big difference. Awesome Prospects At Contabo, we are constantly evolving. Our growth creates space for new ideas, ownership, and real impact for people who want to make a difference. What defines us is trust, direct communication, and an open feedback culture. We believe the best solutions are built together and that everyone has the opportunity to contribute, grow, and leave their own footprint. Additionally, we offer: Work the way that fits your life – Remote or hybrid with flexible hours for a healthy work-life balance and the same technical equipment at home as in the office Experience real freedom – Workation across the EU and in our summer office in Mallorca Stay active and healthy – Access to EGYM Wellpass and thousands of fitness and wellness facilities Enjoy exclusive perks – Attractive discounts on many products and services through our corporate benefits program Recharge your energy – 30 days of vacation plus additional days off on Christmas Eve and New Year’s Eve Give back – An extra day off to get involved in social activities through our Volunteer Day Make an impact – Take ownership and bring your ideas to life with real creative freedom Keep growing – Individual professional and personal development opportunities in an innovative tech environment Feel comfortable where you work – Modern, conveniently located offices across our European locations Be part of a diverse team – Work in an international environment shaped by diversity Create lasting memories – Company events and team activities you won’t forget How to reach us If you have any questions, you can reach out to Alina by phone +49 89 2441067714 Find Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "it",
-      "infrastructure",
-      "code",
-      "cloud",
-      "hosting",
-      "data center",
-      "information technology",
-      "software",
-      "hybrid",
-      "remote",
-      "germany",
-      "company",
-      "tech",
-      "technology",
-      "frontend",
-      "developer"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-frontend-developer-all-genders-287472",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-007d7ff23686",
-    "title": "(Senior) AI Product Engineer (m/w/d)",
-    "company": "Legalhero",
-    "location": "Berlin",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "What You'll Do You’ll identify open AI opportunities, build them from start to finish, and bring them to real users. As a Senior AI Product Engineer, you’ll work across our three product squads: You’ll single-handedly turn unaddressed topics into products, hand them off once they’re up and running, and serve as a sparring partner for the squad PMs on all AI-related topics. For us, “senior” refers to your approach to work, not your years of experience. You’ll report directly to Product Leadership. Your Responsibilities Independent AI projects (about half of your time) You’ll identify high-impact AI opportunities in our legal workflows - in areas where no specific squad is responsible Validation happens quickly: discussions with attorneys, Legal Ops, and insurers; prototypes built in days You’ll bring the winning solutions into production yourself: routing, chaining, summarization, and agent-based loops You’ll hand off mature features to the squad - complete with documentation, evaluations, and a handover plan Support for the squads (the other half) Feasibility, costs, model selection, risks: You’ll answer these questions before every AI feature is launched You support the teams in designing evaluations, golden datasets, and guardrails You review concepts before they go into the roadmap - including prompt injection and compliance risks (GDPR, Section 203 of the German Criminal Code) You advance AI best practices: prompt engineering standards, LLM observability, and agent-based coding workflows What you bring Must-have Multiple production-ready AI/LLM systems that you’ve shipped to real users and taken responsibility for - no prototypes Demonstrable product ownership: from a vague problem to a finished product Strong Python skills and a solid foundation in software engineering (Git, testing, CI/CD, code review) In-depth experience with LangGraph, LangChain, or similar - including an understanding of what’s happening under the hood Proficiency with LLM provider APIs: function/tool calling, structured outputs, streaming Evaluations, golden datasets, and guardrails before deployment Solid prompt engineering - you know when to use which technique Business-level English; German is a major plus due to our legal domain Soft Skills The maturity to work without a squad around you: You set your own priorities and know when to say no You can explain a technical trade-off to a lawyer and a legal workflow to an engineer What we promise Work Environment &amp; Flexibility Office-first: 3 days in the office, 2 days working from home - with flexibility in how you structure your work Modern, air-conditioned office with plenty of natural light and a large rooftop terrace overlooking Berlin Central location between Gleisdreieck and Potsdamer Platz Benefits Full coverage of the public-transport ticket Company pension plan with a 20% employer contribution Corporate benefits platform with discounts from many brands Dog-friendly office Regular company and team events, after-work fun with Switch, PS5, darts, and foosball Free drinks, fresh fruit, and granola Culture &amp; Collaboration Agile mindset with open communication - every voice counts Feedback is part of our culture - we believe in growing together Fast application process Your application as an AI Product Engineer (Senior) - short and to the point Approx. 20-minute introductory conversation with our HR team Approx. 60-minute in-person interview with your hiring manager Approx. 30-minute discussion with the management team A prompt job offer Your contact: Nadine · HR Manager · Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "ai",
-      "product engineer",
-      "ai product engineer",
-      "berlin",
-      "jobs",
-      "homeoffice",
-      "remote",
-      "hybrid",
-      "senior ai product engineer",
-      "ai projects",
-      "ai features"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/legalhero/remote-senior-ai-product-engineer-berlin-151379",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-79d92ca9b0fd",
-    "title": "Freelance Software  / Data / AI Engineer (m/w/d) - Development | Data | AI",
-    "company": "Nexgate IT GmbH",
-    "location": "Bad Homburg",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Für aktuelle und zukünftige Kundenprojekte suchen wir erfahrene freiberufliche Softwareentwickler, AI/ML Engineers und Data Engineers (m/w/d) aus unterschiedlichen technologischen Fachbereichen. Wir suchen insbesondere Expertise in folgenden Bereichen: Backend Development – Java, C#/.NET, Python, Go, Node.js Frontend &#x26; Fullstack Development – JavaScript, TypeScript, React, Angular, Vue.js AI / Generative AI / LLM Engineering – Python, LLMs, RAG, AI Agents, APIs &#x26; Automation Machine Learning / MLOps – ML Engineering, Model Deployment, Pipelines &#x26; Operations Data Engineering – Data Pipelines, Databases, ETL/ELT, Databricks, Snowflake Software / Solution Architecture – System Design, Microservices, Cloud-Native &#x26; Distributed Systems Aufgaben Mögliche Projekteinsätze: Unsere Kundenprojekte reichen von Softwareentwicklung und Modernisierung bestehender Anwendungen über Data Engineering und Machine Learning bis hin zu AI-, Generative-AI- und Automatisierungsprojekten. Gesucht werden sowohl spezialisierte Entwickler und Engineers als auch Software Architects, Solution Architects, Tech Leads und erfahrene technische Consultants. Qualifikation Must-Have-Qualifikationen: Mehrjährige praktische Erfahrung in mindestens einem relevanten Software-, Data- oder AI-Bereich Erfahrung aus professionellen Softwareentwicklungs-, Data-, Machine-Learning oder AI-Projekten Fundierte Expertise in mindestens einem der Bereiche Backend/Fullstack Development, AI/ML, Data Engineering oder Software/Solution Architecture Selbstständige, strukturierte und lösungsorientierte Arbeitsweise Verfügbarkeit für freiberufliche Projekte in Deutschland bzw. im DACH-Raum Nice-to-Have: Erfahrung mit modernen Softwarearchitekturen, Microservices, APIs und Cloud-Native-Anwendungen Erfahrung mit AI/Generative AI, LLMs, RAG, Machine Learning oder MLOps Erfahrung mit modernen Data-Plattformen, Data Pipelines, ETL/ELT, Databricks oder Snowflake Erfahrung mit skalierbaren und verteilten Systemen Erfahrung als Tech Lead, Software Architect, Solution Architect oder technischer Consultant Erforderliche Sprachkenntnisse: Deutsch – sehr gute bis verhandlungssichere Kenntnisse (C1 oder höher) Englisch – gute bis sehr gute Kenntnisse (B2 oder höher) Benefits Attraktive und langfristige Projektperspektive Flexible Remote-Arbeit je nach Projektanforderung Direkte und transparente Kommunikation mit Nexgate Schnelle Abstimmungs- und Entscheidungswege Spannende Projekte bei namhaften Kunden Möglichkeit auf Folgeprojekte und langfristige Zusammenarbeit Faire und marktgerechte Vergütung Klingt interessant? Dann freuen wir uns auf deine Bewerbung mit aktuellem Lebenslauf, möglichem Startdatum und deinem gewünschten Stundensatz. Nach Eingang deiner Bewerbung prüfen wir dein Profil und melden uns kurzfristig bei dir. Nexgate GmbH IT Projects | Software | Data | AI | Freelance Specialists Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "software development"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/nexgate-it-gmbh/freelance-software-data-ai-engineer-development-data-ai-bad-homburg-260868",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-ecc0ab357849",
-    "title": "Freelance Cloud / Infrastructure Engineer (m/w/d) - DevOps | Platform | Security",
-    "company": "Nexgate IT GmbH",
-    "location": "Bad Homburg",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Für aktuelle und zukünftige Kundenprojekte suchen wir erfahrene freiberufliche Cloud Engineers, Infrastructure Engineers, DevOps-/Platform Engineers und Security-Spezialisten (m/w/d) aus unterschiedlichen technologischen Fachbereichen. Wir suchen insbesondere Expertise in folgenden Bereichen: Cloud Engineering – AWS, Microsoft Azure, Google Cloud DevOps &#x26; Platform Engineering – Kubernetes, Docker, CI/CD, Terraform, GitOps Infrastructure Engineering – Linux, Windows Server, Virtualisierung, Networking &#x26; Automation Cybersecurity / Cloud Security / DevSecOps – IAM, Application &#x26; Infrastructure Security Cloud / Solution Architecture – Cloud-Native, Distributed Systems &#x26; Infrastructure Architecture Aufgaben Mögliche Projekteinsätze: Unsere Kundenprojekte reichen von Cloud-Migrationen und dem Aufbau moderner Cloud- und Infrastrukturplattformen über DevOps- und Platform-Engineering bis hin zu Automatisierungs-, Security- und Cloud-Architecture-Projekten. Gesucht werden sowohl spezialisierte Cloud-, Infrastructure-, DevOps-, Platform- und Security-Engineers als auch Cloud Architects, Solution Architects und erfahrene technische Consultants. Qualifikation Must-Have-Qualifikationen: Mehrjährige praktische Erfahrung in mindestens einem relevanten Cloud-, Infrastructure-, DevOps-, Platform- oder Security-Bereich Erfahrung aus professionellen Cloud-, Infrastruktur-, DevOps-, Platform- oder Security-Projekten Fundierte Expertise in mindestens einem der Bereiche Cloud Engineering, Infrastructure Engineering, DevOps/Platform Engineering, Cloud Security/DevSecOps oder Cloud/Solution Architecture Selbstständige, strukturierte und lösungsorientierte Arbeitsweise Verfügbarkeit für freiberufliche Projekte in Deutschland bzw. im DACH-Raum Nice-to-Have: Erfahrung mit modernen Cloud-Plattformen wie AWS, Microsoft Azure oder Google Cloud Kenntnisse in Kubernetes, Docker, CI/CD, Terraform, GitOps oder vergleichbaren DevOps-/Platform-Technologien Erfahrung mit Linux, Windows Server, Virtualisierung, Networking oder Infrastructure Automation Erfahrung mit IAM, Cloud Security, Application Security, Infrastructure Security oder DevSecOps Erfahrung mit Cloud-Native-Architekturen, verteilten Systemen oder Infrastructure Architecture Erfahrung als Cloud Architect, Solution Architect, Tech Lead oder technischer Consultant Erforderliche Sprachkenntnisse: Deutsch – sehr gute bis verhandlungssichere Kenntnisse (C1 oder höher) Englisch – gute bis sehr gute Kenntnisse (B2 oder höher) Benefits Attraktive und langfristige Projektperspektive Flexible Remote-Arbeit je nach Projektanforderung Direkte und transparente Kommunikation mit Nexgate Schnelle Abstimmungs- und Entscheidungswege Spannende Projekte bei namhaften Kunden Möglichkeit auf Folgeprojekte und langfristige Zusammenarbeit Faire und marktgerechte Vergütung Klingt interessant? Dann freuen wir uns auf deine Bewerbung mit aktuellem Lebenslauf, möglichem Startdatum und deinem gewünschten Stundensatz. Nach Eingang deiner Bewerbung prüfen wir dein Profil und melden uns kurzfristig bei dir. Nexgate GmbH IT Projects | Cloud | Infrastructure | DevOps | Security | Freelance Specialists Find Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "system and network administration"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/nexgate-it-gmbh/freelance-cloud-infrastructure-engineer-devops-platform-security-bad-homburg-447986",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-40f18a19a199",
-    "title": "SAP Freelancer (m/w/d) - S/4HANA | Functional | Technical",
-    "company": "Nexgate IT GmbH",
-    "location": "Bad Homburg",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Für aktuelle und zukünftige Kundenprojekte suchen wir erfahrene freiberufliche SAP Consultants, Entwickler, Solution Architects und Projektleiter (m/w/d) aus unterschiedlichen SAP-Fachbereichen. Wir suchen insbesondere Expertise in folgenden SAP-Bereichen: SAP S/4HANA – Transformation, Migration, Implementierung &#x26; Rollout SAP FI/CO – Finance &#x26; Controlling SAP ABAP/Fiori/UI5 – Entwicklung &#x26; S/4HANA Applications SAP BTP/Integration – Cloud, Schnittstellen &#x26; Integration SAP Projektleitung/Solution Architecture – Transformation, Migration &#x26; Rollout Aufgaben Mögliche Projekteinsätze: Unsere Kundenprojekte reichen von S/4HANA-Transformationen und Migrationen über Implementierungen und internationale Rollouts bis hin zu Optimierungs-, Entwicklungs-, Integrations- und Supportprojekten. Gesucht werden sowohl spezialisierte Modulberater und Entwickler als auch Solution Architects, Projektleiter und erfahrene SAP-Generalisten. Qualifikation Must-Have-Qualifikationen: Mehrjährige praktische Erfahrung im SAP-Umfeld und fundierte Expertise in mindestens einem relevanten SAP-Fachbereich Erfahrung aus SAP-Implementierungs-, Migrations-, Rollout-, Entwicklungs- oder Transformationsprojekten Projekterfahrung in mindestens einem der Bereiche SAP S/4HANA, FI/CO, ABAP/Fiori/UI5, BTP/Integration oder SAP Solution Architecture / Projektleitung Selbstständige, strukturierte und kundenorientierte Arbeitsweise Verfügbarkeit für freiberufliche Projekte in Deutschland bzw. im DACH-Raum Nice-to-Have: Erfahrung mit SAP S/4HANA-Transformationen und Migrationen Erfahrung mit internationalen Implementierungs- oder Rollout-Projekten Kenntnisse in der Integration von SAP-Systemen, Schnittstellen, APIs oder Cloud-Lösungen Erfahrung in der technischen oder fachlichen Projektleitung bzw. Solution Architecture SAP-Zertifizierungen oder vergleichbare nachweisbare Spezialisierungen Erforderliche Sprachkenntnisse: Deutsch – sehr gute bis verhandlungssichere Kenntnisse (C1 oder höher) Englisch – gute bis sehr gute Kenntnisse (B2 oder höher) Benefits Attraktive und langfristige Projektperspektive Flexible Remote-Arbeit je nach Projektanforderung Direkte und transparente Kommunikation mit Nexgate Schnelle Abstimmungs- und Entscheidungswege Spannende Projekte bei namhaften Kunden Möglichkeit auf Folgeprojekte und langfristige Zusammenarbeit Faire und marktgerechte Vergütung Klingt interessant? Dann freuen wir uns auf deine Bewerbung mit aktuellem Lebenslauf, möglichem Startdatum und deinem gewünschten Stundensatz. Nach Eingang deiner Bewerbung prüfen wir dein Profil und melden uns kurzfristig bei dir. Nexgate GmbH IT Projects | SAP | S/4HANA | Development | Consulting | Freelance Specialists Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "sap/erp consulting",
-      "development"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/nexgate-it-gmbh/sap-freelancer-s-4hana-functional-technical-bad-homburg-64367",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-29530d7289ee",
-    "title": "Mitarbeiter Vertrieb (m/w/d) landwirtschaftliche Software für mehrere Regionen in Deutschland",
-    "company": "Wimex-Gruppe",
+    "id": "arbeitnow-e1e74112835e",
+    "title": "Freelance Senior Product Manager / Product Consultant (w/m/d) – Abrechnung & ERP | Remote",
+    "company": "Arsipa GmbH",
     "location": "Homeoffice",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Die geo-konzept GmbH (ein Partnerunternehmen der Wimex Group) &nbsp;steht bereits seit 1992 für zuverlässige und robuste Sensorik, GPS- und GIS-Technologien für die Agrar- und Forstwirtschaft sowie die Steinindustrie. Das Unternehmen zählt zu den Marktführern im Bereich der präzisen Landwirtschaft. Dabei stehen besonders Lenk-, Sensor-, Drohnen- und digitale Managementsysteme im Vordergrund. Ziel ist es, dem Kunden durch Komponenten, Sensorik, Automation und auch durch die Integration von Autonomie/Robotik die Arbeit zu erleichtern und umfassende Komplettlösungen an die Hand zu geben. Hierbei stehen der praktische Nutzen sowie die Betreuung im Vordergrund. Dies wird mit Fachwissen und Erfahrung - auch über die Grenzen der eigenen Produkte hinaus - umgesetzt. Um weiterhin schnell und kundennah im Markt agieren zu können, suchen wir ab sofort einen Mitarbeiter Vertrieb (m/w/d) landwirtschaftliche Software für mehrere Regionen in Deutschland . Ihre Aufgaben: Für Landwirte, Lohnunternehmer und Händler sind Sie der erste Ansprechpartner Sie akquirieren aktiv neue Kunden und geben Interessenten eine bedarfsspezifische Beratung und schließen einen Auftrag ab Darüber hinaus begleiten Sie die Kunden beim Ersteinsatz unserer Systeme, einschließlich einer ersten Anwendungsschulung Zu unseren bestehenden Kunden pflegen Sie den Kontakt und begeistern diese für weiterführende digitale Lösungen Kundenfeedback geben Sie an die internen Ansprechpartner weiter, um eine schnelle Reaktion und Weiterentwicklung sicherzustellen Sie führen Produktpräsentationen bei Veranstaltungen oder Messen durch Das sollten sie mitbringen: Sie haben Freude am aktiven Vertrieb sowie am Umgang mit Kunden und bringen eine hohe Serviceorientierung mit Sie interessieren sich für zukunftsweisende, moderne Software (u. a. Farmmanagement, GIS) sowie deren Anwendung und wollen andere dafür begeistern Eine Berufsausbildung oder Studium im landwirtschaftlichen/technischen Bereich sind von Vorteil Sie kennen sich in der Struktur des Landtechnikhandels aus und sind vertraut mit den Herstellern von Saatgut, Pflanzenschutz- und Düngemittel Für eine anwendungsspezifische Beratung sollten Sie Wissen zum Arbeitszyklus im Landbau, der eingesetzten Technik und der Agronomie mitbringen Darüber hinaus besitzen Sie eine selbstständige, strukturierte Arbeitsweise und gute Kenntnisse in gängiger Bürosoftware Wir bieten: Einen sicheren, unbefristeten Arbeitsplatz Arbeit in einem motivierten Team mit flachen Hierarchien, kurzen Entscheidungswegen und mit viel Begeisterung für zukunftsweisende Landtechnik Team-Events und ein offenes Miteinander Möglichkeiten, Wissen und Kreativität mit einzubringen Eine über dem Branchendurchschnitt liegende, leistungsgerechte Vergütung einschließlich einer betrieblichen Altersvorsorge Flexible Arbeitszeiten mit Einsatzfahrten vom Homeoffice aus Dienstwagen sowie Diensthandy/-laptop auch zur privaten Nutzung Fühlen Sie sich angesprochen? Dann freuen wir uns auf Ihre aussagekräftigen Bewerbungsunterlagen mit möglichem Eintrittstermin über den Bewerben Button, per WhatsApp oder per E-Mail an: Bei Rückfragen erreichen Sie Marco Pütz unter +49 (0) 151 54 37 23 71. Find more English Speaking Jobs in Germany on Arbeitnow",
+    "description": "Du möchtest ein klar definiertes Produktprojekt übernehmen, komplexe Fachprozesse strukturieren und Anforderungen in konkrete Produktlösungen für eine eigens entwickelte ERP-Software übersetzen? Dann suchen wir Dich für ein freiberufliches Projektmandat als: &nbsp; Freelance Product Manager (w/m/d) - Abrechnung &amp; ERP - 3 bis 6 Monate Die Arsipa Gruppe ist eine schnell wachsende Unternehmensgruppe im Bereich Health, Safety &amp; Environment, unterstützt von Warburg Pincus. Mit über 1.000 Mitarbeitenden, 20+ Tochtergesellschaften und 48 Standorten in Deutschland und Österreich bauen wir im Rahmen einer klaren Buy-&amp;-Build-Strategie eine skalierbare Plattform mit nachhaltiger Wertschöpfung. Unser Ziel: eine der führenden Anbieterinnen im deutschsprachigen Markt - unterstützt durch zentrale Funktionen wie Finance, HR, Marketing und IT am Standort Berlin. Das Projekt: Für die Weiterentwicklung unserer Softwarelösung ginisuite suchen wir freiberufliche Unterstützung für ein zeitlich befristetes Produktprojekt. Der Projektstart ist zum 01.10.2026 vorgesehen. Die geplante Projektlaufzeit beträgt zunächst drei bis sechs Monate . Die ginisuite ist unsere eigens entwickelte ERP-/PVS-Lösung für Arbeitsmedizin und Arbeitssicherheit. Im Fokus des Projekts steht die fachliche und produktseitige Weiterentwicklung ausgewählter Module in den Bereichen Vertragsmanagement, Abrechnung, Zeiterfassung und Buchhaltung . Zu den Projektinhalten gehören die Analyse bestehender Fachprozesse, die Entwicklung geeigneter Lösungskonzepte sowie die Übersetzung fachlicher Anforderungen in umsetzbare User Stories und Tickets. Darüber hinaus umfasst das Mandat die fachliche Begleitung ausgewählter Themen bis zur Qualitätssicherung, Veröffentlichung, Datenmigration und Einführung. Die Zusammenarbeit erfolgt grundsätzlich remote innerhalb Deutschlands auf freiberuflicher Basis mit eigenverantwortlicher Zeiteinteilung und klar vereinbarten Projektergebnissen. Bei Bedarf können einzelne projektbezogene Termine innerhalb Deutschlands erforderlich sein, voraussichtlich etwa einmal pro Monat und nach vorheriger Abstimmung. &nbsp; Dein Projektinhalte: Fachliche Konzeption und Produktentwicklung Analyse bestehender Prozesse und Systemlandschaften in den Bereichen Vertragsmanagement, Abrechnung, Zeiterfassung und Buchhaltung Identifikation und Priorisierung fachlicher Optimierungspotenziale auf Grundlage der vereinbarten Projektziele Entwicklung geeigneter Lösungsansätze und konkreter Empfehlungen für die Weiterentwicklung ausgewählter ginisuite-Module Erstellung nachvollziehbarer Fachkonzepte, User Stories, Akzeptanzkriterien und Tickets als Grundlage für die technische Umsetzung Übersetzung komplexer fachlicher Anforderungen in klare und umsetzbare Produktentscheidungen Umsetzungs- &amp; Rolloutbegleitung Fachliche Begleitung der im Projekt vereinbarten Entwicklungspakete Vorbereitung und Durchführung fachlicher Qualitätssicherungen Projektbezogene Unterstützung bei Release-Vorbereitungen, Datenmigrationen und Rollouts Dokumentation der erarbeiteten Konzepte, Entscheidungen und Projektergebnisse Strukturierte Übergabe der vereinbarten Ergebnisse an die zuständigen Ansprechpartner:innen bei Arsipa Projektbezogene Abstimmung Selbstständige Planung und Umsetzung der eigenen Projektaktivitäten innerhalb des vereinbarten Zeitraums Projektbezogene Abstimmung mit dem Lead Product Manager, dem CTO und weiteren relevanten Ansprechpartner:innen Aufnahme fachlicher Anforderungen ausgewählter Tochtergesellschaften Fachlicher Austausch mit dem Entwicklungsteam sowie internen und externen Projektbeteiligten, beispielsweise aus dem Data-Warehouse-Umfeld Transparente Abstimmung zu Projektfortschritt, Ergebnissen, Abhängigkeiten und fachlichen Entscheidungsbedarfen Einbringung eigener methodischer Ansätze und fachlicher Empfehlungen Dein Profil: Fundierte Erfahrung als Product Manager:in, Product Owner:in, Product Consultant oder in einer vergleichbaren produktbezogenen Projektfunktion Nachweisbare Projekterfahrung in den Bereichen Rechnungswesen, ERP, Abrechnung oder vergleichbaren B2B-Softwarelösungen Erfahrung in der Analyse komplexer Fachprozesse und deren Übersetzung in konkrete Produktanforderungen Sicherer Umgang mit User Stories, Tickets, Akzeptanzkriterien und fachlichen Produktkonzepten Technisches Verständnis in den Bereichen Datenmigration, Datenanalyse und Softwareentwicklung Sehr gute Deutsch- und Englischkenntnisse Selbstständige, strukturierte und ergebnisorientierte Arbeitsweise Hilfreich für das Projekt sind außerdem: Erfahrung in SaaS-, Plattform- oder ERP-nahen Projekten Kenntnisse cloudbasierter Plattformen, APIs, Integrationen oder verteilter Systeme Verständnis für Softwarearchitektur, Microservices oder containerbasierte Systemlandschaften Erfahrung im Umgang mit Legacy-Systemen und Migrationen zwischen Bestands- und Zielsystemen Projekterfahrung in Multi-Entity-, Private-Equity-, Buy-&amp;-Build- oder vergleichbaren Wachstumsumfeldern Kenntnisse in den Bereichen Occupational Health &amp; Safety, Arbeitsmedizin oder Arbeitssicherheit Interim-, Freelancer- oder Beratungserfahrung im Product-Management-Umfeld Rahmenbedingungen des Projekts: Freiberufliche Zusammenarbeit auf Projektbasis Projektstart zum 01.10.2026 Geplante Projektlaufzeit von zunächst drei bis sechs Monaten Voraussichtlicher Projektumfang von ca. 30 bis 40 Stunden pro Woche Remote innerhalb Deutschlands mit eigenverantwortlicher Zeiteinteilung Einzelne projektbezogene Termine innerhalb Deutschlands können bei Bedarf und nach vorheriger Abstimmung erforderlich sein Vergütung auf Basis eines individuell vereinbarten Stunden- oder Tagessatzes gegen Rechnungsstellung Zusammenarbeit auf Basis klar definierter Projektziele und Projektergebnisse, nicht im Rahmen einer Festanstellung Was Dich bei diesem Projekt erwartet: Klar definiertes Produktmandat: Ein zeitlich befristetes Projekt mit konkretem Fokus auf die Weiterentwicklung ausgewählter ERP- und Abrechnungsmodule Remote und flexible Umsetzung: Die Projektleistung kann grundsätzlich remote erbracht und zeitlich eigenverantwortlich organisiert werden Relevanter Gestaltungsspielraum: Du entwickelst eigene fachliche Lösungsansätze und bringst Deine Produkt- und Projekterfahrung gezielt ein Direkter Zugang zu relevanten Informationen: Für eine effiziente Projektumsetzung erhältst Du die erforderlichen Informationen zu Fachprozessen, Systemen und Projektzielen Anspruchsvolles Technologieumfeld: Das Projekt verbindet ERP, Abrechnung, Datenmigration, Softwareentwicklung und operative Fachprozesse Dynamisches Wachstumsumfeld: Die ginisuite ist Teil einer PE-backed Buy-&amp;-Build-Plattform mit zahlreichen Gesellschaften und unterschiedlichen fachlichen Anforderungen Professionelle Projektzusammenarbeit: Dich erwarten klare Ansprechpartner:innen, strukturierte Abstimmungen und gemeinsam definierte Projektergebnisse Unser Auswahlprozess: &nbsp; In einem fachlichen Austausch besprechen wir Deine relevante Projekterfahrung, Verfügbarkeit, mögliche Projektkapazität, Arbeitsweise und Honorarvorstellung. Außerdem erhältst Du weitere Informationen zum Projektkontext, zur ginisuite und zu den angestrebten Projektergebnissen.&nbsp; Bitte sende uns für die erste Einschätzung: Dein aktuelles Freelancer-Profil Deine Verfügbarkeit ab dem 01.10.2026 Deine mögliche Projektkapazität Deinen gewünschten Stunden- oder Tagessatz Relevante Referenzprojekte, insbesondere im ERP-, Abrechnungs- oder B2B-Softwareumfeld &nbsp; Für weitere Fragen stehen wir Dir gerne jederzeit zur Verfügung! Du erreichst das Group Talent-Acquisition-Team der Arsipa-Gruppe unter . Werde Teil unserer spannenden Reise bei der Arsipa Gruppe - Wir freuen uns auf Dich! Find Jobs in Germany on Arbeitnow",
     "required_skills": [
-      "geo-konzept gmbh",
+      "arsipa gmbh",
       "remote"
     ],
     "requirements": [],
     "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/wimex-gruppe/remote-mitarbeiter-vertrieb-landwirtschaftliche-software-fur-mehrere-regionen-in-deutschland-munchen-464120",
+    "url": "https://www.arbeitnow.com/jobs/companies/arsipa-gmbh/freelance-senior-product-manager-product-consultant-abrechnung-erp-remote-berlin-489009",
     "date_posted": null
   },
   {
-    "id": "arbeitnow-d73d656fbb27",
-    "title": "Werkstudent NPL & Partnermanagement (m/w/d)",
-    "company": "Auxmoney Gmbh",
-    "location": "Remote / Düsseldorf",
+    "id": "arbeitnow-167346431c73",
+    "title": "(Senior) Fullstack Engineer - Node / React (all genders)",
+    "company": "Gamigo",
+    "location": "Germany",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Dein neues Team: Du willst verstehen, wie Forderungsverkauf, Partnersteuerung und saubere Prozesskontrollen in der Praxis zusammenspielen? Im Bereich NPL &amp; Partnermanagement verantworten wir die operativen Abläufe rund um den Forderungsverkauf und die Zusammenarbeit mit unseren Partnern. Dabei sorgen wir dafür, dass unsere NPL- und Partnerprozesse zuverlässig, datenbasiert und revisionssicher dokumentiert laufen. Als Werkstudent (m/w/d) unterstützt Du uns im Tagesgeschäft und arbeitest eng mit internen Schnittstellen sowie externen Partnern zusammen. Das erwartet Dich: Monitoring &amp; IKS: Du unterstützt beim Monitoring laufender NPL- und Partnerprozesse sowie bei monatlichen IKS-Kontrollen und dokumentierst Nachweise nachvollziehbar in unseren internen Systemen. Zahlungsverbuchung &amp; Reporting: Du spielst Zahlungen in unsere interne Inkasso-Software ein, führst Kontrollen und Abgleiche durch und erstellst Zahlungsberichte. Datenchecks &amp; Abgleiche: Du führst vordefinierte SQL-Checks aus, passt diese bei Bedarf minimal an und erstellst Grundgesamtheiten inklusive CSV-Exporten sowie Duplikats-, Schnittmengen- und Plausibilitätsprüfungen. Forderungsverkauf &amp; Rückabwicklung: Du unterstützt bei der Vorbereitung und operativen Abwicklung von Forderungsverkäufen an Debt Collection Agencies (DCAs), bearbeitest definierte Sonderfälle, begleitest Prozess- und Dateitransfers und dokumentierst Vorgänge sauber im Ticket-System. Partnerabstimmung &amp; Nachverfolgung: Du stimmst Dich mit unserer Partnerbank SWK, den DCAs sowie intern mit IT ab, klärst Rückfragen und hältst offene Punkte konsequent nach. DCA-Statistiken &amp; Präsentation: Du bereitest DCA-Statistiken auf und unterstützt bei deren Vorstellung. Maximale Flexibilität: Du arbeitest hybrid mit einem festen Präsenztag pro Woche in Düsseldorf und ansonsten im Homeoffice innerhalb Deutschlands. Das bringst Du mit: Studium: Du bist aktuell in einem Studium der BWL, Wirtschaftswissenschaften, (Wirtschafts-)Informatik oder in einem vergleichbaren Studiengang eingeschrieben. Erste Praxiserfahrung: Du hast erste Erfahrung im Umgang mit Daten, Reports oder operativen Abläufen gesammelt, zum Beispiel durch Praktika, eine Werkstudierendentätigkeit oder eine Ausbildung, und idealerweise bringst Du erste SQL-Kenntnisse mit. Struktur &amp; Sorgfalt: Du arbeitest zuverlässig, sorgfältig und strukturiert und übernimmst Aufgaben eigenständig. Datenaffinität: Du hast Freude an Zahlen, Tabellen und Listen und ein gutes Verständnis für Abgleiche und Plausibilitätsprüfungen. Tool-Sicherheit: Du verfügst über sehr gute MS-Office-Kenntnisse, insbesondere in Excel, und findest Dich schnell in neuen Systemen zurecht. Kommunikation: Du bereitest Themen klar und übersichtlich auf und kommunizierst gerne mit unterschiedlichen Ansprechpartnerinnen und Ansprechpartner. Sprachen: Du verfügst über sehr gute Deutschkenntnisse und gute Englischkenntnisse in Wort und Schrift. Das bringen wir mit: Flexible Arbeitszeiten : Gestalte Deinen Arbeitstag so, dass er optimal zu Deinem Studium passt – wir unterstützen Deine individuellen Bedürfnisse! Möglichkeit zur Arbeit im Homeoffice : Arbeite dort, wo Du Dich am wohlsten fühlst. Ob im Büro oder von zu Hause – Du entscheidest! Flache Hierarchien : Bei uns wird Teamarbeit großgeschrieben! Du hast direkten Kontakt zu Entscheidungsträgern und kannst Deine Ideen einbringen. Vielfältige Gestaltungs- und Entwicklungsmöglichkeiten : Du hast die Chance, Deine eigenen Projekte zu leiten und Deine Fähigkeiten in einem dynamischen Umfeld weiterzuentwickeln. Zahlreiche bereichsübergreifende Events : Knüpfe wertvolle Kontakte und erlebe unser Team bei spannenden Veranstaltungen und Teamevents. Vergünstigte Mitgliedschaft bei Fitness First oder Urban Sports Club : Bleib fit und gesund – wir fördern Dein Wohlbefinden mit attraktiven Fitnessangeboten! Täglich frisches Obst, endlos Kaffee, Tee und Wasser : Genieße eine gesunde Snack- und Getränkebar, die Dir hilft, energisch durch den Tag zu kommen. Rabatte über Corporate Benefits : Profitiere von exklusiven Angeboten und Rabatten auf zahlreiche Produkte und Dienstleistungen – ein zusätzliches Plus für Deinen Geldbeutel! Schließe Dich unserem Team an und bewirb Dich noch heute! Vergiss nicht, uns Dein voraussichtliches Ende des Studiums, Deinen gewünschten Stundenlohn sowie Dein nächstmögliches Startdatum mitzuteilen. Wir freuen uns darauf, Deine Bewerbung zu erhalten! Für uns als Arbeitgeber sind Chancengleichheit und Diversität besonders wichtig. Daher freuen wir uns auf Bewerbungen von Müttern, Vätern, Menschen mit Behinderungen und Menschen aus der LGBTQIA+ Community. Bitte teile uns gerne mit, wenn wir z.B. ein geschlechtsneutrales Pronomen verwenden sollen, Du einen barrierefreien Zugang zu unserem Büro benötigst oder wir mehr Zeit für den Bewerbungsprozess einplanen sollen. Find Jobs in Germany on Arbeitnow",
+    "description": "To strengthen our team, gamigo group is looking for a Senior Fullstack Engineer (all genders) to join as soon as possible, full-time, based in Germany. About the role As a Senior Fullstack Engineer, you will build and evolve our casual gaming eCommerce platform end-to-end, driving technical direction with broad expertise across web and cloud systems. Actively&nbsp;shape&nbsp;and&nbsp;evolve&nbsp;our&nbsp;code&nbsp;structure&nbsp;and&nbsp;architecture,&nbsp;and&nbsp;drive&nbsp;technical&nbsp;decisions&nbsp;forward Design&nbsp;and&nbsp;implement&nbsp;new&nbsp;features&nbsp;for&nbsp;our&nbsp;casual&nbsp;eCommerce&nbsp;platforms,&nbsp;from&nbsp;architecture&nbsp;through&nbsp;deployment&nbsp;andmonitoring Build&nbsp;performant,&nbsp;reliable&nbsp;and&nbsp;secure&nbsp;backend&nbsp;services&nbsp;with&nbsp;Node.js,&nbsp;TypeScript&nbsp;and&nbsp;NestJS Develop&nbsp;frontends&nbsp;with&nbsp;Next.js&nbsp;and&nbsp;React,&nbsp;optimized&nbsp;for&nbsp;page&nbsp;speed&nbsp;and&nbsp;SEO Ensure&nbsp;high&nbsp;availability&nbsp;and&nbsp;performance&nbsp;of&nbsp;our&nbsp;production&nbsp;systems Improve&nbsp;observability,&nbsp;code&nbsp;quality&nbsp;and&nbsp;code&nbsp;structure Mentor&nbsp;colleagues,&nbsp;review&nbsp;code&nbsp;and&nbsp;share&nbsp;knowledge&nbsp;across&nbsp;the&nbsp;team Suggest&nbsp;new&nbsp;ideas&nbsp;to&nbsp;improve&nbsp;our&nbsp;products&nbsp;for&nbsp;our&nbsp;customers Identify&nbsp;technical&nbsp;risks&nbsp;and&nbsp;obstacles&nbsp;early,&nbsp;and&nbsp;take&nbsp;ownership&nbsp;of&nbsp;solving&nbsp;them Requirements Bachelor's degree in Software Engineering, Computer Science or equivalent professional experience Senior engineering experience with RESTful APIs and single page applications Proven track record of driving architecture and code structure in a production system Strong experience with Node.js and TypeScript, including NestJS Solid experience with Next.js and React Experience with Google Cloud or comparable cloud infrastructure (e.g. Cloud Run or similar container platforms) Good knowledge of PostgreSQL or another SQL database, and TypeORM or another ORM Experience optimizing web pages for speed and SEO Ability to work independently, set priorities and move topics forward with little supervision Excellent critical and analytical skills Strong written and verbal English communication skills Comfortable working in an agile environment with common Scrum ceremonies What would be a plus Experience with GitLab CI/CD or comparable pipelines Experience with observability tooling (OpenTelemetry, tracing, metrics, logging) Experience with eCommerce or payment/subscription integrations Knowledge of containers (e.g. Docker) and Kubernetes Written and verbal German communication skills Benefits Choose from a wide range of perks through our flexible benefits system that fit your lifestyle: subsidies for your public transport pass, bike rental, internet bill, gym memberships, or services like HelloFresh, Etepetete, and more! Contributions to your company pension scheme and disability insurance to keep you covered long-term Access to NILO, our health care platform, supporting your physical and mental well-being Enjoy exclusive employee discounts – because we value your hard work! Wear what makes you feel comfortable: our dress code is casual Enjoy up to 5 weeks of Workcation per year – work remotely from inspiring locations around the world! Be part of an international team with like-minded colleagues from over 30 countries – diversity and shared goals included! Regular team events and company parties to keep the fun going. Challenging tasks with real responsibility and the freedom to grow in our dynamic environment. Find more English Speaking Jobs in Germany on Arbeitnow",
     "required_skills": [
-      "werkstudent",
-      "job",
-      "düsseldorf",
-      "homeoffice",
+      "portals",
       "remote"
     ],
     "requirements": [],
     "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-werkstudent-npl-partnermanagement-268610",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-8523f0421ad3",
-    "title": "Senior Salesforce Developer (m/f/d)",
-    "company": "Auxmoney Gmbh",
-    "location": "Remote / Düsseldorf",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Your new team: Would you like to build Salesforce solutions that directly improve the experience of thousands of customers? At auxmoney, you will join a dynamic, cross functional team with a strong focus on customer satisfaction and a 360 degree view of the customer journey. You will work at the intersection of tech, product, and business, shaping scalable platform capabilities and reliable workflows that support one of Europe’s leading fintech platforms. What you can expect: Own end to end delivery: You architect, implement, and maintain high quality Salesforce solutions across Apex, Flows, LWC, and data models, and you take technical ownership from design to release. Build strong architectures: You apply clean architecture, testability, and performance best practices, and you raise the bar for maintainable code across the platform. Deliver great Salesforce UX: You design and optimize Lightning Web Components with strong performance, thoughtful interaction patterns, and a focus on usable, scalable experiences. Secure by design: You implement robust security and sharing concepts aligned with Salesforce’s security model, including profiles, permission sets, role hierarchy, sharing rules, and field level security. Integrate with confidence: You design and implement integrations via REST and SOAP, platform events, and connectors with resilient patterns, strong authentication, and thorough error handling. Optimize for scale: You build within Salesforce governor limits and enforce best practices for bulkification, caching, transaction management, and async processing. Raise engineering standards: You define and champion platform standards, coding conventions, code reviews, and design guidelines as a trusted technical authority. Mentor and multiply impact: You coach junior and mid level developers through pair programming, structured knowledge sharing, and pragmatic guidance that improves team output. Partner across stakeholders: You collaborate closely with Product, Data, and Operations to translate complex business needs into scalable technical designs and delivery plans. Test for trust: You set expectations for meaningful unit and integration testing, and you help the team maintain strong, reliable coverage that supports safe delivery. Keep the platform reliable: You strengthen observability and maintainability through documentation, architectural decision records, and practical knowledge sharing. Work setup: You will work remotely within Germany, with collaboration routines that keep delivery fast, aligned, and transparent. Your profile Seasoned Salesforce development: You bring extensive hands on Salesforce development experience (8+ years) in enterprise environments and a track record of delivering impact at scale. Technical leadership: You are advanced in Flows and highly proficient in Apex and OOP, and you confidently choose the right approach across Flow, Apex, and configuration. Strong LWC expertise: You have deep experience with Lightning Web Components, including lifecycle, reactivity, performance optimization, and UI and UX best practices. Security and compliance mindset: You understand Salesforce’s security and sharing model and design for least privilege from the start. Integration skills: You connect Salesforce to external systems via REST and SOAP, OAuth, and named or external credentials, and you select suitable integration patterns for complex scenarios. Built for scale: You consistently apply best practices in governor limits, bulkification, transactions, async processing, and error handling, and you help others do the same. Delivery discipline: You work fluently with Git and pull requests, and you have hands on experience with CI and CD for Salesforce, for example Salesforce DX and GitHub Actions. Clear communication: You communicate technical concepts clearly in English and collaborate effectively in cross functional teams. Nice to have: You bring German skills, Salesforce certifications such as PD I or PD II, Architect track progress, and experience with managed packages, platform events, and Data Loader or ETL. What we offer: Flexibility for Your Lifestyle: Enjoy family-friendly working hours and a generous home office policy, allowing you to stay agile and flexible in any situation. Ergonomic Work Environment: For your office days, we provide ergonomic workstations that offer you a comfortable and healthy workspace. Independent Work: With short decision-making paths, we enable you to work autonomously and actively contribute your ideas – we provide space for you to take on responsibility. Grow with Us: Unlock your potential with numerous opportunities for growth and development, along with an annual development budget to help you achieve your professional and personal goals. Team Spirit: Team spirit is important to us – we regularly host events and parties where fun is guaranteed. Mobility Your Way: Whether you prefer a train ticket or parking – we support your choice of preferred mobility. Stay Active: Keep fit with a discounted membership at Fitness First or Urban Sports Club, or use our in-house fitness room to stay active after work and enhance your work-life balance. Secure Your Future: Think about your future – we offer subsidies for company pension plans so you can plan long-term with us. Tailored Benefits: We consider your personal life situation – whether you're a parent or love to travel, we offer customized benefits to suit your lifestyle. Your perspective: You will shape how auxmoney builds and scales its Salesforce platform by owning end to end delivery and influencing technical standards. Your work will directly improve reliability, speed, and quality across customer facing and operational processes. You will grow your impact through mentoring and by helping define future architecture decisions. At auxmoney, we’re committed to equal opportunity and diversity. We especially welcome applications from parents, people with disabilities, and members of the LGBTQIA+ community. Please feel free to let us know if you’d like us to use gender-neutral pronouns, if you need barrier-free access to our office, or if you require more time during the application process. Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "it",
-      "tech",
-      "salesforce",
-      "engineer",
-      "engineering",
-      "development",
-      "developer",
-      "remote",
-      "germany",
-      "deutschland",
-      "homeoffice",
-      "jobs",
-      "stellen"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-salesforce-developer-288295",
+    "url": "https://www.arbeitnow.com/jobs/companies/gamigo/remote-senior-fullstack-engineer-node-react-all-genders-germany-250238",
     "date_posted": null
   }
 ]
