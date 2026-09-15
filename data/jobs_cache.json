@@ -1,772 +1,92 @@
 [
   {
-    "id": "jobicy-768fa91d5570",
-    "title": "Senior Product Manager, AI Receptionist",
-    "company": "Boulevard",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Who is Boulevard? Boulevard provides the first and only client experience platform for appointment-based, self-care businesses. We empower our customers to give their clients more of the magical moments that matter most. Before launching in 2016, our founders spent months interviewing salon managers and working behind front desks to understand their pain points so we&hellip;",
-    "required_skills": [
-      "product & operations"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153291-senior-product-manager-ai-receptionist",
-    "date_posted": "2026-09-14"
-  },
-  {
-    "id": "jobicy-f14fab4c8b72",
-    "title": "Senior Frontend Software Engineer (AI Receptionist)",
-    "company": "Cresta",
-    "location": "Canada,  USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channel. The world’s leading companies, including United Airlines, Cox Communications, and Marriott, use Cresta to&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153297-senior-frontend-software-engineer-ai-receptionist",
-    "date_posted": "2026-09-14"
-  },
-  {
-    "id": "jobicy-b64743713a54",
-    "title": "Administrative Assistant IV",
-    "company": "Affirm",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. We are looking for a resourceful, proactive, and detail-oriented Administrative Assistant to support two Senior Executives on our Engineering Teams. From calendar management and&hellip;",
-    "required_skills": [
-      "admin & virtual assistance"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153293-administrative-assistant-iv",
-    "date_posted": "2026-09-14"
-  },
-  {
-    "id": "jobicy-f5a32d87444e",
-    "title": "Manager, Administrative Coordinator Program",
-    "company": "Stripe",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work&hellip;",
-    "required_skills": [
-      "admin & virtual assistance"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153295-manager-administrative-coordinator-program",
-    "date_posted": "2026-09-14"
-  },
-  {
-    "id": "jobicy-68e4bd1fe535",
-    "title": "Operations & Administrative Coordinator",
-    "company": "Fresh Prints",
-    "location": "Philippines",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Operations &amp; Administrative Coordinator Location: RemoteTeam: Total CommerceEmployment Type: Full-Time About Total Commerce Total Commerce is an ecommerce agency focused on helping brands grow through Shopify, ecommerce strategy, development, retention, optimization, and operational support. We work with a wide range of growing and established brands and operate as a small, collaborative team where organization, follow-through,&hellip;",
-    "required_skills": [
-      "product & operations"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153294-operations-administrative-coordinator",
-    "date_posted": "2026-09-14"
-  },
-  {
-    "id": "jobicy-225cc480cb82",
-    "title": "Executive Assistant, Marketing",
-    "company": "Deepgram",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Company Overview Deepgram is the leading platform underpinning the emerging trillion-dollar Voice AI economy, providing real-time APIs for speech-to-text (STT), text-to-speech (TTS), and building production-grade voice agents at scale. More than 200,000 developers and 1,300+ organizations build voice offerings that are ‘Powered by Deepgram’, including Twilio, Cloudflare, Sierra, Decagon, Vapi, Daily, Cresta, Granola, and Jack&hellip;",
-    "required_skills": [
-      "admin & virtual assistance"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153296-executive-assistant-marketing",
-    "date_posted": "2026-09-14"
-  },
-  {
-    "id": "jobicy-66e3a199883a",
-    "title": "Senior Executive Assistant - Customer Success & Services",
-    "company": "Samsara",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical&hellip;",
-    "required_skills": [
-      "admin & virtual assistance"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153292-senior-executive-assistant-customer-success-services",
-    "date_posted": "2026-09-14"
-  },
-  {
-    "id": "jobicy-20f372f73bff",
-    "title": "Senior Administrative Assistant",
-    "company": "Motive",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Who we are: Motive empowers the people who run physical operations with tools to make their work safer, more productive, and more profitable. For the first time ever, safety, operations and finance teams can manage their drivers, vehicles, equipment, and fleet related spend in a single system. Combined with industry leading AI, the Motive platform&hellip;",
-    "required_skills": [
-      "admin & virtual assistance"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153289-senior-administrative-assistant",
-    "date_posted": "2026-09-14"
-  },
-  {
-    "id": "jobicy-035de5de5a33",
-    "title": "Executive Assistant, Founders Office",
-    "company": "Solace",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Solace Healthcare in the U.S. is fundamentally broken. The system is so complex that 88% of U.S. adults do not have the health literacy necessary to navigate it without help. Solace cuts through the red tape of healthcare by pairing patients with expert advocates and giving them the tools to make better decisions—and get&hellip;",
-    "required_skills": [
-      "admin & virtual assistance"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153290-executive-assistant-founders-office",
-    "date_posted": "2026-09-14"
-  },
-  {
-    "id": "jobicy-5849c3d4738f",
-    "title": "Contract Executive Assistant",
-    "company": "Cobalt",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Job Description Cobalt is looking for a seasoned Executive Assistant to support our CEO, Sonali Shah, along with key members of the Executive Leadership Team (ELT). You are a highly organized team player who is comfortable interacting with all levels of an organization. You are self-motivated, thrive in a fast-paced tech environment, and excel at&hellip;",
-    "required_skills": [
-      "admin & virtual assistance"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153288-contract-executive-assistant",
-    "date_posted": "2026-09-14"
-  },
-  {
-    "id": "jobicy-eeb36f5def57",
-    "title": "Senior AI Creative Innovator (Paid Ads)",
-    "company": "OKX",
-    "location": "APAC",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Who We Are At OKX, we believe that the future will be reshaped by crypto, and ultimately contribute to every individual's freedom. OKX is a leading crypto exchange, and the developer of OKX Wallet, giving millions of access to crypto trading and decentralized crypto applications (dApps). OKX is also a trusted brand by hundreds of&hellip;",
-    "required_skills": [
-      "creative & design"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153286-senior-ai-creative-innovator-paid-ads",
-    "date_posted": "2026-09-14"
-  },
-  {
-    "id": "jobicy-e3c3a4f797aa",
-    "title": "Director, Client Services- APAC",
-    "company": "StackAdapt",
-    "location": "Australia,  Singapore",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to drive measurable results across the entire customer journey. The most forward-thinking marketers choose StackAdapt to orchestrate high-impact campaigns across&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153282-director-client-services-apac",
-    "date_posted": "2026-09-14"
-  },
-  {
-    "id": "jobicy-1cd3cf94f50b",
-    "title": "Sales Engineer",
-    "company": "Zscaler",
-    "location": "Thailand",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange™️ platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 160+ public exchanges globally and thousands of private exchanges at the edge,&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153287-sales-engineer-7",
-    "date_posted": "2026-09-14"
-  },
-  {
-    "id": "jobicy-dcb5ed649d6e",
-    "title": "Institutional Relationship Management",
-    "company": "OKX",
-    "location": "APAC",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Who We Are At OKX, we believe that the future will be reshaped by crypto, and ultimately contribute to every individual's freedom. OKX is a leading crypto exchange, and the developer of OKX Wallet, giving millions access to crypto trading and decentralized crypto applications (dApps). OKX is also a trusted brand by hundreds of large&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153279-institutional-relationship-management",
-    "date_posted": "2026-09-14"
-  },
-  {
-    "id": "jobicy-457f5e3e9e5d",
-    "title": "Account Executive, Commercial (West)",
-    "company": "Zscaler",
-    "location": "Japan",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange™️ platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 160+ public exchanges globally and thousands of private exchanges at the edge,&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153285-account-executive-commercial-west-2",
-    "date_posted": "2026-09-14"
-  },
-  {
-    "id": "jobicy-e58bf89c00b4",
-    "title": "Tier 2 - Member Support Agent (Offshore - Philippines)",
-    "company": "PadSplit",
-    "location": "Philippines",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "PadSplit is a pioneering real estate platform operating in the shared housing industry, committed to providing affordable housing accommodations for low-income earners. We are dedicated to helping solve the affordable housing crisis while leveraging housing as a vehicle for financial empowerment for our members. Our principles are Care, Show it, Prove it, and we’ve been&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153284-tier-2-member-support-agent-offshore-philippines",
-    "date_posted": "2026-09-14"
-  },
-  {
-    "id": "jobicy-8a94a87e38bd",
-    "title": "Technical Project Manager",
-    "company": "Zone &#038; Co",
-    "location": "Philippines",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Zone &amp; Company Software Consulting LLC (“Zone”) is the ERP-native AI platform for financial operations, purpose-built for organizations running on Oracle NetSuite. We are redefining how finance teams operate by delivering an AI-powered system that automates, connects, and scales financial workflows directly within the ERP. As the AI operating system for finance teams in NetSuite,&hellip;",
-    "required_skills": [
-      "project & program management"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153283-technical-project-manager",
-    "date_posted": "2026-09-14"
-  },
-  {
-    "id": "jobicy-0490f117d618",
-    "title": "Tier 1 - Support Agent",
-    "company": "PadSplit",
-    "location": "Philippines",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Are you ready to dive into the world of a fast-paced tech startup? Are you ready to change the world? At PadSplit we're disrupting the affordable housing industry by creating safe, attractive, and respectable co-living environments. If you're motivated by the conviction that working people should have a decent place to live, and want to&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153280-tier-1-support-agent",
-    "date_posted": "2026-09-14"
-  },
-  {
-    "id": "jobicy-f32dbfc54a7a",
-    "title": "Frontline Support Analyst",
-    "company": "Zone &#038; Co",
-    "location": "Philippines",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Zone &amp; Company Software Consulting LLC (“Zone”) is the ERP-native AI platform for financial operations, purpose-built for organizations running on Oracle NetSuite. We are redefining how finance teams operate by delivering an AI-powered system that automates, connects, and scales financial workflows directly within the ERP. As the AI operating system for finance teams in NetSuite,&hellip;",
-    "required_skills": [
-      "technical support"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153278-frontline-support-analyst-2",
-    "date_posted": "2026-09-14"
-  },
-  {
-    "id": "jobicy-12bd8ed2498c",
-    "title": "Onboarding Coach",
-    "company": "Cloudbeds",
-    "location": "Thailand",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "What Makes Cloudbeds UniqueAt Cloudbeds, we're not just building software, we’re transforming hospitality. Our intelligently designed platform powers properties across 150 countries, processing billions in bookings annually. From independent properties to hotel groups, we help hoteliers transform operations and uplevel their commercial strategy through a unified platform that integrates with hundreds of partners. And we&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153273-onboarding-coach",
-    "date_posted": "2026-09-14"
-  },
-  {
-    "id": "jobicy-754ccc579911",
-    "title": "Sales Director",
-    "company": "Cloudbeds",
-    "location": "Australia,  New Zealand",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "What Makes Cloudbeds UniqueAt Cloudbeds, we're not just building software, we’re transforming hospitality. Our intelligently designed platform powers properties across 150 countries, processing billions in bookings annually. From independent properties to hotel groups, we help hoteliers transform operations and uplevel their commercial strategy through a unified platform that integrates with hundreds of partners. And we&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153277-sales-director",
-    "date_posted": "2026-09-14"
-  },
-  {
-    "id": "jobicy-e2d2db76ccab",
-    "title": "Chief Information Security Officer",
-    "company": "UpGuard",
-    "location": "Australia",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Who are we? At UpGuard, we are replacing manual security bottlenecks with AI-driven precision. Fresh off a US$75M Series C, we are scaling our infrastructure to process 100 billion risk signals daily. This isn’t just growth; it’s a total reimagining of how the world manages cyber risk. We build the Cyber Risk Posture Management (CRPM)&hellip;",
-    "required_skills": [
-      "cybersecurity"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153270-chief-information-security-officer-2",
-    "date_posted": "2026-09-14"
-  },
-  {
-    "id": "jobicy-5150b9c52d7f",
-    "title": "Professional Photoshop Artists",
+    "id": "jobicy-40a89528d66c",
+    "title": "SVP, Product",
     "company": "Toptal",
-    "location": "APAC,  LATAM,  Canada,  Europe",
+    "location": "Canada,  Europe",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "About the Role Our client is building an open dataset of real, professional Photoshop work, published on HuggingFace under CC-BY-4.0, to evaluate how well AI systems understand creative editing. Not synthetic tasks. Not staged demos. Actual production work, done the way you already do it. We're looking for working Photoshop artists across six disciplines to&hellip;",
+    "description": "About Toptal Toptal is a global network of top talent in business, design, and technology that enables companies to scale their teams, on-demand. With $200+ million in annual revenue and team members based around the globe, Toptal is the world’s largest fully remote workforce. We take the best elements of virtual teams and combine them&hellip;",
     "required_skills": [
-      "creative & design"
+      "product & operations"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153268-professional-photoshop-artists",
-    "date_posted": "2026-09-14"
+    "url": "https://jobicy.com/jobs/153312-svp-product",
+    "date_posted": "2026-09-15"
   },
   {
-    "id": "jobicy-ae2f4c02a85d",
-    "title": "Director, Global Solutions Engineering",
-    "company": "UpGuard",
-    "location": "Australia",
+    "id": "jobicy-50b0484e08bb",
+    "title": "Senior DevOps Lead",
+    "company": "LivePerson",
+    "location": "Germany",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Who are we? At UpGuard, we are replacing manual security bottlenecks with AI-driven precision. Fresh off a US$75M Series C, we are scaling our infrastructure to process 100 billion risk signals daily. This isn’t just growth; it’s a total reimagining of how the world manages cyber risk. We build the Cyber Risk Posture Management (CRPM)&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153274-director-global-solutions-engineering",
-    "date_posted": "2026-09-14"
-  },
-  {
-    "id": "jobicy-6bbb832d6b37",
-    "title": "Product Data Science Lead",
-    "company": "UpGuard",
-    "location": "Australia",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Who are we? At UpGuard, we are replacing manual security bottlenecks with AI-driven precision. Fresh off a US$75M Series C, we are scaling our infrastructure to process 100 billion risk signals daily. This isn’t just growth; it’s a total reimagining of how the world manages cyber risk. We build the Cyber Risk Posture Management (CRPM)&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153276-product-data-science-lead",
-    "date_posted": "2026-09-14"
-  },
-  {
-    "id": "jobicy-9a2cdae6597c",
-    "title": "Manager, GTM Engineering",
-    "company": "UpGuard",
-    "location": "Australia",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Who are we? At UpGuard, we are replacing manual security bottlenecks with AI-driven precision. Fresh off a US$75M Series C, we are scaling our infrastructure to process 100 billion risk signals daily. This isn’t just growth; it’s a total reimagining of how the world manages cyber risk. We build the Cyber Risk Posture Management (CRPM)&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153275-manager-gtm-engineering",
-    "date_posted": "2026-09-14"
-  },
-  {
-    "id": "jobicy-4e5979b972fc",
-    "title": "Senior Billing Escalations Agent",
-    "company": "LevelUp",
-    "location": "Philippines",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Company Overview LevelUp is a specialist agency that provides outsourcing solutions to agencies, software vendors, and website owners. For over seven years, we have successfully collaborated with a variety of companies, providing valuable technical, operational, and back-office support. We have a large team of skilled and passionate professionals who are committed to delivering high-quality work&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153269-senior-billing-escalations-agent",
-    "date_posted": "2026-09-14"
-  },
-  {
-    "id": "jobicy-11618849b536",
-    "title": "Senior Systems Engineer",
-    "company": "UpGuard",
-    "location": "Australia",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Who are we? At UpGuard, we are replacing manual security bottlenecks with AI-driven precision. Fresh off a US$75M Series C, we are scaling our infrastructure to process 100 billion risk signals daily. This isn’t just growth; it’s a total reimagining of how the world manages cyber risk. We build the Cyber Risk Posture Management (CRPM)&hellip;",
+    "description": "Location: Berlin, Germany Remote Status: Fully Remote (#LI-Remote) LivePerson (NASDAQ: LPSN) is a leader in trusted enterprise conversational AI and digital transformation. The world's leading brands use our award-winning Conversational Cloud platform to connect with millions of consumers. We power nearly a billion conversational interactions every month, providing uniquely rich data analytics and safety tools&hellip;",
     "required_skills": [
       "devops & infrastructure"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153272-senior-systems-engineer",
-    "date_posted": "2026-09-14"
+    "url": "https://jobicy.com/jobs/153313-senior-devops-lead",
+    "date_posted": "2026-09-15"
   },
   {
-    "id": "jobicy-b961fe70663f",
-    "title": "Manager, Customer Support - ANZ",
-    "company": "Cloudbeds",
-    "location": "Australia,  New Zealand",
+    "id": "jobicy-b6ca96425272",
+    "title": "Chief Technology Officer",
+    "company": "Toptal",
+    "location": "LATAM,  Canada,  Europe",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "What Makes Cloudbeds UniqueAt Cloudbeds, we're not just building software, we’re transforming hospitality. Our intelligently designed platform powers properties across 150 countries, processing billions in bookings annually. From independent properties to hotel groups, we help hoteliers transform operations and uplevel their commercial strategy through a unified platform that integrates with hundreds of partners. And we&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153271-manager-customer-support-anz",
-    "date_posted": "2026-09-14"
-  },
-  {
-    "id": "jobicy-792978d87b6b",
-    "title": "Analytics Engineer II",
-    "company": "Affirm",
-    "location": "Poland",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. Financial Systems owns the data and reporting foundation for Accounting, and the operational reliability of the pipelines that power reporting, reconciliations, and automation. We&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153263-analytics-engineer-ii",
-    "date_posted": "2026-09-14"
-  },
-  {
-    "id": "jobicy-41dfa0124797",
-    "title": "Analytics Lead, Full Stack",
-    "company": "Affirm",
-    "location": "UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. We are seeking a highly motivated and analytical individual to join our Growth Analytics International team. This team plays a crucial role in conducting&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153266-analytics-lead-full-stack",
-    "date_posted": "2026-09-14"
-  },
-  {
-    "id": "jobicy-41e67d60fcc5",
-    "title": "Analyst II, Full Stack (Revenue Analytics)",
-    "company": "Affirm",
-    "location": "Spain",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. We’re looking for a curious, driven professional to join our Revenue Analytics team. This builds and owns the data products, reporting infrastructure, semantic foundations,&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153258-analyst-ii-full-stack-revenue-analytics",
-    "date_posted": "2026-09-14"
-  },
-  {
-    "id": "jobicy-ed47a9765670",
-    "title": "Senior Product Designer (Full Remote - France)",
-    "company": "EverAI",
-    "location": "France",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Our Vision &amp; Products EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI, we’re shaping what it means to connect with AI. With 50 million users&hellip;",
-    "required_skills": [
-      "web, ui & ux design"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153267-senior-product-designer-full-remote-france",
-    "date_posted": "2026-09-14"
-  },
-  {
-    "id": "jobicy-e3a7a14f360e",
-    "title": "Technical Account Manager, Europe",
-    "company": "Socket",
-    "location": "Europe",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Us Socket helps devs and security teams ship faster by cutting out security busywork. Thousands of orgs use Socket to safely find, audit, and manage open source code. Our customers - from Anthropic to xAI, and Figma to Vercel - love Socket (just check out their tweets to see for yourself!) Founded by Feross&hellip;",
-    "required_skills": [
-      "technical support"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153262-technical-account-manager-europe",
-    "date_posted": "2026-09-14"
-  },
-  {
-    "id": "jobicy-40ba26e36a8e",
-    "title": "Senior Affiliate Manager (Full Remote - Cyprus)",
-    "company": "EverAI",
-    "location": "Cyprus",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Our Vision &amp; Products EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI, we’re shaping what it means to connect with AI. With 50 million users&hellip;",
-    "required_skills": [
-      "marketing & sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153264-senior-affiliate-manager-full-remote-cyprus",
-    "date_posted": "2026-09-14"
-  },
-  {
-    "id": "jobicy-0aa0f2106f99",
-    "title": "Senior Affiliate Manager (Full Remote - Italy)",
-    "company": "EverAI",
-    "location": "Italy",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Our Vision &amp; Products EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI, we’re shaping what it means to connect with AI. With 50 million users&hellip;",
-    "required_skills": [
-      "marketing & sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153259-senior-affiliate-manager-full-remote-italy",
-    "date_posted": "2026-09-14"
-  },
-  {
-    "id": "jobicy-63fb9a380432",
-    "title": "Clinical Project Manager / Senior Clinical Project Manager",
-    "company": "Precision Medicine Group",
-    "location": "Slovakia",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Are you an experienced full service Project Manager in the field of clinical trials who’s engaged in addressing the challenges facing the research and development of novel compounds in Oncology. Are you passionate about impacting the health and lives of patients around the world? Do you take a consultative approach to trial management, proving to&hellip;",
-    "required_skills": [
-      "project & program management"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153260-clinical-project-manager-senior-clinical-project-manager",
-    "date_posted": "2026-09-14"
-  },
-  {
-    "id": "jobicy-504dd4442c8e",
-    "title": "Account Executive, EMEA",
-    "company": "Socket",
-    "location": "Europe",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Us Socket helps devs and security teams ship faster by cutting out security busywork. Thousands of orgs use Socket to safely find, audit, and manage open source code. Our customers - from Anthropic to xAI, and Figma to Vercel - love Socket (just check out their tweets to see for yourself!) Founded by Feross&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153265-account-executive-emea-3",
-    "date_posted": "2026-09-14"
-  },
-  {
-    "id": "jobicy-d5f9a5ec20db",
-    "title": "Senior Affiliate Manager (Full Remote - Greece)",
-    "company": "EverAI",
-    "location": "Greece,  Italy",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Our Vision &amp; Products EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI, we’re shaping what it means to connect with AI. With 50 million users&hellip;",
-    "required_skills": [
-      "marketing & sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153261-senior-affiliate-manager-full-remote-greece",
-    "date_posted": "2026-09-14"
-  },
-  {
-    "id": "jobicy-7581e67d64e7",
-    "title": "Category Manager Asian & Tribal Arts",
-    "company": "Catawiki",
-    "location": "France,  Italy,  Netherlands",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At Catawiki, every day brings the extraordinary! Whether it’s Daniel Ricciardo’s Formula 1 Car, a Woolly Mammoth’s Skeleton, Lady Gaga's Jumpsuit or Usain Bolt’s running shoe, we encounter exceptional objects every day. We’re a one-of-a-kind marketplace for buying and selling special objects. Each week, more than 100,000 unique items are auctioned, all carefully curated by&hellip;",
-    "required_skills": [
-      "product & operations"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153255-category-manager-asian-tribal-arts",
-    "date_posted": "2026-09-14"
-  },
-  {
-    "id": "jobicy-38bc85a2b3af",
-    "title": "Category Manager Coins & Banknotes",
-    "company": "Catawiki",
-    "location": "France,  Italy,  Netherlands",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At Catawiki, every day brings the extraordinary! Whether it’s Daniel Ricciardo’s Formula 1 Car, a Woolly Mammoth’s Skeleton, Lady Gaga's Jumpsuit or Usain Bolt’s running shoe, we encounter exceptional objects every day. We’re a one-of-a-kind marketplace for buying and selling special objects. Each week, more than 100,000 unique items are auctioned, all carefully curated by&hellip;",
-    "required_skills": [
-      "product & operations"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153257-category-manager-coins-banknotes",
-    "date_posted": "2026-09-14"
-  },
-  {
-    "id": "jobicy-6c65b7083f15",
-    "title": "Senior Affiliate Manager (Full Remote - Spain)",
-    "company": "EverAI",
-    "location": "Spain",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Our Vision &amp; Products EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI, we’re shaping what it means to connect with AI. With 50 million users&hellip;",
-    "required_skills": [
-      "marketing & sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153256-senior-affiliate-manager-full-remote-spain",
-    "date_posted": "2026-09-14"
-  },
-  {
-    "id": "jobicy-c644f4cc9a3f",
-    "title": "Backend Engineer",
-    "company": "Catawiki",
-    "location": "Portugal",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At Catawiki, every day brings the extraordinary! Whether it’s Daniel Ricciardo’s Formula 1 Car, a Woolly Mammoth’s Skeleton, Lady Gaga's Jumpsuit or Usain Bolt’s running shoe, we encounter exceptional objects every day. We’re a one-of-a-kind marketplace for buying and selling special objects. Each week, more than 100,000 unique items are auctioned, all carefully curated by&hellip;",
+    "description": "About Toptal Toptal is a global network of top talent in business, design, and technology that enables companies to scale their teams, on-demand. With $200+ million in annual revenue and team members based around the globe, Toptal is the world’s largest fully remote workforce. We take the best elements of virtual teams and combine them&hellip;",
     "required_skills": [
       "software engineering"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153250-backend-engineer-2",
-    "date_posted": "2026-09-14"
+    "url": "https://jobicy.com/jobs/153308-chief-technology-officer-3",
+    "date_posted": "2026-09-15"
   },
   {
-    "id": "jobicy-227bcf80c84d",
-    "title": "Campaigns & Activations Specialist - Category Marketing",
-    "company": "Catawiki",
-    "location": "Netherlands",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At Catawiki, every day brings the extraordinary! Whether it’s Daniel Ricciardo’s Formula 1 Car, a Woolly Mammoth’s Skeleton, Lady Gaga's Jumpsuit or Usain Bolt’s running shoe, we encounter exceptional objects every day. We’re a one-of-a-kind marketplace for buying and selling special objects. Each week, more than 100,000 unique items are auctioned, all carefully curated by&hellip;",
-    "required_skills": [
-      "marketing & sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153253-campaigns-activations-specialist-category-marketing",
-    "date_posted": "2026-09-14"
-  },
-  {
-    "id": "jobicy-278de4cad24f",
-    "title": "Senior Performance Marketer (Full Remote - UK)",
-    "company": "EverAI",
+    "id": "jobicy-f16f1c61b1b7",
+    "title": "Infrastructure Engineer",
+    "company": "Tailscale",
     "location": "UK",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Our Vision &amp; Products EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI, we’re shaping what it means to connect with AI. With 50 million users&hellip;",
+    "description": "About Tailscale Tailscale is making safe connection effortless by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corporations, teams of every size use Tailscale each day to protect their networks, share access to internal tools, and more. We're building a future&hellip;",
     "required_skills": [
-      "marketing & sales"
+      "devops & infrastructure"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153252-senior-performance-marketer-full-remote-uk",
-    "date_posted": "2026-09-14"
+    "url": "https://jobicy.com/jobs/153315-infrastructure-engineer-2",
+    "date_posted": "2026-09-15"
   },
   {
-    "id": "jobicy-7e8c301dccf9",
-    "title": "Customer Solutions Consultant, Ada Accelerate",
+    "id": "jobicy-685c64ae14b2",
+    "title": "SecOps Engineer I",
+    "company": "LivePerson",
+    "location": "Bulgaria",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "LivePerson (NASDAQ:LPSN) is a Conversational AI company creating digital experiences that are Curiously Human. Everyperson is unique, and our technology makes it possible for companies, including leading brands like HSBC, Orange, and GMFinancial, to treat their audiences that way at scale. Nearly a billion conversational interactions are powered by ourConversational Cloud each month.You’ll be successful&hellip;",
+    "required_skills": [
+      "cybersecurity"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153310-secops-engineer-i",
+    "date_posted": "2026-09-15"
+  },
+  {
+    "id": "jobicy-82697868ce7d",
+    "title": "Technical Support Advisor",
     "company": "Ada",
     "location": "UK",
     "remote": true,
@@ -774,80 +94,760 @@
     "salary": null,
     "description": "About Us Ada is an AI customer service company whose mission is to make customer service extraordinary for everyone. We're driven to raise a new standard of quality customer service at scale, enabling enterprise companies to deliver experiences that people love–instant, proactive, personalized, and effortless. Ada is an AI transformation platform and partner—combining strategic expertise&hellip;",
     "required_skills": [
-      "customer support & success"
+      "technical support"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153248-customer-solutions-consultant-ada-accelerate",
-    "date_posted": "2026-09-14"
+    "url": "https://jobicy.com/jobs/153309-technical-support-advisor-2",
+    "date_posted": "2026-09-15"
   },
   {
-    "id": "jobicy-ff4cc8e779b3",
-    "title": "Senior Performance Marketer (Full Remote - Spain)",
-    "company": "EverAI",
-    "location": "Spain",
+    "id": "jobicy-5ad3e1b251d6",
+    "title": "Account Development Representative - DACH",
+    "company": "Samsara",
+    "location": "France,  Germany,  Netherlands,  UK",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Our Vision &amp; Products EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI, we’re shaping what it means to connect with AI. With 50 million users&hellip;",
-    "required_skills": [
-      "marketing & sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153251-senior-performance-marketer-full-remote-spain",
-    "date_posted": "2026-09-14"
-  },
-  {
-    "id": "jobicy-cccde83d01a9",
-    "title": "Senior Affiliate Manager (Full Remote - Portugal)",
-    "company": "EverAI",
-    "location": "Portugal",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Our Vision &amp; Products EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI, we’re shaping what it means to connect with AI. With 50 million users&hellip;",
-    "required_skills": [
-      "business development"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153254-senior-affiliate-manager-full-remote-portugal",
-    "date_posted": "2026-09-14"
-  },
-  {
-    "id": "jobicy-b7f9b0ae7130",
-    "title": "Member of Technical Staff (Data Intelligence)",
-    "company": "Reka",
-    "location": "Singapore,  UK,  USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "In this role, you’ll work closely with model researchers, data infrastructure engineers, and cross-functional partners to make sure our data is high quality and can be produced at petabyte scale in a reliable, efficient way. From understanding how data choices show up in model behavior, to building processing pipelines and running the compute behind them,&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153245-member-of-technical-staff-data-intelligence",
-    "date_posted": "2026-09-14"
-  },
-  {
-    "id": "jobicy-bbce07dd4919",
-    "title": "Commercial Account Executive UKI",
-    "company": "1Password",
-    "location": "Ireland,  UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for a safe, productive digital future. Our mission is&hellip;",
+    "description": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical&hellip;",
     "required_skills": [
       "sales"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153239-commercial-account-executive-uki",
-    "date_posted": "2026-09-14"
+    "url": "https://jobicy.com/jobs/152463-account-development-representative-dach-2",
+    "date_posted": "2026-09-15"
+  },
+  {
+    "id": "jobicy-83b740393623",
+    "title": "Pre-Sales Solutions Architect, LATAM",
+    "company": "Planet Labs Inc.",
+    "location": "LATAM",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Welcome to Planet. We believe in using space to help life on Earth. Planet designs, builds, and operates the largest constellation of imaging satellites in history. This constellation delivers an unprecedented dataset of empirical information via a revolutionary cloud-based platform to authoritative figures in commercial, environmental, and humanitarian sectors. We are both a space company&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/149157-pre-sales-solutions-architect-latam",
+    "date_posted": "2026-09-15"
+  },
+  {
+    "id": "jobicy-1f0da7867ea0",
+    "title": "Enterprise Sales Engineer - Toronto",
+    "company": "Samsara",
+    "location": "Canada",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Who we areSamsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/142074-enterprise-sales-engineer-toronto",
+    "date_posted": "2026-09-15"
+  },
+  {
+    "id": "jobicy-fc0ffc81354a",
+    "title": "Customer Solutions Engineer – Payments",
+    "company": "Zuora",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About ZuoraAt Zuora, we help businesses grow smarter and adapt faster. Our platform powers modern business models — from subscriptions and usage-based pricing to AI-driven and outcome-based offerings — helping companies launch new products, automate complex billing, and unlock predictable, recurring revenue.We’ve led the Subscription Economy for more than a decade. Now we’re evolving again&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/149199-customer-solutions-engineer-payments",
+    "date_posted": "2026-09-15"
+  },
+  {
+    "id": "jobicy-ef49479e09f6",
+    "title": "Business Development Representative, B2B",
+    "company": "Quince",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "ABOUT QUINCE Founded in 2018, Quince was built to challenge the idea that nice things have to cost a lot. Our mission is simple: to make really high quality essentials for really low prices, produced fairly and sustainably. We believe everyone deserves exceptional craftsmanship and timeless design without the traditional markups. Quince is a direct-to-consumer&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150813-business-development-representative-b2b",
+    "date_posted": "2026-09-15"
+  },
+  {
+    "id": "jobicy-9d3fd2d1db89",
+    "title": "Agentic AI Technical Mentor - Independent Contractor (US Canada, Europe, MENA, APAC)",
+    "company": "Udacity",
+    "location": "APAC,  Canada,  Europe,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Us Udacity is now an Accenture company, and exciting things are happening! We are on a mission of forging futures in tech through radical talent transformation in digital technologies. We offer a unique and immersive online learning platform, powering corporate technical training in fields such as Artificial Intelligence, Machine Learning, Data Science, Autonomous&hellip;",
+    "required_skills": [
+      "education & e-learning"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150763-agentic-ai-technical-mentor-independent-contractor-us-canada-europe-mena-india-apac-timezones",
+    "date_posted": "2026-09-15"
+  },
+  {
+    "id": "jobicy-a45cbdcaebe4",
+    "title": "Associate (CPA/SMMM)",
+    "company": "Manay CPA Inc.",
+    "location": "Türkiye",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Are you ready to expand your expertise in U.S. accounting and tax practices while working with a diverse client base across multiple industries? We’re looking for motivated professionals who enjoy variety in their work and are eager to build hands-on experience with U.S. GAAP, tax codes, and business operations. Who We Are Manay CPA is&hellip;",
+    "required_skills": [
+      "finance & accounting"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150821-associate-cpa-smmm",
+    "date_posted": "2026-09-15"
+  },
+  {
+    "id": "jobicy-e57921c5927c",
+    "title": "Enterprise Account Director",
+    "company": "dscout",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "At Dscout, we’re building the most flexible and powerful UX research platform on the market—trusted by the world’s top brands in finance (JP Morgan Chase, Intuit, Charles Schwab, PayPal), healthcare (Aya, Headspace), consumer goods (Keen, Verizon, Target, Northface), and tech (Google, Amazon, Facebook, Meta, Spotify, AirBnB). Our tools help teams deeply understand the humans behind&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150766-enterprise-account-director",
+    "date_posted": "2026-09-15"
+  },
+  {
+    "id": "jobicy-5ec5a6cc1d7c",
+    "title": "Account Executive, Mid-Market",
+    "company": "Fleetio",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "A little about us…Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations. Transportation technology is a hot market, and we’re leading the charge with raving fans and new customers signing up every day. We raised $450M in our Series D funding round in March of 2025 and are&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150768-account-executive-mid-market",
+    "date_posted": "2026-09-15"
+  },
+  {
+    "id": "jobicy-82b604d55aea",
+    "title": "Director, Platform and AI Sales",
+    "company": "League",
+    "location": "Canada",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About League League is one of the fastest-growing technology companies in Canada and the leading healthcare experience platform. Getting healthcare is often the easy part — finishing it is where things fall apart: people book the appointment and skip the follow-up, fill the prescription and stop taking it, get the referral and never make the&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150820-director-platform-and-ai-sales",
+    "date_posted": "2026-09-15"
+  },
+  {
+    "id": "jobicy-78dda0e1adf1",
+    "title": "AI Technical Mentor - Independent Contractor (US Canada, Europe, MENA, APAC)",
+    "company": "Udacity",
+    "location": "APAC,  EMEA,  Canada,  Europe,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Us Udacity is now an Accenture company, and exciting things are happening! We are on a mission of forging futures in tech through radical talent transformation in digital technologies. We offer a unique and immersive online learning platform, powering corporate technical training in fields such as Artificial Intelligence, Machine Learning, Data Science, Autonomous&hellip;",
+    "required_skills": [
+      "education & e-learning"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150767-ai-technical-mentor-independent-contractor-us-canada-europe-mena-india-apac-timezones",
+    "date_posted": "2026-09-15"
+  },
+  {
+    "id": "jobicy-54b6d741b48d",
+    "title": "Director, Growth Marketing",
+    "company": "League",
+    "location": "Canada",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About League League is one of the fastest-growing technology companies in Canada and the leading healthcare experience platform. Getting healthcare is often the easy part — finishing it is where things fall apart: people book the appointment and skip the follow-up, fill the prescription and stop taking it, get the referral and never make the&hellip;",
+    "required_skills": [
+      "marketing & sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150818-director-growth-marketing",
+    "date_posted": "2026-09-15"
+  },
+  {
+    "id": "jobicy-ec9cc2d6fc72",
+    "title": "IT Administrator",
+    "company": "Kalshi",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Kalshi is defining a new category Kalshi has defined a new category: prediction markets. Kalshi allows people to trade on the outcome of any events and turn any question about the future into a financial asset. Kalshi fought for years and legalized prediction markets in the US for the first time in history. Kalshi is&hellip;",
+    "required_skills": [
+      "devops & infrastructure"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150748-it-administrator",
+    "date_posted": "2026-09-15"
+  },
+  {
+    "id": "jobicy-cb548d06530e",
+    "title": "Staff Product Designer",
+    "company": "OpenSea",
+    "location": "Europe,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "OpenSea is building the gateway to the onchain economy - a rich world of communities, assets &amp; creative expression uniquely possible with native digital ownership. Our products support millions of users and have helped shape onchain markets that exist today—and we're just getting started. Our goal is to build the highest-leverage, most AI-native team in&hellip;",
+    "required_skills": [
+      "web, ui & ux design"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150773-staff-product-designer-5",
+    "date_posted": "2026-09-15"
+  },
+  {
+    "id": "jobicy-4ea0b2b1faaa",
+    "title": "AI Mentor (Independent Contractor) - Business Leader Programs",
+    "company": "Udacity",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Us Udacity is now an Accenture company, and exciting things are happening! We are on a mission of forging futures in tech through radical talent transformation in digital technologies. We offer a unique and immersive online learning platform, powering corporate technical training in fields such as Artificial Intelligence, Machine Learning, Data Science, Autonomous&hellip;",
+    "required_skills": [
+      "education & e-learning"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150765-ai-mentor-independent-contractor-business-leader-programs",
+    "date_posted": "2026-09-15"
+  },
+  {
+    "id": "jobicy-da147a144211",
+    "title": "Director of Engineering, Leverage",
+    "company": "Fleetio",
+    "location": "Canada,  Mexico,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "A little about us…Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations. Transportation technology is a hot market, and we’re leading the charge with raving fans and new customers signing up every day. We raised $450M in our Series D funding round in March of 2025 and are&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150772-director-of-engineering-leverage",
+    "date_posted": "2026-09-15"
+  },
+  {
+    "id": "jobicy-6dbd159ec7ef",
+    "title": "Accounting Associate (Remote, USA-Based)",
+    "company": "Manay CPA Inc.",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Are you ready to expand your expertise in U.S. accounting and tax practices while working with a diverse client base across multiple industries? We’re looking for motivated professionals who enjoy variety in their work and are eager to build hands-on experience with U.S. GAAP, tax codes, and business operations. Who We Are Manay CPA is&hellip;",
+    "required_skills": [
+      "finance & accounting"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150819-accounting-associate-remote-usa-based",
+    "date_posted": "2026-09-15"
+  },
+  {
+    "id": "jobicy-1ac134cc7e1d",
+    "title": "Account Executive, SMB",
+    "company": "Fleetio",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "A little about us…Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations. Transportation technology is a hot market, and we’re leading the charge with raving fans and new customers signing up every day. We raised $450M in our Series D funding round in March of 2025 and are&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150770-account-executive-smb",
+    "date_posted": "2026-09-15"
+  },
+  {
+    "id": "jobicy-dbd70f3001a8",
+    "title": "Account Executive, Commercial Accounts (Public)",
+    "company": "Veeam Software",
+    "location": "Germany",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security,&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150759-account-executive-commercial-accounts-public",
+    "date_posted": "2026-09-15"
+  },
+  {
+    "id": "jobicy-aa3f1b8eba3f",
+    "title": "Design Engineer, Brand",
+    "company": "infisical",
+    "location": "Brazil,  Canada,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Infisical is the open source security infrastructure platform that engineers use for secrets management, certificates, and privileged access management. We help developers and organizations securely manage billions of secrets every month including application configuration, database credentials, certificates, and more. We’ve raised $19M from Y Combinator, Google, and Elad Gil, and our customers include Hugging Face,&hellip;",
+    "required_skills": [
+      "web, ui & ux design"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150758-design-engineer-brand",
+    "date_posted": "2026-09-15"
+  },
+  {
+    "id": "jobicy-bcbf731c911a",
+    "title": "Business Development Manager",
+    "company": "Thoughtworks",
+    "location": "Singapore",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Thoughtworks is seeking industry- and market-relevant business development professionals to join and lead a sector of our client growth in the Singapore region. Business Development Managers at Thoughtworks are responsible for developing and securing a pipeline of new opportunities and building relationships with both new clients and in new areas of existing client organizations. As&hellip;",
+    "required_skills": [
+      "business development"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150754-business-development-manager",
+    "date_posted": "2026-09-15"
+  },
+  {
+    "id": "jobicy-ea374c1a2374",
+    "title": "Partnership Director",
+    "company": "Nabla",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Nabla We are a team of entrepreneurs, clinicians and engineers committed to bringing back joy to the practice of medicine. Together with a community of clinician innovators, we’ve harnessed the best of machine learning science to develop Nabla: the leading AI assistant that’s restoring the human connection at the heart of healthcare. By streamlining&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150755-partnership-director",
+    "date_posted": "2026-09-15"
+  },
+  {
+    "id": "jobicy-692f0b8659e6",
+    "title": "Growth Marketing Manager",
+    "company": "infisical",
+    "location": "Canada,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Infisical is the open source security infrastructure platform that engineers use for secrets management, certificates, and privileged access management. We help developers and organizations securely manage billions of secrets every month including application configuration, database credentials, certificates, and more. We’ve raised $19M from Y Combinator, Google, and Elad Gil, and our customers include Hugging Face,&hellip;",
+    "required_skills": [
+      "marketing & sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150760-growth-marketing-manager",
+    "date_posted": "2026-09-15"
+  },
+  {
+    "id": "jobicy-0a0b22c40479",
+    "title": "Mid-Market Account Executive",
+    "company": "Nabla",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Nabla We are a team of entrepreneurs, clinicians and engineers committed to bringing back joy to the practice of medicine. Together with a community of clinician innovators, we’ve harnessed the best of machine learning science to develop Nabla: the leading AI assistant that’s restoring the human connection at the heart of healthcare. By streamlining&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150752-mid-market-account-executive",
+    "date_posted": "2026-09-15"
+  },
+  {
+    "id": "jobicy-30444be66fc4",
+    "title": "Partner Success Manager - In Market, Southern CA",
+    "company": "Side",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "As a Partner Success Manager, you will act as both the account owner and strategic relationship lead for our Real Estate partners—playing a key role in expanding our footprint across the region. In this dual role, you will be responsible not only for managing and nurturing relationships with existing high-impact partners, but also for identifying,&hellip;",
+    "required_skills": [
+      "customer support & success"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150807-partner-success-manager-in-market-southern-ca",
+    "date_posted": "2026-09-15"
+  },
+  {
+    "id": "jobicy-98e682e00b5c",
+    "title": "Enterprise Account Executive - Northeast/Midwest",
+    "company": "Safe Security",
+    "location": "UK,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Most boards and executives are currently flying blind when it comes to cyber risk. They are guessing. At Safe, we’ve built an AI-driven engine that finally gives the C-Suite a clear, quantified, and real-time view of their security posture. We don’t just provide data; we provide certainty. We are a $170M Series C-funded category leader.&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150805-enterprise-account-executive-northeast-midwest",
+    "date_posted": "2026-09-15"
+  },
+  {
+    "id": "jobicy-c80cfb82a62a",
+    "title": "Enterprise Account Executive - London",
+    "company": "Safe Security",
+    "location": "UK",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Most boards and executives are currently flying blind when it comes to cyber risk. They are guessing. At Safe, we’ve built an AI-driven engine that finally gives the C-Suite a clear, quantified, and real-time view of their security posture. We don’t just provide data; we provide certainty. We are a $170M Series C-funded category leader.&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150804-enterprise-account-executive-london",
+    "date_posted": "2026-09-15"
+  },
+  {
+    "id": "jobicy-639e418d04ee",
+    "title": "(Senior) Product Director, Local Growth",
+    "company": "OKX",
+    "location": "LATAM",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Who We Are At OKX, we believe that the future will be reshaped by crypto, and ultimately contribute to every individual's freedom. OKX is a leading crypto exchange, and the developer of OKX Wallet, giving millions access to crypto trading and decentralized crypto applications (dApps). OKX is also a trusted brand by hundreds of large&hellip;",
+    "required_skills": [
+      "product & operations"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150798-senior-product-director-local-growth",
+    "date_posted": "2026-09-15"
+  },
+  {
+    "id": "jobicy-a8a4ed0ff17a",
+    "title": "Chief of Staff, Emergency Cash (Senior Manager)",
+    "company": "GiveDirectly",
+    "location": "UK,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "GiveDirectly has delivered more than $1B in cash directly to 2+ million people living in poverty across 15 countries since 2011. We believe cash transfers are one of the most scalable, cost-effective, and dignified forms of aid, with the research to back it up. Our work has been covered by The Economist, NPR, TED, and&hellip;",
+    "required_skills": [
+      "product & operations"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150791-chief-of-staff-emergency-cash-senior-manager",
+    "date_posted": "2026-09-15"
+  },
+  {
+    "id": "jobicy-cf9eb8f2fbb2",
+    "title": "Math Content Teacher **Referrals ONLY**",
+    "company": "Think Academy US",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Start: August 2026 Job Type: Full-Time (30–40 hours/week, W2); Remote (U.S. based) Compensation: $35-45/hour for teaching + $16–20/hour for non-teaching time Join Think Academy as a full-time Math Teacher. Teach with a structured, high-quality curriculum, receive paid training, and grow into long-term teaching and curriculum roles. This is a long-term teaching opportunity — not a&hellip;",
+    "required_skills": [
+      "content & editorial"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150785-math-content-teacher-referrals-only",
+    "date_posted": "2026-09-15"
+  },
+  {
+    "id": "jobicy-97b392b67ff7",
+    "title": "Product Designer – Content Solutions",
+    "company": "Fueled",
+    "location": "LATAM",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Location: Remote — Americas Team (Open to applicants located in North &amp; South America, with the ability to primarily work within US business hours/time zones) Fueled is a leading digital strategy, design, and engineering agency. We are a 300+ person team that has designed and built hundreds of digital products and experiences for brands like&hellip;",
+    "required_skills": [
+      "content & editorial"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150781-product-designer-content-solutions",
+    "date_posted": "2026-09-15"
+  },
+  {
+    "id": "jobicy-4f3b9f2c10bd",
+    "title": "Contract Senior Content Designer",
+    "company": "Fueled",
+    "location": "LATAM,  Canada,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Location: Remote – Americas (Open to applicants located in North American aligned time zones) Fueled is a leading digital strategy, design, and engineering agency. We are a 300+ person team that has designed and built hundreds of digital products and experiences for brands like Google, Apple, The New York Times, ESPN, Victoria’s Secret, MGM Resorts,&hellip;",
+    "required_skills": [
+      "content & editorial"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150779-contract-senior-content-designer",
+    "date_posted": "2026-09-15"
+  },
+  {
+    "id": "jobicy-f165e6b5dda6",
+    "title": "Staff Platform Engineer",
+    "company": "OpenSea",
+    "location": "Europe,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "OpenSea is building the gateway to the onchain economy - a rich world of communities, assets &amp; creative expression uniquely possible with native digital ownership. Our products support millions of users and have helped shape onchain markets that exist today—and we're just getting started. Our goal is to build the highest-leverage, most AI-native team in&hellip;",
+    "required_skills": [
+      "devops & infrastructure"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150775-staff-platform-engineer-2",
+    "date_posted": "2026-09-15"
+  },
+  {
+    "id": "jobicy-68cbac893b11",
+    "title": "Data Scientist, Product Analytics",
+    "company": "Meta",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "As a Data Scientist at Meta, you will shape the future of people-facing and business-facing products we build across our entire family of applications (Facebook, Instagram, Messenger, WhatsApp, Oculus). By applying your technical skills, analytical mindset, and product intuition to one of the richest data sets in the world, you will help define the experiences&hellip;",
+    "required_skills": [
+      "data science & analytics"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150667-data-scientist-product-analytics",
+    "date_posted": "2026-09-15"
+  },
+  {
+    "id": "jobicy-0e8fdb4cb3c8",
+    "title": "Data Engineer, Product Analytics",
+    "company": "Meta",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "As a Data Engineer at Meta, you will shape the future of people-facing and business-facing products we build across our entire family of applications (Facebook, Instagram, Messenger, WhatsApp, Reality Labs, Threads). Your technical skills and analytical mindset will be utilized designing and building some of the world's most extensive data sets, helping to craft experiences&hellip;",
+    "required_skills": [
+      "data science & analytics"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150666-data-engineer-product-analytics",
+    "date_posted": "2026-09-15"
+  },
+  {
+    "id": "jobicy-91dae92a1253",
+    "title": "Software Engineer (Technical Leadership)",
+    "company": "Meta",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Meta is seeking a Software Engineer to join our engineering team. The ideal candidate will have industry experience working on a range of classification and optimization problems like payment fraud, click-through rate prediction, click-fraud detection, search ranking, text/sentiment classification, collaborative filtering/recommendation, or spam detection. The position will involve taking these skills and applying them to&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150665-software-engineer-technical-leadership",
+    "date_posted": "2026-09-15"
+  },
+  {
+    "id": "jobicy-36e370d9957c",
+    "title": "Critical Facility Engineer",
+    "company": "Meta",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Meta is seeking a data center Critical Facility Engineer to join our Data Center Facility Operations team. Our data centers serve as the foundation upon which our software operates to meet the demands of our customers. The Critical Facility Engineer will be a part of the Facility Operations team responsible for operating and maintaining critical&hellip;",
+    "required_skills": [
+      "devops & infrastructure"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150664-critical-facility-engineer",
+    "date_posted": "2026-09-15"
+  },
+  {
+    "id": "jobicy-f4b88011e9c9",
+    "title": "Math Content Teacher - Mandarin Speaking Required",
+    "company": "Think Academy US",
+    "location": "Canada",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Role: Math Teacher Job type: Part-Time (12 - 20 hours per week) Location: Remote Intended Start Date: ASAP Who we are: Think Academy US (www.TheThinkAcademy.com), a 100% owned subsidiary of TAL Education Group(NYSE: TAL), is recently established education technology (Ed-Tech) company to provide K-12 extra-curricular learning services through science and technology. At Think Academy, we&hellip;",
+    "required_skills": [
+      "content & editorial"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150786-math-content-teacher-mandarin-speaking-required",
+    "date_posted": "2026-09-15"
+  },
+  {
+    "id": "jobicy-7871e3a23a0b",
+    "title": "Art Director",
+    "company": "Fresh Prints",
+    "location": "Philippines",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Join a high-performing team for an NYC-based custom apparel company This is Crishel, the Creative Director at Fresh Prints. I joined Fresh Prints right after college as an Artist. The job was intense. I was creating 16 designs from prompts… Every. Single. Day. I could do it if you asked me to. But more than&hellip;",
+    "required_skills": [
+      "creative & design"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150790-art-director",
+    "date_posted": "2026-09-15"
+  },
+  {
+    "id": "jobicy-7c97bacf0554",
+    "title": "Account-Based Marketing Manager",
+    "company": "Fresh Prints",
+    "location": "Argentina,  Brazil,  Philippines",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "For years, account-based marketing at Fresh Prints has been built around campaigns. We identify an opportunity, launch a program, measure the results, and rebuild the approach the following year. That is no longer enough. Our highest-value accounts should not be managed as a series of campaigns. They need a long-term growth strategy: a clear view&hellip;",
+    "required_skills": [
+      "marketing & sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150787-account-based-marketing-manager",
+    "date_posted": "2026-09-15"
+  },
+  {
+    "id": "jobicy-76360629bd8d",
+    "title": "Senior Clinical Applications Associate - Cadence/Hello World/MyChart",
+    "company": "Baylor College of Medicine",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Summary The Senior Clinical Applications Associate provides technical and operational support for Epic applications supporting patient engagement, access, and digital front door capabilities at Baylor College of Medicine. This role partners with Access leadership and operational stakeholders to design, implement, and optimize Epic functionality that improves patient communication, scheduling access, and engagement outcomes. The position&hellip;",
+    "required_skills": [
+      "healthcare & medical"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150669-senior-clinical-applications-associate-cadence-hello-world-mychart",
+    "date_posted": "2026-09-15"
+  },
+  {
+    "id": "jobicy-adb92134102a",
+    "title": "Scrum Master",
+    "company": "SkySlope",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "OUR ORIGIN STORY In 2011 SkySlope started as an idea born at the kitchen table of our CEO, with just him and two others. Headquartered in Sacramento, California, we have since grown out of our previous 3 offices and many of our close to 150 employees are spread all across the United States. Those&hellip;",
+    "required_skills": [
+      "project & program management"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150720-scrum-master",
+    "date_posted": "2026-09-15"
+  },
+  {
+    "id": "jobicy-dc8e54002988",
+    "title": "ANALYST DIGITAL MARKETING IV (Remote) IV",
+    "company": "TE Connectivity",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Job Posting Title: ANALYST DIGITAL MARKETING IV (Remote) IV Job ID: 155456 Job Code: 30004700 Business Unit: [[businessUnit]] Building: Non-TE facility (902) Band/Level: 5 Hiring Manager: YAN LIZZIE WANG Recruiter: Pete RoosendaalRelocation: No Travel: Less than 10% Employee Referral Amount: $1,000.00 Education Experience: Bachelors Degree (High School +4 years) Employment Experience: 7-10 years At TE, you will unleash&hellip;",
+    "required_skills": [
+      "marketing & sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150674-analyst-digital-marketing-iv-remote-iv",
+    "date_posted": "2026-09-15"
+  },
+  {
+    "id": "jobicy-43309b849c10",
+    "title": "Account Manager IV (Remote in Bay Area, CA)",
+    "company": "TE Connectivity",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "At TE, you will unleash your potential working with people from diverse backgrounds and industries to create a safer, sustainable and more connected world. ​Job Overview At TE, you will unleash your potential by collaborating with people from diverse backgrounds and industries to create a safer, more sustainable, and connected world. TE’s Data and&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150672-account-manager-iv-remote-in-bay-area-ca",
+    "date_posted": "2026-09-15"
   },
   {
     "id": "remotive-3b763d0bbece",
@@ -1402,261 +1402,39 @@
     "date_posted": "2026-08-15"
   },
   {
-    "id": "remotive-d66213cd8bc0",
-    "title": "Tech Lead Full-Stack Rails Engineer",
-    "company": "Mitre Media",
-    "location": "USA, Canada, USA timezones",
-    "remote": true,
-    "location_restriction": null,
-    "salary": "$170k - $200k",
-    "description": "About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we’ve served individual investors, financial advisors, and top asset managers like BlackRock and Vanguard through our premium data, tools, and advertising solutions. Join our lean, entrepreneurial team to shape the future of AI-powered investing from your location ±3 hours from Eastern Time. Our users are deeply engaged, spending over 5 minutes per visit with a bounce rate below 10%, researching investments across hundreds of different categories. With 40 million brokerage accounts in the U.S., we take pride in building tools that make a real impact, fostering a culture of trust, innovation, and dynamism. If you’re passionate about financial technology and AI, we’d love to connect! About the Role As a Full-Stack Rails Tech Lead, you’ll architect and implement LLM-powered web applications within our microservices-based Rails 8 platform. Reporting directly to our CTO, you’ll collaborate with a small, high-impact team to deliver user experiences across Dividend.com, MutualFunds.com and other brands within our portfolio. This role combines expert Ruby on Rails skills with AI integration expertise, requiring you to leverage LLMs in your development workflow, state management and user interactions. You’ll work in a remote-first hybrid environment, which encourages in person collaboration, using ShapeUp to manage projects that trade-off on-time delivery for de-scoped outcomes. As a technical leader, you'll have a seat at the table shaping system architecture, implementing core features all while embracing an entrepreneurial mindset and a “get things done” mentality. Responsibilities Architect and maintain Rails applications (Rails 8) Integrate LLMs into our microservices architecture for state management and real-time user experiences. Enhance front-end experiences with Hotwire, StimulusJS, or React, ensuring seamless AI-driven interactions. Optimize LLM inference for low latency and cost, using caching and asynchronous processing. Required Technical Skills Back-End Ruby (5+ years, expert-level) Ruby on Rails (Rails 6-8 preferred) PostgreSQL (or MySQL) Elasticsearch Redis Docker Front-End StimulusJS or JavaScript ES6 Tailwind CSS HTML HTTP AI Integration Experience integrating AI/ML models (e.g., LLMs, NLP) with web applications Familiarity with LLM frameworks (e.g., LangChain, Hugging Face) or APIs (e.g., xAI, Anthropic) Nice-to-Have Technical Skills Kubernetes for microservices orchestration React for advanced front-end components Graph databases for complex financial data Contributions to open-source RoR or AI projects Required Soft Skills Entrepreneurial mindset with a passion for AI and FinTech Natural leader who mentors and inspires teammates Problem-solver with a “get things done” mentality Excellent communication, thriving in remote and cross-team collaboration Attention to detail, ensuring clean, maintainable code Team player comfortable as an individual contributor Why Join Us? Impactful Work : Build AI-powered tools that help millions of investors make informed decisions from data-driven insights. Cutting-Edge Tech : Work with Rails 8, LLMs, and modern tools like Hotwire, Databricks, and xAI’s API in a microservices architecture. Autonomy and Influence : Collaborate directly with our CEO and CTO to shape our AI-driven platform, with freedom to innovate. Competitive Compensation : $160,000–$200,000 CAD/USD (based on experience) and benefits. Remote Flexibility : Remote-first (±3 hours from ET) with hybrid in office collaboration in Toronto or NYC Growth Opportunities : Budget for AI and Rails conferences (e.g., NeurIPS, RailsConf), plus access to cutting-edge AI tools for experimentation. Dynamic Culture : Join a small, no-ego team passionate about trust, innovation, and making a difference in FinTech. About Mitre Media’s AI-Driven Platform Mitre Media powers premium financial brands like Dividend.com and MutualFunds.com with the Mitre Platform. This platform integrates traditional content management, financial data, first-party data, ad revenue, and subscription tools, all enhanced by LLMs for rich, user-focused experiences. Our data-derived insights delight users, while our advertising solutions deliver unmatched performance for partners like BlackRock and Vanguard, leveraging advanced targeting and first-party data. How to Apply Submit your resume, GitHub profile, and a brief note on why you’re excited about building AI-driven FinTech to jobs@mitremedia.com.",
-    "required_skills": [
-      "api",
-      "css",
-      "docker",
-      "elasticsearch",
-      "fullstack",
-      "html",
-      "javascript",
-      "kubernetes",
-      "postgresql",
-      "react",
-      "ror",
-      "ruby/rails",
-      "ai/ml",
-      "cad",
-      "advertising",
-      "redis",
-      "es6",
-      "web applications",
-      "mysql",
-      "nlp",
-      "fintech",
-      "micro services",
-      "github",
-      "system architecture"
-    ],
-    "requirements": [],
-    "source": "Remotive",
-    "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
-    "date_posted": "2026-08-14"
-  },
-  {
-    "id": "arbeitnow-915bad208b53",
-    "title": "Amazon Marktplatz-Manager (m/w/d) remote oder hybrid",
-    "company": "EBZ Marketplaces GmbH",
+    "id": "arbeitnow-987aa13451de",
+    "title": "Social Media & Content Manager (m/w/d)",
+    "company": "Neolymp",
     "location": "Berlin",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Du hast Erfahrung mit Amazon gesammelt und willst jetzt richtig Marken groß machen? Bei EBZ Marketplaces bist du vollumfänglich für unseren Amazon-Hauptaccount verantwortlich – von Listing und Advertising bis zu den Lieferantenbeziehungen - mit echter Verantwortung, einem starken Team im Rücken und persönlichem Mentoring durch erfahrene Unternehmer. Aufgaben Du verantwortest unseren Amazon-Hauptaccount vollumfänglich in Seller Central – über alle Marken hinweg. Du optimierst Listings, Content und Buy-Box und behältst Rankings, Reviews und Wettbewerb im Blick. Du steuerst das Amazon-Advertising – Strategie und Ziele kommen von dir, die Umsetzung übernimmt unser spezialisierter PPC-Dienstleister. Du managst die Lieferanten- und Markenbeziehungen: Konditionen, Forecasts, Verfügbarkeit, Nachbestellungen. Du sicherst die Warenverfügbarkeit mit unserem Fulfillment-Team und verhinderst Out-of-Stocks. Für Content und Creatives greifst du nach Absprache auf unser Content-Team Du entwickelst deine Accounts strategisch weiter: neue Produkte, neue Märkte, mehr Marge. Qualifikation Erfahrung im Amazon-Marktplatzgeschäft (Seller, Vendor, Agentur oder Markenseite). Sicherer Umgang mit Seller Central: Listing, PPC, FBA/SFP, Cases, Kennzahlen. Zahlenaffin und datenbasiert (Excel/Sheets sicher; Helium 10, Sellerboard o. ä. von Vorteil). Unternehmerisch und eigenverantwortlich – du siehst Aufgaben, statt auf sie zu warten. Souverän in der Kommunikation mit Marken und Lieferanten. Sehr gutes Deutsch, gutes Englisch. Erfahrung mit strukturiertem, verbindlichem Remote-Arbeiten. Benefits 100 % Remote in der DACH-Zeitzone, auf Wunsch Hybrid in Berlin oder Frankfurt Echte Verantwortung ab Tag eins – deine Accounts, deine Entscheidungen. Rückenwind statt Einzelkämpfertum: Content-Team (nach Absprache), ein spezialisierter PPC-Dienstleister und ein eingespieltes Logistik- und Operations-Team nehmen dir die Umsetzung ab – du gibst die Richtung vor. Mentoring &#x26; Coaching durch erfolgreiche Unternehmer und Manager, auf Wunsch begleitend zum Job. Team-Events und ein Büro in Berlin-Mitte oder Frankfurt, das dir auf Wunsch offensteht – remote heißt bei uns nicht allein. Flache Hierarchien, kurze Wege, ein Team, das seit 2016 weiß, wie Amazon funktioniert. Ein wachsendes Unternehmen mit rund 20 Marken – Raum zum Mitgestalten. Klingt nach dir? Dann freuen wir uns darauf, dich kennenzulernen. Schick uns einfach deinen Lebenslauf und ein kurzes Anschreiben – erzähl uns darin, welchen Amazon-Account du schon einmal messbar nach vorne gebracht hast und warum EBZ zu dir passt. Wir melden uns schnell bei dir. Find Jobs in Germany on Arbeitnow",
+    "description": "Du liebst es, wenn aus einer Idee in kurzer Zeit fertiger Content wird – und weißt, was auf TikTok, Instagram und Pinterest wirklich funktioniert? Bei NEOLYMP wirst du Teil eines Content-Teams, das den Nachschub an starken Inhalten für eine wachsende Fitnessmarke sichert: organisch, aus unserem Creator-Netzwerk und zunehmend mit KI-gestützten Workflows. Wer wir sind NEOLYMP ist eine Berliner Fitnessmarke, gegründet 2018. Wir entwickeln innovatives Fitnessequipment und ganzheitliche Trainingskonzepte für zu Hause – vom durchdachten Home-Gym-Equipment bis hin zu Online-Kursen, die Training, Motivation und Alltag zusammenbringen. Unsere Produkte verkaufen wir über Amazon und unseren eigenen Onlineshop. Content ist bei uns kein Beiwerk, sondern der Motor: Wir bauen unsere Inhouse-Creative-Produktion konsequent aus und setzen dabei früh auf moderne, KI-gestützte Prozesse. Dafür wächst unser Content-Team – und wir suchen dich. Warum diese Rolle Content, der wirklich rausgeht: Was du planst und koordinierst, landet auf unseren Kanälen, in Ads und in Kampagnen – nicht in der Schublade. Zwei Welten in einer Rolle: Du gestaltest unseren organischen Auftritt und sorgst gleichzeitig dafür, dass Creator-Content für alle Content-Produktionen im Unternehmen zur richtigen Zeit am richtigen Ort ist. Der perfekte Mix aus echt und digital: Wir produzieren Content vor Ort – echte Shootings, echte Creator, echte Persönlichkeiten – und ergänzen ihn gezielt mit KI-gestützten Creatives. Du gestaltest mit, wie beides zusammenspielt, damit unsere Inhalte authentisch bleiben und trotzdem in Tempo und Menge skalieren. Echtes Team: Du bist nicht die einsame Social-Media-Person, sondern arbeitest mit Kolleg:innen, die genauso an Content und Creatorn arbeiten wie du. Aufgaben Social Media &#x26; Community Du planst, erstellst und veröffentlichst organischen Content für Instagram, TikTok, Pinterest und Facebook und sorgst für einen konsistenten, professionellen Markenauftritt. Du betreust unsere Community, reagierst auf Kommentare und Nachrichten und hältst die Verbindung zu unseren Kund:innen lebendig. Du analysierst die Performance unserer Beiträge und leitest daraus Optimierungen und neue Content-Ideen ab. Creator- &#x26; UGC-Management Du steuerst die Zusammenarbeit mit unseren Creatorn: Briefing, Kommunikation, Timings und Abnahme laufen über dich. Du organisierst den Content-Workflow und stellst sicher, dass Creator-Content vollständig, pünktlich und einsatzbereit für Social, Performance Marketing und weitere Produktionen bereitsteht. Du pflegst unser Creator-Netzwerk und findest gemeinsam mit dem Team neue Gesichter, die zu NEOLYMP passen. Content-Produktion: Shootings &#x26; KI Du bist bei unseren Shootings vor Ort dabei, koordinierst Creator und Persönlichkeiten vor der Kamera und sorgst dafür, dass aus einem Drehtag möglichst viel verwertbarer Content entsteht. Du arbeitest im Content-Team an Workflows, in denen KI-Tools Recherche, Ideation, Schnitt oder Varianten-Erstellung beschleunigen – und bringst eigene Ideen ein, wie sich echter und KI-gestützter Content am besten ergänzen. Qualifikation Das ist uns wichtig Praktische Erfahrung im Social Media Management, Content Marketing oder UGC-Bereich – du weißt, wie eine Marke auf Instagram, TikTok, Pinterest und Facebook auftritt. Ein sicheres Gespür für Plattformen, Formate und Trends – und die Fähigkeit, sie markengerecht einzusetzen, statt jedem Hype hinterherzulaufen. Organisationstalent: Du koordinierst mehrere Creator und Produktionen parallel, hältst Timings ein und behältst den Überblick, auch wenn viel gleichzeitig läuft. Kommunikationsstärke: Du briefst klar, gibst Feedback wertschätzend und direkt und stimmst dich eng mit Marketing, Grafik und Performance ab. Ein grundlegendes Verständnis dafür, wie Content entlang der Customer Journey zum Verkauf beiträgt. Das zählt für uns am meisten Lust auf Content, Neugier auf neue Tools und die Motivation, mit der Rolle und dem Team zu wachsen. Die nächsten Schritte machen wir gemeinsam – dafür ist uns Drive wichtiger als das perfekte Profil. Nice to have Eigene Ideen im Creator Marketing: Wie man Creator-Partnerschaften strategisch aufbaut und weiterentwickelt. Erfahrung mit KI-Tools in der Content-Erstellung (z. B. für Text, Bild oder Video). Erste Berührungspunkte mit Performance Marketing oder E-Commerce. Du erfüllst nicht jeden Punkt? Bewirb dich trotzdem. Uns interessiert, welchen Content du gemacht hast und wie du arbeitest – nicht, ob du jede Zeile abhaken kannst. Benefits DAS BIETEN WIR DIR Flexibles Arbeiten: Du arbeitest überwiegend remote und profitierst von flexiblen Arbeitszeiten, die dir eine eigenverantwortliche Gestaltung deines Arbeitsalltags ermöglichen. Zu Shootings triffst du das Team in unserer Shooting-Location – der Rest läuft von dort, wo du am besten arbeitest. Attraktive Zusatzleistungen: Neben moderner Hardware erhältst du eine Spenditcard mit monatlich 50 € steuerfreiem Sachbezug sowie ein persönliches Educational Budget für deine fachliche und persönliche Weiterentwicklung. Verantwortung &#x26; Gestaltungsspielraum: Du übernimmst den Aufbau unseres Inhouse-Marketingbereichs und gestaltest aktiv den Bereich KI-basierter Creative-Produktion mit. Dynamisches Startup-Umfeld: Freue dich auf kurze Entscheidungswege, regelmäßige Team-Events und ein modernes Arbeitsumfeld in einer schnell wachsenden E-Commerce-Marke. Klingt nach dir? Dann freuen wir uns auf deine Bewerbung – und darauf, dich kennenzulernen. Kontakt: Josephine Steuer Wir glauben, dass Vielfalt uns stärker macht. Deshalb heißen wir alle Bewerbenden willkommen, unabhängig von Geschlecht, Herkunft, Religion, Alter, sexueller Identität oder Behinderung. Bei uns gibt es keinen Dresscode und wir duzen uns einfach. Der Einfachheit halber verwenden wir im Text eine Sprachform, schließen damit aber ausdrücklich alle Menschen ein. Find Jobs in Germany on Arbeitnow",
     "required_skills": [
       "remote",
-      "marketing and communication"
+      "social media manager"
     ],
     "requirements": [],
     "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/ebz-marketplaces-gmbh/amazon-marktplatz-manager-remote-oder-hybrid-berlin-485814",
+    "url": "https://www.arbeitnow.com/jobs/companies/neolymp/social-media-content-manager-berlin-447133",
     "date_posted": null
   },
   {
-    "id": "arbeitnow-d58a13e11700",
-    "title": "Projekt / Office - Management (m/w/d) - Remote",
-    "company": "Claudia Buhl",
-    "location": "Schrobenhausen",
+    "id": "arbeitnow-2e9016d2a06d",
+    "title": "Freelance IT Support Specialist / IT-Techniker (m/w/d) - 1st & 2nd Level | Onsite | Rollout",
+    "company": "Nexgate IT GmbH",
+    "location": "Bad Homburg",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Wir suchen im Auftrag unseres Klienten T. Eilers &#x26; Partner Unterstützung im Bereich Projekt / Office - Management und Organisation &#x26; Umsetzung Das Unternehmen berät Unternehmer mit dem Ziel, Einnahmen und Ausgaben strategisch zu optimieren. Damit aus Strategien konkrete Ergebnisse werden, braucht es Struktur, klare Prozesse und konsequente Umsetzung. Genau hier kommen Sie ins Spiel. Wichtig: Wohnsitz oder Zweitwohnsitz in Deutschland erforderlich. Die Zusammenarbeit erfolgt vollständig digital über ein strukturiertes Online-Büro mit Zoom und Microsoft 365. Aufgaben Planung, Strukturierung und Umsetzung interner Projekte Optimierung bestehender Abläufe und Prozesse Koordination zwischen Team, Geschäftsführung und externen Partnern Termin- und Ressourcenmanagement Sicherstellung von Meilensteinen und Ergebnissen Vorbereitung von Auswertungen und Entscheidungsgrundlagen Qualifikation Sie arbeiten strukturiert und lösungsorientiert. Sie können mehrere Themen parallel steuern. Sie kommunizieren klar und verbindlich. Sie sind offen für digitale Tools und moderne Arbeitsweisen. Sie haben Interesse, sich in ein bestehendes System einzuarbeiten und sich kontinuierlich weiterzuentwickeln. Erste Erfahrungen im organisatorischen oder projektbezogenen Umfeld sind von Vorteil, jedoch nicht zwingend erforderlich. Benefits Rahmenbedingungen und Entwicklung Einstieg ab ca. 8 bis 15 Stunden pro Woche möglich, je nach Qualifikation Beispielhafte Einkommensspanne: ca. 530 € bis 3.850 € monatlich, abhängig von Einsatz, Aktivität und Lernfortschritt Leistungsorientierte Vergütung mit Entwicklungsperspektive Einsatz in Teilzeit, Vollzeit oder auf selbstständiger Basis möglich Digitale Infrastruktur mit strukturierten Prozessen Weiterbildungsmöglichkeiten in den Bereichen Organisation, Führung und Projektmanagement Wenn Sie Verantwortung übernehmen möchten und strukturiert arbeiten, freuen wir uns auf Ihre Bewerbung. Ihre Bewerbungsunterlagen werden im Auftrag unseres Klienten an T. Eilers &#x26; Partner weitergeleitet. Nach Eingang Ihrer Bewerbung erfolgt zeitnah eine persönliche Kontaktaufnahme. Ihre Ansprechpartnerin Claudia Meyer Personalverantwortliche Find more English Speaking Jobs in Germany on Arbeitnow",
+    "description": "Für aktuelle und zukünftige Kundenprojekte in ganz Deutschland suchen wir erfahrene freiberufliche IT-Supporter und IT-Techniker (m/w/d) für unterschiedliche Einsätze in den Bereichen End User Support, Workplace IT und IT-Infrastruktur. Die Projekte reichen von klassischen 1st- und 2nd-Level-Support-Tätigkeiten über Service Desk und Helpdesk bis hin zu Onsite Support, Rollouts, Migrationen und Field Service . Aufgaben Mögliche Einsatzbereiche: 1st &#x26; 2nd Level IT Support Service Desk / Helpdesk / User Support Onsite Support / Field Service / Workplace Support IT-, Hardware- und Client-Rollouts Client- und Windows-Migrationen Installation und Konfiguration von PCs, Notebooks und mobilen Endgeräten Hardwaretausch / Break-Fix / Drucker- und Peripherie-Support Softwareinstallation und Softwareverteilung Windows 10/11 und Microsoft 365 Active Directory / Entra ID / Benutzer- und Berechtigungsverwaltung Intune / SCCM / MECM / Client Management Troubleshooting / Ticketbearbeitung / IMAC/D / Floorwalking / Hypercare Je nach Projekt bieten sich sowohl kurzfristige Einsätze als auch längerfristige Projekte sowie regionale und deutschlandweite Einsatzmöglichkeiten. Qualifikation Must-Have-Qualifikationen: Berufserfahrung im 1st und/oder 2nd Level IT Support, Helpdesk, Service Desk, Onsite Support oder Field Service Gute Kenntnisse in Windows-/Microsoft-Umgebungen, Hardware, Ticketsystemen, Active Directory / Entra ID sowie grundlegenden Netzwerkthemen Sehr gute Deutschkenntnisse in Wort und Schrift Ausgeprägte Service- und Kommunikationsorientierung Selbstständige und zuverlässige Arbeitsweise Bereitschaft zu Vor-Ort-Einsätzen und projektabhängiger Reisetätigkeit Berechtigung zur freiberuflichen bzw. selbstständigen Tätigkeit in Deutschland Nice-to-Have: Erfahrung mit Microsoft 365, Intune, SCCM/MECM oder vergleichbaren Endpoint-Management-Lösungen Erfahrung mit IT-Rollouts, Client-Migrationen, IMAC/D, Floorwalking oder Hypercare Kenntnisse in ITIL-Prozessen und gängigen ITSM-Systemen Kenntnisse in VPN, Citrix, Remote Desktop und Remote-Support-Lösungen Erfahrung im Onsite Support, Field Service oder Workplace Support Abgeschlossene IT-Ausbildung, Studium oder vergleichbare Qualifikation Erforderliche Sprachkenntnisse: Deutsch – Muttersprache / verhandlungssicher Englisch – gute bis sehr gute Kenntnisse Benefits Attraktive und langfristige Projektperspektive Flexible Remote-Arbeit je nach Projektanforderung Direkte und transparente Kommunikation mit Nexgate Schnelle Abstimmungs- und Entscheidungswege Spannende Projekte bei namhaften Kunden Möglichkeit auf Folgeprojekte und langfristige Zusammenarbeit Faire und marktgerechte Vergütung Klingt interessant? Dann freuen wir uns auf deine Bewerbung mit aktuellem Lebenslauf, möglichem Startdatum und deinem gewünschten Stundensatz. Nach Eingang deiner Bewerbung prüfen wir dein Profil und melden uns kurzfristig bei dir. Nexgate GmbH IT Projects | IT Support | Workplace | Field Service | Freelance Specialists Find Jobs in Germany on Arbeitnow",
     "required_skills": [
       "remote",
-      "management",
-      "team leader"
+      "helpdesk"
     ],
     "requirements": [],
     "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/claudia-buhl/projekt-office-management-remote-schrobenhausen-245405",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-541c5974211c",
-    "title": "SAP SuccessFactors Berater:in",
-    "company": "Pertemps ERP",
-    "location": "Frankfurt am Main",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Remote (Deutschland) | (Senior) SuccessFactors Consultant (m/w/d) Anstellungsart: Festanstellung, Voll- oder Teilzeit Standort: Remote / hybrid möglich Sind Sie ein Spezialist in SAP SuccessFactors? Unser Klient, ein international tätiges Beratungshaus, sucht dringend nach Beratern für die Festanstellung. Aufgaben Beratung unserer Kunden in Bezug auf die technische und funktionale Implementierung von SAP SuccessFactors Eigenverantwortliche Umsetzung kundenindividueller Konfigurationen sowie die Durchführung von Workshops und Schulungen Unterstützung und Beratung bei der Integration von SAP SuccessFactors in bestehende Prozess- und Systemlandschaften für unsere Kunden Analyse, Beratung, Konzeption und Implementierung von Anwendungen für festgelegte HR-Geschäftsprozesse Unterstützung im Rahmen von Pre-Sales-Aktivitäten Qualifikation Erfahrung: Mindestens 1-2 Jahre praktische Erfahrung in der Konzeption und Konfiguration von SAP-SuccessFactors-Applikationen und mindestens ein abgeschlossenes Projekt Know-how: Mindestens eine SAP-SuccessFactors-Zertifizierung sowie sehr gute Kenntnisse in gängigen SuccessFactors-Modulen (z. B. Employee Central, Recruiting, Performance &#x26; Goals, Compensation, Learning Management) Kommunikation: B2-Deutschkenntnisse in Wort und Schrift Abschluss: Abgeschlossenes Studium der (Wirtschafts-)Informatik, Betriebswirtschaft, Ingenieurwesen oder eines vergleichbaren Fachbereichs, kombiniert mit mehrjähriger Berufserfahrung als SAP-Berater Persönlichkeit: Lernbereitschaft, Eigenständigkeit, ausgeprägter Teamgedanke, starke Kundenorientierung und Kommunikationsstärke Reisebereitschaft: gelegentlich Benefits Sehr gute Entwicklungsmöglichkeiten für Sie persönlich und fachlich Ein Umfeld geprägt von dem Leitsatz \"Fördern und Fordern\", in dem Spaß an der Arbeit und Qualität an erster Stelle stehen Selbstständiges und eigenverantwortliches Arbeiten mit der Möglichkeit, schnell Verantwortung zu übernehmen und Impact zu haben Flexible Arbeitszeiten an flexiblen Arbeitsorten zur optimalen Vereinbarkeit von Familie und Beruf Regelmäßige Team- und Firmenevents Attraktive Mitarbeiterangebote (z. B. Firmenwagen, subventioniertes Mittagessen, Diensthandy, Jobrad) Find Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "it"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/pertemps-erp/sap-successfactors-beraterin-frankfurt-am-main-117665",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-c3ccdf1e94bb",
-    "title": "SAP HCM Berater:in",
-    "company": "Pertemps ERP",
-    "location": "Frankfurt am Main",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Remote (Deutschland) | SAP HCM Berater:in (m/w/d) Anstellungsart : Festanstellung Standort : Remote / hybrid möglich Sind Sie ein Spezialist in SAP HCM? Unser Klient, ein international tätiges Beratungshaus, sucht dringend nach Beratern für die Festanstellung. Aufgaben Analyse, Konzeption und Umsetzung von Anforderungen im SAP-HCM-Umfeld Unterstützung bei Customizing, Spezifikation, Test, Fehleranalyse und Go-Live-Begleitung Enge Zusammenarbeit mit Kunden, Fachbereichen, Entwicklern und dem Projektteam Fachliche Verantwortung in SAP-Projekten – Konzeption und aktive Umsetzung Qualifikation Erfahrung: Mindestens 1-2 Jahre praktische Erfahrung mit SAP HCM als Berater oder Entwickler und mindestens ein abgeschlossenes Projekt Know-how : Sehr gute Kenntnisse in mindestens einem der folgenden Schwerpunkte: Personaladministration (PA), Entgeltabrechnung (PY), Organisationsmanagement (OM) und/oder Zeitwirtschaft (PT) Kommunikation: Verhandlungssichere (B2+) Deutschkenntnisse in Wort und Schrift Abschluss: Abgeschlossenes Studium der (Wirtschafts-)Informatik, Betriebswirtschaft, Ingenieurwesen oder eines vergleichbaren Fachbereichs, kombiniert mit mehrjähriger Berufserfahrung als SAP-Berater Benefits Wachstum: Ein breites Spektrum an Technologien als Basis für Ihre fachliche Weiterentwicklung Gesundheits- und Sportangebote (je nach Standort) Familienfreundliche Arbeitszeiten ohne umfassende Reisetätigkeit Attraktives Vergütungspaket Unbefristete Festanstellung Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "it"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/pertemps-erp/sap-hcm-beraterin-frankfurt-am-main-281667",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-e89ec971e744",
-    "title": "SAP Senior CO Berater:in",
-    "company": "Pertemps ERP",
-    "location": "Frankfurt am Main",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Remote Deutschlandweit | SAP Senior CO Berater:in dringend gesucht Unbefristete Festanstellung Standort: Remote, hybrid auch möglich Sind Sie ein Spezialist für SAP Controlling mit Erfahrung in Datenmigration? Unser Klient, ein marktführendes Beratungshaus, sucht dringend einen Senior Consultant für die Festanstellung, der komplexe Systemlandschaften mit innovativen Technologien in die Zukunft führt. Aufgaben Technische Begleitung von SAP-Transformationsprojekten vom Kick-off bis zum erfolgreichen Projektabschluss Durchführung von technischen Analysen komplexer SAP-Systemlandschaften der Kunden Entwicklung, Umsetzung und Test von maßgeschneiderten Transformations- und Datenmigrationslösungen Übersetzung von fachlichen Datenmigrationskonzepten und Regelwerken in die technische Umsetzung mit geeigneten Migrations- und Transformationswerkzeugen Vorbereitung und Durchführung von Kundenworkshops und Schulungen, um spezifische Anforderungen und Herausforderungen zu adressieren Konfiguration und Anwendung von Standardsoftware zur Transformation von SAP-Systemen für vielfältige Szenarien Qualifikation Mehrjährige Projekterfahrung als SAP-Berater:in oder SAP-Entwickler:in mit betriebswirtschaftlichem Tiefgang im Controlling Fundierte Kenntnisse in SAP CO (inkl. Customizing), ergänzt durch ABAP-Grundlagen und sicheren Umgang mit SAP-Tabellen, Datenbanken und Datenelementen Sicherer Umgang im gesamten Datenmigrationsprozess – von der Aufbereitung über das Mapping bis zur Validierung mit gängigen Werkzeugen Analytisches Denkvermögen, kreative Lösungsfindung und eine selbstständige, eigenmotivierte Arbeitsweise Organisationstalent und Freude an der Zusammenarbeit in internationalen Teams Begeisterung für neue Technologien und Innovationsprojekte sowie Bereitschaft für projektabhängige Reisen Abgeschlossenes Studium mit mehrjähriger SAP-Consulting-Erfahrung Sehr gute Deutschkenntnisse (C1) in Wort und Schrift Benefits Wachstum: Ein breites Spektrum an Technologien als Basis für Ihre fachliche und persönliche Weiterentwicklung in einem zukunftssicheren Bereich Flexibilität: Familienfreundliche Arbeitszeiten mit hohem Remote-Anteil und reduzierter Reisetätigkeit Gesundheit: Zugang zu Gesundheits- und Sportangeboten (je nach Standort) Sicherheit: Unbefristete Festanstellung mit einem attraktiven und leistungsgerechten Vergütungspaket Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "it"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/pertemps-erp/sap-senior-co-beraterin-frankfurt-am-main-383624",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-c27b5d7eaf7f",
-    "title": "SAP EWM Consultant",
-    "company": "Pertemps ERP",
-    "location": "Frankfurt am Main",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "SAP EWM Consultant / Senior Consultant (m/w/d) | Festanstellung | Remote / Hybrid | Deutschland Sie möchten spannende SAP EWM-Projekte begleiten, Kunden bei der Digitalisierung ihrer Logistikprozesse beraten und sich fachlich weiterentwickeln? Für unseren Mandanten, ein etabliertes SAP-Beratungshaus mit Fokus auf innovative Supply-Chain- und Logistiklösungen, suchen wir einen SAP EWM Consultant / Senior Consultant (m/w/d) in unbefristeter Festanstellung . Aufgaben Beratung bei der Konzeption, Einführung und Optimierung von SAP EWM-Lösungen Analyse und Optimierung von Lager- und Logistikprozessen SAP EWM Customizing sowie Umsetzung fachlicher Anforderungen Mitarbeit in Implementierungs-, Rollout- und Optimierungsprojekten Erstellung von Fachkonzepten und Prozessdokumentationen Unterstützung bei Tests, Go-Lives und Anwenderschulungen Enge Zusammenarbeit mit Kunden, Fachbereichen und Entwicklungsteams Als Senior Consultant übernehmen Sie zusätzlich Teilprojektverantwortung und unterstützen das Team fachlich Qualifikation Mehrjährige Erfahrung in der SAP-Beratung oder einer vergleichbaren Inhouse-Rolle mit Schwerpunkt SAP EWM Sehr gute Kenntnisse in SAP EWM und im Customizing Erfahrung mit SAP MM, SD, PP, TM oder QM von Vorteil Idealerweise Erfahrung mit SAP S/4HANA, Embedded oder dezentralem EWM Strukturierte und lösungsorientierte Arbeitsweise Deutschkenntnisse auf C1-Niveau oder höher sowie gute Englischkenntnisse Benefits Unbefristete Festanstellung bei einem etablierten SAP-Beratungshaus Anspruchsvolle SAP EWM-Projekte bei namhaften Kunden Flexible Arbeitsmodelle mit 100% Remote-Anteil Individuelle Weiterbildungs- und Zertifizierungsmöglichkeiten Klare Karriereperspektiven bis hin zu Projektleitung oder Solution Architecture Attraktive Vergütung und moderne Arbeitsausstattung Kollegiales Team mit kurzen Entscheidungswegen und viel Gestaltungsspielraum Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "business consulting"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/pertemps-erp/sap-ewm-consultant-frankfurt-am-main-177079",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-5414a93cd9d9",
-    "title": "SAP Data & Analytics Consultant (m/w/d)",
-    "company": "Pertemps ERP",
-    "location": "Frankfurt am Main",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "SAP Data &#x26; Analytics Consultant (m/w/d) – SAP Datasphere 📍 Remote innerhalb Deutschlands | Unbefristete Festanstellung Für ein etabliertes Beratungshaus mit Spezialisierung auf SAP Data &#x26; Analytics sowie Enterprise Performance Management suchen wir einen erfahrenen SAP Data &#x26; Analytics Consultant (m/w/d) mit Schwerpunkt SAP Datasphere . Du arbeitest an anspruchsvollen Kundenprojekten rund um moderne Data- und Analytics-Plattformen und begleitest Unternehmen bei der Transformation ihrer SAP-Landschaften. Aufgaben Konzeption und Implementierung moderner Data-&#x26;-Analytics-Lösungen auf Basis von SAP Datasphere Weiterentwicklung und Migration bestehender SAP BW-/BW/4HANA-Landschaften Modellierung und Integration von Daten aus unterschiedlichen Quellsystemen Entwicklung von Reporting- und Analytics-Lösungen in enger Zusammenarbeit mit den Fachbereichen Beratung der Kunden bei Architektur-, Datenmodellierungs- und Transformationsprojekten Mitarbeit an innovativen Lösungen im SAP Business Technology Platform (BTP) Umfeld Qualifikation Mindestens 3 Jahre Berufserfahrung im SAP Data &#x26; Analytics Umfeld Nachweisbare Projekterfahrung mit SAP Datasphere (mindestens 1–2 erfolgreiche Implementierungsprojekte) Gute Kenntnisse in SAP BW/BW/4HANA sowie idealerweise SAP Analytics Cloud und SAP BTP Erfahrung in einer Unternehmensberatung ist ein großer Pluspunkt Selbstständige und kundenorientierte Arbeitsweise Deutschkenntnisse auf C1-Niveau sowie gute Englischkenntnisse Wohnsitz in Deutschland Benefits Spannende SAP Data &#x26; Analytics Projekte bei namhaften Kunden Hoher Remote-Anteil mit flexiblen Arbeitsmodellen Moderne Technologien rund um SAP Datasphere, BW/4HANA und SAP BTP Individuelle Weiterbildungs- und Zertifizierungsmöglichkeiten Flache Hierarchien, kurze Entscheidungswege und ein kollegiales Team Attraktives Gehalt sowie langfristige Entwicklungsperspektiven Find Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "business consulting"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/pertemps-erp/sap-data-analytics-consultant-frankfurt-am-main-474683",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-dd7ff26d0e3e",
-    "title": "SAP EWM Consultant (m/f/d)",
-    "company": "Pertemps ERP",
-    "location": "Frankfurt am Main",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "SAP EWM Consultant (m/w/d) | Remote deutschlandweit | Für ein etabliertes Beratungsunternehmen mit Fokus auf SAP Logistik und Supply Chain suche ich aktuell mehrere SAP EWM Consultants (m/w/d) . Sie möchten anspruchsvolle EWM-Projekte begleiten, Kunden bei der Digitalisierung ihrer Lagerlogistik unterstützen und gleichzeitig von einem flexiblen Remote-Modell profitieren? Dann könnte diese Position interessant für Sie sein. Aufgaben Spannende SAP EWM Projekte bei namhaften Kunden Analyse, Konzeption und Optimierung von Lager- und Logistikprozessen Mitarbeit in S/4HANA-Transformationen und EWM-Implementierungen Hoher Remote-Anteil mit projektbezogener Reisetätigkeit Langfristige Entwicklungsmöglichkeiten in einem spezialisierten SAP-Umfeld Qualifikation Fundierte Erfahrung im Bereich SAP EWM Customizing-Kenntnisse und gutes Prozessverständnis in der Lagerlogistik Deutschkenntnisse auf mindestens C1-Niveau Kommunikationsstärke und Freude an der Kundenberatung Benefits Standort: Deutschlandweit Arbeitsmodell: Remote mit projektbezogener Reisetätigkeit attraktives Gehalt Find Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "business consulting"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/pertemps-erp/sap-ewm-consultant-frankfurt-am-main-167410",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-cdac2fbda391",
-    "title": "Sympathischer IT-Systemadministrator (m/w/d) - Standort Münster (hybrid)",
-    "company": "Intercon Solutions GmbH",
-    "location": "Münster",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Endlich Wertschätzung für Deine Arbeit erfahren, Teil eines stabilen und erfolgreichen Unternehmens sein und Deine Ideen aktiv einbringen? Du wünschst Dir einen Arbeitgeber, bei dem Du Verantwortung übernehmen, moderne IT-Systeme mitgestalten und Dich fachlich kontinuierlich weiterentwickeln kannst? Dann solltest Du weiterlesen! Aufgaben Du administrierst, betreibst und optimierst die Windows-Server-Landschaft sowie Linux-Systeme und sorgst für einen reibungslosen IT-Betrieb. Du überwachst die IT-Infrastruktur mithilfe von Monitoring-Tools (z. B. Icinga2), analysierst Störungen und behebst diese nachhaltig. Du betreust Netzwerkkomponenten, Datenbanksysteme sowie Microsoft-365-/Azure-Umgebungen und unterstützt bei deren kontinuierlicher Weiterentwicklung. Du automatisierst wiederkehrende Administrationsaufgaben mit PowerShell, wirkst an der Verbesserung der IT-Sicherheit mit und entwickelst bestehende Prozesse und Systeme kontinuierlich weiter. Qualifikation Abgeschlossene Ausbildung als Fachinformatiker (Systemintegration) oder ein erfolgreich abgeschlossenes Hochschulstudium (z. B. Informatik, technisches Studium) oder eine vergleichbare Qualifikation. Fundierte Kenntnisse in der Administration von Windows Servern sowie grundlegende Kenntnisse eines Linux-Betriebssystems. Erfahrung im Einsatz von Monitoring-Tools, idealerweise Icinga2. idealerweise Erfahrung im Netzwerkmanagement (Switches &#x26; Firewalls). Fließende Deutschkenntnisse (C1) Benefits Unbefristete Festanstellung in einem stabilen und erfolgreichen Unternehmen. Attraktive und leistungsgerechte Vergütung. Strukturierte Einarbeitung und individuelle Weiterbildungsmöglichkeiten. Modern ausgestatteter Arbeitsplatz mit aktueller IT-Infrastruktur. Hybrides Arbeitsmodell nach erfolgreich bestandener Probezeit. Kurze Entscheidungswege sowie ein kollegiales und wertschätzendes Arbeitsumfeld. Spannende und abwechslungsreiche Aufgaben mit Raum für Eigeninitiative und persönliche Weiterentwicklung. Nutze jetzt die Chance, Deine Erfahrung in einem modernen und wertschätzenden Arbeitsumfeld einzubringen und die IT-Landschaft aktiv mitzugestalten. Wir freuen uns darauf, Dich kennenzulernen und gemeinsam die Zukunft erfolgreich zu gestalten! Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "it"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/intercon-solutions-gmbh/sympathischer-it-systemadministrator-standort-munster-hybrid-327780",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-a403e70a3302",
-    "title": "Head of Marketing & Growth (m/w/d)",
-    "company": "Julia Goessler GmbH",
-    "location": "Berlin",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Vollzeit | Remote | Hohe Reisebereitschaft Wir suchen keinen Marketingmanager. Wir suchen eine Führungspersönlichkeit. Einen Menschen, der Marketing nicht als Abteilung versteht, sondern als Herzstück eines Unternehmens. Jemanden, der Menschen führen kann. Der Strategien entwickelt. Der Entscheidungen trifft. Der Verantwortung übernimmt. Und der Lust hat, eine der spannendsten Marken im deutschsprachigen Coaching- und Transformationsmarkt aktiv mitzugestalten. Über uns Die Julia Goessler GmbH begleitet jedes Jahr tausende Menschen auf ihrem Weg zu mehr Gesundheit, persönlicher Entwicklung und innerer Transformation. Mit Live Events, Online Programmen und digitalen Produkten schaffen wir Erlebnisse, die Menschen nachhaltig bewegen. Unser Unternehmen wächst kontinuierlich und genau deshalb suchen wir jemanden, der unser Marketing auf das nächste Level hebt. Deine Mission Du verantwortest unser gesamtes Marketing. Du entwickelst Strategien. Du führst Menschen. Du steuerst Agenturen. Du analysierst Kennzahlen. Du sorgst dafür, dass aus vielen einzelnen Maßnahmen ein perfekt funktionierendes Marketing-System entsteht. Gemeinsam mit der Geschäftsführung entwickelst du die Marketingstrategie für die nächsten Jahre und setzt diese mit deinem Team erfolgreich um. Aufgaben Deine Aufgaben Verantwortung für den gesamten Marketingbereich Entwicklung und Umsetzung unserer Marketing- und Wachstumsstrategie Führung des internen Marketingteams sowie externer Agenturen und Dienstleister Planung und Steuerung unserer Launches, Kampagnen und Live Events Verantwortung für Performance Marketing, CRM, E-Mail-Marketing, Social Media und Content Analyse relevanter KPIs und Ableitung konkreter Optimierungsmaßnahmen Entwicklung neuer Marketingprozesse und effizienter Strukturen Enge Zusammenarbeit mit Geschäftsführung, Sales, Eventmanagement und Fulfillment Verantwortung für Budgetplanung und Marketingperformance Qualifikation Das bringst du mit Mehrjährige Erfahrung in einer leitenden Marketingposition Erfahrung im Aufbau und in der Führung leistungsstarker Teams Strategisches und unternehmerisches Denken Hohe analytische Kompetenz und Zahlenverständnis Erfahrung mit Launches, Funnels und digitalen Marketingprozessen Ausgeprägte Kommunikations- und Führungsstärke Eigenverantwortliche, strukturierte und lösungsorientierte Arbeitsweise Reisebereitschaft und Freude daran, regelmäßig bei unseren Veranstaltungen und Produktionen vor Ort zu sein Benefits Das solltest du wissen Diese Position ist keine reine Remote-Stelle. Unsere Live Events, Launches, Contentproduktionen und Teamtreffen finden regelmäßig an unterschiedlichen Standorten statt – unter anderem in Deutschland sowie vereinzelt im europäischen Ausland. Deshalb wünschen wir uns eine Persönlichkeit, die gerne reist und den direkten Austausch mit dem Team schätzt. Das erwartet dich Eine Schlüsselposition mit großem Gestaltungsspielraum Direkte Zusammenarbeit mit der Geschäftsführung Ein ambitioniertes Team mit kurzen Entscheidungswegen Spannende Projekte mit hoher Sichtbarkeit Regelmäßige Live Events und Produktionen Flexible Remote-Arbeit kombiniert mit Reisen Persönliche und fachliche Weiterentwicklung Die Möglichkeit, eine wachsende Marke aktiv mitzugestalten Das passt zu dir? Dann freuen wir uns auf deine Bewerbung. Bitte sende uns: Deinen Lebenslauf Aussagekräftige Referenzen oder Arbeitsproben Ein kurzes Anschreiben oder Video, in dem du uns zeigst, warum genau du die richtige Person für diese Rolle bist. Wir freuen uns darauf, dich kennenzulernen. Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "marketing manager"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/julia-goessler-gmbh/head-of-marketing-growth-berlin-144924",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-ffcc297bcd4c",
-    "title": "KI Strategieberater (m/w/d)",
-    "company": "objective partner AG",
-    "location": "Weinheim",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Wir sind die objective partner AG und unsere Kernkompetenz liegt in der Realisierung digitaler Transformationsprojekte. Dabei wollen wir unsere Kunden verstehen, Vertrauen schaffen, nachhaltigen Nutzen erzeugen und langfristige Partnerschaften aufbauen. Wir schaffen einen Rahmen, in dem sich Mitarbeiter:innen kreativ, frei und eigenständig entwickeln können – verbunden mit hohem Engagement und dem Anspruch, Herausforderungen aktiv anzugehen. Mit viel Leidenschaft, einem ausgeprägten Qualitätsbewusstsein und dem Willen, stetig über sich hinauszuwachsen, entwickelt sich objective partner zu einem der innovativsten Unternehmen Deutschlands. Wir sind stolz auf unsere agile Kultur, in der jedes Teammitglied zählt, Verantwortung übernimmt, Entscheidungen trifft und aus Erfahrungen lernt. Aufgaben Geschäftsprozesse analysieren und KI-Potenziale erkennen – das ist dein Einstieg in jedes Projekt. In Workshops entwickelst du gemeinsam mit Kunden konkrete Use Cases und strategische Roadmaps. Du begleitest Projekte von der Idee bis zum MVP – immer mit Blick auf KPIs, ROI und Compliance. Komplexe Themen bringst du auf den Punkt und bereitest fundierte Entscheidungen für das Management vor. Du unterstützt den Vertrieb, erkennst Upselling-Potenziale und gestaltest neue Geschäftsfelder aktiv mit. Qualifikation Du hast ein Studium in Informatik, Wirtschaftsinformatik, BWL, Ingenieurwesen oder einem ähnlichen Bereich erfolgreich abgeschlossen. Mehrjährige Erfahrung in Strategie- oder Technologieberatung bringst du mit – idealerweise mit Fokus auf KI und datengetriebene Transformation. Aktuelle KI-Technologien und Cloud-Plattformen sind für dich kein Neuland, sondern Teil deines Werkzeugkastens. Du entwickelst belastbare Business Cases und präsentierst deine Ideen überzeugend – auch vor dem C-Level. Workshops moderierst du souverän, bewegst dich sicher im Stakeholder-Umfeld und kommunizierst fließend auf Deutsch und Englisch. Benefits Remote-/Hybrid-Arbeit, digitales Onboarding, flexible Arbeitszeiten, Vertrauens-Arbeitszeit, Work-Life-Balance agile und wertschätzende Organisation, Startup-Mentalität, flache Hierarchien Community, Mentoring/Buddy-Rollen, Knowledge Sharing, Entwicklungspfad, KI-gestützte Weiterbildungsplattform Du-Kultur, offen &#x26; ehrliche Kommunikation, Lernkultur, Selbstorganisation Jobrad, Laptop &#x26; Smartphone, Altersvorsorge Präsente für Jubiläen und besondere Ereignisse, Team-Events, Bewegungsangebote Responsibility - wir machen ernst! voiio Wellbeing Plattform Responsiv – wir arbeiten anders Dein Einsatzort Wir leben den „Digital First“-Ansatz, d.h., dein Wohnort ist zweitrangig. Du unterstützt unsere innovativen Kundenprojekte bundesweit und arbeitest beim Kunden vor Ort, mobil von zu Hause aus oder in unserem Headquarter in Weinheim. Find Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "consulting",
-      "engineering"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/objective-partner-ag/ki-strategieberater-weinheim-207308",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-4d772d5eefed",
-    "title": "Technical AI Consultant (all genders)",
-    "company": "Aivisory",
-    "location": "Berlin",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Du hast Informatik, Wirtschaftsinformatik, Data Science oder Machine Learning studiert, bereits Erfahrung im technischen KI-Umfeld gesammelt, und möchtest jetzt nicht nur irgendwas mit \"AI\" bauen, sondern Ende-zu-Ende durchdachte KI-Lösungen bei Kunden zum Erfolg führen? Bei Aivisory, einer aufstrebenden KI-Boutique-Beratung, suchen wir einen Technical AI Consultant, der/die technisches Tiefenwissen mit einem Gespür für Kunden und Projekte verbindet. Zu viele Unternehmen scheitern daran, KI nachhaltig in die Praxis zu bringen – entweder, weil die technische Basis fehlt, oder weil niemand die Brücke zwischen Technologie und Business schlägt. Genau diese Brücke baust Du: Du verstehst KI-Architekturen im Detail, kannst sie aber auch nicht-technischen Menschen verständlich erklären und gemeinsam mit unserem Entwicklungsteam in die Umsetzung bringen. Mit einem kleinen, erfahrenen und wachsenden Team bieten wir Dir die Möglichkeit, direkt Einfluss zu nehmen und Deine Ideen einzubringen. Bei uns erwarten Dich abwechslungsreiche KI-Projekte in einer freundlichen und offenen Arbeitsatmosphäre – vom ersten Architektur-Entwurf bis zum Production-Ready-System. Wichtig: Wir suchen keinen \"Hardcore-Techie\", der/die den ganzen Tag alleine programmieren möchte. Du wirst bei uns Unternehmen beraten und direkt mit unseren Partnern und Kunden in den Austausch gehen: d.h. Du lieferst Projekte eigenständig, entwickelst KI-Architekturen, kommunizierst auf Augenhöhe mit Kunden und leitest bei Bedarf auch mal Workshops. Wenn Du technisches Tiefenwissen mit einem echten Consulting-Mindset verbinden willst, freuen wir uns darauf, Dich kennenzulernen! Aufgaben Eigenständige Konzeption und Entwicklung von KI-Architekturen für individuelle Kundenanforderungen Steuerung und Umsetzung von KI-Projekten: von der ersten Anforderungsanalyse bis zum produktiven Rollout, je nach Projektscope auch in enger Zusammenarbeit mit unserem Offshore-Entwicklungsteam Vorbereitung und Durchführung technischer Workshops, z. B. um gemeinsam mit Kunden KI-Use-Cases zu identifizieren und technische Roadmaps abzuleiten Bewertung und Auswahl geeigneter KI-Technologien, Modelle und Tools für konkrete Business-Anforderungen Beratung von Kunden zu Fragen der technischen Machbarkeit, Skalierbarkeit und nachhaltigen Integration von KI-Lösungen in bestehende IT-Landschaften Übersetzung komplexer technischer Sachverhalte in funktionierende, sichere und nachhaltige KI-Produkte Kontinuierliches Lernen über aktuelle Entwicklungen in der KI-Welt sowie neue Technologien, Frameworks und Ansätze Qualifikation Abgeschlossenes Studium in Informatik, Wirtschaftsinformatik, Data Science, Machine Learning oder einem vergleichbaren Fach Berufserfahrung in einer kundenorientierten Rolle, idealerweise im (IT-/KI-)Consulting oder einem vergleichbaren Umfeld mit direktem Kundenkontakt (auch interne Kunden) Fundiertes technisches Verständnis von KI-/ML-Architekturen, gängigen Frameworks sowie modernen Cloud- und Softwarearchitekturen Du siehst Dich dabei nicht ausschließlich als Entwickler/in, sondern möchtest Dein technisches Wissen einsetzen, um KI-getriebene Lösungen zu entwickeln und Kunden strategisch wie inhaltlich zu beraten Starke analytische Fähigkeiten und Problemlösungskompetenz mit souveränem Auftritt (Erste) Erfahrung in der Vorbereitung und Durchführung von (technischen) Workshops oder Schulungen von Vorteil Exzellente Kommunikationsfähigkeiten &#x26; teamorientiertes Arbeiten in Deutsch und Englisch Gelegentliche Reisebereitschaft, um bei Bedarf Kunden vor Ort zu unterstützen Idealerweise wohnst Du in Berlin – falls nicht, kann die Stelle auch remote deutschlandweit ausgeübt werden Benefits Große Gestaltungsfreiheit und Verantwortung: Du entwickelst KI-Architekturen und Lösungen, die wirklich beim Kunden ankommen Direktes Sparring mit den beiden Aivisory-Gründer/innen, kurze Entscheidungswege und flache Hierarchien Am Puls der neuesten Innovationen in KI und KI-Consulting: Du hast Zugang zu den führenden KI-Tools und -Modellen über unsere Partnerschaften und unser Netzwerk mit den Herstellern Die Möglichkeit, Dich fachlich und persönlich weiterzuentwickeln und in einem wachsenden Team schnell Verantwortung zu übernehmen Genug Gehalt, um Dir selbst einen Obstkorb zu gönnen ;) Abgesehen davon nach Absprache Urban Sports Club Mitgliedschaft und Team Events, und in Abstimmung gerne weitere Benefits – auch hier kannst Du mit Eigeninitiative und Ideen gerne Aivisory mitgestalten! Lust auf spannende Projekte bei Aivisory? Werde Technical AI Consultant in unserem wachsenden Team und gestalte die Zukunft KI mit. Wir freuen uns, Dich kennenzulernen! Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "business consulting"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/aivisory/technical-ai-consultant-all-genders-berlin-319274",
+    "url": "https://www.arbeitnow.com/jobs/companies/nexgate-it-gmbh/freelance-it-support-specialist-it-techniker-1st-2nd-level-onsite-rollout-bad-homburg-167169",
     "date_posted": null
   }
 ]
