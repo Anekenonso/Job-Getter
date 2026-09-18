@@ -1,19 +1,648 @@
 [
   {
-    "id": "jobicy-cefaa1021fa7",
-    "title": "Senior Product Designer (Full Remote - Italy)",
-    "company": "EverAI",
-    "location": "Italy",
+    "id": "jobicy-a0d7baa5fec6",
+    "title": "Senior Software Architect (C#/Angular/AI First) - GovTech SaaS company",
+    "company": "Truelogic",
+    "location": "Mexico",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Our Vision &amp; Products EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI, we’re shaping what it means to connect with AI. With 50 million users&hellip;",
+    "description": "About Truelogic At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals. Our team of 600+ highly skilled tech professionals, based&hellip;",
     "required_skills": [
-      "web, ui & ux design"
+      "software engineering"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153488-senior-product-designer-full-remote-italy",
+    "url": "https://jobicy.com/jobs/153535-senior-software-architect-c-angular-ai-first-govtech-saas-company",
+    "date_posted": "2026-09-17"
+  },
+  {
+    "id": "jobicy-13e70927cbe6",
+    "title": "Senior Software Engineer - Workflow",
+    "company": "Cloudbeds",
+    "location": "LATAM,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "What Makes Cloudbeds UniqueAt Cloudbeds, we're not just building software, we’re transforming hospitality. Our intelligently designed platform powers properties across 150 countries, processing billions in bookings annually. From independent properties to hotel groups, we help hoteliers transform operations and uplevel their commercial strategy through a unified platform that integrates with hundreds of partners. And we&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153534-senior-software-engineer-workflow",
+    "date_posted": "2026-09-17"
+  },
+  {
+    "id": "jobicy-fec72e762616",
+    "title": "Forward Deployed Engineer (AI & Business Transformation) – Technology & Creative Network | Brazil",
+    "company": "Truelogic",
+    "location": "Brazil",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Truelogic At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals. Our team of 600+ highly skilled tech professionals, based&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153531-forward-deployed-engineer-ai-business-transformation-technology-creative-network-brazil",
+    "date_posted": "2026-09-17"
+  },
+  {
+    "id": "jobicy-9b77e4b39da9",
+    "title": "Senior Full-stack Engineer (Python/React) - Advertising",
+    "company": "Truelogic",
+    "location": "Brazil",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Truelogic At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals. Our team of 600+ highly skilled tech professionals, based&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153536-senior-full-stack-engineer-python-react-advertising-2",
+    "date_posted": "2026-09-17"
+  },
+  {
+    "id": "jobicy-64bf5bde2913",
+    "title": "Senior Software Engineer",
+    "company": "Cloudbeds",
+    "location": "LATAM,  Europe,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "What Makes Cloudbeds UniqueAt Cloudbeds, we're not just building software, we’re transforming hospitality. Our intelligently designed platform powers properties across 150 countries, processing billions in bookings annually. From independent properties to hotel groups, we help hoteliers transform operations and uplevel their commercial strategy through a unified platform that integrates with hundreds of partners. And we&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153532-senior-software-engineer-9",
+    "date_posted": "2026-09-17"
+  },
+  {
+    "id": "jobicy-d90f14ac81e9",
+    "title": "Forward Deployed Engineer (AI & Creative Transformation) - Marketing",
+    "company": "Truelogic",
+    "location": "Mexico",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Truelogic At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals. Our team of 600+ highly skilled tech professionals, based&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153530-forward-deployed-engineer-ai-creative-transformation-marketing-2",
+    "date_posted": "2026-09-17"
+  },
+  {
+    "id": "jobicy-ff1cacd87065",
+    "title": "Data Services Reports & Insights Analyst",
+    "company": "Cloudbeds",
+    "location": "LATAM",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "What Makes Cloudbeds UniqueAt Cloudbeds, we're not just building software, we’re transforming hospitality. Our intelligently designed platform powers properties across 150 countries, processing billions in bookings annually. From independent properties to hotel groups, we help hoteliers transform operations and uplevel their commercial strategy through a unified platform that integrates with hundreds of partners. And we&hellip;",
+    "required_skills": [
+      "data science & analytics"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153527-data-services-reports-insights-analyst",
+    "date_posted": "2026-09-17"
+  },
+  {
+    "id": "jobicy-609a38fb3b48",
+    "title": "Forward Deployed Engineer (AI & Business Transformation) – Technology & Creative Network | Mexico",
+    "company": "Truelogic",
+    "location": "Mexico",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Truelogic At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals. Our team of 600+ highly skilled tech professionals, based&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153533-forward-deployed-engineer-ai-business-transformation-technology-creative-network-mexico",
+    "date_posted": "2026-09-17"
+  },
+  {
+    "id": "jobicy-96e2ce6a5717",
+    "title": "Manager, Customer Support - LATAM",
+    "company": "Cloudbeds",
+    "location": "LATAM",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "What Makes Cloudbeds UniqueAt Cloudbeds, we're not just building software, we’re transforming hospitality. Our intelligently designed platform powers properties across 150 countries, processing billions in bookings annually. From independent properties to hotel groups, we help hoteliers transform operations and uplevel their commercial strategy through a unified platform that integrates with hundreds of partners. And we&hellip;",
+    "required_skills": [
+      "customer support & success"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153529-manager-customer-support-latam-2",
+    "date_posted": "2026-09-17"
+  },
+  {
+    "id": "jobicy-870fc6cf5842",
+    "title": "Field Service Technician (Mexico)",
+    "company": "AssetWatch",
+    "location": "Mexico",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "AssetWatch serves global manufacturers by powering manufacturing uptime through the delivery of an unparalleled condition monitoring experience, with a passion to care about the assets our customers care for every day. We are a devoted and capable team that includes world-renowned engineers and distinguished business leaders united by a common goal – To build the&hellip;",
+    "required_skills": [
+      "technical support"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153528-field-service-technician-mexico",
+    "date_posted": "2026-09-17"
+  },
+  {
+    "id": "jobicy-ea370d12bb6e",
+    "title": "Account Executive, Enterprise",
+    "company": "Zscaler",
+    "location": "Germany",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange™️ platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 160+ public exchanges globally and thousands of private exchanges at the edge,&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153521-account-executive-enterprise-2",
+    "date_posted": "2026-09-17"
+  },
+  {
+    "id": "jobicy-a46dbeeceddc",
+    "title": "Regional Sales Lead (West Texas)",
+    "company": "Halter",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Halter At Halter, we’re on a mission to enable farmers and graziers to run the most productive and sustainable operations. Our customers are using Halter to break free from the time-intensive constraints of conventional practices. Imagine watching 500 cattle stand up and walk calmly towards their next break? No quad bikes, no dogs, no&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153520-regional-sales-lead-west-texas",
+    "date_posted": "2026-09-17"
+  },
+  {
+    "id": "jobicy-1b69f9d3accb",
+    "title": "Enterprise Sales Manager (Texas)",
+    "company": "Halter",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Halter At Halter, we’re on a mission to enable farmers and graziers to run the most productive and sustainable operations. Our customers are using Halter to break free from the time-intensive constraints of conventional practices. Imagine watching 500 cattle stand up and walk calmly towards their next break? No quad bikes, no dogs, no&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153523-enterprise-sales-manager-texas",
+    "date_posted": "2026-09-17"
+  },
+  {
+    "id": "jobicy-a06ed5e65fe8",
+    "title": "Customer Care Specialist",
+    "company": "Veracyte",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "At Veracyte, we offer exciting career opportunities for those interested in joining a pioneering team that is committed to transforming cancer care for patients across the globe. Working at Veracyte enables our employees to not only make a meaningful impact on the lives of patients, but to also learn and grow within a purpose driven&hellip;",
+    "required_skills": [
+      "customer support & success"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153522-customer-care-specialist",
+    "date_posted": "2026-09-17"
+  },
+  {
+    "id": "jobicy-80591b546a26",
+    "title": "Account Director, Enterprise",
+    "company": "Recorded Future, Inc.",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "With 1,000+ intelligence professionals serving over 1,900 clients worldwide, Recorded Future is the world’s most advanced, and largest, intelligence company! Recorded Future is looking for an Account Director who thrives on winning new business. This is designed for a commercially driven seller who can open doors, navigate complex organizations, and build long-term customer relationships that&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153519-account-director-enterprise",
+    "date_posted": "2026-09-17"
+  },
+  {
+    "id": "jobicy-7c968c18e7ba",
+    "title": "Territory Manager (North Dakota)",
+    "company": "Halter",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Halter At Halter, we’re on a mission to enable farmers and graziers to run the most productive and sustainable operations. Our customers are using Halter to break free from the time-intensive constraints of conventional practices. Imagine watching 500 cattle stand up and walk calmly towards their next break? No quad bikes, no dogs, no&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153525-territory-manager-north-dakota",
+    "date_posted": "2026-09-17"
+  },
+  {
+    "id": "jobicy-cc0429ffced0",
+    "title": "Account Executive - Enterprise - Bay Area",
+    "company": "Zscaler",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange™️ platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 160+ public exchanges globally and thousands of private exchanges at the edge,&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153526-account-executive-enterprise-bay-area",
+    "date_posted": "2026-09-17"
+  },
+  {
+    "id": "jobicy-6a52be5fd3df",
+    "title": "Compensation Consultant - Part-Time / West Coast (PST)",
+    "company": "Veracyte",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "At Veracyte, we offer exciting career opportunities for those interested in joining a pioneering team that is committed to transforming cancer care for patients across the globe. Working at Veracyte enables our employees to not only make a meaningful impact on the lives of patients, but to also learn and grow within a purpose driven&hellip;",
+    "required_skills": [
+      "hr & recruiting"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153518-compensation-consultant-part-time-west-coast-pst",
+    "date_posted": "2026-09-17"
+  },
+  {
+    "id": "jobicy-269ac1b0cd23",
+    "title": "APJ Accounting Manager",
+    "company": "Recorded Future, Inc.",
+    "location": "Australia",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "With 1,000+ intelligence professionals serving over 1,900 clients worldwide, Recorded Future is the world’s most advanced, and largest, intelligence company! Reporting to the Manager, International Accounting, the APJ Accounting Manager is responsible for the execution and delivery of APJ accounting operations, ensuring all regional outputs are completed accurately, timely, and in line with SOX and&hellip;",
+    "required_skills": [
+      "finance & accounting"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153524-apj-accounting-manager",
+    "date_posted": "2026-09-17"
+  },
+  {
+    "id": "jobicy-6f228766ef17",
+    "title": "Account Executive, Commercial - NorCal",
+    "company": "Zscaler",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange™️ platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 160+ public exchanges globally and thousands of private exchanges at the edge,&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153517-account-executive-commercial-norcal",
+    "date_posted": "2026-09-17"
+  },
+  {
+    "id": "jobicy-0f0d1c08bc11",
+    "title": "Contract IT Specialist",
+    "company": "Customer.io",
+    "location": "LATAM,  Canada,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Customer.io Over 9,000 companies — from scrappy startups to global brands — use our platform to send billions of emails, push notifications, in-app messages, and SMS every day. Customer.io powers automated communication that people actually want to receive. We help teams send smarter, more relevant messages using real-time behavioral data. About the role Hi,&hellip;",
+    "required_skills": [
+      "devops & infrastructure"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153515-contract-it-specialist",
+    "date_posted": "2026-09-17"
+  },
+  {
+    "id": "jobicy-7e82cf305ab1",
+    "title": "Contract Accounts Payable Manager",
+    "company": "Customer.io",
+    "location": "LATAM,  Canada,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Customer.io Over 9,000 companies — from scrappy startups to global brands — use our platform to send billions of emails, push notifications, in-app messages, and SMS every day. Customer.io powers automated communication that people actually want to receive. We help teams send smarter, more relevant messages using real-time behavioral data. About the role Hi,&hellip;",
+    "required_skills": [
+      "finance & accounting"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153510-contract-accounts-payable-manager",
+    "date_posted": "2026-09-17"
+  },
+  {
+    "id": "jobicy-a8dc5fd32a69",
+    "title": "Enterprise Sales Account Executive, Central",
+    "company": "Keyfactor, Inc.",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Keyfactor Our mission is to securely connect the world: humans, machines, and AI. Keyfactor is the leader in trust infrastructure for AI and machines, helping the world's largest enterprises and government agencies take control of the cryptographic identities that safeguard every digital interaction. Behind the platform is a global team of people who care&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153514-enterprise-sales-account-executive-central",
+    "date_posted": "2026-09-17"
+  },
+  {
+    "id": "jobicy-3131689a3a6a",
+    "title": "Director, Customer Marketing",
+    "company": "Keyfactor, Inc.",
+    "location": "Canada,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Keyfactor Our mission is to securely connect the world: humans, machines, and AI. Keyfactor is the leader in trust infrastructure for AI and machines, helping the world's largest enterprises and government agencies take control of the cryptographic identities that safeguard every digital interaction. Behind the platform is a global team of people who care&hellip;",
+    "required_skills": [
+      "marketing & sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153509-director-customer-marketing",
+    "date_posted": "2026-09-17"
+  },
+  {
+    "id": "jobicy-bd2437416a01",
+    "title": "Registered Nurse Healthcare Advocate (Remote 1099) - RN",
+    "company": "Solace",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Solace Healthcare in the U.S. is fundamentally broken. The system is so complex that 88% of U.S. adults do not have the health literacy necessary to navigate it without help. Solace cuts through the red tape of healthcare by pairing patients with expert advocates and giving them the tools to make better decisions—and get&hellip;",
+    "required_skills": [
+      "healthcare & medical"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153507-registered-nurse-healthcare-advocate-remote-1099-rn",
+    "date_posted": "2026-09-17"
+  },
+  {
+    "id": "jobicy-e85f6d063e80",
+    "title": "Licensed Practical Nurse | Licensed Vocational Nurse Patient Advocate (Contract | 100% Remote)",
+    "company": "Solace",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Solace Healthcare in the U.S. is fundamentally broken. The system is so complex that 88% of U.S. adults do not have the health literacy necessary to navigate it without help. Solace cuts through the red tape of healthcare by pairing patients with expert advocates and giving them the tools to make better decisions—and get&hellip;",
+    "required_skills": [
+      "healthcare & medical"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153512-licensed-practical-nurse-licensed-vocational-nurse-patient-advocate-contract-100-remote",
+    "date_posted": "2026-09-17"
+  },
+  {
+    "id": "jobicy-356d25430179",
+    "title": "Director of AI/ML",
+    "company": "Bayesian Health",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Director of AI/ML In Brief We're an early-stage startup on a mission to make healthcare proactive by empowering physicians, nurses, and care team members with real-time data to save lives. Lead Bayesian Health's AI/ML organization with a hands-on, scrappy approach: setting technical vision, rolling up your sleeves on critical modeling work, and building a world-class&hellip;",
+    "required_skills": [
+      "data science & analytics"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153513-director-of-ai-ml",
+    "date_posted": "2026-09-17"
+  },
+  {
+    "id": "jobicy-80b99e5d3db6",
+    "title": "Project Manager - US Remote",
+    "company": "PerfectServe",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "What is PerfectServe? PerfectServe is a leading provider of clinical communication and physician scheduling solutions in the health IT space. The company was founded in 1997 and has grown steadily since then, with a notable jump after several major acquisitions were announced in 2019. PerfectServe now has 400+ employees, 30,000+ customers — spanning medical practices,&hellip;",
+    "required_skills": [
+      "project & program management"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153511-project-manager-us-remote",
+    "date_posted": "2026-09-17"
+  },
+  {
+    "id": "jobicy-42f1f595d93a",
+    "title": "Client Success Account Executive, Clinical",
+    "company": "Bayesian Health",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Client Success Account Executive, Clinical In Brief We're a rapidly growing startup on a mission to make healthcare proactive by empowering physicians, nurses, and care team members with real-time data to save lives. Lead clinical health system accounts through strategic implementation and lifecycle management, utilizing data to drive adoption, optimize outcomes, and unlock expansion opportunities&hellip;",
+    "required_skills": [
+      "customer support & success"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153508-client-success-account-executive-clinical",
+    "date_posted": "2026-09-17"
+  },
+  {
+    "id": "jobicy-4129ce74cc72",
+    "title": "Forward Deployed Engineer",
+    "company": "Kong Inc.",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Are you ready to unlock intelligence? If you don’t think you meet all of the criteria below but are still interested in the job, please apply. Nobody checks every box - we’re looking for candidates that are particularly strong in a few areas, and have some interest and capabilities in others. About the Role: Join&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153504-forward-deployed-engineer-5",
+    "date_posted": "2026-09-17"
+  },
+  {
+    "id": "jobicy-4a3e999ee785",
+    "title": "Staff Software Engineer, Identity and Access Management",
+    "company": "Kong Inc.",
+    "location": "Canada",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Are you ready to unlock intelligence? If you don’t think you meet all of the criteria below but are still interested in the job, please apply. Nobody checks every box - we’re looking for candidates that are particularly strong in a few areas, and have some interest and capabilities in others. About the Role:Kong is&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153501-staff-software-engineer-identity-and-access-management",
+    "date_posted": "2026-09-17"
+  },
+  {
+    "id": "jobicy-6f22666e2d7d",
+    "title": "Director, Global Consulting & System Integrator Partnerships",
+    "company": "Ada",
+    "location": "Canada",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Us Ada is an AI customer service company whose mission is to make customer service extraordinary for everyone. We're driven to raise a new standard of quality customer service at scale, enabling enterprise companies to deliver experiences that people love–instant, proactive, personalized, and effortless. Ada is an AI transformation platform and partner—combining strategic expertise&hellip;",
+    "required_skills": [
+      "business development"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153499-director-global-consulting-system-integrator-partnerships",
+    "date_posted": "2026-09-17"
+  },
+  {
+    "id": "jobicy-3c2af3ebcf17",
+    "title": "Sales Development Representative",
+    "company": "Ada",
+    "location": "Canada",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Us Ada is an AI customer service company whose mission is to make customer service extraordinary for everyone. We're driven to raise a new standard of quality customer service at scale, enabling enterprise companies to deliver experiences that people love–instant, proactive, personalized, and effortless. Ada is an AI transformation platform and partner—combining strategic expertise&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153505-sales-development-representative-12",
+    "date_posted": "2026-09-17"
+  },
+  {
+    "id": "jobicy-0554a0be6eb9",
+    "title": "Director, Technology and Cloud Alliances",
+    "company": "Ada",
+    "location": "Canada",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Us Ada is an AI customer service company whose mission is to make customer service extraordinary for everyone. We're driven to raise a new standard of quality customer service at scale, enabling enterprise companies to deliver experiences that people love–instant, proactive, personalized, and effortless. Ada is an AI transformation platform and partner—combining strategic expertise&hellip;",
+    "required_skills": [
+      "business development"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153503-director-technology-and-cloud-alliances",
+    "date_posted": "2026-09-17"
+  },
+  {
+    "id": "jobicy-b9ff8431b9bc",
+    "title": "Customer Success Manager, Small Group",
+    "company": "Elation Health",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Purpose: To engage, retain, and grow small to mid-tier healthcare practices using AI-driven, low-touch engagement strategies. Responsibilities: Scaled Engagement &amp; Product Adoption Model: Execute and optimize growth, retention, and feature-adoption campaigns for small group accounts using multi-channel digital tools and personalized outreach. Proactive Risk &amp; Opportunity Management: Monitor customer health dashboards and leverage AI-generated insights&hellip;",
+    "required_skills": [
+      "customer support & success"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153502-customer-success-manager-small-group",
+    "date_posted": "2026-09-17"
+  },
+  {
+    "id": "jobicy-da136b9648e7",
+    "title": "Senior Software Engineer, Integrated Workflows",
+    "company": "Mural",
+    "location": "Argentina",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "ABOUT THE TEAM The Integrated Workflows team exists to expand Mural's value by embedding it seamlessly into the essential business workflows our customers already live in. We connect Mural to the tools that teams rely on every day, from the systems of record where work gets tracked to the places conversations happen and the surfaces&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153500-senior-software-engineer-integrated-workflows",
+    "date_posted": "2026-09-17"
+  },
+  {
+    "id": "jobicy-78b151090aaf",
+    "title": "Vice President, Legal",
+    "company": "Submittable",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "At Submittable, we are transforming how organizations create social impact. Our platform empowers thousands of mission-driven organizations, from nonprofits to government entities, to make a difference in their communities and beyond. In 2024, our innovative software helped organizations worldwide run 30,000 programs, welcomed 1.2 million applicants, and facilitated the distribution of more than $10 billion&hellip;",
+    "required_skills": [
+      "legal & compliance"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153497-vice-president-legal",
+    "date_posted": "2026-09-17"
+  },
+  {
+    "id": "jobicy-231f52fba4ad",
+    "title": "Engagement Advisor",
+    "company": "Elation Health",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Our team is committed to enhancing physician and patient quality of life through Elation, a SaaS cloud-based clinical platform. Since inception, we’ve been focused on building a world-class technology solution that creates an experience of delight and ease for physicians, and that our users love. We are seeking a mission-driven Engagement Advisor, Professional Services who&hellip;",
+    "required_skills": [
+      "customer support & success"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153506-engagement-advisor",
     "date_posted": "2026-09-17"
   },
   {
@@ -31,6 +660,23 @@
     "requirements": [],
     "source": "Jobicy",
     "url": "https://jobicy.com/jobs/153489-infrastructure-software-engineer-metadata-core",
+    "date_posted": "2026-09-17"
+  },
+  {
+    "id": "jobicy-cefaa1021fa7",
+    "title": "Senior Product Designer (Full Remote - Italy)",
+    "company": "EverAI",
+    "location": "Italy",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Our Vision &amp; Products EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI, we’re shaping what it means to connect with AI. With 50 million users&hellip;",
+    "required_skills": [
+      "web, ui & ux design"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153488-senior-product-designer-full-remote-italy",
     "date_posted": "2026-09-17"
   },
   {
@@ -202,652 +848,6 @@
     "source": "Jobicy",
     "url": "https://jobicy.com/jobs/146254-atlassian-administrator-1726",
     "date_posted": "2026-09-17"
-  },
-  {
-    "id": "jobicy-b8d00003739f",
-    "title": "AI Vendor Market Expert (Senior Director, Analyst – Fully Remote United States)",
-    "company": "Gartner",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About the role: Gartner Analysts are industry thought leaders who create must-have insights, market predictions and best practices for a broad range of world-leading organizations. In a fast-changing vendor landscape, our premium branded market coverage research, such as our Magic Quadrants, serve as lighthouses that allow organizations navigate turbulence and achieve their mission-critical priorities As a Gartner Analyst, you will&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/146434-ai-vendor-market-expert-senior-director-analyst-fully-remote-united-states",
-    "date_posted": "2026-09-17"
-  },
-  {
-    "id": "jobicy-3874176ae89a",
-    "title": "Bilingual Licensed Insurance Advisor",
-    "company": "PolicyMe",
-    "location": "Canada",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Overview of the role We’re on a mission to modernize insurance, making it simpler, more accessible, and customer-first. The insurance industry is a $1T market that has remained largely untouched by the digital revolution, and PolicyMe is here to change that. As a remote-first, Toronto-based startup with big ambitions, we’re looking for a Bilingual Licensed&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/150886-bilingual-licensed-insurance-advisor",
-    "date_posted": "2026-09-17"
-  },
-  {
-    "id": "jobicy-98c880351bd8",
-    "title": "Software Engineer",
-    "company": "PolicyMe",
-    "location": "Canada",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Overview of the role We’re on a mission to modernize insurance, making it simpler, more accessible, and customer-first. The insurance industry is a $1T market that’s remained largely untouched by the digital revolution, and PolicyMe is here to change that. As a remote-first, Toronto-based startup with big ambitions, we’re building the future of insurance in&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/150902-software-engineer-4",
-    "date_posted": "2026-09-17"
-  },
-  {
-    "id": "jobicy-ddeabb83c4c4",
-    "title": "Principal Product Manager, Accounts & Automation",
-    "company": "PolicyMe",
-    "location": "Canada",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Overview of the Role We’re on a mission to modernize insurance - making it simpler, more accessible, and customer-first. The insurance industry is a $1T market that’s remained largely untouched by the digital revolution, and PolicyMe is here to change that. As a remote-first, Toronto-based startup with big ambitions, we’re looking for a product leader&hellip;",
-    "required_skills": [
-      "product & operations"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/150899-principal-product-manager-accounts-automation",
-    "date_posted": "2026-09-17"
-  },
-  {
-    "id": "jobicy-6bac26b9f41b",
-    "title": "Bilingual Quebec Licensed Insurance Advisor",
-    "company": "PolicyMe",
-    "location": "Canada",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Overview of the role: We’re on a mission to modernize insurance, making it simpler, more accessible, and customer-first. The insurance industry is a $1T market that has remained largely untouched by the digital revolution, and PolicyMe is here to change that. As a remote-first, Toronto-based startup with big ambitions, we’re looking for a Bilingual Quebec&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/150889-bilingual-quebec-licensed-insurance-advisor",
-    "date_posted": "2026-09-17"
-  },
-  {
-    "id": "jobicy-a09badfff60a",
-    "title": "Senior Software Engineer (Elixir)",
-    "company": "Sona",
-    "location": "Europe,  UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Running a frontline business is an operational puzzle most software has never touched. Shift-by-shift labour costs, compliance that changes by region and by role, and margins thin enough that a badly built rota can sink a quarter. It's a harder problem than most white-collar SaaS, and yet frontline sectors employ 80% of the global workforce&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/150933-senior-software-engineer-elixir",
-    "date_posted": "2026-09-17"
-  },
-  {
-    "id": "jobicy-05c990d98cf9",
-    "title": "Assessment Item Writer/Editor (CONTRACT)",
-    "company": "Instructure",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At Instructure, we believe in the power of people to grow and succeed throughout their lives. Our goal is to amplify that power by creating intuitive products that simplify learning and personal development, facilitate meaningful relationships, and inspire people to go further in their education and careers.We do this by giving smart, creative, passionate people&hellip;",
-    "required_skills": [
-      "education & e-learning"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/150893-assessment-item-writer-editor-contract",
-    "date_posted": "2026-09-17"
-  },
-  {
-    "id": "jobicy-87c83188b8df",
-    "title": "Director, Software Engineering (AI Workflows & Ecosystem)",
-    "company": "Jobber",
-    "location": "Canada",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Are you driven to bring people, technology, and strategy together to build impactful software? Jobber exists to help people in small businesses be successful. We work with small home service businesses, like your local plumbers, painters, and landscapers, to transform the way service is delivered through technology. With Jobber, they can quote, schedule, invoice, and&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/150907-director-software-engineering-ai-workflows-ecosystem",
-    "date_posted": "2026-09-17"
-  },
-  {
-    "id": "jobicy-6c63e5f8d832",
-    "title": "Sales Lead",
-    "company": "Playbook",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About the Role We're building out a dedicated sales function at Playbook and need a Sales Lead to own it. This person runs our creator acquisition pipeline end-to-end — from sourcing leads to closing deals — and also manages and develops the team doing it. Every new Creator Manager (CM) coming into Playbook will report&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/150890-sales-lead",
-    "date_posted": "2026-09-17"
-  },
-  {
-    "id": "jobicy-19e66496d300",
-    "title": "Contract Senior Web Engineer",
-    "company": "Fueled",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Location: Remote — Anywhere (Open to applicants located anywhere around the globe.) Fueled is a leading digital strategy, design, and engineering agency. We are a 300+ person team that has designed and built hundreds of digital products and experiences for brands like Google, Apple, The New York Times, ESPN, Victoria’s Secret, MGM Resorts, Albertsons, and&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/150885-contract-senior-web-engineer",
-    "date_posted": "2026-09-17"
-  },
-  {
-    "id": "jobicy-5cd62f534351",
-    "title": "Social Media Lead for Talent",
-    "company": "Playbook",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About the Role Social media is the highest-leverage item we can do behind our top talent. We need a Social Media Lead who lives and breathes organic content strategy, knows every algorithm update the day it drops, and can build repeatable, creator-specific playbooks that actually move the needle on social media growth and monetary growth&hellip;",
-    "required_skills": [
-      "marketing & sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/150892-social-media-lead-for-talent",
-    "date_posted": "2026-09-17"
-  },
-  {
-    "id": "jobicy-25cc393a1d25",
-    "title": "Contract Senior Front End Engineer",
-    "company": "Fueled",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Location: Remote — Anywhere (Open to applicants located anywhere around the globe) Fueled is a leading digital strategy, design, and engineering agency. We are a 300+ person team that has designed and built hundreds of digital products and experiences for brands like Google, Apple, The New York Times, ESPN, Victoria’s Secret, MGM Resorts, Albertsons, and&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/150883-contract-senior-front-end-engineer",
-    "date_posted": "2026-09-17"
-  },
-  {
-    "id": "jobicy-4435733f6ead",
-    "title": "Change Management Consultant",
-    "company": "NTT DATA",
-    "location": "LATAM",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "NTT DATA is a team of more than 190,000 diverse professionals, operating in more than 50 countries throughout the world. The sectors where we have activities include: telecommunications, finance, industry, utilities, energy, public administration and health.Our mission? Offer technological solutions, business, strategy, development and maintenance of applications, while being a benchmark in consulting. All thanks&hellip;",
-    "required_skills": [
-      "product & operations"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/146303-change-management-consultant",
-    "date_posted": "2026-09-17"
-  },
-  {
-    "id": "jobicy-5a599588be91",
-    "title": "Premium Creator Account Manager",
-    "company": "Playbook",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About the Role Playbook works with a group of high-value, long-tenured creators whose relationships predate our current processes. These accounts are complex, trust-based, and critical to the business. We need someone to own them fully — a right hand who will be trained deeply, knows every nuance, and can manage these creators at the highest&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/150887-premium-creator-account-manager",
-    "date_posted": "2026-09-17"
-  },
-  {
-    "id": "jobicy-43a6a7c6030b",
-    "title": "Accountant",
-    "company": "Remote",
-    "location": "Portugal,  Spain",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Remote Remote is solving modern organizations’ biggest challenge – navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focused work culture, our team works tirelessly on ambitious problems, asynchronously, around the world. You&hellip;",
-    "required_skills": [
-      "finance & accounting"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/150884-accountant",
-    "date_posted": "2026-09-17"
-  },
-  {
-    "id": "jobicy-55d8f366e6ac",
-    "title": "Account Executive II",
-    "company": "Xometry",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Xometry (NASDAQ: XMTR) powers the industries of today and tomorrow by connecting the people with big ideas to the manufacturers who can bring them to life. Xometry’s digital marketplace gives manufacturers the critical resources they need to grow their business while also making it easy for buyers at Fortune 1000 companies to tap into global&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/150920-account-executive-ii",
-    "date_posted": "2026-09-17"
-  },
-  {
-    "id": "jobicy-8a17a11169fd",
-    "title": "Director, AI Center of Excellence",
-    "company": "Instructure",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At Instructure, we believe in the power of people to grow and succeed throughout their lives. Our goal is to amplify that power by creating intuitive products that simplify learning and personal development, facilitate meaningful relationships, and inspire people to go further in their education and careers.We do this by giving smart, creative, passionate people&hellip;",
-    "required_skills": [
-      "product & operations"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/150914-director-ai-center-of-excellence",
-    "date_posted": "2026-09-17"
-  },
-  {
-    "id": "jobicy-9b58b438b01e",
-    "title": "Graduate Total Account Manager - Scientific Sales Auckland",
-    "company": "Agilent Technologies",
-    "location": "New Zealand",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Job DescriptionAre you a recent science graduate or early-career professional with a passion for customer engagement and a desire to launch your career in sales? This is your opportunity to join a dynamic and high-performing sales team that’s focused on delivering complete solutions to customers through our Total Account Management approach.We’re looking for a motivated,&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/146851-graduate-total-account-manager-scientific-sales-auckland",
-    "date_posted": "2026-09-17"
-  },
-  {
-    "id": "jobicy-2bf62e0e322c",
-    "title": "Senior Operations Specialist",
-    "company": "Precision Medicine Group",
-    "location": "Europe,  Romania",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Job Summary and Purpose: The Senior Operations Specialist leverages expertise and knowledge to plan and manage initiatives and activities designed to improve the quality, efficiency and effectiveness of the delivery of studies to Sponsors. The Sr Operations Specialist develops and implements processes, change management plans, standards or operational plans with the goal of operational excellence&hellip;",
-    "required_skills": [
-      "product & operations"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/150932-senior-operations-specialist",
-    "date_posted": "2026-09-17"
-  },
-  {
-    "id": "jobicy-1f1188041cb2",
-    "title": "Site Engineer",
-    "company": "Vercel",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Vercel: Vercel is the agentic infrastructure company. We free people and agents to ship what’s next. For more than a decade, Vercel has shaped how the web is built. As the team behind Next.js, v0, and AI SDK, we create products that help builders move from idea to production with speed, security, and exceptional&hellip;",
-    "required_skills": [
-      "web, ui & ux design"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/150929-site-engineer",
-    "date_posted": "2026-09-17"
-  },
-  {
-    "id": "jobicy-afd354b4309a",
-    "title": "Business Development Representative",
-    "company": "AssetWatch",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "AssetWatch serves global manufacturers by powering manufacturing uptime through the delivery of an unparalleled condition monitoring experience, with a passion to care about the assets our customers care for every day. We are a devoted and capable team that includes world-renowned engineers and distinguished business leaders united by a common goal – To build the&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/150924-business-development-representative-6",
-    "date_posted": "2026-09-17"
-  },
-  {
-    "id": "jobicy-ff36aa9b4d87",
-    "title": "B2B Marketing Manager",
-    "company": "AssetWatch",
-    "location": "Canada,  USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "AssetWatch serves global manufacturers by powering manufacturing uptime through the delivery of an unparalleled condition monitoring experience, with a passion to care about the assets our customers care for every day. We are a devoted and capable team that includes world-renowned engineers and distinguished business leaders united by a common goal – To build the&hellip;",
-    "required_skills": [
-      "marketing & sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/150922-b2b-marketing-manager",
-    "date_posted": "2026-09-17"
-  },
-  {
-    "id": "jobicy-6cfe902ebe21",
-    "title": "AR & Collections Manager",
-    "company": "AssetWatch",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "AssetWatch serves global manufacturers by powering manufacturing uptime through the delivery of an unparalleled condition monitoring experience, with a passion to care about the assets our customers care for every day. We are a devoted and capable team that includes world-renowned engineers and distinguished business leaders united by a common goal – To build the&hellip;",
-    "required_skills": [
-      "finance & accounting"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/150919-ar-collections-manager",
-    "date_posted": "2026-09-17"
-  },
-  {
-    "id": "jobicy-c7295b3054f4",
-    "title": "Actuarial Analyst",
-    "company": "Clover Health",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "We don't just provide health insurance—we deliver the kind of healthcare that people deserve. The Actuarial team at Clover combines rigorous analytics with innovative technology to solve complex healthcare challenges and improve outcomes for our members. Our actuaries play a critical role in driving financial performance, evaluating business strategies, and helping shape the future of&hellip;",
-    "required_skills": [
-      "finance & accounting"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/150917-actuarial-analyst",
-    "date_posted": "2026-09-17"
-  },
-  {
-    "id": "jobicy-ca7fe7309c03",
-    "title": "Principal, Strategic Data Center Partnerships",
-    "company": "Meta",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Meta designs, builds, leases, and operates high-performance, energy-efficient data centers. Meta is seeking a Principal, Strategic Data Center Partnerships to develop Meta’s global data center portfolio in line with the company’s strategic objectives to advance our efforts around AI. This role has global responsibility for the development of the data center strategic partnership program.The Principal,&hellip;",
-    "required_skills": [
-      "product & operations"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/146426-principal-strategic-data-center-partnerships",
-    "date_posted": "2026-09-17"
-  },
-  {
-    "id": "jobicy-a5c40296ad87",
-    "title": "Senior Machine Learning Engineer",
-    "company": "Sona",
-    "location": "Europe,  UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Running a frontline business is an operational puzzle most software has never touched. Shift-by-shift labour costs, compliance that changes by region and by role, and margins thin enough that a badly built rota can sink a quarter. It's a harder problem than most white-collar SaaS, and yet frontline sectors employ 80% of the global workforce&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/150930-senior-machine-learning-engineer",
-    "date_posted": "2026-09-17"
-  },
-  {
-    "id": "jobicy-9639d534bf35",
-    "title": "Decision Scientist",
-    "company": "Instructure",
-    "location": "Mexico",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At Instructure, we believe in the power of people to grow and succeed throughout their lives. Our goal is to amplify that power by creating intuitive products that simplify learning and personal development, facilitate meaningful relationships, and inspire people to go further in their education and careers.We do this by giving smart, creative, passionate people&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/150911-decision-scientist",
-    "date_posted": "2026-09-17"
-  },
-  {
-    "id": "jobicy-32919838aa41",
-    "title": "Payments GTM (Go-to-Market) Operations and Strategy Lead",
-    "company": "Jobber",
-    "location": "Canada",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Please note the internal job title is: Principal Payments GTM Operations and Strategy Want to build the go-to-market engine for a fast growing payments business? Then Jobber might be the place for you! We’re looking for a Payments GTM Operations and Strategy Lead to be part of our Fintech department. Jobber exists to help people&hellip;",
-    "required_skills": [
-      "product & operations"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/150910-payments-gtm-go-to-market-operations-and-strategy-lead",
-    "date_posted": "2026-09-17"
-  },
-  {
-    "id": "jobicy-4a31f1dd2433",
-    "title": "Sr. Revenue Operations Manager",
-    "company": "Instructure",
-    "location": "UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At Instructure, we believe in the power of people to grow and succeed throughout their lives. Our goal is to amplify that power by creating intuitive products that simplify learning and personal development, facilitate meaningful relationships, and inspire people to go further in their education and careers.We do this by giving smart, creative, passionate people&hellip;",
-    "required_skills": [
-      "product & operations"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/150908-sr-revenue-operations-manager",
-    "date_posted": "2026-09-17"
-  },
-  {
-    "id": "jobicy-dbed1e326c56",
-    "title": "Customer Support Specialist III",
-    "company": "Wrapbook",
-    "location": "Canada,  USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Us:Wrapbook is a smart, intuitive platform that makes production payroll and accounting easier, faster, and more secure. We provide a unified payroll platform that seamlessly connects your entire team—production, accounting, cast, and crew—all in one place. Wrapbook empowers production teams to manage projects, pay cast and crew, track expenses, and generate data-driven insights, while&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/146330-customer-support-specialist-iii-2",
-    "date_posted": "2026-09-17"
-  },
-  {
-    "id": "jobicy-d16cc5fd6bee",
-    "title": "Commercial Account Executive, Northern Cone",
-    "company": "GitLab",
-    "location": "Mexico,  USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153470-commercial-account-executive-northern-cone",
-    "date_posted": "2026-09-16"
-  },
-  {
-    "id": "jobicy-60474d7f10c5",
-    "title": "Regional Sales Manager (Este)",
-    "company": "Halter",
-    "location": "Argentina",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Halter At Halter, we’re on a mission to enable farmers and graziers to run the most productive and sustainable operations. Our customers are using Halter to break free from the time-intensive constraints of conventional practices. Imagine watching 500 cattle stand up and walk calmly towards their next break? No quad bikes, no dogs, no&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153471-regional-sales-manager-este",
-    "date_posted": "2026-09-16"
-  },
-  {
-    "id": "jobicy-c65f88bbcfd7",
-    "title": "Mexico Major AE",
-    "company": "Samsara",
-    "location": "Mexico",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153476-mexico-major-ae",
-    "date_posted": "2026-09-16"
-  },
-  {
-    "id": "jobicy-0b1423af9acb",
-    "title": "Commercial Account Executive, Southern Cone",
-    "company": "GitLab",
-    "location": "Mexico",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153474-commercial-account-executive-southern-cone",
-    "date_posted": "2026-09-16"
-  },
-  {
-    "id": "jobicy-acc8082f66e8",
-    "title": "Manager I, Customer Success",
-    "company": "Samsara",
-    "location": "Mexico",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153472-manager-i-customer-success-2",
-    "date_posted": "2026-09-16"
-  },
-  {
-    "id": "jobicy-8ca83fe6abb8",
-    "title": "Senior QA Automation Engineer - Product (LATAM)",
-    "company": "Upgrade",
-    "location": "Argentina,  Brazil",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Upgrade helps customers move in the right direction with affordable and responsible financial products. Since 2017, we’ve helped over 7.5 million customers access over $42 billion in consumer credit. With a relentless focus on improving our customers' financial well-being, we build products that put more money in their pocket and support their journey toward a&hellip;",
-    "required_skills": [
-      "qa & testing"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153469-senior-qa-automation-engineer-product-latam",
-    "date_posted": "2026-09-16"
-  },
-  {
-    "id": "jobicy-91122d915c0c",
-    "title": "Staff DevOps Engineer",
-    "company": "Cision",
-    "location": "Brazil,  Mexico",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At Cision, we believe in empowering every individual to make an impact. Here, your voice is heard, your ideas are valued, and your unique perspective fuels our collective success. As part of our global team, you'll thrive in an environment that champions curiosity, collaboration, and innovation, all while making meaningful contributions to the brands we&hellip;",
-    "required_skills": [
-      "devops & infrastructure"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153477-staff-devops-engineer-3",
-    "date_posted": "2026-09-16"
-  },
-  {
-    "id": "jobicy-e30888c7250d",
-    "title": "DevOps Engineer",
-    "company": "Cision",
-    "location": "Brazil,  Mexico",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At Cision, we believe in empowering every individual to make an impact. Here, your voice is heard, your ideas are valued, and your unique perspective fuels our collective success. As part of our global team, you'll thrive in an environment that champions curiosity, collaboration, and innovation, all while making meaningful contributions to the brands we&hellip;",
-    "required_skills": [
-      "devops & infrastructure"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153473-devops-engineer-5",
-    "date_posted": "2026-09-16"
   },
   {
     "id": "remotive-d01e386a800a",
@@ -1415,6 +1415,132 @@
     "date_posted": "2026-08-19"
   },
   {
+    "id": "arbeitnow-bb30a33bc71a",
+    "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
+    "company": "virtual7 GmbH",
+    "location": "Homeoffice",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Clusters Justice. DEINE MISSION Als Kubernetes Administrator/Private Cloud Engineer (m/w/d) stellst du sicher, dass unsere Container-Infrastruktur reibungslos läuft und zukunftsfähig bleibt. Deine Mission ist es, eine hochverfügbare, skalierbare und sichere Plattform zu schaffen, auf der unsere Anwendungen zuverlässig betrieben und weiterentwickelt werden können. Gemeinsam mit deinem Team treibst du die Automatisierung und Optimierung unserer Cloud-Umgebung voran. Deine Aufgaben Beratung, Konzeption und Implementierung von Private Cloud Plattformen Zusammenarbeit mit weiteren Fachteams zur Bereitstellung der nötigen Infrastruktur Messung, Analyse und Optimierung der Performance und Stabilität Aufbau und Betrieb verteilter Systeme unter Anwendung des DevOps-Ansatzes Förderung von Continuous Integration &amp; Deployment-Prozessen für eine effiziente und schnelle Bereitstellung der Lösungen Fehleranalyse und -behebung in Container-Umgebungen DAS IST UNS WICHTIG Mindestens 5 Jahre relevante Berufserfahrung im Cloud-/Plattformbetrieb Erfahrung in der agilen Entwicklung und im Betrieb von verteilten Systemen Fundierte Kenntnisse in Kubernetes und Ansible sind unerlässlich Erfahrung in der Fehleranalyse und -behebung in Container-Umgebungen Erfahrung in Konfiguration und Betrieb sowie in der Entstörung von Proxies Ein tiefes Verständnis für DevOps-Praktiken ist von Vorteil Erfahrungen mit CI/CD-Pipelines OpenShift und mit JavaEE sind ein Plus Sehr gute Deutschkenntnisse (C1-Niveau) sowie Englischkenntnisse auf Konversationsniveau DEIN NEUER ARBEITSPLATZ Was bei uns zählt? Klar definierte Rollen, echtes Miteinander und ein gemeinsames Ziel. Wir nennen das Responsiveness – transparent, wertschätzend und zielorientiert. Hier bist du am Wandel direkt beteiligt, wenn du möchtest. – Nimm Teil an Projekten, die uns als Unternehmen weiterentwickeln. Flexible Arbeitszeiten und Remote Work? – Sind selbstverständlich. Individuelles Hardware-Budget? – Stell dir deinen Arbeitsplatz so zusammen, wie du dich am wohlsten fühlst. Mental Health? – Dein mentales Wohlbefinden ist uns wichtig. Mit OpenUp unterstützen wir dich und bieten dir jederzeit kostenlosen Zugang zu professioneller psychologischer Unterstützung. Individuelles Weiterbildungsbudget? – Egal ob die nächste Zertifizierung oder ein lang ersehnter Sprachkurs – du entscheidest, worin und wann du dich weiterbildest. Mitarbeiter:innen-PC-Programm? – Lease dir dein nächstes Device zur rein privaten Nutzung einfach über virtual7. JobRad oder Firmenwagen? – Wir helfen dir dabei, so mobil zu sein, wie du es brauchst Erzähl mir, wer du bist und wann du anfangen kannst. Gerne auch über Ishan De Recruiting Specialist +49 176 30017959 Find more English Speaking Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "customer cluster justice",
+      "remote"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-36018",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-01f178299d76",
+    "title": "AI Solution Architect (m/w/d)",
+    "company": "virtual7 GmbH",
+    "location": "Homeoffice",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Cluster Environment, Transportation &amp; Energy. DEINE MISSION Als AI Solution Architect (m/w/d) gestaltest Du die KI-/ML-Gesamtarchitektur für komplexe Enterprise-Umgebungen in der Cloud mit Schwerpunkt Microsoft Azure. Du verbindest fundiertes Know-how in ML Engineering, RAG-Architekturen und MLOps, um KI-Lösungen produktionsreif, skalierbar und sicher umzusetzen. Dabei arbeitest Du eng mit technischen Expert:innen, Fachbereichen und Entscheidungsträgern zusammen und trägst maßgeblich dazu bei, innovative KI-Lösungen erfolgreich zu etablieren. Deine Aufgaben: Entwurf und Weiterentwicklung der KI-/ML-Gesamtarchitektur als Enterprise-KI-Plattform mit Schwerpunkt Microsoft Azure Technische Leitung von ML-Pipeline-Projekten, insbesondere in den Bereichen Training, Deployment, Monitoring und Drift Detection Konzeption und Optimierung von RAG-Architekturen, beispielsweise hinsichtlich Chunking, Retrieval, Guardrails und Context Orchestration Definition und Weiterentwicklung von MLOps-Strategien einschließlich CI/CD für Modelle, Experiment-Tracking und Model Registry Technische Führung und Koordination interdisziplinärer Teams aus ML/AI Engineers, LLM Engineers und MLOps Engineers Beratung interner und externer Stakeholder zu KI-Architekturen sowie Präsentation technischer Konzepte gegenüber IT-Leitung und Fachbereichen DAS IST UNS WICHTIG Fundierte Erfahrung mit cloudbasierten KI-/ML-Lösungen, idealerweise auf Microsoft Azure, insbesondere Azure Machine Learning und Azure OpenAI Service. Kenntnisse weiterer Cloud- und AI-Services sind von Vorteil. Praktische Erfahrung mit MLOps-Konzepten und entsprechenden Werkzeugen wie MLflow, Kubeflow oder Azure ML Pipelines. Erfahrung im Aufbau von RAG-Architekturen, Prompt Engineering und im Umgang mit Vektordatenbanken. Kenntnisse in der Integration und Orchestrierung von Sprachmodellen, idealerweise mit Frameworks wie LangChain oder LlamaIndex. Erfahrung mit CI/CD für ML-Anwendungen sowie sehr gute Python-Kenntnisse. Praktische Erfahrung mit mindestens zwei gängigen Machine-Learning-Frameworks, beispielsweise scikit-learn, PyTorch oder TensorFlow. Erfahrung im Aufbau von Enterprise-Architekturen in Cloud-Umgebungen. Kenntnisse in angrenzenden Bereichen wie Datenplattformen, Containerisierung, Container-Orchestrierung, Infrastructure as Code und Observability sind von Vorteil, beispielsweise mit Databricks, Azure Data Factory, Azure Data Lake, Docker, Kubernetes, Terraform, Prometheus, Grafana oder Application Insights. Grundlegendes Verständnis von AI Governance, Responsible AI sowie Sicherheits- und Datenschutzanforderungen im Enterprise-Umfeld. Mehrjährige Erfahrung mit ML-/AI-Architekturen oder vergleichbaren technischen Aufgaben in Enterprise-Umgebungen. Erfahrung in einer technischen Leitungs- oder Architekturrolle ist wünschenswert. Azure-, AWS- oder Google-Cloud-Zertifizierungen sind ein Plus. Idealerweise Erfahrung in der Energiebranche oder Versorgungswirtschaft sowie mit datengetriebenen Anwendungsfällen. Sehr gute Deutschkenntnisse (C2-Niveau) sowie gute Englischkenntnisse. DEIN NEUER ARBEITSPLATZ Was bei uns zählt? Klar definierte Rollen, echtes Miteinander und ein gemeinsames Ziel. Wir nennen das Responsiveness – transparent, wertschätzend und zielorientiert. Hier bist du am Wandel direkt beteiligt, wenn du möchtest. – Nimm Teil an Projekten, die uns als Unternehmen weiterentwickeln. Flexible Arbeitszeiten und Remote Work? – Sind selbstverständlich. Individuelles Hardware-Budget? – Stell dir deinen Arbeitsplatz so zusammen, wie du dich am wohlsten fühlst. Mental Health? – Dein mentales Wohlbefinden ist uns wichtig. Mit OpenUp unterstützen wir dich und bieten dir jederzeit kostenlosen Zugang zu professioneller psychologischer Unterstützung. Individuelles Weiterbildungsbudget? – Egal ob die nächste Zertifizierung oder ein lang ersehnter Sprachkurs – du entscheidest, worin und wann du dich weiterbildest. Mitarbeiter:innen-PC-Programm? – Lease dir dein nächstes Device zur rein privaten Nutzung einfach über virtual7. JobRad oder Firmenwagen? – Wir helfen dir dabei, so mobil zu sein, wie du es brauchst. Erzähl mir, wer du bist und wann du anfangen kannst. Gerne auch über Laura Korth Senior HR Recruiterin +49 170 3600221 Find Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "customer cluster environment",
+      "transportation & energy",
+      "remote"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-469789",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-8a1d7b18d719",
+    "title": "Senior IT Architect (m/w/d)",
+    "company": "virtual7 GmbH",
+    "location": "Homeoffice",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Clusters Healthcare. DEINE MISSION Als Senior IT Architect (m/w/d) gestaltest du die technische Zukunft unserer Healthcare-Lösungen. Du analysierst komplexe Anforderungen im Umfeld der gesetzlichen Krankenversicherung und entwickelst daraus sichere, skalierbare und nachhaltige IT-Architekturen. Dabei übernimmst du die fachliche und technische Verantwortung für Architekturentscheidungen und begleitest deren Umsetzung gemeinsam mit Entwicklungsteams und Stakeholdern. Deine Aufgaben Entwicklung und technische Konzeption moderner Lösungsarchitekturen im GKV-Umfeld Verantwortung für Architekturentscheidungen sowie Definition von Architekturstandards und technischen Leitplanken Analyse fachlicher und technischer Anforderungen und Überführung in zukunftsfähige Lösungsdesigns Sicherstellung von IT-Sicherheit, Datenschutz und Compliance-Anforderungen im Healthcare-Umfeld Beratung von Projektteams und Stakeholdern in technischen Fragestellungen Begleitung der technischen Umsetzung sowie Unterstützung bei komplexen Architekturthemen Bewertung und Einführung geeigneter Technologien, Frameworks und Architekturansätze Identifikation von Optimierungspotenzialen in bestehenden Systemlandschaften Bewertung und Einsatz innovativer Technologien wie KI zur Weiterentwicklung von Prozessen und Lösungen DAS IST UNS WICHTIG Fundierte Kenntnisse moderner Softwarearchitekturen sowie Erfahrung mit Java-/JEE-basierten Enterprise-Anwendungen Erfahrung in der technischen Konzeption komplexer Anwendungssysteme sowie mit Integrations- und Schnittstellenarchitekturen, z. B. REST oder SOAP Erfahrung mit Cloud- und Container-Technologien wie Kubernetes, OpenShift oder Docker Fundierte Erfahrung im Umfeld der gesetzlichen Krankenversicherung (GKV) und ein gutes Verständnis für die Anforderungen des Gesundheitswesens Kenntnisse im Umgang mit sensiblen Daten sowie regulatorischen Anforderungen in einem entsprechend geschützten Umfeld Sehr gute Deutschkenntnisse in Wort und Schrift (C2-Niveau) Nice to have: Erfahrung mit Secure Coding, API Security oder vergleichbaren Sicherheitsstandards Kenntnisse in UML-Modellierung, Requirements Engineering oder Architekturmethoden wie iSAQB Erfahrung mit KI-Lösungen im regulierten Umfeld, idealerweise im Gesundheitswesen DEIN NEUER ARBEITSPLATZ Was bei uns zählt? Klar definierte Rollen, echtes Miteinander und ein gemeinsames Ziel. Wir nennen das Responsiveness – transparent, wertschätzend und zielorientiert. Hier bist du am Wandel direkt beteiligt, wenn du möchtest. – Nimm Teil an Projekten, die uns als Unternehmen weiterentwickeln. Flexible Arbeitszeiten und Remote Work? – Sind selbstverständlich. Individuelles Hardware-Budget? – Stell dir deinen Arbeitsplatz so zusammen, wie du dich am wohlsten fühlst. Mental Health? – Dein mentales Wohlbefinden ist uns wichtig. Mit OpenUp unterstützen wir dich und bieten dir jederzeit kostenlosen Zugang zu professioneller psychologischer Unterstützung. Individuelles Weiterbildungsbudget? – Egal ob die nächste Zertifizierung oder ein lang ersehnter Sprachkurs – du entscheidest, worin und wann du dich weiterbildest. Mitarbeiter:innen-PC-Programm? – Lease dir dein nächstes Device zur rein privaten Nutzung einfach über virtual7. JobRad oder Firmenwagen? – Wir helfen dir dabei, so mobil zu sein, wie du es brauchst. Erzähl mir, wer du bist und wann du anfangen kannst. Gerne auch über Julia Tismer Principal Recruiting Specialist +49 151 52330481 Find Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "customer cluster healthcare",
+      "remote"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-it-architect-karlsruhe-244126",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-4fa6781747a4",
+    "title": "Senior Java Backend Developer (m/w/d)",
+    "company": "virtual7 GmbH",
+    "location": "Homeoffice",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Clusters Healthcare. DEINE MISSION Als Senior Java Backend Developer (m/w/d) entwickelst du leistungsfähige Backend-Lösungen für anspruchsvolle Fachverfahren im Umfeld der gesetzlichen Krankenversicherung. Dabei setzt du komplexe fachliche Anforderungen um und bringst deine technische Expertise ein, um stabile, sichere und zukunftsfähige Anwendungen zu gestalten und kontinuierlich weiterzuentwickeln. Deine Aufgaben Entwicklung und Weiterentwicklung moderner Backend-Anwendungen auf Basis von Java sowie Spring / Spring Boot Konzeption, Implementierung und Integration von REST-Schnittstellen Umsetzung komplexer fachlicher Anforderungen im Umfeld der gesetzlichen Krankenversicherung Entwicklung performanter und wartbarer Softwarelösungen unter Berücksichtigung von Qualitäts- und Sicherheitsanforderungen Arbeit mit SQL und DB2 zur Verarbeitung und Verwaltung fachlicher Daten Analyse, Optimierung und Weiterentwicklung bestehender Anwendungen und Komponenten Erstellung automatisierter Tests sowie Sicherstellung der Softwarequalität Technische Abstimmung mit Fachbereichen, Entwicklerteams und weiteren Projektbeteiligten Erstellung und Pflege technischer Dokumentationen DAS IST UNS WICHTIG Mehrjährige Erfahrung in der Java-Backend-Entwicklung sowie sehr gute Kenntnisse in Spring / Spring Boot Praktische Projekterfahrung mit BITMARCK 21c ng Erfahrung im GKV-Umfeld, idealerweise mit LRB, ELW oder EEL Fundierte Kenntnisse in REST-Webservices, SQL und DB2 Praxis in der Entwicklung sicherer und zuverlässiger Softwarelösungen sowie im Umgang mit sensiblen Patientendaten Sehr gute Deutschkenntnisse in Wort und Schrift (C2-Niveau) Nice to have: Erfahrung mit Microservices sowie Container-Technologien wie Docker, Kubernetes oder OpenShift Kenntnisse in Kafka, Liquibase und modernen Testframeworks Erfahrung mit FHIR oder anderen Standards im Gesundheitswesen sowie agilen Entwicklungsmethoden wie Scrum oder Kanban DEIN NEUER ARBEITSPLATZ Was bei uns zählt? Klar definierte Rollen, echtes Miteinander und ein gemeinsames Ziel. Wir nennen das Responsiveness – transparent, wertschätzend und zielorientiert. Hier bist du am Wandel direkt beteiligt, wenn du möchtest. – Nimm Teil an Projekten, die uns als Unternehmen weiterentwickeln. Flexible Arbeitszeiten und Remote Work? – Sind selbstverständlich. Individuelles Hardware-Budget? – Stell dir deinen Arbeitsplatz so zusammen, wie du dich am wohlsten fühlst. Mental Health? – Dein mentales Wohlbefinden ist uns wichtig. Mit OpenUp unterstützen wir dich und bieten dir jederzeit kostenlosen Zugang zu professioneller psychologischer Unterstützung. Individuelles Weiterbildungsbudget? – Egal ob die nächste Zertifizierung oder ein lang ersehnter Sprachkurs – du entscheidest, worin und wann du dich weiterbildest. Mitarbeiter:innen-PC-Programm? – Lease dir dein nächstes Device zur rein privaten Nutzung einfach über virtual7. JobRad oder Firmenwagen? – Wir helfen dir dabei, so mobil zu sein, wie du es brauchst. Erzähl mir, wer du bist und wann du anfangen kannst. Gerne auch über Julia Tismer Principal Recruiting Specialist +49 151 52330481 Find Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "customer cluster healthcare",
+      "remote"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-java-backend-developer-karlsruhe-241557",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-90ea6b4152b8",
+    "title": "Senior Oracle Data Engineer (m/w/d)",
+    "company": "virtual7 GmbH",
+    "location": "Homeoffice",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Clusters Finance. DEINE MISSION Als Senior Oracle Data Engineer (m/w/d) übernimmst du fachliche Verantwortung für anspruchsvolle Datenbanklösungen und gestaltest performante, sichere Anwendungen auf Basis von Oracle-Technologien. Du bringst deine Expertise in SQL, PL/SQL und Oracle Data Integrator ein, koordinierst das Entwicklerteam und sorgst mit sicherem Auftreten dafür, dass Projektleitung und Endkunde jederzeit bestens abgeholt sind. Deine Aufgaben: Entwicklung und Weiterentwicklung von Datenbanklösungen auf Basis von Oracle sowie SQL und PL/SQL Erfahrung in der Konzeption und Umsetzung von Integrationsprozessen mit Oracle Data Integrator (ODI) sind wünschenswert Übernahme fachlicher Verantwortung für Themen und Anforderungen im Projektkontext Aktive Unterstützung und Koordination des Entwicklerteams Zügige Einarbeitung in neue Technologien und Themenstellungen Nutzung von Jira und Confluence zur Planung, Dokumentation und Nachverfolgung der Entwicklungsarbeiten Sicherer Umgang mit Git und gängigen Entwicklungswerkzeugen wie Visual Studio Code Moderation, Kommunikation und adressatengerechte Vermittlung technischer Inhalte Sicheres Auftreten in Abstimmungen mit der Projektleitung und dem Endkunden DAS IST UNS WICHTIG Sehr gute Kenntnisse in Oracle-Datenbanken sowie SQL und PL/SQL Grundkenntnisse in Oracle Data Integrator (ODI) Erfahrung mit Jira und Confluence Sicherer Umgang mit Git und gängigen Entwicklungswerkzeugen, beispielsweise Visual Studio Code Fähigkeit zur Übernahme fachlicher Verantwortung Gute Moderations-, Kommunikations- und Präsentationsfähigkeiten Fähigkeit, technische Inhalte adressatengerecht zu vermitteln Sicheres Auftreten in Abstimmungen mit der Projektleitung und dem Endkunden Sehr gute Deutschkenntnisse (C1-Niveau) sowie gute Englischkenntnisse Nice to have: Data-Vault-Datenmodellierung Containerisierung mit Podman Oracle Analytics Server Oracle APEX DEIN NEUER ARBEITSPLATZ Was bei uns zählt? Klar definierte Rollen, echtes Miteinander und ein gemeinsames Ziel. Wir nennen das Responsiveness – transparent, wertschätzend und zielorientiert. Hier bist du am Wandel direkt beteiligt, wenn du möchtest. – Nimm Teil an Projekten, die uns als Unternehmen weiterentwickeln. Flexible Arbeitszeiten und Remote Work? – Sind selbstverständlich. Individuelles Hardware-Budget? – Stell dir deinen Arbeitsplatz so zusammen, wie du dich am wohlsten fühlst. Mental Health? – Dein mentales Wohlbefinden ist uns wichtig. Mit OpenUp unterstützen wir dich und bieten dir jederzeit kostenlosen Zugang zu professioneller psychologischer Unterstützung. Individuelles Weiterbildungsbudget? – Egal ob die nächste Zertifizierung oder ein lang ersehnter Sprachkurs – du entscheidest, worin und wann du dich weiterbildest. Mitarbeiter:innen-PC-Programm? – Lease dir dein nächstes Device zur rein privaten Nutzung einfach über virtual7. JobRad oder Firmenwagen? – Wir helfen dir dabei, so mobil zu sein, wie du es brauchst. Erzähl mir, wer du bist und wann du anfangen kannst. Gerne auch über Laura Korth Senior Recruiting Specialist +49 170 3600221 Find Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "customer cluster finance",
+      "remote"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-51203",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-66546b4a87ef",
+    "title": "Founding Account Executive, New Business",
+    "company": "Fyxer",
+    "location": "Remote",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Fyxer Fyxer launched in May 2024 and hit $1M in revenue across 3,000 paid users without spending a dollar on marketing. We've since gone from $1M to $30M ARR and raised a Series B led by Madrona, with Lakestar, 20VC and Marc Benioff behind us. Far more people start using Fyxer every month than we can speak to. Nobody owns turning those users into paying teams. That's the biggest surface in the company, and it's this seat. The role You work accounts where someone is already using the product. One person trying Fyxer is often a door into a 500-person company. Spot those fast, get to the people who sign, prove out the pattern so it repeats. You run the full cycle. First touch, discovery, demo, pricing, close. No handoffs. You also write the first version of everything: the pitch, the sequences, the objection handling, the qualification bar. None of it exists yet. What you prove out is what the next reps get trained on. What we're looking for 30+ deals you closed yourself in the last 12 months, and quota hit in two of your last three measured periods Excellent communication and interpersonal skills, with the ability to build and maintain relationships with stakeholders at all levels of an organization You've worked without a playbook, or built one where none existed Three years in or twelve. We care what you've done, not where you did it. How we work Time with customers is the only thing that compounds. Everything else is overhead. We automate the research, the notes, the CRM and the follow-up with our own product. We move fast and decide in the meeting. You own your outcomes. We challenge each other directly. It's intense and it isn't for everyone. The Fyxer Reality: Why We Win The Trajectory: We grew from $1M to $30M ARR with a team of just 32. The Evidence: Ranked 7th in Andreessen Horowitz’s list of top AI apps . Every other company in that top 10 is valued at $10B+. We are the outlier. The Culture of Agency: We hire exceptional people, give them total ownership, and get out of their way. Zero Bureaucracy: No slow-motion decision-making. No \"alignment\" meetings for the sake of it. This culture is intense; it requires focus and discipline. So we’ll do everything we can to remove distraction, support your wellbeing, and reward your impact The basics Remote, US Compensation: $100K base / $200K OTE (plus equity, depending on location) Uncapped with accelerators above 100%. Reports to Alec Kraft, VP of Sales Travel: Occasional for enterprise customers Compensation: $90K – $100K • Offers Equity • Offers Bonus • $180-200 OTE 50/50 split. Uncapped with accelerators above 100% • $90K – $100K • Offers Equity • Offers Bonus • $180-200 OTE 50/50 split. Uncapped with accelerators above 100% Find more English Speaking Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/fyxer/remote-founding-account-executive-new-business-100736",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-19b93b1f3e43",
+    "title": "Werkstudent (m/w/d) Executive Search & Active Sourcing",
+    "company": "enomyc GmbH",
+    "location": "Homeoffice",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Werkstudent (m/w/d) Executive Search &amp; Active Sourcing 10–15 Stunden/Woche | Hybrid/Remote Finde mit uns die besten Köpfe für den deutschen Mittelstand. &nbsp; Du hast Spaß daran, Menschen zu recherchieren, Zusammenhänge zu erkennen und die richtigen Persönlichkeiten für anspruchsvolle Führungspositionen zu identifizieren? Dann bist du bei enomyc genau richtig. &nbsp; Wir suchen Unterstützung im Bereich Executive Search . Gemeinsam identifizieren wir Geschäftsführer, CFOs, CROs, Finance Executives und Interim Manager für unsere Kunden sowie für den weiteren Ausbau unseres eigenen Beratungsunternehmens. &nbsp; Deine Aufgaben Active Sourcing von Fach- und Führungskräften bis auf C-Level über LinkedIn Recruiter und weitere Kanäle Recherche und Identifikation passender Kandidatinnen und Kandidaten für Executive-Search-Mandate Analyse von Unternehmen, Organigrammen und Zielmärkten Erstellung von Longlists sowie strukturierten Kandidatenübersichten Qualifizierung und erstes Screening potenzieller Kandidaten ggf. auch Durchführung erster telefonischer Interviews zur fachlichen und persönlichen Vorauswahl Pflege unserer Talentpools sowie Dokumentation aller Suchaktivitäten Enge Zusammenarbeit mit der Leitung People Advisory bei anspruchsvollen Suchmandaten Laufendes Studium (Wirtschaft, Psychologie, Sozialwissenschaften oder vergleichbar) Interesse an Executive Search, Recruiting oder Unternehmensberatung Spaß an Recherche und analytischem Arbeiten Ausgeprägte Kommunikationsfähigkeit und Freude am Austausch mit Menschen Strukturierte, zuverlässige und eigenständige Arbeitsweise Sehr gute Deutschkenntnisse in Wort und Schrift Du bringst bereits erste Erfahrungen im Active Sourcing oder Recruiting mit! Das erwartet dich Einblicke in Executive Search auf C-Level Mitarbeit an spannenden Restrukturierungs- und Transformationsprojekten Direkte Zusammenarbeit mit der Leitung People Advisory Viel Eigenverantwortung und kurze Entscheidungswege Flexible Arbeitszeiten (10–15 Stunden/Woche) Die Möglichkeit, langfristig in eine Recruiter- oder Executive-Search-Rolle hineinzuwachsen Find Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "backoffice",
+      "remote"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/enomyc-gmbh/remote-werkstudent-executive-search-active-sourcing-berlin-243986",
+    "date_posted": null
+  },
+  {
     "id": "arbeitnow-f5e9529d99d4",
     "title": "Product Manager AI Search (m/w/d)",
     "company": "Moebel De",
@@ -1439,60 +1565,6 @@
     "requirements": [],
     "source": "Arbeitnow",
     "url": "https://www.arbeitnow.com/jobs/companies/moebel-de/remote-product-manager-ai-search-hamburg-167397",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-32d639e21e49",
-    "title": "Creative Designer (m/w/d)",
-    "company": "Neolymp",
-    "location": "Berlin",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Dich begeistern Creatives, die nicht nur gut aussehen, sondern skalieren? Du willst von grafischer Seite unmittelbar daran mitwirken, dass ein Onlineshop wächst – und in den Zahlen sehen, was dein Hook, dein Static, dein Banner bewegt? Dann bist du bei NEOLYMP richtig. Wir skalieren unseren Shop, und ein großer Teil davon entscheidet sich im Creative. Genau da sitzt du: als Creative Designer:in, der oder die aus Design- und Grafiksicht maßgeblich an unserer Performance mitwirkt. Wer wir sind NEOLYMP ist eine Berliner Fitnessmarke, gegründet 2018. Wir entwickeln innovatives Fitnessequipment und ganzheitliche Trainingskonzepte für zu Hause – vom durchdachten Home-Gym-Equipment bis hin zu Online-Kursen, die Training, Motivation und Alltag zusammenbringen. Unsere Produkte verkaufen wir über Amazon und unseren eigenen Onlineshop. Content ist bei uns der Motor: Wir bauen unsere Inhouse-Creative-Produktion konsequent aus – mit echten Shootings, einem Creator-Netzwerk und KI-gestützten Workflows. Unser Grafikteam wächst, und wir suchen jemanden, der das gesamte visuelle Spektrum abdeckt. Warum diese Rolle Du bist Teil der Performance: Deine Creatives laufen im Paid-Marketing und entscheiden mit, wie profitabel wir skalieren. Du siehst in den Zahlen, welcher Hook funktioniert, welches Static klickt – und drehst mit jeder Iteration an einem Hebel, der direkt auf Umsatz wirkt. Alles aus einer Hand: Video-Creatives, Statics, Social-Content, Shop-Banner, Produktbilder – du bist die zentrale Anlaufstelle für alles Visuelle und siehst deine Arbeit überall: in Ads, im Feed, im Shop. Bestes Rohmaterial: Du arbeitest mit Content aus echten Shootings und von echten Creatorn – kein Stockmaterial, sondern Persönlichkeiten und Produkte, die du in Szene setzt. Grafikteam statt Einzelkämpfer: Du arbeitest mit Kolleg:innen, die Grafik, Content und Creator verantworten, und eng mit Marketing und Performance zusammen. KI als Werkzeug, nicht als Ersatz: Du nutzt KI-Tools, um schneller zu Varianten und Ideen zu kommen – und entscheidest als Designer:in, was davon gut ist. Aufgaben Performance Creatives Du schneidest Video-Creatives für Meta, TikTok und weitere Paid-Kanäle – vom Rohmaterial aus Shootings und Creator-Content bis zum fertigen Ad, inklusive Hook-Varianten, Untertiteln und Sound. Du gestaltest Static Ads, die in Sekunden verstanden werden, und entwickelst sie auf Basis der Performance-Daten iterativ weiter. Du setzt Briefings aus dem Performance-Team um und bringst eigene Ideen für Formate, Hooks und Varianten ein. Social Media &#x26; Organic Content Du produzierst Grafiken, Reels-Schnitte, Story-Formate und Carousels für unsere organischen Kanäle – konsistent im Look, angepasst an jede Plattform. Du entwickelst Templates, die dem Content-Team schnelle, markenkonforme Veröffentlichungen ermöglichen. Shop, Amazon &#x26; Brand Du bist Ansprechpartner:in für alle Bannerbilder, Kampagnen-Visuals und Shopbilder – von Landingpage-Headern. Du hältst unser visuelles Erscheinungsbild über alle Kanäle konsistent und entwickelst es gemeinsam mit dem Team weiter. Produktion &#x26; Workflow Du integrierst KI-Tools in deinen Workflow – für Ideation, Bildvarianten, Freisteller, Übersetzungen oder Schnitt-Unterstützung – und teilst mit dem Team, was funktioniert. Qualifikation Das brauchst du auf jeden Fall Schnitterfahrung: Du beherrschst Videoschnitt sicher – Premiere Pro, After Effects, DaVinci Resolve oder vergleichbar – und lieferst aus Rohmaterial eigenständig fertige, plattformgerechte Video-Creatives inklusive Schnittrhythmus, Text-Overlays, Untertiteln und Sound. Bildbearbeitung &#x26; Grafik: Photoshop, Illustrator, Figma oder vergleichbare Tools sind dein Handwerkszeug. Freisteller, Retusche, Composings, Layouts und saubere Exportformate für Web, Social und Amazon gehen dir leicht von der Hand. Ein Portfolio, das beides zeigt – Video und Static. Das ist uns außerdem wichtig Mehrjährige Erfahrung als Grafik-, Motion- oder Creative Designer:in, idealerweise im E-Commerce, D2C oder in einer Performance-Agentur. Ein Verständnis dafür, was Performance Creatives von schönen Grafiken unterscheidet: Hook, Klarheit, Tempo, Lesbarkeit auf dem Handy. Gespür für Social-Plattformen: Du weißt, wie Content auf TikTok, Instagram und Pinterest aussehen muss, um nicht weggewischt zu werden. Strukturierte Arbeitsweise: Du jonglierst mehrere Aufträge parallel, hältst Deadlines und behältst den Überblick über Formate, Versionen und Assets. Das zählt für uns am meisten Lust darauf, wirklich das ganze visuelle Spektrum zu bespielen, Neugier auf neue Tools und die Motivation, mit der Rolle und dem Team zu wachsen. Das Handwerk setzen wir voraus – für alles darüber hinaus ist uns Drive wichtiger als das perfekte Profil. Nice to have Erfahrung mit KI-Tools in der Bild- oder Videoproduktion (z. B. Midjourney, Runway, Firefly, ElevenLabs). Fotografie- oder Kamera-Erfahrung für Shootings. Kenntnisse in Shopify (Bildformate, Theme-Assets) oder Amazon-Bildrichtlinien. Erfahrung im Fitness- oder Sport-Umfeld. Du erfüllst nicht jeden Punkt unter „außerdem wichtig“? Bewirb dich trotzdem. Uns interessiert dein Portfolio und wie du denkst – nicht, ob du jede Zeile abhaken kannst. Benefits DAS BIETEN WIR DIR Flexibles Arbeiten: Du arbeitest überwiegend remote und profitierst von flexiblen Arbeitszeiten, die dir eine eigenverantwortliche Gestaltung deines Arbeitsalltags ermöglichen. Zu Shootings triffst du das Team vor Ort – der Rest läuft von dort, wo du am besten arbeitest. Attraktive Zusatzleistungen: Neben moderner Hardware und den Tools, die du brauchst, erhältst du eine Spenditcard mit monatlich 50 € steuerfreiem Sachbezug sowie ein persönliches Educational Budget für deine fachliche und persönliche Weiterentwicklung. Verantwortung &#x26; Gestaltungsspielraum: Du prägst das visuelle Erscheinungsbild einer wachsenden Marke und gestaltest den Aufbau unserer Inhouse-Creative-Produktion aktiv mit – inklusive KI-basierter Workflows. Dynamisches Startup-Umfeld: Freue dich auf kurze Entscheidungswege, regelmäßige Team-Events und ein modernes Arbeitsumfeld in einer schnell wachsenden E-Commerce-Marke. Klingt nach dir? Dann freuen wir uns auf deine Bewerbung – und darauf, dich kennenzulernen. Kontakt: Josephine Steuer Wir glauben, dass Vielfalt uns stärker macht. Deshalb heißen wir alle Bewerbenden willkommen, unabhängig von Geschlecht, Herkunft, Religion, Alter, sexueller Identität oder Behinderung. Bei uns gibt es keinen Dresscode und wir duzen uns einfach. Der Einfachheit halber verwenden wir im Text eine Sprachform, schließen damit aber ausdrücklich alle Menschen ein. Find Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "graphic arts and communication design"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/neolymp/creative-designer-berlin-164745",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-20f034a6f78c",
-    "title": "Senior/Staff Product Engineer (Frontend) (m/f/d)",
-    "company": "epilot GmbH",
-    "location": "Remote job",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Are you ready to be a technology leader in the SaaS space? Join epilot! We are looking for product minded engineers not only coders. We're seeking builders who bridge technical expertise with product strategy. If you're passionate about impactful software, apply now! (Learn more about our understanding of being a product engineer here ) epilot is building a SaaS product to sell complex products online, focusing first on solving ecommerce in the rapidly transforming energy market. Our mission: Make selling complex products as easy as selling a pair of shoes online. As Software Engineer at epilot you will be a driving force in shaping this mission. What makes working as a Software Engineer at epilot so special? Our unique engineering culture is defined by a few core engineering principles: Among others, you can expect freedom and r esponsibility because we hire smart people who we can trust. We operate by principles and expect our teams to cultivate a strategic mindset. We believe in ownership: you build it, you run it . We subscribe to this core principle of the DevOps movement. There is no dedicated Ops team who you can pass on the responsibility to take your code and make sure it runs reliably and scales to customers’ needs. You should always show, don’t tell : Deliver working software early and frequently. We believe in the basic Agile principle of “Release early and release often”. This approach helps us manage risk and make better decisions by creating fast feedback loops between ourselves and our users. We design software API First. Before we write a single line of code, we design the APIs of a service in a way that any other team, whether internal to epilot or external, can use the APIs interface with our service without prior knowledge. Does this sound like an environment you want to work in? Then you could bet the right person to be an engineer at epilot! Check out our promise to you: promise.epilot.cloud We \"epilots\" are a team of experts from the fields of software development, energy management, product management and sales. In order to bring our solution even faster to the top in the energy world, we are looking for you as a Senior Product Engineer (Frontend) What awaits you As a frontend developer you will work on the new and further development of our React applications You are responsible for implementing user interfaces based on wireframes and screen designs by our UX designers. You write unit and end-to-end tests for the features and applications you develop. You help your team to analyze and correct errors You are involved in the conception of new features as well as in the optimization of existing features You are part of an agile, cross-functional team of backend and frontend developers as well as designers and product managers. You will also work with other teams to make epilot an even better product You’ll get familiar with our tech stack with microfrontends, serverless AWS and best-in-class developer tooling &amp; automation. More info about our stack: Tech stack What you bring You have at least 4-5 years professional experience with JavaScript You have experiences with&nbsp; React (Hooks, global state management, routing),&nbsp;ES6, TypeScript, Webpack, ESLint You enjoy implementing highly responsive user interface components using react concepts Nice to have: Experience with GraphQL, Node.js, AWS You have fun creating user-friendly UIs with CSS and HTML Ideally you have already gained experience in an eCommerce environment Basic understanding of application and cloud security principles, and how to build secure, reliable software. Tech Stack: React, Svelte,&nbsp;TypeScript, GitLab CI/CD&nbsp; What we offer The opportunity to help building the most successful SaaS platform in the energy market. Start-up mentality: dynamic atmosphere and great team spirit. A rapidly growing company with an open communication culture, motivated colleagues and an international corporate culture. Exponential learning curve - epilot is growing rapidly and we expect the same from you. You never stand still, you are permanently challenged, you learn from your mistakes a la Fail Fast and Often. Flexible working hours and remote work - You have an important appointment in the morning? No problem! You decide where and when you want to work. A central location in the heart of Cologne with cool cafes around the corner (But of course full remote jobs are also available). Performance is rewarded with us - We take your desired salary seriously and talk openly about it with you. Transparency - We maintain a very flat and open corporate culture, everything is visible and open for discussion. Regular team events such as carnival, the summer party, Christmas party, company breakfast and many more opportunities to get to know your co-epilots outside working hours. Our highlight event is our yearly epilot summit in the summer where you will meet your co-epilots from all over the world. What to/we expect in your first 180day -read full version: here - By Week 1 you will: Pair with a colleague and ship something . Small is fine, working is the point Start learning the business: who our customers are, what we're building toward, why it matters Connect with the team and empower the team By Month 1 you will: Own a topic: have your name on a topic, be the main driver of that topic from refinement to delivery. Already shipping the first iteration of it Have a good understanding of the codebase and how our services connect Know enough about our customers and domain to push back on bad ideas, including ours By Month 3-6 you will: Be the undisputed owner of your domain : the go-to person, the one who spots problems before they're reported and fixes them before they're assigned Have shipped something that visibly moved a metric: adoption, reliability, performance, or revenue Operate fully autonomously. You know when to decide and when to align Raise the bar for the people around you, you push us forward, you are a multiplier . Not just through your own work, but through your reviews, your feedback, and how you onboard whoever we hire after you We welcome applications from all backgrounds regardless of gender, ethnicity, age, disability, or sexual orientation P.S.: If you want to learn more about the application process, please read Eka's blog article: How to get hired at epilot Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "tech",
-      "remote"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/epilot-gmbh/remote-senior-staff-product-engineer-frontend-koln-341906",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-e8a212643120",
-    "title": "Senior/Staff Product Engineer (Full Stack) (m/f/d)",
-    "company": "epilot GmbH",
-    "location": "Remote job",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Are you ready to be a technology leader in the SaaS space? Join epilot! We are looking for product minded engineers not only coders. We're seeking builders who bridge technical expertise with product strategy. If you're passionate about impactful software, apply now! (Learn more about our understanding of being a product engineer here ) epilot is building a SaaS product to sell complex products online, focusing on solving ecommerce in the rapidly transforming energy market. Our mission: Make selling complex energy products as easy as selling a pair of shoes online. As Software Engineer at epilot you will be a driving force in shaping this mission. What makes working as a Software Engineer at epilot so special? Our unique engineering culture is defined by a few core engineering principles. We \"epilots\" are a team of experts from the fields of software development, energy management, product management and sales. In order to bring our solution even faster to the top in the energy world, we are looking for you as a&nbsp; Senior Product Engineer (Full Stack). &nbsp; What awaits you As a Product Engineer at epilot, you’ll go beyond just coding. You’ll play an integral role in building our cutting-edge platform using technologies like TypeScript , React , Svelte , and serverless AWS microservices . Here’s what you’ll do: Immerse yourself in our tech stack : Microfrontends, serverless AWS, and best-in-class developer tooling and automation. Learn more here: docs.epilot.io Be part of a cross-functional dream team : Collaborate with full-stack, backend, and frontend developers, designers, and product managers to deliver impactful features. Work end-to-end : From ideation to delivery, you’ll team up with product management and design to bring features to life and make product decisions. Take ownership : Got an idea? Draft an RFC (Request for Comment), drive the initiative, and own it from start to finish. Foster growth : Mentor colleagues, share knowledge, and continuously learn new technologies. Innovate with agility : Participate in diverse, exciting development projects, leveraging pair programming and agile methodologies. What you bring We’re looking for a Product-Minded Engineer who resonates with our values and has the following skills and mindset: Product Thinking : You care about delivering value to customers and users, not just writing code. Technical Expertise : Hands-on experience with React or other JavaScript frameworks. Knowledge of RESTful APIs or GraphQL . Familiarity with microservices architecture and public/private cloud platforms (AWS, GCP, Azure). Basic understanding of application and cloud security principles, and how to build secure, reliable software. Ownership Mentality : You take initiative, drive features to completion, and thrive on responsibility. Entrepreneurial Spirit : You think like a business owner, understanding how your work impacts our goals. Problem-Solver : You see challenges as opportunities for growth. Collaborative Mindset : You’re a true team player who motivates and inspires those around you. Agile Know-How : You’re familiar with methodologies like Scrum, Kanban, or XP and understand how to apply them effectively. What we offer you At epilot, we believe in rewarding performance, fostering growth, and creating an environment where you’ll thrive: Impactful Work : Be part of a product-driven company that’s reshaping the energy sector. Startup Mentality : Enjoy a dynamic atmosphere with flat hierarchies and open communication. Flexibility : Work remotely or from our centrally located office in Cologne, with flexible working hours. Growth Opportunities : Your career will grow as fast as we do. Learn, experiment, and embrace a “Fail Fast and Often” mentality. Competitive Compensation : We take your desired salary seriously and value performance. Team Spirit : Join us for regular events like summer parties, company breakfasts, and our epic annual epilot summit, where you’ll connect with co-epilots worldwide. Transparency and Openness : Everything is open for discussion in our inclusive and supportive culture. What to/we expect in your first 180days -read full version: here - By Week 1 you will: Pair with a colleague and ship something . Small is fine, working is the point Start learning the business: who our customers are, what we're building toward, why it matters Connect with the team and empower the team By Month 1 you will: Own a topic: have your name on a topic, be the main driver of that topic from refinement to delivery. Already shipping the first iteration of it Have a good understanding of the codebase and how our services connect Know enough about our customers and domain to push back on bad ideas, including ours By Month 3-6 you will: Be the undisputed owner of your domain : the go-to person, the one who spots problems before they're reported and fixes them before they're assigned Have shipped something that visibly moved a metric: adoption, reliability, performance, or revenue Operate fully autonomously. You know when to decide and when to align Raise the bar for the people around you, you push us forward, you are a multiplier . Not just through your own work, but through your reviews, your feedback, and how you onboard whoever we hire after you We welcome applications from all backgrounds regardless of gender, ethnicity, age, disability, or sexual orientation! Check out our promise to you: promise.epilot.cloud P.S.: If you want to learn more about the application process, please read Eka's blog article: How to get hired at epilot Find Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "tech",
-      "remote"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/epilot-gmbh/remote-senior-staff-product-engineer-full-stack-koln-435694",
     "date_posted": null
   }
 ]
