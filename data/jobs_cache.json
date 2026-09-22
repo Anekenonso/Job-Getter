@@ -1,5 +1,175 @@
 [
   {
+    "id": "jobicy-1bec2b10dd37",
+    "title": "Principal Software Engineer, Infrastructure Security",
+    "company": "OpenAI",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About the Team Security is at the foundation of OpenAI’s mission to ensure that artificial general intelligence benefits all of humanity. The Security team protects OpenAI’s technology, people, and products. We are technical in what we build but operational in how we execute, and we support every product and research effort at OpenAI. Our tenets&hellip;",
+    "required_skills": [
+      "cybersecurity"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153845-principal-software-engineer-infrastructure-security",
+    "date_posted": "2026-09-21"
+  },
+  {
+    "id": "jobicy-879228926999",
+    "title": "Senior People Operations Specialist (Contract)",
+    "company": "Roofr",
+    "location": "Canada",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "At Roofr, we’re obsessed with our customers. We constantly gather feedback to shape, prioritize, and launch the products they truly need. That’s what makes Roofr’s CRM special. We started by building essential sales tools like aerial roof measurements and digital sales proposals. But when our customers asked for a simple, affordable way to manage and&hellip;",
+    "required_skills": [
+      "hr & recruiting"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153843-senior-people-operations-specialist-contract",
+    "date_posted": "2026-09-21"
+  },
+  {
+    "id": "jobicy-62003f96e338",
+    "title": "Senior Revenue Operations Specialist",
+    "company": "Roofr",
+    "location": "Canada",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "At Roofr, we’re obsessed with our customers. We constantly gather feedback to shape, prioritize, and launch the products they truly need. That’s what makes Roofr’s CRM special. We started by building essential sales tools like aerial roof measurements and digital sales proposals. But when our customers asked for a simple, affordable way to manage and&hellip;",
+    "required_skills": [
+      "product & operations"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153847-senior-revenue-operations-specialist",
+    "date_posted": "2026-09-21"
+  },
+  {
+    "id": "jobicy-fa1c9fad266d",
+    "title": "Principal AI Engineer",
+    "company": "Able",
+    "location": "LATAM",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Back in 2012, we were a group of engineers and designers who decided we wanted to build things—so we did. Able started as an engineering and product hub building for a portfolio of early-stage startups. We built many relationships while developing products that were thoughtful, effective, and genuinely useful. But, since then, we’ve grown… and&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153844-principal-ai-engineer",
+    "date_posted": "2026-09-21"
+  },
+  {
+    "id": "jobicy-26248d0d609d",
+    "title": "Director, Product Growth",
+    "company": "Roofr",
+    "location": "Canada,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "At Roofr, we’re obsessed with our customers. We constantly gather feedback to shape, prioritize, and launch the products they truly need. That’s what makes Roofr’s CRM special. We started by building essential sales tools like aerial roof measurements and digital sales proposals. But when our customers asked for a simple, affordable way to manage and&hellip;",
+    "required_skills": [
+      "product & operations"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153840-director-product-growth",
+    "date_posted": "2026-09-21"
+  },
+  {
+    "id": "jobicy-df86c8ded4d9",
+    "title": "Director, Paid Search",
+    "company": "Wpromote",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "The Role We’re looking for a Director to join the rapidly expanding team that is the backbone of our company. You’ll directly manage a team of paid search experts that run search engine marketing (SEM) campaigns across both Google Ads and Microsoft Ads. Your complex portfolio of clients will be fast-paced and high-growth clients that&hellip;",
+    "required_skills": [
+      "seo"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153846-director-paid-search",
+    "date_posted": "2026-09-21"
+  },
+  {
+    "id": "jobicy-714009f1e1d2",
+    "title": "Director, AI Solutions",
+    "company": "Wpromote",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "The Role We’re looking for a Director of AI Solutions to join our AI team at Wpromote, reporting into the Head of AI Strategy &amp; Innovation. You'll be responsible for AI solutions that automate real workflows, sharpen decision-making, and extend Polaris IQ's intelligence layer. This is a forward-deployed, client-facing role. This position requires deep hands-on&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153842-director-ai-solutions",
+    "date_posted": "2026-09-21"
+  },
+  {
+    "id": "jobicy-ccc03ed8a00a",
+    "title": "Principal Security Engineer, Infrastructure Security",
+    "company": "OpenAI",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About the Team Security is at the foundation of OpenAI’s mission to ensure that artificial general intelligence benefits all of humanity. The Security team protects OpenAI’s technology, people, and products. We are technical in what we build but are operational in how we do our work, and are committed to supporting all products and research&hellip;",
+    "required_skills": [
+      "cybersecurity"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153841-principal-security-engineer-infrastructure-security",
+    "date_posted": "2026-09-21"
+  },
+  {
+    "id": "jobicy-d39de90336fe",
+    "title": "Director, Earned and Owned Strategy",
+    "company": "Wpromote",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "The Role We are looking for a Director of Earned &amp; Owned Strategy to lead enterprise-level organic growth initiatives across a portfolio of brands, with a strong focus on local strategy and multi-location businesses. Reporting to the Senior Director, Earned &amp; Owned Strategy, this individual contributor role will oversee integrated Earned &amp; Owned programs spanning&hellip;",
+    "required_skills": [
+      "seo"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153839-director-earned-and-owned-strategy",
+    "date_posted": "2026-09-21"
+  },
+  {
+    "id": "jobicy-daed19d3618b",
+    "title": "Account Director, Digital Native New Business",
+    "company": "OpenAI",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About the team OpenAI’s mission is to build safe artificial general intelligence (AGI) which benefits all of humanity. This long-term undertaking brings the world’s best scientists, engineers, and business professionals into one lab together to accomplish this. In pursuit of this mission, our Go To Market (GTM) team is responsible for helping customers learn how&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153838-account-director-digital-native-new-business",
+    "date_posted": "2026-09-21"
+  },
+  {
     "id": "jobicy-20943155504d",
     "title": "Director, Sales (Asia)",
     "company": "Ping Identity",
@@ -51,20 +221,20 @@
     "date_posted": "2026-09-21"
   },
   {
-    "id": "jobicy-ad997f3e9825",
-    "title": "Senior Integrated Campaign Manager",
-    "company": "Feedzai",
-    "location": "UK",
+    "id": "jobicy-9943aa9fc724",
+    "title": "Enterprise Account Executive",
+    "company": "infisical",
+    "location": "USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "At Feedzai, we're building a world of safer money. A world where financial institutions move faster than criminals. Where the payments that fund real lives through salaries, savings, and businesses are protected in real time. We use trusted AI to detect and prevent financial crime, fraud, and money laundering at scale: the world's top banks,&hellip;",
+    "description": "Infisical is the open source security infrastructure platform that engineers use for secrets management, certificates, and privileged access management. We help developers and organizations securely manage billions of secrets every month including application configuration, database credentials, certificates, and more. We’ve raised $19M from Y Combinator, Google, and Elad Gil, and our customers include Hugging Face,&hellip;",
     "required_skills": [
-      "marketing & sales"
+      "sales"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153831-senior-integrated-campaign-manager",
+    "url": "https://jobicy.com/jobs/153826-enterprise-account-executive-22",
     "date_posted": "2026-09-21"
   },
   {
@@ -85,20 +255,20 @@
     "date_posted": "2026-09-21"
   },
   {
-    "id": "jobicy-9943aa9fc724",
-    "title": "Enterprise Account Executive",
-    "company": "infisical",
-    "location": "USA",
+    "id": "jobicy-ad997f3e9825",
+    "title": "Senior Integrated Campaign Manager",
+    "company": "Feedzai",
+    "location": "UK",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Infisical is the open source security infrastructure platform that engineers use for secrets management, certificates, and privileged access management. We help developers and organizations securely manage billions of secrets every month including application configuration, database credentials, certificates, and more. We’ve raised $19M from Y Combinator, Google, and Elad Gil, and our customers include Hugging Face,&hellip;",
+    "description": "At Feedzai, we're building a world of safer money. A world where financial institutions move faster than criminals. Where the payments that fund real lives through salaries, savings, and businesses are protected in real time. We use trusted AI to detect and prevent financial crime, fraud, and money laundering at scale: the world's top banks,&hellip;",
     "required_skills": [
-      "sales"
+      "marketing & sales"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153826-enterprise-account-executive-22",
+    "url": "https://jobicy.com/jobs/153831-senior-integrated-campaign-manager",
     "date_posted": "2026-09-21"
   },
   {
@@ -272,23 +442,6 @@
     "date_posted": "2026-09-21"
   },
   {
-    "id": "jobicy-e85ba70871fa",
-    "title": "Inside Solar Energy Consultant",
-    "company": "Goodleap",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About GoodLeap: GoodLeap is a technology company delivering best-in-class financing and software products for sustainable solutions, from solar panels and batteries to energy-efficient HVAC, heat pumps, roofing, windows, and more. Over 1 million homeowners have benefited from our simple, fast, and frictionless technology that makes the adoption of these products more affordable, accessible, and easier&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153817-inside-solar-energy-consultant",
-    "date_posted": "2026-09-21"
-  },
-  {
     "id": "jobicy-8470afa3e4ad",
     "title": "Care Coordinator - Nebraska",
     "company": "Unite Us",
@@ -303,6 +456,23 @@
     "requirements": [],
     "source": "Jobicy",
     "url": "https://jobicy.com/jobs/153815-care-coordinator-nebraska",
+    "date_posted": "2026-09-21"
+  },
+  {
+    "id": "jobicy-e85ba70871fa",
+    "title": "Inside Solar Energy Consultant",
+    "company": "Goodleap",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About GoodLeap: GoodLeap is a technology company delivering best-in-class financing and software products for sustainable solutions, from solar panels and batteries to energy-efficient HVAC, heat pumps, roofing, windows, and more. Over 1 million homeowners have benefited from our simple, fast, and frictionless technology that makes the adoption of these products more affordable, accessible, and easier&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153817-inside-solar-energy-consultant",
     "date_posted": "2026-09-21"
   },
   {
@@ -391,40 +561,6 @@
     "date_posted": "2026-09-21"
   },
   {
-    "id": "jobicy-d787097be25d",
-    "title": "Enterprise Account Executive, Dept. of Transportation",
-    "company": "Databricks",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "SLSQ427R595 While candidates in the listed location(s) are encouraged for this role, candidates in other locations will be considered. As an Enterprise Account Executive at Databricks, you will be responsible for driving sales of Databricks within the Department of Transportation. As an experienced Account Executive, you know how to sell innovation and change through customer&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153805-enterprise-account-executive-dept-of-transportation",
-    "date_posted": "2026-09-21"
-  },
-  {
-    "id": "jobicy-af7f22fa13d3",
-    "title": "Account Executive, Enterprise - Texas",
-    "company": "Motive",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Who we are: Motive empowers the people who run physical operations with tools to make their work safer, more productive, and more profitable. For the first time ever, safety, operations and finance teams can manage their drivers, vehicles, equipment, and fleet related spend in a single system. Combined with industry leading AI, the Motive platform&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153806-account-executive-enterprise-texas-2",
-    "date_posted": "2026-09-21"
-  },
-  {
     "id": "jobicy-664efa5d6b49",
     "title": "Account Development Representative - France",
     "company": "Samsara",
@@ -459,20 +595,37 @@
     "date_posted": "2026-09-21"
   },
   {
-    "id": "jobicy-1abf79bc629d",
-    "title": "Psychiatrist (Part-Time) - Contract",
-    "company": "Headspace",
+    "id": "jobicy-af7f22fa13d3",
+    "title": "Account Executive, Enterprise - Texas",
+    "company": "Motive",
     "location": "USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "About the Psychiatrist, Part-Time (Contract) role with Headspace: Headspace is your lifelong guide to better mental health. We make mental health support accessible to everyone, no matter their background or experience. Through our flagship Headspace app, we provide mindfulness tools for everyday life, including meditations, sleepcasts, mindful movement and focus exercises. Our enterprise offerings combine&hellip;",
+    "description": "Who we are: Motive empowers the people who run physical operations with tools to make their work safer, more productive, and more profitable. For the first time ever, safety, operations and finance teams can manage their drivers, vehicles, equipment, and fleet related spend in a single system. Combined with industry leading AI, the Motive platform&hellip;",
     "required_skills": [
-      "healthcare & medical"
+      "sales"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153810-psychiatrist-part-time-contract",
+    "url": "https://jobicy.com/jobs/153806-account-executive-enterprise-texas-2",
+    "date_posted": "2026-09-21"
+  },
+  {
+    "id": "jobicy-d787097be25d",
+    "title": "Enterprise Account Executive, Dept. of Transportation",
+    "company": "Databricks",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "SLSQ427R595 While candidates in the listed location(s) are encouraged for this role, candidates in other locations will be considered. As an Enterprise Account Executive at Databricks, you will be responsible for driving sales of Databricks within the Department of Transportation. As an experienced Account Executive, you know how to sell innovation and change through customer&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153805-enterprise-account-executive-dept-of-transportation",
     "date_posted": "2026-09-21"
   },
   {
@@ -493,23 +646,6 @@
     "date_posted": "2026-09-21"
   },
   {
-    "id": "jobicy-bbb55972acda",
-    "title": "Director, Marketing Planning and Operations",
-    "company": "Life360",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Life360 Life360’s mission is to keep people close to the ones they love. Our category-leading mobile app, Tile tracking devices, and Pet GPS tracker empower members to protect the people, pets, and things they care about most with a range of services, including location sharing, safe driver reports, and crash detection with emergency dispatch.&hellip;",
-    "required_skills": [
-      "marketing & sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153800-director-marketing-planning-and-operations",
-    "date_posted": "2026-09-21"
-  },
-  {
     "id": "jobicy-5fed50dd8440",
     "title": "Director, IT",
     "company": "Life360",
@@ -524,6 +660,23 @@
     "requirements": [],
     "source": "Jobicy",
     "url": "https://jobicy.com/jobs/153795-director-it",
+    "date_posted": "2026-09-21"
+  },
+  {
+    "id": "jobicy-bbb55972acda",
+    "title": "Director, Marketing Planning and Operations",
+    "company": "Life360",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Life360 Life360’s mission is to keep people close to the ones they love. Our category-leading mobile app, Tile tracking devices, and Pet GPS tracker empower members to protect the people, pets, and things they care about most with a range of services, including location sharing, safe driver reports, and crash detection with emergency dispatch.&hellip;",
+    "required_skills": [
+      "marketing & sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153800-director-marketing-planning-and-operations",
     "date_posted": "2026-09-21"
   },
   {
@@ -595,37 +748,20 @@
     "date_posted": "2026-09-21"
   },
   {
-    "id": "jobicy-559ed52e4a6b",
-    "title": "CRO Manager (Conversion Rate Optimization)",
-    "company": "Wpromote",
-    "location": "USA",
+    "id": "jobicy-fb7187aec05c",
+    "title": "Senior Product Designer (Full Remote - UK)",
+    "company": "EverAI",
+    "location": "UK",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "The Role The Manager, Conversion Rate Optimization (CRO) is responsible for driving experimentation strategy and execution across multiple client websites. This role focuses on designing meaningful A/B and multivariate tests, interpreting results with clarity, and delivering data-backed recommendations that inform Experience Design and broader DX initiatives. Reporting to the Director, Digital Experience, the CRO Manager&hellip;",
+    "description": "Our Vision &amp; Products EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI, we’re shaping what it means to connect with AI. With 50 million users&hellip;",
     "required_skills": [
-      "marketing & sales"
+      "web, ui & ux design"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153797-cro-manager-conversion-rate-optimization",
-    "date_posted": "2026-09-21"
-  },
-  {
-    "id": "jobicy-f349ff5c9a61",
-    "title": "People Partner",
-    "company": "Salesloft",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Job: People Partner Location: United States, Remote Salesloft is building the next era of enterprise revenue — one where teams make confident decisions powered by AI and real signals. By combining our scale, insights, and AI innovation, we're building the industry's first Predictive Revenue System, enabling humans and AI to work together to make smarter&hellip;",
-    "required_skills": [
-      "hr & recruiting"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153801-people-partner-2",
+    "url": "https://jobicy.com/jobs/153803-senior-product-designer-full-remote-uk",
     "date_posted": "2026-09-21"
   },
   {
@@ -646,20 +782,37 @@
     "date_posted": "2026-09-21"
   },
   {
-    "id": "jobicy-fb7187aec05c",
-    "title": "Senior Product Designer (Full Remote - UK)",
-    "company": "EverAI",
-    "location": "UK",
+    "id": "jobicy-f349ff5c9a61",
+    "title": "People Partner",
+    "company": "Salesloft",
+    "location": "USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Our Vision &amp; Products EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI, we’re shaping what it means to connect with AI. With 50 million users&hellip;",
+    "description": "Job: People Partner Location: United States, Remote Salesloft is building the next era of enterprise revenue — one where teams make confident decisions powered by AI and real signals. By combining our scale, insights, and AI innovation, we're building the industry's first Predictive Revenue System, enabling humans and AI to work together to make smarter&hellip;",
     "required_skills": [
-      "web, ui & ux design"
+      "hr & recruiting"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153803-senior-product-designer-full-remote-uk",
+    "url": "https://jobicy.com/jobs/153801-people-partner-2",
+    "date_posted": "2026-09-21"
+  },
+  {
+    "id": "jobicy-559ed52e4a6b",
+    "title": "CRO Manager (Conversion Rate Optimization)",
+    "company": "Wpromote",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "The Role The Manager, Conversion Rate Optimization (CRO) is responsible for driving experimentation strategy and execution across multiple client websites. This role focuses on designing meaningful A/B and multivariate tests, interpreting results with clarity, and delivering data-backed recommendations that inform Experience Design and broader DX initiatives. Reporting to the Director, Digital Experience, the CRO Manager&hellip;",
+    "required_skills": [
+      "marketing & sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153797-cro-manager-conversion-rate-optimization",
     "date_posted": "2026-09-21"
   },
   {
@@ -694,159 +847,6 @@
     "requirements": [],
     "source": "Jobicy",
     "url": "https://jobicy.com/jobs/153787-enterprise-account-manager",
-    "date_posted": "2026-09-21"
-  },
-  {
-    "id": "jobicy-cd3f3f13a84d",
-    "title": "Technical Program Manager",
-    "company": "Spreedly",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Us: Spreedly is the world's leading Open Payments Platform. Founded in 2007 and headquartered in Durham, NC, the company gives mid-market and enterprise businesses the infrastructure to connect to any payment gateway, processor, or fraud tool through a single API. The platform is vendor-agnostic by design, meaning customers are never locked into a single&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153792-technical-program-manager-4",
-    "date_posted": "2026-09-21"
-  },
-  {
-    "id": "jobicy-8a7dbc34bcf3",
-    "title": "Lead Revenue Operations Analyst",
-    "company": "Spreedly",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Us: Spreedly is the world's leading Open Payments Platform. Founded in 2007 and headquartered in Durham, NC, the company gives mid-market and enterprise businesses the infrastructure to connect to any payment gateway, processor, or fraud tool through a single API. The platform is vendor-agnostic by design, meaning customers are never locked into a single&hellip;",
-    "required_skills": [
-      "product & operations"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153789-lead-revenue-operations-analyst",
-    "date_posted": "2026-09-21"
-  },
-  {
-    "id": "jobicy-dbc1bf5dd673",
-    "title": "Privacy Advisor",
-    "company": "DeleteMe",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "DeleteMe is the leader in proactive privacy protection. We help Individuals, Families, Businesses and Security teams reduce their human attack surface by continuously monitoring and removing exposed personal data (PII) from the open web — the very data threat actors use to launch social engineering, phishing, Gen-AI deepfake, doxxing campaigns, physical threats, and identity fraud.&hellip;",
-    "required_skills": [
-      "cybersecurity"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153793-privacy-advisor",
-    "date_posted": "2026-09-21"
-  },
-  {
-    "id": "jobicy-60fc7a17ac6f",
-    "title": "Partner Business Manager",
-    "company": "DeleteMe",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About DeleteMe: DeleteMe is the leader in proactive privacy protection. We help security teams reduce their human attack surface by continuously monitoring and removing exposed personal data (PII) from the open web — the very data threat actors use to launch social engineering, phishing, Gen-AI deepfake, doxxing campaigns, physical threats, and identity fraud. Operating as&hellip;",
-    "required_skills": [
-      "business development"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153790-partner-business-manager",
-    "date_posted": "2026-09-21"
-  },
-  {
-    "id": "jobicy-588bf24dbedf",
-    "title": "Marketing Specialist, Public Sector (Federal + SLED)",
-    "company": "DeleteMe",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About DeleteMe: DeleteMe is the leader in proactive privacy protection. We help security teams reduce their human attack surface by continuously monitoring and removing exposed personal data (PII) from the open web — the very data threat actors use to launch social engineering, phishing, Gen-AI deepfake, doxxing campaigns, physical threats, and identity fraud. Operating as&hellip;",
-    "required_skills": [
-      "marketing & sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153788-marketing-specialist-public-sector-federal-sled",
-    "date_posted": "2026-09-21"
-  },
-  {
-    "id": "jobicy-adeecd8d5cc2",
-    "title": "Enterprise Solution Engineer (Pre-Sales)",
-    "company": "Zip",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Zip Zip is the AI platform for enterprise procurement — built for humans and agents working together. By orchestrating procurement across teams, tools, and suppliers with the help of AI agents, companies can secure the resources they need to innovate faster than ever before. The world’s most influential enterprises trust Zip, including T-Mobile, OpenAI,&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153786-enterprise-solution-engineer-pre-sales",
-    "date_posted": "2026-09-21"
-  },
-  {
-    "id": "jobicy-c36a3d74b8e8",
-    "title": "Solution Advisor, Professional Services",
-    "company": "Zip",
-    "location": "Israel",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Zip Zip is the AI platform for enterprise procurement — built for humans and agents working together. By orchestrating procurement across teams, tools, and suppliers with the help of AI agents, companies can secure the resources they need to innovate faster than ever before. The world’s most influential enterprises trust Zip, including T-Mobile, OpenAI,&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153794-solution-advisor-professional-services",
-    "date_posted": "2026-09-21"
-  },
-  {
-    "id": "jobicy-c18da0fdcc6f",
-    "title": "Lifecycle Marketing Manager",
-    "company": "DeleteMe",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About DeleteMe: DeleteMe is the leader in proactive privacy protection. We help security teams reduce their human attack surface by continuously monitoring and removing exposed personal data (PII) from the open web — the very data threat actors use to launch social engineering, phishing, Gen-AI deepfake, doxxing campaigns, physical threats, and identity fraud. Operating as&hellip;",
-    "required_skills": [
-      "marketing & sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153785-lifecycle-marketing-manager",
-    "date_posted": "2026-09-21"
-  },
-  {
-    "id": "jobicy-03e66785bc6c",
-    "title": "Scout Junior Quality Coordinator - Portuguese (Brazil)",
-    "company": "Welo Global",
-    "location": "Brazil",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "MAIN PURPOSE OF THE ROLE Are you a search engine guru? Can you find what you're looking for with just a few keywords? We have a unique opportunity for you to put your skills to the test! Welocalize is looking for an Portuguese (Brazil) speaker in Brazil to help support our client's project as Junior&hellip;",
-    "required_skills": [
-      "qa & testing"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/151333-scout-junior-quality-coordinator-portuguese-brazil",
     "date_posted": "2026-09-21"
   },
   {
@@ -1550,279 +1550,74 @@
     "date_posted": "2026-08-25"
   },
   {
-    "id": "arbeitnow-73a3a5912bf8",
-    "title": "Senior Technical Product Manager, Rail Integrations (all genders)",
-    "company": "Distribusion Technologies",
-    "location": "Remote job",
+    "id": "arbeitnow-0c78cc9c3e26",
+    "title": "Account Executive, Named - Germany",
+    "company": "Rubrik",
+    "location": "Remote",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Distribusion is the world’s leading ground transportation marketplace and gives travellers seamless access to ground transportation online, from search to ticket purchase. We have built a cutting-edge B2B technology platform that connects bus, rail, and ferry operators in 70+ countries with the biggest online retailers, including Google Maps and Booking.com . We are shaping the future of travel and building the largest global network of transport providers and retailers. We are one of the fastest-growing startups in travel, backed by leading venture capital investors including TQ Ventures, Lightrock, Creandum, and Northzone, and are headquartered in Berlin, Germany. Following our recent $80m Series C funding, we are ready to push beyond. We are looking for a&nbsp; (Senior) Technical Product Manager, Rail Integrations, &nbsp;to join our&nbsp; Supply domain , more specifically in the Integrations team, which is responsible for onboarding carriers onto our system (integrating external systems, harmonising data structures and building revenue-increasing products for carriers).&nbsp;This is key to scaling our business; therefore, our focus is on innovation and automation. What you will do: Extend functionalities to enable new opportunities Automate and innovate our existing inventory (our API product is already used by big players) Own scoping and management of onboarding new carriers; establish wider scope throughout Asia Take a lead role in defining and challenging strategic decisions Contribute to the team with process improvements (e.g. Jira, reporting, etc.) Build relationships with key stakeholders (internal/external – C-level) Workplace:&nbsp; Berlin &amp; Hybrid; or Remote We are a remote-first international company with team members spread around the world. We are looking to hire the best talent around the Globe, so wherever you are, feel free to reach out. If, however, you prefer working onsite/hybrid, our heart is in Berlin, one of the biggest and most vibrant tech hubs in Europe, and we are happy to assist with relocation. Who you are:&nbsp; MUST HAVE: Rail industry experience. Hands-on experience with PICO API, OSDM, or other European rail carrier and transportation industry standards. Product Management background: 4+ years of professional experience, with hands-on exposure to the technical side of the product (APIs / data products) — experience with complex products is a plus. Stakeholder management: strong track record influencing without direct authority, including at C-level, while comfortably context-switching and showing proactivity and ownership across your responsibilities. Management skills: solid grounding across product, process, project, and people management, developed within cross-functional teams. Background: technical or Bachelor's degree in Computer Science, Engineering, or a related field; fluent in English, both verbal and written. Nice to have: Ready to lead (experience is a plus) : you may have already managed a small team of technical PMs or analysts. If not, you're excited to start. You know how to coach, unblock, and grow people while staying close to the work What you can expect: Make a global impact. Help shape how millions of people discover and book ground transportation worldwide. Own your work. Take responsibility from day one and see the direct impact of your contributions. Build with the best tools. We move fast, continuously evolve our tech stack, and invest in modern, efficient solutions. Work with industry leaders. Our partners include Booking.com , Google Maps, Amtrak, Deutsche Bahn, Renfe, and SNCF. Grow with exceptional people. Join an international team that will challenge, support, and inspire you every day. Work your way. Enjoy flexible and remote-friendly working options, relocation opportunities, and plenty of room to grow. Our hiring process for this role: For any questions, you can contact your Talent Partner (TP), Benedetta, at ( ). Do you want to work on a product that is used by millions of people daily with a high load, availability and scalability, and the most advanced technology? Come join us! Find more English Speaking Jobs in Germany on Arbeitnow",
+    "description": "&lt;p data-start=&quot;162&quot; data-end=&quot;733&quot;&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;About Team &amp;amp; About Role&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Rubrik&#39;s sales organisation is a unified group of elite cross-functional professionals helping companies across every major industry achieve true resilience against cyberattacks, malicious insiders, and operational disruptions. As Named Account Executive in Germany, you&#39;ll own a portfolio of large enterprise accounts, driving Rubrik&#39;s continued expansion in one of Europe&#39;s most dynamic enterprise markets.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What You&#39;ll Do&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Own and grow a portfolio of enterprise accounts across Germany, combining existing customer relationships with new business development.&lt;/li&gt; &lt;li&gt;Run full, multistakeholder sales cycles end to end — from discovery and qualification through solution design, negotiation, and close — across both net-new logo and existing-account expansion deals.&lt;/li&gt; &lt;li&gt;Build and manage a high-quality pipeline across your territory, balancing larger strategic opportunities with faster-moving transactional deals.&lt;/li&gt; &lt;li&gt;Develop executive relationships within your accounts, translating Rubrik&#39;s technical capabilities into the board-level priorities that make data security a strategic imperative.&lt;/li&gt; &lt;li&gt;Partner closely with Solutions Engineers, Channel Development, and Rubrik&#39;s partner ecosystem to extend reach across your territory and position Rubrik against the full scope of customer risk.&lt;/li&gt; &lt;li&gt;Collaborate with and learn from your regional peers — the German team works closely together on deal strategy and account coverage, so you&#39;ll grow fastest by leaning on each other.&lt;/li&gt; &lt;li&gt;Feed market intelligence back to Rubrik&#39;s leadership, including competitive signals and account trends that shape our go-to-market approach across Germany.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Experience You&#39;ll Need&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Experience closing complex enterprise deals, with the appetite to grow into larger, multi-product opportunities — we&#39;ll help you build the rest.&lt;/li&gt; &lt;li&gt;A track record that shows both new-logo acquisition and growing existing customer relationships.&lt;/li&gt; &lt;li&gt;Fluent in German and professional in English; you engage confidently with both technical buyers and executive stakeholders in either language.&lt;/li&gt; &lt;li&gt;Understanding of enterprise buying cycles, procurement processes, and multistakeholder decision-making within large or complex organisations.&lt;/li&gt; &lt;li&gt;Comfortable working with channel partners and distributors as part of a broader go-to-market motion.&lt;/li&gt; &lt;li&gt;Willingness to travel regularly across your territory to build in-person relationships with customers.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Preferred Qualifications&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Background in cybersecurity, data protection, backup/recovery, or adjacent infrastructure/cloud categories — candidates who understand the difference between data centre and cloud environments tend to ramp fastest.&lt;/li&gt; &lt;li&gt;Experience with MEDDPICC as a sales qualification and execution framework.&lt;/li&gt; &lt;li&gt;Existing relationships within large German enterprise or Mittelstand organisations.&lt;/li&gt; &lt;li&gt;Familiarity with Salesforce for pipeline management and forecast accuracy.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;#LI-CH2 #LI-remote&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;Join Us in Securing and Accelerating the World&#39;s AI Transformation&lt;/h2&gt; &lt;p&gt;Rubrik (RBRK), the Security and AI Operations Company, leads at the intersection of data protection, cyber resilience, and enterprise AI acceleration. Rubrik Security Cloud delivers complete cyber resilience by securing, monitoring, and recovering data, identities, and workloads across clouds. Rubrik Agent Cloud accelerates trusted AI agent deployments at scale by monitoring and auditing agentic actions, enforcing real-time guardrails, fine-tuning for accuracy and undoing agentic mistakes.&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/company/rubrik-inc/mycompany/verification/&quot;&gt;Linkedin&lt;/a&gt; | &lt;a href=&quot;https://twitter.com/rubrikinc&quot;&gt;X (formerly Twitter)&lt;/a&gt; | &lt;a href=&quot;https://www.instagram.com/rubrikinc/&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt; |&amp;nbsp;&lt;a href=&quot;https://www.rubrik.com&quot;&gt;Rubrik.com&lt;/a&gt;&lt;/p&gt; &lt;h2&gt;Inclusion @ Rubrik&lt;/h2&gt; &lt;p&gt;At Rubrik, we are dedicated to fostering a culture where people from all backgrounds are valued, feel they belong, and believe they can succeed. Our commitment to inclusion is at the heart of our mission to secure the world’s data.&lt;/p&gt; &lt;p&gt;Our goal is to hire and promote the best talent, regardless of background. We continually review our hiring practices to ensure fairness and strive to create an environment where every employee has equal access to opportunities for growth and excellence. We believe in empowering everyone to bring their authentic selves to work and achieve their fullest potential.&lt;/p&gt; &lt;h3&gt;Our inclusion strategy focuses on three core areas of our business and culture:&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; &lt;p style=&quot;line-height: 1;&quot;&gt;Our Company: We are committed to building a merit-based organization that offers equal access to growth and success for all employees globally. Your potential is limitless here.&lt;/p&gt; &lt;/li&gt; &lt;li style=&quot;line-height: 1;&quot;&gt; &lt;p&gt;Our Culture: We strive to create an inclusive atmosphere where individuals from all backgrounds feel a strong sense of belonging, can thrive, and do their best work. Your contributions help us innovate and break boundaries.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p style=&quot;line-height: 1;&quot;&gt;Our Communities: We are dedicated to expanding our engagement with the communities we operate in, creating opportunities for underrepresented talent and driving greater innovation for our clients. Your impact extends beyond Rubrik, contributing to safer and stronger communities.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;Equal Opportunity Employer/Veterans/Disabled&lt;/h2&gt; &lt;p&gt;Rubrik is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or protected veteran status and will not be discriminated against on the basis of disability.&lt;/p&gt; &lt;p&gt;Rubrik provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. In addition to federal law requirements, Rubrik complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.&amp;nbsp;&lt;/p&gt; &lt;p&gt;Federal law requires employers to provide reasonable accommodation to qualified individuals with disabilities. Please contact us at ----- if you require a reasonable accommodation to apply for a job or to perform your job. Examples of reasonable accommodation include making a change to the application process or work procedures, providing documents in an alternate format, using a sign language interpreter, or using specialized equipment.&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf&quot; target=&quot;_blank&quot;&gt;EEO IS THE LAW&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/olms/regs/compliance/eo_posters/employeerightsposter2page_19final.pdf&quot; target=&quot;_blank&quot;&gt;NOTIFICATION OF EMPLOYEE RIGHTS UNDER FEDERAL LABOR LAWS&lt;/a&gt;&lt;/p&gt;&lt;/div&gt; Find more English Speaking Jobs in Germany on Arbeitnow",
     "required_skills": [
-      "product",
-      "remote"
+      "sales"
     ],
     "requirements": [],
     "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-senior-technical-product-manager-rail-integrations-all-genders-berlin-58755",
+    "url": "https://www.arbeitnow.com/jobs/companies/rubrik/remote-account-executive-named-germany-86588",
     "date_posted": null
   },
   {
-    "id": "arbeitnow-deab32e2d201",
-    "title": "Senior Technical Project Manager - PMO (all genders)",
-    "company": "Contabo",
-    "location": "Remote (Germany)",
+    "id": "arbeitnow-41fef6d92a12",
+    "title": "Fullstack Entwickler (m/w/d)",
+    "company": "ICT Digital Solutions",
+    "location": "Munich",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Your creative field We are looking for a full-time, permanent Technical Project Manager (all genders) to join our PMO team as soon as possible. We embrace a remote-first approach (within Germany), but you can choose whether you’d like to work in a hybrid model or entirely on-site, depending on your proximity to one of our locations (Berlin, Hamburg, Cologne, Munich). As a Senior Technical Project Manager, you are a cornerstone of strategy execution at Contabo – and you're joining at a time when a lot is moving strategically. Alongside the continued evolution of our existing cloud infrastructure, we are driving initiatives that will expand our portfolio well beyond what exists today over the coming years. This is exactly where your role comes in: embedded in our PMO, you take end-to-end ownership of technical projects across development teams and business functions – including initiatives for which no blueprint exists yet, where you help shape structures from the ground up. You work at the intersection of technology and business: you translate sometimes still ambiguous requirements into executable plans, actively challenge requirements, and structure initiatives into scalable roadmaps, iterations, and implementation phases. In your day-to-day work, you coordinate priorities, dependencies, and delivery sequencing across multiple teams and parallel workstreams, identify resource bottlenecks and delivery risks early, and ensure transparency through structured reporting, clear governance, and effective escalation management – especially when scope and priorities shift in our fast-moving environment. You'll be working with tools like Jira, Confluence, and comparable solutions. Beyond individual projects, you shape the PMO itself: you continuously develop our standards and processes, support portfolio alignment and prioritisation, and share your knowledge as a mentor to junior project managers. A lean PMO at Contabo means a high degree of autonomy and genuine ownership – you report directly to the Head of Strategy Execution &amp; ESG and contribute measurably to the execution of Contabo's strategic roadmap. What convinces us Your personality, paired with: 5+ years of experience in technical project or program management within software development or technical delivery organisations Proven end-to-end delivery ownership of cross-functional initiatives with multiple parallel workstreams – not limited to governance or status-reporting roles Strong experience in stakeholder and escalation management A high degree of ownership and composure in an environment of shifting priorities and ambiguity Confident use of common PM tooling such as Jira, Confluence (or comparable) Experience in a cloud, hosting, or IT infrastructure environment, as well as with agile scaling, PMO, or portfolio management (a plus) A completed degree in Computer Science, Business Informatics, Engineering, or a comparable qualification Professional fluency in English; German language skills and certifications (PMP, PRINCE2, SAFe, PSM) are a plus We know that you may not currently meet all of these requirements. But if you bring the right amount of commitment and enthusiasm for the role, we can achieve great things together. Awesome Prospects At Contabo, we are constantly evolving. Our growth creates space for new ideas, ownership, and real impact for people who want to make a difference. What defines us is trust, direct communication, and an open feedback culture. We believe the best solutions are built together and that everyone has the opportunity to contribute, grow, and leave their own footprint. Additionally, we offer: Work the way that fits your life – Remote or hybrid with flexible hours for a healthy work-life balance and the same technical equipment at home as in the office Experience real freedom – Workation across the EU and in our summer office in Mallorca Stay active and healthy – Access to EGYM Wellpass and thousands of fitness and wellness facilities Enjoy exclusive perks – Attractive discounts on many products and services through our corporate benefits program Recharge your energy – 30 days of vacation plus additional days off on Christmas Eve and New Year’s Eve Give back – An extra day off to get involved in social activities through our Volunteer Day Make an impact – Take ownership and bring your ideas to life with real creative freedom Keep growing – Individual professional and personal development opportunities in an innovative tech environment Feel comfortable where you work – Modern, conveniently located offices across our European locations Be part of a diverse team – Work in an international environment shaped by diversity Create lasting memories – Company events and team activities you won’t forget How to reach us If you have any questions, you can reach out to Max by email at . Find more English Speaking Jobs in Germany on Arbeitnow",
+    "description": "Zur Verstärkung unseres Teams suchen wir zum nächstmöglichen Zeitpunkt einen engagierten Fullstack Entwickler (m/w/d) am Standort München oder hybrid . Deine Aufgaben Entwicklung von Webapplikationen im Full-Stack-Bereich. Design und Implementierung von APIs (REST/GraphQL). Mitarbeit an Architekturentscheidungen und technischer Konzeption. Arbeit in agilen Teams (Scrum/Kanban) mit enger Zusammenarbeit zu Product Ownern, Design und DevOps. Integration von Cloud-Services (AWS, Azure, GCP) und DevOps-Tooling. Dein Profil Mehrjährige Erfahrung in der Frontend-Entwicklung mit modernen Frameworks wie React, Angular oder Vue . Sehr gute Kenntnisse in der Backend-Entwicklung , z. B. mit Node.js (Express/NestJS), Python (Django/FastAPI) oder Java (Spring Boot) . Erfahrung mit relationale (PostgreSQL, MySQL) oder NoSQL-Datenbanken (MongoDB, Redis) . Kenntnisse in TypeScript oder JavaScript (Python/Java als Plus). Grundverständnis von Cloud- und DevOps-Umgebungen (Docker, Kubernetes, CI/CD). Begeisterung für Clean Code, Testing und moderne Entwicklungspraktiken. Sprachniveau: Deutsch C1, Englisch B2 Was wir dir bieten Betriebliche Altersvorsorge zur Absicherung deiner Zukunft. Flexibles Mobilitätskonzept – wähle z. B. zwischen Tankgutschein, Deutschlandticket oder Rollernutzung. Hybrides Arbeiten Company Days für Wissensaustausch, Netzwerkpflege und Innovation. Regelmäßige Team-Events zum gemeinsamen Feiern und Austauschen. Persönlicher Buddy während deiner gesamten Einarbeitung – für Fragen, Orientierung und Vernetzung. Individuell abgestimmter Fortbildungs- und Entwicklungsplan für deine fachliche und persönliche Weiterentwicklung. 30 Urlaubstage und eine ausgeglichene Work-Life-Balance. Kaffee, Wasser, Softdrinks und natürlich auch ein Feierabendbier gehen auf uns! Über uns Als Teil der niederländischen ICT Group gestalten wir mit ICT Digital Solutions aktiv die digitale Transformation unserer Kunden – mit Leidenschaft für Technologie und Innovation. Unsere mehr als 2.500 Mitarbeitenden an 14 Standorten in Europa vereinen fundiertes Branchen-Know-how mit interdisziplinärer Technologiekompetenz. Wir entwickeln individuelle Softwarelösungen sowie „out of the box“-Produkte – insbesondere im Bereich IoT , Industrie 4.0 und digitaler Geschäftsprozesse – und begleiten unsere Kunden ganzheitlich auf dem Weg zur digitalen Exzellenz. Find Jobs in Germany on Arbeitnow",
     "required_skills": [
-      "technical project management",
-      "it project management",
-      "it",
-      "cloud",
-      "hosting",
       "remote",
-      "homeoffice in germany"
+      "software development"
     ],
     "requirements": [],
     "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-technical-project-manager-pmo-all-genders-320621",
+    "url": "https://www.arbeitnow.com/jobs/companies/ict-digital-solutions/fullstack-entwickler-munich-284639",
     "date_posted": null
   },
   {
-    "id": "arbeitnow-eb3aaa70b13a",
-    "title": "Senior Software Developer – Platform & Infrastructure Engineering (all genders)",
-    "company": "Contabo",
-    "location": "Remote (Germany)",
+    "id": "arbeitnow-b969942b8857",
+    "title": "Embedded Softwareentwickler (m/w/d)",
+    "company": "ICT Digital Solutions",
+    "location": "Munich",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Your creative field We are looking for two full-time, permanent Senior Software Developer – Platform &amp; Infrastructure Engineering (all genders) to start as soon as possible . We live remote-first within Germany , but you have the freedom to choose whether you want to work hybrid or completely on-site due to your proximity to one of our locations. You’ll become an integral part of a new team which is going to be responsible for the creation and maintenance of Contabo's new product line. You’ll be part of a new team in a green field scenario making design, code and infrastructure decisions based on our product strategy and time-to-market. We’re looking for brave, pragmatic risk takers who find a balance between speed and perfectionism, who participate in on-call but also proactively work with the team on improving the redundancy of our systems. Your main focus is going to creating the business logic side of our new product line, which means authentication, exposing infrastructure primatives such as virtual servers, storage, networking but also accounts, project, feature flags and everything else that comes with it. As the core team, you’ll be exposing our new product not just to our customers but other internal team who will be able to build on-top of our primatives to create more value on top like managed services. What convinces us Your personality, paired with: Backend &amp; API Engineering Production experience with at least one modern backend language (Go, Python, Java, or Rust) Experience designing and building APIs as a stable interface for infrastructure consumption Infrastructure Proven expierence with IaaS provisioning stacks: OpenStack (Nova/Ironic/Octavia), KubeVirt/QEMU/libvirt, Ceph, LVM Kubernetes or comparable orchestration in production Virtualization platforms (KVM/OpenStack or similar) Infrastructure-as-code (Terraform/Ansible) Large-scale infrastructure operations Mindset &amp; Ways of Working Solution-agnostic: evaluates build-vs-buy without defaulting to a specific stack Ownership that spans backend and infrastructure, not one or the other Comfortable with on-call and production incident response Plus: 10+ years combined experience, English fluent, German nice to have We know that you may not currently meet all the requirements. But if you come to us with the right amount of commitment and enthusiasm, we can take off together and make a big difference. Awesome Prospects At Contabo, we are constantly evolving. Our growth creates space for new ideas, ownership, and real impact for people who want to make a difference. What defines us is trust, direct communication, and an open feedback culture. We believe the best solutions are built together and that everyone has the opportunity to contribute, grow, and leave their own footprint. Additionally, we offer: Work the way that fits your life – Remote or hybrid with flexible hours for a healthy work-life balance and the same technical equipment at home as in the office Experience real freedom – Workation across the EU and in our summer office in Mallorca Stay active and healthy – Access to EGYM Wellpass and thousands of fitness and wellness facilities Enjoy exclusive perks – Attractive discounts on many products and services through our corporate benefits program Recharge your energy – 30 days of vacation plus additional days off on Christmas Eve and New Year’s Eve Give back – An extra day off to get involved in social activities through our Volunteer Day Make an impact – Take ownership and bring your ideas to life with real creative freedom Keep growing – Individual professional and personal development opportunities in an innovative tech environment Feel comfortable where you work – Modern, conveniently located offices across our European locations Be part of a diverse team – Work in an international environment shaped by diversity Create lasting memories – Company events and team activities you won’t forget How to reach us If you have any questions, you can reach out to Alina by phone +49 89 2441067714 . Find more English Speaking Jobs in Germany on Arbeitnow",
+    "description": "Zur Verstärkung unseres Teams suchen wir zum nächstmöglichen Zeitpunkt einen Embedded Softwareentwickler (m/w/d) am Standort München oder hybrid. Deine Aufgaben Entwicklung und Implementierung von Embedded-Softwarelösungen in C und C++ Programmierung von Mikrocontrollern (z. B. ARM Cortex-M) und hardwarenaher Software Design und Umsetzung robuster Softwarearchitekturen im Embedded-Umfeld Integration von Peripheriegeräten und Echtzeitbetriebssystemen (RTOS) Durchführung von Unit-Tests, Code Reviews und Debugging Enge Zusammenarbeit mit interdisziplinären Teams aus Soft- und Hardwareentwicklung Dokumentation von Anforderungen, Konzepten und Implementierungen Dein Profil Abgeschlossenes Studium der Informatik, Elektrotechnik oder einer vergleichbaren Fachrichtung Mehrjährige Berufserfahrung in der Embedded Softwareentwicklung mit C / C++ Fundierte Kenntnisse in der Mikrocontrollerprogrammierung (z. B. ARM, STM32, ESP32) Erfahrung mit Embedded-Architekturen und Echtzeitbetriebssystemen Vertraut mit Tools wie Git, JTAG, Logic Analyzer, Debugger etc. Analytisches Denken, strukturierte Arbeitsweise und hohe Qualitätsorientierung Sprachniveau: Deutsch C1, Englisch B2 Das bieten wir dir Betriebsrente Abwechslungsreiche Projekte im Embedded-Umfeld bei namhaften Kunden Aktive Mitgestaltung und Verantwortung im Projekt Flexible Arbeitszeiten Offene, wertschätzende Unternehmenskultur mit flachen Hierarchien Mobilitätskonzept (wähle zum Beispiel zwischen Tankgutschein, Deutschlandticket, Rollernutzung und anderen Möglichkeiten) Flexible Arbeitsplatzmodelle Monatliche Company Days für fachlichen und persönlichen Austausch Regelmäßige Team Events Individuelle Weiterbildungs- und Entwicklungsmöglichkeiten 30 Urlaubstage Softdrinks &#x26; Feierabendbier gehen auf uns! Wasser und Kaffee gibt es aber natürlich auch ;) Über ICT Digital Solutions ICT Digital Solutions ist Teil der niederländischen ICT Group und begleitet als technologieunabhängiger Entwicklungspartner Unternehmen bei der digitalen Transformation. Mit mehr als 2.500 Mitarbeitenden an 14 internationalen Standorten entwickeln wir maßgeschneiderte Lösungen – von der Embedded-Software bis zur Cloud-Integration. Find Jobs in Germany on Arbeitnow",
     "required_skills": [
-      "software",
-      "hosting",
-      "cloud hositng",
-      "vps",
-      "data center",
-      "remote company",
       "remote",
-      "hybrid work",
-      "tech company",
-      "software developer",
-      "software egineer",
-      "hosting company",
-      "international"
+      "software development"
     ],
     "requirements": [],
     "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-software-developer-platform-infrastructure-engineering-all-genders-374552",
+    "url": "https://www.arbeitnow.com/jobs/companies/ict-digital-solutions/embedded-softwareentwickler-munich-230480",
     "date_posted": null
   },
   {
-    "id": "arbeitnow-29ee286a8fb7",
-    "title": "Director Marketing (all genders) - GPORTAL (Ociris GmbH)",
-    "company": "Contabo",
-    "location": "Remote (Germany)",
+    "id": "arbeitnow-914750fa25e1",
+    "title": "Technical Outsource Manager (m/w/d)",
+    "company": "ICT Digital Solutions",
+    "location": "Munich",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Your creative field At GPORTAL , our vision is to build individual and easy-to-use online gaming experiences for the world. Driven by our “from gamer for gamer” passion, we've grown into one of the leading game server providers - offering more than just servers, unlike other hosting companies. For over 20 years, we've been bringing virtual worlds into people's homes with just a few clicks. Our mission: enabling experts and beginners alike to play their favourite games together with their friends. From Palworld and Enshrouded to Minecraft and Battlefield, we offer around 100 multiplayer games across every genre. GPORTAL is looking for a Director Marketing who is ready to take the wheel of our entire marketing department, performance marketing, social media, partner management, community management, and graphic design. Reporting directly to our CEO, you will be part of the core management team from day one, with the kind of ownership over people and KPIs you will not find in every gaming company. In your first six months, the priority is simple: keep the team running strong while you get a real feel for GPORTAL's business, our vision, and where we are headed. You will take full budget responsibility, from managing current spend and staying on top of marketing invoices to building the annual forecast. You will also size up the market to derive strategic conclusions on where we push next. From there, you settle in as a driving force in our management team and sharpen how the marketing department works so it is well set up for the future. That includes working hand in hand with our tech teams on product-related topics such as checkout flows or game updates and launches. You also take full responsibility for onboarding, managing, and offboarding our external agencies and freelancers. On top of that, you build real connections with the marketing team over at Contabo Group to create synergies wherever possible. Just as important: brand visibility and closeness to the community. GPORTAL is a love brand to its players, and that needs to show up in the social channels and communication tools where our community actually lives. Alongside that, you own our marketing campaigns with partner studios and the big moments like Black Friday. Last but not least, you advise our CEO directly on D2C pricing based on comprehensive market assessments, both the operative calls today and the strategic thinking further out. Longer term, you push the KPIs that matter and build retention measures that keep players around. You also shape a team structure that can scale with us. That also means preparing and presenting marketing reporting and KPIs at Group and shareholder level. And you run and assess customer surveys, turning what you learn into decisions we actually act on. Gaming is a volatile business, and the classic playbook does not always deliver a straight line to growth. We are all pulling for the same outcome for the wider group, which sometimes means short-term compromises we make together. In practice, that also means staying flexible and genuinely meeting people face to face rather than just online. What convinces us Ideally, you would have: a strong, hands-on track record leading holistic marketing departments, from performance marketing to social, community, and creative, backed by solid marketing controlling, budget management, and core KPI skills real performance marketing experience, paired with the ability to genuinely inspire a team toward a shared goal some background in IT or hosting, plus experience working with external agencies and freelancers gaming industry exposure is a nice-to-have, though a genuine feel for gaming culture matters just as much as the industry on your CV some exposure to influencer management or social media marketing, and enough confidence to step into a thought-leader role in the market when needed strong communication skills and a knack for handling conflict head-on, with a strategic, analytical mindset that connects campaigns to business outcomes a proactive, hands-on, reliable way of working, comfortable holding yourself to a high bar under pressure an open, global, adaptable mindset with genuine passion for the product and enough flexibility to compromise when the business needs it fluent German and English If this job offer has sparked your interest, please do reach out to us, even if you only meet some of the requirements. We'd love to get to know each other! Awesome Prospects Make an impact – Take ownership and be part of one of the most exciting growth stories in the industry Work the way that fits your life – Remote or hybrid with flexible hours and the setup you need to perform at your best Experience real freedom – Workation across the EU and in our summer office in Mallorca Stay active and healthy – Access to EGYM Wellpass and a wide range of fitness and wellness options Dive into real challenges – Work on a wide range of technical topics that keep things exciting and far from routine Keep growing – Develop your skills through hands-on experience, knowledge sharing, and continuous learning as a team Learn from the best – Work alongside experienced, open-minded colleagues who support each other and share their knowledge· Create lasting memories – Join us for workshops and company events where we come together multiple times a year (yes, fully covered) Give back – Take a day off to support social causes through our Volunteer Day Enjoy exclusive perks – Attractive discounts on many products and services through our corporate benefits program Have fun along the way – Most people here would say we enjoy what we do… but we’ll let you be the judge How to reach us If you have any questions, you can reach out to Katharina by email at katharina . Find more English Speaking Jobs in Germany on Arbeitnow",
+    "description": "Zur Verstärkung unseres Teams suchen wir zum nächstmöglichen Zeitpunkt einen Technical Outsource Manager (m/w/d) in Berlin. Unser Team bietet eine einzigartige Gelegenheit für einen Technischen Outsourcing-Manager (m/w/d), der als Vermittler zwischen unserem High-Tech-Kunden und den Remote-Teams in Bulgarien fungieren wird. Als Technischer Outsourcing-Manager schaffen, pflegen und erweitern Sie Geschäftsbeziehungen, indem Sie langfristige Beziehungen zu unseren Kunden aufbauen und verwalten. Sie fungieren als Bindeglied zwischen dem Kunden und dem Team in Bulgarien und unterstützen diese mit Ihrem technischen Wissen und umfassenden Erfahrungen. Als vertrauenswürdiger Partner werden Sie neue Leads managen und diese zu Nearshoring-Projekten entwickeln; Engineering-Anfragen diskutieren und Einblicke aus verschiedenen Kundenabteilungen einbringen. Sie werden den Kunden regelmäßig besuchen. Sie sind für Kundenbeziehungen verantwortlich und der Hauptansprechpartner für unsere Kunden bei den betreffenden Projekten in einem komplexen, anspruchsvollen und sich häufig ändernden Umfeld. Sie haben ein Auge dafür, Abweichungen in Qualität, Lieferzeit und Budget zu erkennen, diese anzusprechen und zu managen. Um das Bewusstsein für die Bedürfnisse der Kunden zu schaffen, bringen Sie diese „Signale“ und das Kundenfeedback in das Team ein. Sie gewährleisten eine bidirektionale Kommunikation und managen Eskalationen vom Team in Sofia zum Kunden. Ihre Erfahrung bringt Verantwortung und Eigenverantwortung in die Projekte, was sicherstellt, dass unsere Lösungen nachhaltig und umfassend in die Organisationen unserer Kunden eingebettet sind. Zusätzliche Verantwortung: Kommunikation mit Kunden auf mehreren Ebenen; mit technischen Spezialisten, Projektmanagern, Fachleitern und zugewiesenem Personal, das in die Projekte involviert ist Teilnahme an Vor-Ort-Meetings mit dem Kunden Abstimmung der Anforderungen (funktional und technisch), Projektplanung, Nachverfolgung und Berichterstattung Technische Beratung in Ihrem Fachgebiet Fungieren als (technische) Schnittstelle zwischen dem Kunden und den Remote-Entwicklungsteams Mitwirkung an der Erstellung und Abstimmung der (langfristigen) Outsourcing-Produkt-Roadmap/Vision mit relevanten Stakeholdern Schließen von Lücken, die durch Nearshoring entstehen, und Entwicklung struktureller Lösungen Erstellung von Budgets für Ingenieurvorschläge Initiierung von Folgeprojektverkäufen und Verwaltung zusätzlicher Budgets Identifizierung neuer Leads in Ihrem Tätigkeitsbereich Entwicklung Ihres Wissens, um ein voll engagiertes und respektiertes Teammitglied zu werden Fähigkeiten: Konzeptionelles Denken und die Fähigkeit, die Auswirkungen zu analysieren, (High-Level) Designs zu erstellen, die Arbeit geplanter Funktionen vorzubereiten und herunterzubrechen Regelmäßige Abstimmung mit dem Kunden über Prioritäten, Umfang und Abhängigkeiten (zwischen Softwareteams) Fähigkeiten und Erfahrungen: Master- oder Bachelor-Abschluss in einem technischen Bereich Starke Kommunikationsfähigkeiten über Funktionen und Teams hinweg, sowohl nach oben als auch nach unten in der Befehlskette Mindestens 3 Jahre Erfahrung im Projektmanagement Mindestens 5 Jahre Erfahrung in einer Softwareentwicklungsumgebung (z.B. als Softwarearchitekt und/oder Softwareingenieur) Tiefgehende Erfahrung im Entwurf und Schreiben von Software Erfahrung in der Leitung von SCRUM-basierten Projekten Erfahrung mit SAFe ist von Vorteil Erfahrung mit Outsourcing ist von Vorteil Erfahrung in einem High-Tech-Embedded-Umfeld ist von Vorteil Schnelle Auffassungsgabe, um mit dem Kunden und dem technischen Team auf Augenhöhe zu arbeiten Starke Verhandlungsfähigkeiten und die Fähigkeit, proaktiv mit Konflikten und Eskalationsmethoden umzugehen Sprachniveau: Deutsch C1, Englisch B2 Sie sind: Ein hochmotivierter Selbststarter mit einer Leidenschaft, Ergebnisse zu erzielen Ein Teamplayer In der Lage, häufig vor Ort beim Kunden zu arbeiten Bereit, regelmäßig nach Bulgarien zu reisen Wir bieten: Eine herausfordernde Position in einem High-Tech-Umfeld mit hoher Kundenintimität, basierend auf einer langfristigen Beziehung Betriebsrente Mobilitätskonzept (wähle zum Beispiel zwischen Tankgutschein, Deutschlandticket, Rollernutzung und anderen Möglichkeiten) Monatliche Company Days für fachlichen und persönlichen Austausch Regelmäßige Team Events Buddy Programm (dein persönlicher Buddy steht dir während des gesamten Onboardings zur Seite. Er ist deine Bezugsperson und soziales Bindeglied zum Unternehmen) Individueller Fortbildungs- und Entwicklungsplan 30 Urlaubstage Softdrinks &#x26; Feierabendbier gehen auf uns! Wasser und Kaffee gibt es aber natürlich auch ;) Über uns Als Teil der niederländischen ICT Group, trägt ICT Digital Solutions seinen Teil dazu bei, die Welt jeden Tag ein bisschen smarter zu machen. Die ICT Group verteilt sich auf 14 Standorte in unterschiedlichen Ländern mit mehr als 2.500 Mitarbeitern. ICT Digital Solutions verfügt sowohl über umfangreiche Multi-Domain-Expertise als auch über tiefgreifende Branchenkenntnisse. Die Integration dieser Stärken in überzeugende technologische Lösungen versetzt uns in eine einzigartige Position, um unseren Kunden zu helfen, ihre Geschäftsprozesse effizienter, flexibler, einfacher, sicherer und – als Ergebnis – nachhaltiger zu gestalten. Wir bieten nicht nur Software-Beratung, sondern auch individuelle und maßgeschneiderte Software-Entwicklungsleistungen sowie eigene „out of the box“ Software-Lösungen für die digitale Transformation, insbesondere IoT an. Find more English Speaking Jobs in Germany on Arbeitnow",
     "required_skills": [
-      "director marketing",
-      "cmo",
-      "head of marketing",
-      "game server provider",
-      "gaming industry",
-      "multiplayer gaming",
-      "game server marketing",
-      "performance marketing",
-      "marketing controlling",
-      "d2c pricing",
-      "brand awareness",
-      "discord community",
-      "gamer community",
-      "player retention",
-      "roas / cltv",
-      "influencer marketing gaming",
-      "games publisher marketing",
-      "live-service games",
-      "private equity portfolio company",
-      "games industry leadership",
-      "leadership",
-      "leader",
       "remote",
-      "homeoffice",
-      "home office",
-      "germany",
-      "german",
-      "english",
-      "it",
-      "cloud",
-      "cloud hosting",
-      "munich",
-      "cologne",
-      "berlin",
-      "hamburg"
+      "software development"
     ],
     "requirements": [],
     "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-director-marketing-all-genders-gportal-ociris-gmbh-440597",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-0394e8016af8",
-    "title": "(Senior) AI Product Engineer (m/w/d)",
-    "company": "Legalhero",
-    "location": "Berlin",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "What You'll Do You’ll identify open AI opportunities, build them from start to finish, and bring them to real users. As a Senior AI Product Engineer, you’ll work across our three product squads: You’ll single-handedly turn unaddressed topics into products, hand them off once they’re up and running, and serve as a sparring partner for the squad PMs on all AI-related topics. For us, “senior” refers to your approach to work, not your years of experience. You’ll report directly to Product Leadership. Your Responsibilities Independent AI projects (about half of your time) You’ll identify high-impact AI opportunities in our legal workflows - in areas where no specific squad is responsible Validation happens quickly: discussions with attorneys, Legal Ops, and insurers; prototypes built in days You’ll bring the winning solutions into production yourself: routing, chaining, summarization, and agent-based loops You’ll hand off mature features to the squad - complete with documentation, evaluations, and a handover plan Support for the squads (the other half) Feasibility, costs, model selection, risks: You’ll answer these questions before every AI feature is launched You support the teams in designing evaluations, golden datasets, and guardrails You review concepts before they go into the roadmap - including prompt injection and compliance risks (GDPR, Section 203 of the German Criminal Code) You advance AI best practices: prompt engineering standards, LLM observability, and agent-based coding workflows What you bring Must-have Multiple production-ready AI/LLM systems that you’ve shipped to real users and taken responsibility for - no prototypes Demonstrable product ownership: from a vague problem to a finished product Strong Python skills and a solid foundation in software engineering (Git, testing, CI/CD, code review) In-depth experience with LangGraph, LangChain, or similar - including an understanding of what’s happening under the hood Proficiency with LLM provider APIs: function/tool calling, structured outputs, streaming Evaluations, golden datasets, and guardrails before deployment Solid prompt engineering - you know when to use which technique Business-level English; German is a major plus due to our legal domain Soft Skills The maturity to work without a squad around you: You set your own priorities and know when to say no You can explain a technical trade-off to a lawyer and a legal workflow to an engineer What we promise Work Environment &amp; Flexibility Office-first: 3 days in the office, 2 days working from home - with flexibility in how you structure your work Modern, air-conditioned office with plenty of natural light and a large rooftop terrace overlooking Berlin Central location between Gleisdreieck and Potsdamer Platz Benefits Full coverage of the public-transport ticket Company pension plan with a 20% employer contribution Corporate benefits platform with discounts from many brands Dog-friendly office Regular company and team events, after-work fun with Switch, PS5, darts, and foosball Free drinks, fresh fruit, and granola Culture &amp; Collaboration Agile mindset with open communication - every voice counts Feedback is part of our culture - we believe in growing together Fast application process Your application as an AI Product Engineer (Senior) - short and to the point Approx. 20-minute introductory conversation with our HR team Approx. 60-minute in-person interview with your hiring manager Approx. 30-minute discussion with the management team A prompt job offer Your contact: Nadine · HR Manager · Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "ai",
-      "product engineer",
-      "ai product engineer",
-      "berlin",
-      "jobs",
-      "homeoffice",
-      "remote",
-      "hybrid",
-      "senior ai product engineer",
-      "ai projects",
-      "ai features"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/legalhero/remote-senior-ai-product-engineer-berlin-130597",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-e4ea1bfb4622",
-    "title": "Creative Strategist / Direct-Response Copywriter - Meta Ads (m/w/d)",
-    "company": "Valkental GmbH",
-    "location": "Düsseldorf",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Rund 500.000 € Ad-Spend im Monat. Jedes Video, das davon läuft, fängt mit einem Skript an. Bald mit deinem. Valkental entwickelt seit 2020 Outdoorprodukte für mehr Sicherheit und Komfort im Straßenverkehr. Über 400.000 Kunden vertrauen bereits auf uns. Unser Shop ist achtstellig. Bis 2030 wollen wir neunstellig sein. Dafür brauchen wir deutlich mehr Creatives, die verkaufen, und genau dafür suchen wir dich. Aktuell schreibt eine Creative Strategist unsere Ads. Du kommst als zweite Handschrift dazu: mit eigener Pipeline, eigenen Ideen und eigenen Ergebnissen. Vollzeit (40 Stunden pro Woche), 100 % remote, direkter Draht zur Geschäftsführung. Aufgaben Kurzfassung: Du findest heraus, warum Menschen kaufen, und schreibst Videos, die genau das auslösen. Dann sorgst du dafür, dass daraus ein fertiges Creative wird, das im Account performt. Du sammelst Angles: aus Kundenbewertungen, Kommentaren, Umfragen, unseren besten Ads und Swipes. KI hilft dir beim Research, den Gedanken dahinter hast du. Du schreibst komplette Skripte für Video-Ads: Hook, Body, CTA. Auf Deutsch, bald auch auf Englisch für UK und USA. Du denkst in Awareness Stages und Avataren: Der Pendler, der noch nie über Sichtbarkeit nachgedacht hat, braucht ein anderes Video als die Radfahrerin, die schon drei Jacken vergleicht. Du organisierst den Content, den dein Skript braucht: UGC-Creator, Founder-Aufnahmen, B-Roll, Voiceover, Shotlisten fürs Shooting. Du briefst den Cutter, gibst Feedback und nimmst ab. Fertig ist ein Creative erst, wenn es gut ist. Du iterierst systematisch auf dem, was läuft: neue Hooks, neue Längen, neue Angles. Du führst deine eigene Pipeline vom Test bis zur Skalierung und siehst im Ads Manager, was deine Arbeit bringt. Zielgröße, damit du weißt, worauf du dich einlässt: rund 50 neue Creative Batches pro Monat aus deiner Pipeline. Ab Monat vier soll ein spürbarer Teil unseres Meta-Spends auf deinen Creatives laufen. Qualifikation Wir suchen keinen Brand-Texter. Wir suchen jemanden, der Copy schreibt, die verkauft, und das belegen kann: Du hast Direct-Response-Copy geschrieben, die nachweislich Umsatz gebracht hat. Beispiele und Zahlen liegen bei dir bereit. Du kennst Meta-Ads im D2C- oder E-Commerce-Umfeld von innen und weißt, was ein Creative braucht, damit es verkauft. Idealerweise zwei Jahre Erfahrung in Creative Strategy oder Performance-Copywriting. Ein Jahr reicht, wenn es echtes Direct Response war. Du denkst in Avataren, Awareness Stages und Mass Desires. Marketing-Psychologie ist für dich Handwerk, kein Buzzword. KI gehört zu deinem Alltag: Research, Varianten, Struktur. Der Hook, der sitzt, kommt trotzdem von dir. Du schreibst verkaufsstark auf Deutsch und mindestens verhandlungssicher auf Englisch. Bonus: Du kennst die USA oder UK von innen. Du hast Bock auf Output. Viele Videos, viele Tests, viele Learnings. Und die Geduld, das zu wiederholen, was funktioniert, statt immer nur Neues zu wollen. Nice-to-have: Du hast schon Advertorials oder Listicles geschrieben, oder selbst Media Buying gemacht. Benefits Ein Account, an dem deine Arbeit sichtbar wird: rund 500.000 € Ad-Spend im Monat, in der Peakzeit 150.000 € pro Woche. Du siehst jeden Tag, was dein Skript bringt. Echte Verantwortung ab Tag eins: eigene Pipeline, eigene Ergebnisse, kein Freigabe-Pingpong. Zwei Handschriften statt einer: Du arbeitest auf Augenhöhe neben unserer bestehenden Creative Strategist. Perspektivisch teilt ihr euch die Produkte auf. Klare Entwicklungsperspektive: Richtung Senior. Wer die Anlagen dafür hat, Richtung Head of Marketing. Gehalt nach Erfahrung, nach oben offen. 100 % Remote: Du arbeitest von wo du willst, solange du in Europa lebst und erreichbar bist. Bonus, kein Muss: Du bist nah genug dran, um mal bei einem Shooting dabei zu sein. Flexible Arbeitszeit: Kein 9-to-5, keine Meeting-Kultur. Was zählt: Absprachen einhalten, Output liefern, erreichbar sein. Direkter Draht zur Geschäftsführung: Du sprichst mit den Leuten, die entscheiden. Technik-Setup deiner Wahl. Zugang zu Corporate Benefits. Ehrliches Feedback statt Nettigkeiten: Wir sagen dir, was gut ist und was nicht. Das bringt dich schneller weiter als höfliches Drumherumreden. Ein bis zwei Teamevents im Jahr. Start: idealerweise Anfang November, spätestens Anfang Dezember 2026. Klingt das nach dir? Dann brauchen wir kein Anschreiben, sondern dein Portfolio. Zeig uns drei bis fünf Creatives oder Skripte, die du geschrieben hast: für welche Marke, was genau dein Anteil war und was dabei rausgekommen ist (ROAS, Spend, Winrate, was du hast). Links, PDFs oder Screenshots, geschwärzt ist völlig okay. Praktisch: Deinen Lebenslauf lädst du unter „CV“ hoch. Alles andere (Portfolio, Zahlen, ein kurzes Wort zu dir) packst du ins Anschreiben-Feld (max. 10 MB). Wichtig: Bewerbungen ohne Arbeitsproben sortieren wir aus. Gute Copywriter erkennt man an ihrer Copy, nicht an ihrer Bewerbung. Wenn du dir vorher ein Bild von uns machen willst: Auf unserer Karriereseite lernst du das Team kennen und siehst, wie wir arbeiten. Tabea und das Valkental-Team freuen sich auf dich! Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "online marketing"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/valkental-gmbh/creative-strategist-direct-response-copywriter-meta-ads-dusseldorf-66069",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-c83a2180545f",
-    "title": "Creative Strategist (m/w/d)",
-    "company": "Next Lotto GmbH",
-    "location": "Konstanz",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Ein kleines Stück Papier mit Zahlen, die das Potenzial haben, ein Leben für immer zu verändern! Ok…ersetzten wir das Papier durch eine App und eine Person gegen 600.000+ Nutzer monatlich. This is our Business! 📌 Deine Mission Als Creative Strategist (m/w/d) verwandelst du Performance-daten in die Roadmap für Creative-Tests. Du entscheidest, was getestet wird, warum es getestet wird, und briefst die Producers, damit unsere Creative-Engine schnell lernt und den CAC nachhaltig senkt. Du bildest die Brücke zwischen den Daten des Media-Teams und dem Output des Creative-Teams: Du bist die Person, die sicherstellt, dass wir nicht nur Masse produzieren, sondern genau die richtige Masse. Aufgaben Werbemittel-Performance gemeinsam mit dem User-Acquisition- und Daten-Team analysieren; identifizieren, was funktioniert und warum. Konzepte, Hooks, Angles und Formate entwickeln ; die Testing-Roadmap sowie die Priorisierung eigenverantwortlich steuern. Das Producer-Team mit klaren, messbaren und testbaren Creative-Briefings anleiten. Markt-, Wettbewerbs- und Trend-Analysen durchführen (TikTok, Meta sowie branchenspezifische Channels). Erkenntnisse aus der Performance-Analyse direkt in die nächste Creative-Produktion einfließen lassen. Eng mit Media Buying, Produktion, Copywriting und Brand Management zusammenarbeiten – unter strikter Einhaltung der rechtlichen Rahmenbedingungen (z. B. GlüStV). Deine Ziele in dieser Rolle (Impact): Strukturiertes Testing-System aufbauen: Ein klares Framework für Creative-Tests entwickeln – von der Hypothese über die Formate bis zur Test-Sequenzierung. Datengestützte Ideation: Systematisch neue Hooks, Konzepte und Blickwinkel (Angles) auf Basis von Leistungsdaten und aktuellen Trends entwickeln. Performance steigern: Die Erfolgsquote von Gewinner-Creatives erhöhen sowie CTR, Hook-Rate und Conversion-Rate im Paid Marketing nachhaltig verbessern. Wissensdatenbank aufbauen: Eine Lern-Bibliothek für Creatives pflegen, damit Erkenntnisse langfristig wachsen, statt bei jedem Test verloren zu gehen. Produktion beschleunigen: Den Prozess vom Briefing bis zum fertigen Test-Creative gemeinsam mit den Producers deutlich verkürzen. Qualifikation Must-have: Tiefes Verständnis für Paid-Social-Creatives (insbesondere Meta und TikTok). Fähigkeit, Ad-Performance-Kennzahlen zu lesen und direkt in strategische Creative-Entscheidungen zu übersetzen. Starke Fähigkeiten in der Entwicklung von Konzepten und Aufhängern (Hooks). Präzise und klare Anweisung (Briefing) von Creative Producers. Hohes Verständnis für plattform-native Formate und aktuelle Social-Media-Trends. Verhandlungssichere Englisch kenntnisse sowie sehr gute Deutsch kenntnisse. Nice-to-have: Erfahrung in regulierten Märkten (z. B. Lotterie, Fintech, Gaming, Glücksspiel). Hintergrund im Bereich Direct-Response- / Performance-Marketing. Leichte, praktische Kenntnisse im Video-Schnitt (Hands-on-Editing). Nachweisbare Erfolge bei der Skalierung einer Consumer-App durch gezieltes Creative-Testing. Erfahrung mit Creative-Intelligence- &#x26; Ad-Library-Tools ( Foreplay, Motion, Atria, Meta Ad Library, TikTok Creative Center ) sowie Sicherheit im Reporting über den Meta &#x26; TikTok Ads Manager . Deine Soft Skills: Du lebst an der Kreuzung von Daten und Kreativität und fühlst dich mit Kennzahlen genauso wohl wie mit kreativen Ideen. Du gehst strukturiert sowie hypothesengeleitet vor und siehst Werbemittel als gezielte Tests, die du fortlaufend optimierst. Du untersuchst unermüdlich und neugierig, welche Inhalte funktionieren und warum. Du entwickelst kontinuierlich und in hoher Zahl neue Konzepte, Ansätze und Aufhänger. Du verbindest als kollaborative Brücke das Media-Buying-Team nahtlos mit dem Creative-Team. Du bist agil, pragmatisch und anpassungsfähig in einem dynamischen Umfeld mit sich schnell ändernden Prioritäten. Dein Background – Ausbildung &#x26; Erfahrung: Du bringst 4–7 Jahre Erfahrung in der Strategie für Performance- und UA-Creatives mit. Du hast vorzugsweise einen Hintergrund im Bereich der Consumer-Apps. Du punktest idealerweise mit Erfahrung im Direct-Response-Marketing oder in einem stark regulierten Branchenumfeld. Du verfügst über einen Bachelor-Abschluss oder eine vergleichbare praktische Berufserfahrung. Benefits 🎁 Was wir dir bieten: Vergütung &#x26; Work-Life-Balance: Wettbewerbsfähiges Gehalt und Vertrauensarbeitszeit. 30 Urlaubstage im Jahr 2 zusätzliche Feiertage (24.12, 31.12) Großzügiges Weiterbildungsbudget Ausgefallene Teamevents Innovatives Benefit-Programm Kommunikation &#x26; Vertrauen: Eine offene, ehrliche und direkte Kommunikation. Deine Ideen sind willkommen! Ein Feedbackgespräch jedes Quartals, um gemeinsam zu wachsen. Modernes Arbeiten: Alles, was du für deinen Arbeitsalltag brauchst: MacBook, Kopfhörer, u.v.m. Ein modernes und inspirierendes Arbeitsumfeld in Berlin oder in Konstanz am Bodensee. Individuelle Weiterbildung: Ein Weiterbildungs-Tag pro Monat und ein großzügiges Weiterbildungsbudget für deine persönliche Entwicklung. Buddy-Programm: Ein erfahrener Teamkollege begleitet dich von Anfang an, um dir bei deinem Einstieg zu helfen. Das Team Wir sind ein bunt gemixter Haufen aus unterschiedlichen Nationen mit unterschiedlichen Hintergründen. Wir unterscheiden nicht nach Religion, Geschlecht, Alter, Familienstand… . Für uns steht im Mittelpunkt was du kannst! 🪴Unsere Werte: MAKE IT HAPPEN 💪🏼 Ergebnisse erzielen – Übernimm Verantwortung für Problem, Ziel und Ergebnis durch Selbstorganisation und datenbasierte Entscheidungen. Mutig sprechen – Fordere Ideen heraus und nenne Probleme direkt, wenn es drauf ankommt. Dinge erledigen – Sei pragmatisch, halte den Schwung und bringe Energie rein. Wertvolle Wirkung erzeugen – Stelle Lösungen bereit, die unsere Mission und strategischen Ziele vorantreiben. WIN TOGETHER 💚 Offen und respektvoll kommunizieren – Sei transparent, gehe von guten Absichten aus und stelle dein Ego zurück, wenn du mit anderen interagierst. Anderen zum Erfolg verhelfen – Teile proaktiv Wissen, Zeit und Stärken in interdisziplinären Teams. Über Kulturen hinweg arbeiten – Lerne aus diversen Perspektiven und passe deinen Stil aktiv an, um vertrauensvolle Zusammenarbeit in diversen Teams zu ermöglichen. Teamgeist wecken – Schaffe Momente der Freude und Verbundenheit, die zu großen Erfolgen führen. SHAPE THE FUTURE 🚀 Experimentieren, um zu lernen – Führe Tests durch, messe Ergebnisse, behandle Fehler als Lernchance und setze Erkenntnisse um. Chancen erkennen – Bleib nah am Kunden und Markttrends, um das Nächste zu identifizieren. Nutzerzentrierte Innovation bauen – Nutze zuverlässige, datenbasierte Lösungen und Services, die den Maßstab setzen. Dich selbst weiterentwickeln – Hinterfrage deine Arbeitsweise, hole Feedback ein und baue deine Fähigkeiten aus. 'Du strahlst so! Im Lotto gewonnen?' 'Besser - ich arbeite da!' Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "strategic marketing"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/next-lotto-gmbh/creative-strategist-konstanz-175324",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-f7ee48bacf53",
-    "title": "Nebenjob als Online-Testbenutzer (m/w/d) - Studien für Apps, Websites & digitale Produkte",
-    "company": "TPnet Marktforschung",
-    "location": "Leipzig",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Wie gut funktionieren neue Apps? Sind Websites verständlich aufgebaut? Und wie kommen neue Produkte bei Nutzern wirklich an? Genau solche Fragen untersuchen Unternehmen gemeinsam mit der Plattform TestingTime . Dafür werden regelmäßig Menschen gesucht, die neue digitale Angebote testen und ihre Eindrücke teilen. Als Online-Testbenutzer unterstützt du Studien zu Apps, Websites oder digitalen Services und gibst ehrliches Feedback aus Sicht eines Nutzers. Aufgaben Teilnahme an Online-Studien zu Apps, Websites oder digitalen Produkten Teilen deiner Eindrücke und Erfahrungen als Nutzer Bewertung von Bedienbarkeit, Design und Verständlichkeit Beantwortung kurzer Fragen oder Teilnahme an moderierten Online-Interviews Teilnahme bequem von zuhause oder gelegentlich vor Ort (je nach Studie) Qualifikation Das solltest du mitbringen Interesse an digitalen Produkten, Apps oder neuen Services Einen PC, Laptop oder ein Smartphone mit Internetzugang Zuverlässigkeit bei vereinbarten Studienterminen Bereitschaft, deine Meinung ehrlich und nachvollziehbar zu teilen Vorkenntnisse sind nicht erforderlich – wichtig ist vor allem deine Perspektive als Nutzer. Benefits Das erwartet dich ✔ Flexible Teilnahme – du entscheidest selbst, an welchen Studien du teilnimmst ✔ Vergütung pro Studie – Höhe abhängig von Dauer und Art der Untersuchung ✔ Unterschiedliche Themen rund um Apps, Websites und digitale Services ✔ Teilnahme meist bequem online von zuhause aus ✔ Keine Verpflichtungen – du kannst Studienangebote annehmen oder ablehnen Diese Tätigkeit eignet sich gut als Nebenverdienst neben Studium, Beruf oder Selbstständigkeit , wenn du gelegentlich an Studien teilnehmen möchtest und Interesse daran hast, neue Produkte frühzeitig kennenzulernen. Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "marketing and communication"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/tpnet-marktforschung/nebenjob-als-online-testbenutzer-studien-fur-apps-websites-digitale-produkte-leipzig-472188",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-37fea0d54d96",
-    "title": "Lead Brand (m/w/d)",
-    "company": "Next Lotto GmbH",
-    "location": "Konstanz",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Ein kleines Stück Papier mit Zahlen, die das Potenzial haben, ein Leben für immer zu verändern! Ok…ersetzten wir das Papier durch eine App und eine Person gegen 600.000+ Nutzer monatlich. This is our Business! 📌 Deine Mission Als Lead Brand (m/w/d) verantwortest du, wie NextLotto auftritt und wächst – Markenstrategie, Positionierung und Identität – sowie die großen Investments, die die Marke aufbauen: Corporate Identity, Sponsorings und Partner-Aktivierungen. In dieser operativen Führungsrolle berichtest du an den Head of Marketing: Du gibst die Markenführung vor und steuerst die Brand Health, bleibst dabei hands-on über Partnerschaften, PR und die öffentliche Präsenz des CEO – und führst und baust ein kleines Team auf, zunächst Influencer Marketing und PR, später erweitert um Partnerschaften. Aufgaben Markenstrategie &#x26; Positionierung – Du verantwortest Positionierung, Zielgruppen-Fokus und die Strategie, die Marke bei der Wunsch-Zielgruppe schnell wachsen zu lassen. Brand Campaigns &#x26; Storytelling – Du entwickelst und steuerst die großen Markenideen und integrierten Kampagnen, die Bekanntheit, Consideration und Präferenz bei der Zielgruppe aufbauen. Brand Identity, Assets, Tone of Voice &#x26; Guardrails – Du besitzt das Identity-System, die Brand-Assets, den Tone of Voice und die CI-Guidelines als Brand Guardian. Du gibst die kreative Markenrichtung vor und briefst die Umsetzung in enger Zusammenarbeit mit dem Creative Lead; Creative Production und finale kreative Freigabe liegen beim Creative-Team. Stets im Rahmen der deutschen Glücksspielregulierung (GlüStV). Customer Journey &#x26; Brand Experience – Du sorgst dafür, dass die Marke über Produkt, CRM, Social, Performance und Partnerschaften hinweg konsistent erlebbar ist. Brand Health &#x26; Measurement – Du verantwortest das Brand-Health-Tracking: Share of Voice, Share of Search, Brand Lift, gestützte/ungestützte Bekanntheit, Reach vs. Frequency – und steuerst auf Marken-Outcomes, nicht auf Impressions. Partnerschaften &#x26; Aktivierung (DTM) – Du steuerst das DTM-Sponsoring sowie zukünftige Partnerschaften ganzheitlich (Briefing, Planung, Vor-Ort-Präsenz, Nachbereitung) und führst Agenturen sowie Operations. Influencer &#x26; Creator Marketing – Du verantwortest die Creator-Partnerschaften und die Kampagnenstrategie mit Blick auf Messbarkeit. Content und Produktion liegen beim Creative-Team; enge Abstimmung mit dem Performance-/Media-Team bei bezahltem Influencer-Budget. PR &#x26; Executive Communications – Du baust Beziehungen zu deutschen Consumer-, Fintech- und Lottery-Medien auf, sicherst Interview-Platzierungen und steuerst die öffentliche Präsenz des CEO (B2C, inkl. LinkedIn-Ghostwriting). Ein Teilzeit-Strang, später an eine dedizierte PR-Rolle übergeben. Deine Ziele in dieser Rolle (Impact): Markenbekanntheit &#x26; Consideration steigern – bei der Zielgruppe, gemessen an Brand Health (Share of Voice, Share of Search, Brand Lift, gestützte/ungestützte Bekanntheit) – nicht an Impressions. Partnerschaften verankern – Partnerbeziehungen und Aktivierungsstrategie ganzheitlich verantworten und das DTM-Sponsoring direkt mit der Marke verknüpfen. CI von uneinheitlich zu „owned“ – dokumentierte, durchgesetzte Brand Voice + Corporate Identity über Creative-, Paid-, Social- und Partner-Kanäle. PR- &#x26; Earned-Media-Präsenz aufbauen in deutschen Consumer-/Fintech-/Lottery-Medien, plus aktive Corporate-Influencer-Frequenz für den CEO (B2C). Team aufbauen &#x26; ausbauen – das Brand-Team aufbauen und entwickeln (Influencer Marketing, PR, Partnerships). Qualifikation Must-have: Markenstrategie &#x26; Positionierung – nachweisliche Erfahrung, eine Consumer-Marke zielgruppengerecht zu positionieren und wachsen zu lassen. Brand Voice &#x26; CI in der Praxis – verankert und durchgesetzt, nicht nur Guidelines erstellt. Brand Health / Measurement – vertraut mit Share of Voice, Brand Lift, Bekanntheit und Reach/Frequency (Outcomes statt Impressions). Partner-, Sponsoring- &#x26; Aktivierungs-Management – externe Partner-/Sponsorenbeziehungen verantwortet und eine Marke extern repräsentiert. Hands-on in Umsetzung &#x26; Führung – steuert Design, schreibt und liefert selbst (kein reines Strategie-Profil); hat ein kleines Team geführt oder gementort. Hands-on-Erfahrung in PR, Earned Media und Executive Thought Leadership. Deutsch auf Muttersprachen- oder verhandlungssicherem Niveau plus starkes Englisch, mit fundierten Kenntnissen des DACH-Consumer-Marktes und der Medien. Nice-to-have: Erfahrung in Sport-, Event- oder Sponsoring-Aktivierung (DTM-relevant). Erfahrung in Produkt-/Launch-Positionierung. Markenkommunikation im regulierten Umfeld (Lotterie, Fintech, Gaming). Kombinierte Erfahrung aus Agentur- und Inhouse-Markenarbeit. Erfahrung im Aufbau der Personal Brand von Gründer:innen oder Executives. Deine Soft Skills: Strategisch &#x26; analytisch – denkt in Positionierung, Zielgruppen und Marken-Outcomes. Flexibel &#x26; breit aufgestellt – wechselt mühelos zwischen Brand, Partnerschaften, PR und Exec-Support. Starker Außenauftritt &#x26; Stakeholder-Management – vertritt NextLotto souverän gegenüber Sponsoren, Partnern und Medien; steuert Agenturen, Management und interne Teams. Hands-on, eigenverantwortlich &#x26; Macher-Mentalität – setzt selbst um und schafft Strukturen, wo bisher keine existieren. Starker Storyteller &#x26; pragmatischer Brand Guardian – schreibt klar, schnell und im richtigen Markenton; hält die Marke konsistent, ohne zum Nadelöhr zu werden. Diskret, vertrauenswürdig &#x26; Startup-fit – handhabt Executive-Visibility und Partnerverhandlungen mit Fingerspitzengefühl; sicher in einem dynamischen Umfeld. Hands-on Führungskraft – führt und entwickelt ein kleines interdisziplinäres Team und bleibt selbst operativ. Dein Background – Ausbildung &#x26; Erfahrung: 7–10 Jahre in Brand, Marketing oder Communications mit operativem Fokus auf B2C-Consumer-Marken. B2C-Erfahrung ist essenziell. Nachweisbare Erfolge in der Betreuung von Partner- und Sponsorenbeziehungen sowie Markenaktivierungen. Fundierte Markt- und Medienkenntnisse der deutschen bzw. DACH-Region. Bonus: Sport-/Sponsoring-Aktivierung, Produkt-Launches oder Markenführung im regulierten Umfeld. Bachelor-Abschluss oder vergleichbare praktische Qualifikation. Benefits Was wir dir bieten: Vergütung &#x26; Work-Life-Balance: Wettbewerbsfähiges Gehalt und Vertrauensarbeitszeit. 30 Urlaubstage im Jahr 2 zusätzliche Feiertage (24.12, 31.12) Großzügiges Weiterbildungsbudget Ausgefallene Teamevents Innovatives Benefit-Programm Kommunikation &#x26; Vertrauen: Eine offene, ehrliche und direkte Kommunikation. Deine Ideen sind willkommen! Ein Feedbackgespräch jedes Quartals, um gemeinsam zu wachsen. Modernes Arbeiten: Alles, was du für deinen Arbeitsalltag brauchst: MacBook, Kopfhörer, u.v.m. Ein modernes und inspirierendes Arbeitsumfeld in Berlin oder in Konstanz am Bodensee. Individuelle Weiterbildung: Ein Weiterbildungs-Tag pro Monat und ein großzügiges Weiterbildungsbudget für deine persönliche Entwicklung. Buddy-Programm: Ein erfahrener Teamkollege begleitet dich von Anfang an, um dir bei deinem Einstieg zu helfen. Das Team Wir sind ein bunt gemixter Haufen aus unterschiedlichen Nationen mit unterschiedlichen Hintergründen. Wir unterscheiden nicht nach Religion, Geschlecht, Alter, Familienstand… . Für uns steht im Mittelpunkt was du kannst! 🪴Unsere Werte: MAKE IT HAPPEN 💪🏼 Ergebnisse erzielen – Übernimm Verantwortung für Problem, Ziel und Ergebnis durch Selbstorganisation und datenbasierte Entscheidungen. Mutig sprechen – Fordere Ideen heraus und nenne Probleme direkt, wenn es drauf ankommt. Dinge erledigen – Sei pragmatisch, halte den Schwung und bringe Energie rein. Wertvolle Wirkung erzeugen – Stelle Lösungen bereit, die unsere Mission und strategischen Ziele vorantreiben. WIN TOGETHER 💚 Offen und respektvoll kommunizieren – Sei transparent, gehe von guten Absichten aus und stelle dein Ego zurück, wenn du mit anderen interagierst. Anderen zum Erfolg verhelfen – Teile proaktiv Wissen, Zeit und Stärken in interdisziplinären Teams. Über Kulturen hinweg arbeiten – Lerne aus diversen Perspektiven und passe deinen Stil aktiv an, um vertrauensvolle Zusammenarbeit in diversen Teams zu ermöglichen. Teamgeist wecken – Schaffe Momente der Freude und Verbundenheit, die zu großen Erfolgen führen. SHAPE THE FUTURE 🚀 Experimentieren, um zu lernen – Führe Tests durch, messe Ergebnisse, behandle Fehler als Lernchance und setze Erkenntnisse um. Chancen erkennen – Bleib nah am Kunden und Markttrends, um das Nächste zu identifizieren. Nutzerzentrierte Innovation bauen – Nutze zuverlässige, datenbasierte Lösungen und Services, die den Maßstab setzen. Dich selbst weiterentwickeln – Hinterfrage deine Arbeitsweise, hole Feedback ein und baue deine Fähigkeiten aus. Klingt nach Dir? Wir freuen uns Dich kennenzulernen! Find Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "management",
-      "team leader"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/next-lotto-gmbh/lead-brand-konstanz-8003",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-f473489a1ec3",
-    "title": "HR & Recruitment Lead (m/f/d) | Part-Time",
-    "company": "MultiBase GmbH",
-    "location": "Gilching",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Location: Remote, CET-2 to CET+2 Hours: Part-time, 20 hours per week, ideally spread across four or five weekdays Start: As soon as possible You will own the people side of MultiBase for a small, international consulting team. Your primary focus is making sure colleagues feel heard, supported and clear about their development. Recruitment is a secondary responsibility when hiring needs arise. This is a hands-on standalone role with no direct reports, reporting directly to the management. About MultiBase MultiBase is a specialist business intelligence and analytics consultancy, founded in 1991. We work with mid-sized companies across Germany, Austria and Switzerland to turn data into profit. MultiBase has delivered more than 1,500 projects for over 400 clients. We are around 20 people, working remotely across Germany, Romania, India, Brazil, Pakistan and South Africa. English is our working language. We are building an AI-accelerated consulting business with its own products. Tasks Your role You will create a consistent people rhythm for the team: regular contact, development conversations, onboarding, goals and skills records. You will spot issues early, listen well and bring senior management practical recommendations. When we hire, you will run a reliable recruitment process and give candidates a professional experience. You work independently within agreed criteria and bring senior management a clear recommendation when approval is required. People management and development Build regular contact with the team and provide a trusted, discreet point of contact. Run quarterly development conversations, independently or with the management. Make sure every colleague has clear, current goals in Sage HR and a current skills record in MuchSkills. Own the new-starter experience so that each remote joiner has a strong start Identify people issues early and bring management a practical recommendation. Make sure agreed actions, development commitments and important conversations are properly documented. Recruitment Own approved searches from vacancy brief to signed contract when hiring is required. Write and publish adverts, manage applications, screen candidates and hold structured first conversations. Run the hiring process: application, culture test, case study and interview with management. Coordinate external recruiters where needed and keep each search moving. Give every candidate a meaningful update within two working days after each stage. Decide early-stage progression and rejections within agreed criteria. How you will work with our German office team You own people management, candidate communication, development rhythm, onboarding experience, employee contact, goals and skills records. Our backoffice owns personnel administration, employment-contract administration, payroll inputs, absence records, local compliance and coordination with external counsel. You coordinate each new starter's onboarding together. AI and automation will reduce routine administration. You remain accountable for quality, confidentiality and sound judgement in people matters. Requirements What you bring At least three years in HR, recruitment or people operations, ideally in a small company, scale-up or agency. Experience holding development conversations and building trusted relationships with colleagues. Proven experience running recruitment processes: screening, structured first conversations, candidate communication and pipeline management. Strong organisation and documentation discipline. Sound judgement with confidential employee and candidate information. Cross-cultural awareness and fluent business English , written and spoken. This is essential. Practical daily use of AI tools such as ChatGPT or Claude, with careful review of outputs. A reliable remote setup and at least three to four working hours of overlap with Central European working hours. Residence between CET-2 and CET+2, with the right to work in your country of residence. Useful, but not required: German proficiency. If candidates are equally strong overall, German capability is an advantage. Experience hiring data, BI or software professionals. Experience with Sage HR, MuchSkills or similar tools. Experience in a distributed international team. What success looks like After 3 months: You know every team member's role, goals and current development commitments. The quarterly review cycle has a clear date, owner and template. New joiners have a consistent and positive first-two-week experience. After 6 months: Goals and skills records are current. Team members know where to raise concerns and development needs. When a search is active, candidates get clear answers within days and the process moves without senior management chasing it. Benefits What we offer Direct access to the management and real ownership of a function. A part-time role with meaningful responsibility. Budget for the AI tools you need for your work. Competitive compensation, discussed individually. How to apply Apply with your CV and tell us which country you live in. No cover letter is needed. Bonus: include a short paragraph about one people or recruitment situation you handled: what happened, what you did and what you learned. Our process includes a short practical case study before the interview with senior management. We read every application and respond to every candidate. MultiBase GmbH MultiBase is an equal opportunity employer. We welcome applications regardless of gender, age, ethnic origin, religion or belief, sexual orientation or disability. Find Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "training",
-      "development"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/multibase-gmbh/hr-recruitment-lead-part-time-gilching-392203",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-1c85ac92cf91",
-    "title": "Geschäftsführender Partner (m/w/d) für Interim Manager und Berater: Mandate im Retainer statt Projekte im Tagessatz",
-    "company": "thexton armstrong Nord und Ost Deutschland",
-    "location": "Berlin",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Sie arbeiten als Interim Manager oder Berater und kennen die Grenzen des Projektgeschäfts: Jeder Auftrag beginnt mit einer unbezahlten Angebotsphase und endet mit dem Abschlussbericht. Wir bieten Ihnen ein Modell, in dem Mandate über monatliche Retainer laufen, in der Regel über zwölf Monate, mit fünf bis zehn Mandanten parallel, und in dem Sie mit Kollegen in fünf Ländern arbeiten statt allein. Unter der Marke thexton armstrong laden wir erfahrene Berater ein, als geschäftsführende Partner ihre eigene Beratungsgesellschaft in Nord- oder Ostdeutschland aufzubauen. Sie behalten Ihre Unabhängigkeit und gewinnen ein Angebot, das Inhaber sofort verstehen, ein Verfahren für den Einstieg beim Mandanten und eine Marke mit messbaren Ergebnissen. Ein Punkt vorweg: Sie arbeiten mit der Methodik von thexton armstrong, nicht mit Ihrer eigenen. Wer das als Gewinn sieht, passt zu uns. Über thexton armstrong Die Beratungsgesellschaft thexton armstrong ist ein internationales Netzwerk selbständiger Partner, spezialisiert auf die Begleitung von Geschäftsinhabern im Mittelstand und auf Wachstumsberatung. Seit 2012 haben unsere Partner mehreren tausend Geschäftsinhabern geholfen, Ertragskraft, Widerstandsfähigkeit und den langfristigen Wert ihrer Unternehmen zu steigern. Grundlage ist eine strukturierte Methodik, die praktische Führungserfahrung mit messbaren Ergebnissen verbindet. Wir sind selbst Unternehmer. Jeder Partner führt seine eigene Gesellschaft in einem exklusiven Gebiet und greift zugleich auf die Methodik, die Werkzeuge und das Wissen des gesamten Netzwerks zu. Wir sind in den Niederlanden, Belgien, Süddeutschland, der Schweiz und Großbritannien tätig und bauen jetzt Nord- und Ostdeutschland auf. Aufgaben Ihre Perspektive Regionales Wachstum verantworten: Sie gründen und führen Ihre Beratungsgesellschaft unter der Marke thexton armstrong mit exklusiven Rechte für ein Gebiet in Nord- oder Ostdeutschland. Unternehmen im Mittelstand voranbringen: Sie helfen Unternehmern versickerte Gewinne zu lokalisieren und in ins Unternehmen zurückzuführen. Mithilfe der proprietären thexton armstrong Programme befähigen Sie Unternehmer und Ihre Teams dauerhaft Wachstum, Ergebnis und Unternehmenswert zu steigern und Strukturen zu verbessern. Vom Projektgeschäft zum Mandantenstamm: Ihre Mandanten arbeiten mit Ihnen über monatliche Retainer statt Tagessätze, in der Regel über zwölf Monate und oft über Jahre. Mit fünf bis zehn Mandanten parallel entsteht eine Auslastung, die nicht mit jedem Projektende neu beginnt. Strukturiert akquirieren: Sie gewinnen Mandanten weiterhin selbst, aber mit einem erprobten Einstieg über Discovery-Gespräch und Test zur Gewinnversickerung statt offener Angebotspräsentationen. Dazu bauen Sie ein Empfehlungsnetzwerk aus Steuerberatern, Banken und anderen Partnern auf. Das Gesicht der Marke in Ihrer Region sein: Sie vertreten thexton armstrong gegenüber Unternehmern, Verbänden und Multiplikatoren und gestalten Marketing und Veranstaltungen gemeinsam mit der Regionalorganisation. International zusammenarbeiten: Sie tauschen sich mit Partnern in fünf Ländern über Mandate, Methoden und Erfahrungen aus. Qualifikation Ihr Hintergrund Sie sind seit mehreren Jahren als Interim Manager, Unternehmensberater oder Beirat für mittelständische Unternehmen tätig und haben davor selbst Führungs- und Ergebnisverantwortung getragen. Sie haben mit Inhabern und ihren Führungsteams gearbeitet, nicht nur mit Fachabteilungen in Konzernen. Sie akquirieren selbst und wollen das mit einem strukturierten Verfahren weiter tun. Sie sind bereit, sich auf gemeinsame Standards, eine gemeinsame Marke und ein gemeinsames Reporting einzulassen. Ihre Kompetenzen und Ihre Haltung strategisches und kaufmännisches Urteilsvermögen unternehmerischer Anspruch mit langfristiger Perspektive die Fähigkeit, mit Geschäftsführern und Inhabern Beziehungen aufzubauen und Vertrauen zu gewinnen unabhängig, belastbar, an Ergebnissen orientiert, pragmatisch und authentisch Deutsch fließend in Wort und Schrift auf muttersprachlichem Niveau (Pflicht), gutes Englisch und Wohnsitz in Nord- oder Ostdeutschland finanziell in der Lage, eine Anlaufphase zu überbrücken und den Ausbau des eigenen Geschäfts zu tragen Benefits Warum mit thexton armstrong? Erprobtes System: mehr als ein Jahrzehnt Erfahrung mit messbaren Ergebnissen für Mandanten und Partner. Der Erfolg jedes Mandats wird am realisierten Betrag gegenüber dem im Test festgestellten Betrag gemessen. Schlüsselfertiges Geschäftsmodell: Einarbeitung in zehn Workshoptagen über zwei Monate, Methodik, Online-Werkzeuge, Vorlagen und ein Startprogramm für die Mandantengewinnung. Sie entwickeln Ihr Angebot nicht mehr allein weiter. Unterstützung bei der Lead-Generierung: In der Startphase unterstützen wir Sie bei der Gewinnung von Erstkontakten zu Geschäftsinhabern, damit Sie schneller zu ersten Gesprächen kommen und Ihr Mandantenstamm zügiger wächst. Geringe Fixkosten, hohe Autonomie: Sie arbeiten vom Homeoffice oder einem Regionalbüro aus, ohne Personal zu Beginn, und entscheiden selbst über Tempo und Umfang des Ausbaus. Begleitung und Kollegenkreis: laufende Begleitung durch die Regionalverantwortlichen und ein internationales Netzwerk von Partnern mit vergleichbarem Hintergrund. Exklusives Gebiet: Ihr Gebiet ist Ihnen exklusiv zugeordnet; Sie bauen darin Ihren eigenen Mandantenstamm und Ihr eigenes Netzwerk auf. Aktiv akquirieren Sie in Ihrem Gebiet; Mandanten von außerhalb, die von sich aus auf Sie zukommen, dürfen Sie ebenfalls betreuen. Arbeit mit Wirkung: Sie sorgen dafür, dass Geschäftsinhaber ihre Unternehmen ertragsstärker und widerstandsfähiger führen und dabei selbst mehr Freiheit gewinnen. Rahmenbedingungen Sie arbeiten als Unternehmer. Es handelt sich nicht um eine sozialversicherungspflichtige Anstellung. Der Aufbau des Mandantenstamms ist Ihre Aufgabe. Im ersten Jahr steht die Gewinnung von Mandanten im Vordergrund; dafür erhalten Sie ein erprobtes Verfahren, laufende Begleitung und Unterstützung bei der Lead-Generierung. Die Einnahmen bauen sich in dieser Phase auf. Wie bestehende Mandate in der Übergangszeit behandelt werden, besprechen wir im Erstgespräch. Die wirtschaftlichen Rahmenbedingungen der Partnerschaft legen wir Ihnen im Erstgespräch vollständig offen. Zusagen zu Einkommen geben wir nicht. Gestalten Sie die Zukunft des Mittelstands in Nord- und Ostdeutschland mit. Dies ist mehr als eine Position: Es ist eine unternehmerische Führungsaufgabe mit Wachstumsperspektive für Berater, die ihre Erfahrung mit einem System und einem Kollegenkreis verbinden und im Mittelstand ihrer Region etwas bewegen wollen. Auswahl und Kontakt Der Weg zu einer Entscheidung führt über ein vertrauliches Erstgespräch (online, 30 bis 45 Minuten), eine Informationsveranstaltung, Gespräche mit bestehenden Partnern und eine Bedenkzeit vor der Unterschrift.Bewerben Sie sich mit Lebenslauf und einem kurzen Motivationsschreiben bei Christian von Volkmann, Managing Partner thexton armstrong Nord- und Ostdeutschland. Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "consulting"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/thexton-armstrong-nord-und-ost-deutschland/geschaftsfuhrender-partner-fur-interim-manager-und-berater-mandate-im-retainer-statt-projekte-im-tagessatz-berlin-451484",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-8d1ab4c7e08f",
-    "title": "Media Buyer / Performance Marketer - Meta & Google Ads - (m/w/d)",
-    "company": "Valkental GmbH",
-    "location": "Düsseldorf",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "150.000 € Werbebudget pro Woche in der Peakzeit. Und der Plan ist, dass es mehr wird. Valkental entwickelt seit 2020 Outdoorprodukte für mehr Sicherheit und Komfort im Straßenverkehr. Über 400.000 Kunden vertrauen bereits auf uns. Unser Shop ist achtstellig. Deine Aufgabe ist es, ihn auf dem Weg zu einem neunstelligen zu begleiten. Unsere Meta- und Google-Accounts steuert bisher einer der Gründer und Geschäftsführer. Jetzt übergibt er sie. Und zwar an dich. Du übernimmst rund 500.000 € Ad-Spend im Monat, in Vollzeit, 100 % remote und mit direktem Draht zur Geschäftsführung. Dein Job: den Account profitabel skalieren. Aufgaben Kurzfassung: Du siehst jeden Tag als Erstes, was im Account passiert, und entscheidest, was als Nächstes kommt. Für den Account. Für die Creatives. Für das Wachstum. Du steuerst Meta und Google täglich: Budgets, Struktur (ABO/CBO), Gebotsstrategien, Kill oder Promote. Du skalierst profitabel und findest Wege, mehr Spend bei gleichem NC-ROAS auszugeben. Du fährst Sales-Events wie die Black Week mit sechsstelligem Budget selbst. Du analysierst die Performance in Triple Whale, Meta, Google und Shopify und gibst deine Learnings direkt an unsere Creative Strategists weiter. Du baust unser wöchentliches KPI-Reporting über alle Kanäle auf. Du entwickelst unsere Automationen mit KI-Routinen weiter und testest neue Kanäle. Qualifikation Mindestens 2 Jahre Media Buying bei einer E-Commerce-Brand oder Performance-Agentur, mit eigener Budgetverantwortung. Meta Ads beherrschst du sicher: Du hast Accounts eigenständig gesteuert und skaliert und weißt, wie Gebotsstrategien, Zielgruppen und Attribution zusammenspielen. Du hast Budgets verantwortet, bei denen ein Fehler weh tut: mindestens fünfstellig im Monat, mindestens ein sechsstelliges Sales-Event. Google Ads (Search, Shopping, PMax) kannst du bereits oder lernst du schnell. Du denkst in Zahlen (Triple Whale oder vergleichbar, MER, Post-Purchase-Survey) und nutzt KI selbstverständlich für Analysen und Automationen. Du arbeitest genau und triffst trotzdem mutige Budgetentscheidungen, wenn es ums Skalieren geht. Du bist bereit, auch am Wochenende zu arbeiten: Der Account wird jeden Tag geprüft. Auch samstags. Auch sonntags. Du sprichst fließend Deutsch und gutes Englisch. Benefits Ein Account, mit dem du wirklich arbeiten kannst: rund 500.000 € Ad-Spend im Monat. Tendenz steigend. Echte Verantwortung ab Tag eins: Du fährst den Account eigenständig. Klare Entwicklungsperspektive: Wer kann und will, wächst bei uns Richtung Senior oder Head of Marketing. Gehalt nach Erfahrung (nach oben offen). 100 % Remote: Du arbeitest von wo du willst, solange du in Europa lebst und erreichbar bist. Flexible Arbeitszeiten: Du teilst dir deinen Tag selbst ein, solange der Account täglich gecheckt ist. Direkter Draht zur Geschäftsführung: Du sprichst mit den Leuten, die entscheiden. Technik-Setup deiner Wahl. Zugang zu Corporate Benefits. Ehrliches, direktes Feedback, das dich schneller weiterbringt. Ein bis zwei Teamevents im Jahr. Klingt das nach dir? Dann brauchen wir kein Anschreiben. Zeig uns lieber Zahlen: Welche Accounts hast du gesteuert, mit welchen Monatsbudgets und mit welchen Ergebnissen (NC-ROAS, MER, CPA)? Welches Sales-Event hast du selbst gefahren? Praktisch: Deinen Lebenslauf lädst du unter „CV“ hoch. Alles andere (Zahlen, Screenshots, ein kurzes Wort zu dir) packst du ins Anschreiben-Feld (max. 10 MB). Wichtig: Bewerbungen ohne konkrete Accounts und Zahlen sortieren wir aus. Wenn du dir vorher ein Bild von uns machen willst: Auf unserer Karriereseite lernst du das Team kennen. Tabea und das Valkental-Team freuen sich auf dich! Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "online marketing"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/valkental-gmbh/media-buyer-performance-marketer-meta-google-ads-dusseldorf-277177",
+    "url": "https://www.arbeitnow.com/jobs/companies/ict-digital-solutions/technical-outsource-manager-munich-98250",
     "date_posted": null
   }
 ]
