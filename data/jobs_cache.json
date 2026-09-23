@@ -1,5 +1,617 @@
 [
   {
+    "id": "jobicy-ab7c903ec16d",
+    "title": "Corporate Account Executive",
+    "company": "LaunchDarkly",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About the Job: The Corporate Account Executive is a hunter-focused role responsible for driving net new business and expanding existing accounts within the mid-market segment. This role requires strong outbound prospecting instincts, the ability to self-generate pipeline, and a proven track record of quota attainment in a SaaS environment. LaunchDarkly is looking for product-oriented, customer-focused,&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153977-corporate-account-executive",
+    "date_posted": "2026-09-23"
+  },
+  {
+    "id": "jobicy-f499a844f41a",
+    "title": "Ads Quality Rater - Farsi (Turkey)",
+    "company": "Welo Global",
+    "location": "Türkiye",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Welo Data is an award-winning localization and data transformation company. We run one of the world’s largest Ads Rating Programs and we want you to join! As an Ads Quality Rater, you will review and grade internet advertisements to help shape how ads are delivered to the end users. In other words, you’ll tell the&hellip;",
+    "required_skills": [
+      "qa & testing"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153979-ads-quality-rater-farsi-turkey",
+    "date_posted": "2026-09-23"
+  },
+  {
+    "id": "jobicy-d329b78875fb",
+    "title": "Backend Engineer, Observability",
+    "company": "LaunchDarkly",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About the Job: LaunchDarkly is looking for a Backend Engineer to help build and expand Vega, our AI-powered platform that surfaces insights and automates actions across LaunchDarkly products. This is a greenfield opportunity: you'll help evolve Vega from an Observability-focused assistant into a cross-product platform that serves Feature Management customers and powers a new, usage-based&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153974-backend-engineer-observability",
+    "date_posted": "2026-09-23"
+  },
+  {
+    "id": "jobicy-e8c8171bef47",
+    "title": "Data Analyst - SQL / Databricks",
+    "company": "Tenable",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Who is Tenable? Tenable® is the Exposure Management company. Over 40,000 organizations around the globe rely on Tenable to understand and reduce cyber risk. Our global employees support 65 percent of the Fortune 500, 50 percent of the Global 2000, and large government agencies. Come be part of our journey! What makes Tenable such a&hellip;",
+    "required_skills": [
+      "data science & analytics"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153978-data-analyst-sql-databricks",
+    "date_posted": "2026-09-23"
+  },
+  {
+    "id": "jobicy-c72b2451cbed",
+    "title": "Senior Product Designer",
+    "company": "RevenueCat",
+    "location": "EMEA,  LATAM,  Canada,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "RevenueCat gives app businesses the infrastructure and tools to build, run, and improve their monetization. Since graduating from YC's S18 batch, we've grown into the default monetization platform for mobile. We're in 50%+ of newly shipped subscription apps, we process $16B+ in annual purchase volume, and we help everyone from a solo developer to the&hellip;",
+    "required_skills": [
+      "web, ui & ux design"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153973-senior-product-designer-13",
+    "date_posted": "2026-09-23"
+  },
+  {
+    "id": "jobicy-dc46ed248f08",
+    "title": "Customer Success Manager",
+    "company": "Tenable",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Who is Tenable? Tenable® is the Exposure Management company. Over 40,000 organizations around the globe rely on Tenable to understand and reduce cyber risk. Our global employees support 65 percent of the Fortune 500, 50 percent of the Global 2000, and large government agencies. Come be part of our journey! What makes Tenable such a&hellip;",
+    "required_skills": [
+      "customer support & success"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153975-customer-success-manager-49",
+    "date_posted": "2026-09-23"
+  },
+  {
+    "id": "jobicy-2f9ce2390a43",
+    "title": "Ads Quality Rater - Cantonese (Hong Kong)",
+    "company": "Welo Global",
+    "location": "Hong Kong",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Welo Data is an award-winning localization and data transformation company. We run one of the world’s largest Ads Rating Programs and we want you to join! As an Ads Quality Rater, you will review and grade internet advertisements to help shape how ads are delivered to the end users. In other words, you’ll tell the&hellip;",
+    "required_skills": [
+      "qa & testing"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153976-ads-quality-rater-cantonese-hong-kong",
+    "date_posted": "2026-09-23"
+  },
+  {
+    "id": "jobicy-922681cf4f70",
+    "title": "Country Manager, Canada",
+    "company": "Tenable",
+    "location": "Canada",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Who is Tenable? Tenable® is the Exposure Management company. Over 40,000 organizations around the globe rely on Tenable to understand and reduce cyber risk. Our global employees support 65 percent of the Fortune 500, 50 percent of the Global 2000, and large government agencies. Come be part of our journey! What makes Tenable such a&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153968-country-manager-canada",
+    "date_posted": "2026-09-23"
+  },
+  {
+    "id": "jobicy-8d8412344651",
+    "title": "Commercial Territory Manager",
+    "company": "Tenable",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Who is Tenable? Tenable® is the Exposure Management company. Over 40,000 organizations around the globe rely on Tenable to understand and reduce cyber risk. Our global employees support 65 percent of the Fortune 500, 50 percent of the Global 2000, and large government agencies. Come be part of our journey! What makes Tenable such a&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153964-commercial-territory-manager-2",
+    "date_posted": "2026-09-23"
+  },
+  {
+    "id": "jobicy-72c1bd99a052",
+    "title": "Atlassian Platform Architect",
+    "company": "Datavant",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Datavant is the data collaboration platform trusted for healthcare. Guided by our mission to make the world’s health data secure, accessible and actionable, we provide critical data solutions for organizations across the healthcare ecosystem - including providers, health plans, researchers, and life sciences companies. From fulfilling a single patient’s request for their medical records to&hellip;",
+    "required_skills": [
+      "devops & infrastructure"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153965-atlassian-platform-architect",
+    "date_posted": "2026-09-23"
+  },
+  {
+    "id": "jobicy-c0c4255028e4",
+    "title": "Account Executive, New Business - Financial Services",
+    "company": "AlphaSense",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About AlphaSense: The world’s most sophisticated companies rely on AlphaSense to remove uncertainty from decision-making. With market intelligence and search built on proven AI, AlphaSense delivers insights that matter from content you can trust. Our universe of public and private content includes equity research, company filings, event transcripts, expert calls, news, trade journals, and clients’&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153966-account-executive-new-business-financial-services",
+    "date_posted": "2026-09-23"
+  },
+  {
+    "id": "jobicy-07480734fbe1",
+    "title": "Associate Services Architect",
+    "company": "Tenable",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Who is Tenable? Tenable® is the Exposure Management company. Over 40,000 organizations around the globe rely on Tenable to understand and reduce cyber risk. Our global employees support 65 percent of the Fortune 500, 50 percent of the Global 2000, and large government agencies. Come be part of our journey! What makes Tenable such a&hellip;",
+    "required_skills": [
+      "cybersecurity"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153962-associate-services-architect",
+    "date_posted": "2026-09-23"
+  },
+  {
+    "id": "jobicy-2b655ba13198",
+    "title": "Patient Onboarding Associate- Call Center",
+    "company": "Luna Physical Therapy",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Since 2018, Luna has redefined physical therapy with award-winning technology and proven clinical models. Operating in 28 states with 25+ nationwide partners, we connect patients and providers through an intuitive, evidence-based &amp; tech-enabled platform— removing barriers to care and delivering a better physical therapy experience for therapists and patients. Guided by our values, we believe&hellip;",
+    "required_skills": [
+      "customer support & success"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153961-patient-onboarding-associate-call-center",
+    "date_posted": "2026-09-23"
+  },
+  {
+    "id": "jobicy-9b97c0d96d32",
+    "title": "Patient Onboarding Associate- Call Center (part time hours)",
+    "company": "Luna Physical Therapy",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Since 2018, Luna has redefined physical therapy with award-winning technology and proven clinical models. Operating in 28 states with 25+ nationwide partners, we connect patients and providers through an intuitive, evidence-based &amp; tech-enabled platform— removing barriers to care and delivering a better physical therapy experience for therapists and patients. Guided by our values, we believe&hellip;",
+    "required_skills": [
+      "customer support & success"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153967-patient-onboarding-associate-call-center-part-time-hours-3",
+    "date_posted": "2026-09-23"
+  },
+  {
+    "id": "jobicy-c764c448b7a8",
+    "title": "Account Executive, Existing Business - Financial Services",
+    "company": "AlphaSense",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About AlphaSense: The world’s most sophisticated companies rely on AlphaSense to remove uncertainty from decision-making. With market intelligence and search built on proven AI, AlphaSense delivers insights that matter from content you can trust. Our universe of public and private content includes equity research, company filings, event transcripts, expert calls, news, trade journals, and clients’&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153960-account-executive-existing-business-financial-services",
+    "date_posted": "2026-09-23"
+  },
+  {
+    "id": "jobicy-635c30696d51",
+    "title": "CDQI Nurse Specialist",
+    "company": "Datavant",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Datavant is the data collaboration platform trusted for healthcare. Guided by our mission to make the world’s health data secure, accessible and actionable, we provide critical data solutions for organizations across the healthcare ecosystem - including providers, health plans, researchers, and life sciences companies. From fulfilling a single patient’s request for their medical records to&hellip;",
+    "required_skills": [
+      "healthcare & medical"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153969-cdqi-nurse-specialist",
+    "date_posted": "2026-09-23"
+  },
+  {
+    "id": "jobicy-c5efa1a06dca",
+    "title": "Director Of RevOps (SMSO046)",
+    "company": "Defense Unicorns",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Role Description Defense Unicorns gets mission-critical software to the warfighter faster and more securely. Revenue Operations is what keeps the go-to-market team moving at that speed without losing track of the details. As Director of Revenue Operations, you own the systems, data, and processes our sales, solutions architecture, and customer success teams rely on every&hellip;",
+    "required_skills": [
+      "product & operations"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153955-director-of-revops-smso046",
+    "date_posted": "2026-09-23"
+  },
+  {
+    "id": "jobicy-33ea9a14c26a",
+    "title": "Senior Partner Consultant, Systems Integrators",
+    "company": "Ramp",
+    "location": "Canada,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Ramp Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $200B in annualized spend flows in and out of 70,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books. The problems are high-stakes, data-dense, and unforgiving. We hire&hellip;",
+    "required_skills": [
+      "project & program management"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153956-senior-partner-consultant-systems-integrators",
+    "date_posted": "2026-09-23"
+  },
+  {
+    "id": "jobicy-7528dfe94299",
+    "title": "VP of IT Infrastructure & Operations",
+    "company": "Serve Robotics",
+    "location": "Canada,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "At Serve Robotics, we’re reimagining how things move in cities. Our personable sidewalk robot is our vision for the future. It’s designed to take deliveries away from congested streets, make deliveries available to more people, and benefit local businesses. The Serve fleet has been delighting merchants, customers, and pedestrians along the way in Los Angeles,&hellip;",
+    "required_skills": [
+      "devops & infrastructure"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153953-vp-of-it-infrastructure-operations",
+    "date_posted": "2026-09-23"
+  },
+  {
+    "id": "jobicy-611594022dd3",
+    "title": "VP of Product & Design",
+    "company": "Serve Robotics",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "At Serve Robotics, we’re reimagining how things move in cities. Our personable sidewalk robot is our vision for the future. It’s designed to take deliveries away from congested streets, make deliveries available to more people, and benefit local businesses. The Serve fleet has been delighting merchants, customers, and pedestrians along the way in Los Angeles,&hellip;",
+    "required_skills": [
+      "product & operations"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153957-vp-of-product-design",
+    "date_posted": "2026-09-23"
+  },
+  {
+    "id": "jobicy-c44854a8be88",
+    "title": "Director of Discovery & Framing",
+    "company": "Defense Unicorns",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Role Mission Own, lead, and scale Discovery &amp; Framing at Defense Unicorns—help customers identify and clearly define the mission problems that matter, quantify their impact, establish what success looks like, and create the clarity needed to determine the right path forward. The Head of Discovery &amp; Framing will lead the highest-priority customer engagements, establish the&hellip;",
+    "required_skills": [
+      "product & operations"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153951-director-of-discovery-framing",
+    "date_posted": "2026-09-23"
+  },
+  {
+    "id": "jobicy-c3c75938d955",
+    "title": "Enterprise Account Executive - NYC",
+    "company": "DevRev",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About DevRev At DevRev, we're building the future of work with Computer – your AI teammate. Unlike traditional tools, Computer unifies all your data sources, tools, and workflows into a single AI-ready platform, giving employees real-time insights, proactive suggestions, and powerful agentic actions. It extends your existing software with AI-native apps and agents that work&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153954-enterprise-account-executive-nyc",
+    "date_posted": "2026-09-23"
+  },
+  {
+    "id": "jobicy-385c08ffeb18",
+    "title": "Money Laundering Reporting Officer, AML",
+    "company": "Ramp",
+    "location": "Sweden",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Ramp Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $200B in annualized spend flows in and out of 70,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books. The problems are high-stakes, data-dense, and unforgiving. We hire&hellip;",
+    "required_skills": [
+      "legal & compliance"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153952-money-laundering-reporting-officer-aml",
+    "date_posted": "2026-09-23"
+  },
+  {
+    "id": "jobicy-66f1f01cbfb3",
+    "title": "Global Partner Marketing Manager",
+    "company": "LastPass",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About LastPassLastPass delivers Secure Access Essentials, helping individuals and organizations manage and protect access to AI, applications, and credentials straight from the browser. Trusted by more than 100,000 businesses and millions of users worldwide, LastPass blends strong security with everyday simplicity. From discovering unapproved AI and applications to reducing login friction and securing credentials across&hellip;",
+    "required_skills": [
+      "marketing & sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153949-global-partner-marketing-manager",
+    "date_posted": "2026-09-23"
+  },
+  {
+    "id": "jobicy-c1ba3e7dbbac",
+    "title": "Lead Machine Learning Engineer",
+    "company": "Serve Robotics",
+    "location": "Canada,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "At Serve Robotics, we’re reimagining how things move in cities. Our personable sidewalk robot is our vision for the future. It’s designed to take deliveries away from congested streets, make deliveries available to more people, and benefit local businesses. The Serve fleet has been delighting merchants, customers, and pedestrians along the way in Los Angeles,&hellip;",
+    "required_skills": [
+      "data science & analytics"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153948-lead-machine-learning-engineer-3",
+    "date_posted": "2026-09-23"
+  },
+  {
+    "id": "jobicy-2d827b18ece7",
+    "title": "Enterprise Account Executive - MATL",
+    "company": "DevRev",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About DevRev At DevRev, we're building the future of work with Computer – your AI teammate. Unlike traditional tools, Computer unifies all your data sources, tools, and workflows into a single AI-ready platform, giving employees real-time insights, proactive suggestions, and powerful agentic actions. It extends your existing software with AI-native apps and agents that work&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153950-enterprise-account-executive-matl",
+    "date_posted": "2026-09-23"
+  },
+  {
+    "id": "jobicy-b9f079fe5a60",
+    "title": "Account Executive",
+    "company": "Alma",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Almaca, Inc. seeks an Account Executive in San Francisco, California to: ● Drive revenue growth by owning the entire sales cycle, from qualifying leads to closing deals. ● Tailor immigration legal solutions to meet client needs. ● Build and nurture trusted relationships with clients and key decision-makers, including individual, mid-market and enterprise clients. ● Own&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153933-account-executive-24",
+    "date_posted": "2026-09-23"
+  },
+  {
+    "id": "jobicy-4c7021b63941",
+    "title": "Senior Financial Analyst, GTM",
+    "company": "Luxury Presence",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 90,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use&hellip;",
+    "required_skills": [
+      "finance & accounting"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153941-senior-financial-analyst-gtm",
+    "date_posted": "2026-09-23"
+  },
+  {
+    "id": "jobicy-17b342aa407e",
+    "title": "Manager, Implementation",
+    "company": "Dutchie",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Dutchie Founded in 2017, Dutchie is a comprehensive technology platform powering dispensary operations, while providing consumers with safe and easy access to cannabis. Dutchie aims to further support the positive societal change the cannabis industry brings to the world through wellness benefits, social justice, and empowering local communities through tax revenue. Powering thousands of&hellip;",
+    "required_skills": [
+      "project & program management"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153940-manager-implementation",
+    "date_posted": "2026-09-23"
+  },
+  {
+    "id": "jobicy-89e8c70c43a2",
+    "title": "Senior Machine Learning Engineer, Ads - Quora",
+    "company": "Quora",
+    "location": "Canada,  Ireland,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "[Quora is a privately held, \"remote-first\" company. This position can be performed remotely from multiple countries around the world. Please visit careers.quora.com/eligible-countries for details regarding employment eligibility by country.] About Quora: Quora’s mission is to grow the world's collective intelligence. To do so, we have two platforms: Quora: a global knowledge sharing platform with millions&hellip;",
+    "required_skills": [
+      "data science & analytics"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153939-senior-machine-learning-engineer-ads-quora",
+    "date_posted": "2026-09-23"
+  },
+  {
+    "id": "jobicy-cfaa1fc6566a",
+    "title": "Business Development Representative",
+    "company": "Dutchie",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Dutchie Founded in 2017, Dutchie is a comprehensive technology platform powering dispensary operations, while providing consumers with safe and easy access to cannabis. Dutchie aims to further support the positive societal change the cannabis industry brings to the world through wellness benefits, social justice, and empowering local communities through tax revenue. Powering thousands of&hellip;",
+    "required_skills": [
+      "business development"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153936-business-development-representative-15",
+    "date_posted": "2026-09-23"
+  },
+  {
+    "id": "jobicy-27d8b793c9b6",
+    "title": "Director, Government Relations",
+    "company": "Fanatics",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Us Fanatics is building a leading global digital sports platform. We ignite the passions of global sports fans and maximize the presence and reach for our hundreds of sports partners globally by offering products and services across Fanatics Commerce, Fanatics Collectibles, and Fanatics Betting &amp; Gaming, allowing sports fans to Buy, Collect, and Bet.&hellip;",
+    "required_skills": [
+      "legal & compliance"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153934-director-government-relations",
+    "date_posted": "2026-09-23"
+  },
+  {
+    "id": "jobicy-f1ad01999524",
+    "title": "Staff Data Scientist - Quora",
+    "company": "Quora",
+    "location": "Canada,  Ireland,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "[Quora is a privately held, \"remote-first\" company. This position can be performed remotely from multiple countries around the world. Please visit careers.quora.com/eligible-countries for details regarding employment eligibility by country.] About Quora: Quora’s mission is to grow the world's collective intelligence. To do so, we have two platforms: Quora: a global knowledge sharing platform with millions&hellip;",
+    "required_skills": [
+      "data science & analytics"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153935-staff-data-scientist-quora",
+    "date_posted": "2026-09-23"
+  },
+  {
+    "id": "jobicy-be38db7ce4a2",
+    "title": "Manager, Enterprise Partnerships - Financial Services",
+    "company": "Fanatics",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Us Fanatics is building a leading global digital sports platform. We ignite the passions of global sports fans and maximize the presence and reach for our hundreds of sports partners globally by offering products and services across Fanatics Commerce, Fanatics Collectibles, and Fanatics Betting &amp; Gaming, allowing sports fans to Buy, Collect, and Bet.&hellip;",
+    "required_skills": [
+      "business development"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153938-manager-enterprise-partnerships-financial-services",
+    "date_posted": "2026-09-23"
+  },
+  {
+    "id": "jobicy-ae8cc653b33f",
+    "title": "Principal Product Manager, Ads",
+    "company": "TeamSnap",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Us At TeamSnap, we believe when the world connects through sports; the world becomes better. TeamSnap is a sports and communication platform dedicated to taking the work out of play in youth sports. We also believe our jobs should excite us, our teammates should support us and our bosses should inspire us. We&hellip;",
+    "required_skills": [
+      "product & operations"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153932-principal-product-manager-ads",
+    "date_posted": "2026-09-23"
+  },
+  {
+    "id": "jobicy-79ece195fd3e",
+    "title": "Senior Data Analyst, GTM Analytics - US",
+    "company": "Luxury Presence",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 90,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use&hellip;",
+    "required_skills": [
+      "data science & analytics"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153937-senior-data-analyst-gtm-analytics-us",
+    "date_posted": "2026-09-23"
+  },
+  {
     "id": "jobicy-5324bac6e73c",
     "title": "Fullstack Engineer",
     "company": "Monks",
@@ -235,618 +847,6 @@
     "requirements": [],
     "source": "Jobicy",
     "url": "https://jobicy.com/jobs/151420-staff-frontend-engineer-design-systems",
-    "date_posted": "2026-09-23"
-  },
-  {
-    "id": "jobicy-277e1ab3a5b1",
-    "title": "Account Executive III",
-    "company": "Teachable",
-    "location": "Brazil",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "What is Teachable? Teachable is the platform for experts and businesses who take education seriously. In a world where anyone can ask AI for information, we're the home for those who educate with purpose, modernity, and humanity. We help experts and businesses scale their impact and operations through courses, coaching, and digital downloads that students&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/151433-account-executive-iii",
-    "date_posted": "2026-09-23"
-  },
-  {
-    "id": "jobicy-48035f454d43",
-    "title": "Ubuntu Security Engineer",
-    "company": "Canonical",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
-    "required_skills": [
-      "cybersecurity"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/149565-ubuntu-security-engineer",
-    "date_posted": "2026-09-23"
-  },
-  {
-    "id": "jobicy-29da9d6f9294",
-    "title": "Rust Engineering Lead - Linux and Open Source",
-    "company": "Canonical",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/149566-rust-engineering-lead-linux-and-open-source",
-    "date_posted": "2026-09-23"
-  },
-  {
-    "id": "jobicy-72b881a1db21",
-    "title": "Cloud Engineering Manager",
-    "company": "Canonical",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
-    "required_skills": [
-      "devops & infrastructure"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/149569-cloud-engineering-manager",
-    "date_posted": "2026-09-23"
-  },
-  {
-    "id": "jobicy-13a63bfa6be8",
-    "title": "Linux Platform Integration - Ubuntu Systems Senior Engineer",
-    "company": "Canonical",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "You will work across the full Linux stack from kernel through networking, virtualization and graphics to optimise Ubuntu, the world’s most widely used Linux desktop and server, for the latest silicon. Our teams partner with specialist engineers from major silicon companies to integrate next-generation features and performance enhancements for upcoming hardware.This is an excellent opportunity for&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/149574-linux-platform-integration-ubuntu-systems-senior-engineer",
-    "date_posted": "2026-09-23"
-  },
-  {
-    "id": "jobicy-78233d95463a",
-    "title": "Director, Customer Operations Vendor Strategy & Execution",
-    "company": "Affirm",
-    "location": "Canada",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.We're looking for a senior leader to join the Affirm Global Operations team as the Director, Vendor Strategy &amp; Operations to lead Affirm's global BPO and vendor operations program&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/151403-director-customer-operations-vendor-strategy-execution",
-    "date_posted": "2026-09-23"
-  },
-  {
-    "id": "jobicy-46fe740f2c43",
-    "title": "Engineering Manager - Ubuntu Security",
-    "company": "Canonical",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "As the most widely used Linux distribution, Ubuntu underpins the security of the entire internet. The role of Security Engineering Manager directly impacts the safety and security of millions of users worldwide. Join a team of security experts dedicated to protecting the open-source ecosystem and driving innovation. Your leadership will be instrumental in addressing emerging&hellip;",
-    "required_skills": [
-      "product & operations"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/149572-engineering-manager-ubuntu-security",
-    "date_posted": "2026-09-23"
-  },
-  {
-    "id": "jobicy-8a99db08db55",
-    "title": "Software Engineering Director",
-    "company": "Canonical",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "This is the general track for Engineering Director at Canonical, apply here if you are confident to run a project which spans teams and time zones, hiring and managing engineering managers and staff engineers.Canonical’s largest software products are built by multiple teams working together under a single director of engineering. Once you have passed the&hellip;",
-    "required_skills": [
-      "product & operations"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/149571-software-engineering-director",
-    "date_posted": "2026-09-23"
-  },
-  {
-    "id": "jobicy-d6df904cf01f",
-    "title": "Cloud Solutions Architect - Alliances",
-    "company": "Canonical",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
-    "required_skills": [
-      "business development"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/149568-cloud-solutions-architect-alliances",
-    "date_posted": "2026-09-23"
-  },
-  {
-    "id": "jobicy-093fa0d00f8f",
-    "title": "Embedded & Desktop Linux Systems Engineer - Optimisation",
-    "company": "Canonical",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Work across the full Linux stack from kernel through GUI to optimise Ubuntu, the world’s most widely used Linux desktop and server, for the latest silicon.The role is a fast-paced, problem-solving role that’s challenging yet very exciting. The right candidate must be resourceful, articulate, and able to deliver on a wide variety of solutions across&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/149567-embedded-desktop-linux-systems-engineer-optimisation",
-    "date_posted": "2026-09-23"
-  },
-  {
-    "id": "jobicy-cf1c2225ebd2",
-    "title": "Customer Solutions Engineer",
-    "company": "TRM Labs",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Build a Safer World.TRM Labs provides AI-powered intelligence solutions that help public and private sector agencies investigate and disrupt crime. TRM's platforms enable investigators to trace illicit activity, build cases, and construct operating pictures of threat networks. Leading agencies and businesses worldwide rely on TRM to make the world safer and more secure.Team &amp; Job&hellip;",
-    "required_skills": [
-      "technical support"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/151402-customer-solutions-engineer-3",
-    "date_posted": "2026-09-23"
-  },
-  {
-    "id": "jobicy-3f79d4921b07",
-    "title": "Mid-Market Customer Success Manager - EMEA",
-    "company": "Ashby",
-    "location": "Europe",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About this RoleHi, Denise here and I am the Head of Mid-Market Customer Success at Ashby . Our team is passionate about shaping and scaling an exceptional high-touch customer experience across the mid-market segment. As we continue expanding we are thrilled to be hiring our next CSM in EMEA to help shape how we serve&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/151404-mid-market-customer-success-manager-emea",
-    "date_posted": "2026-09-23"
-  },
-  {
-    "id": "jobicy-b5f5c516f9a8",
-    "title": "Containerization & Virtualisation Engineer",
-    "company": "Canonical",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/149576-containerization-virtualisation-engineer",
-    "date_posted": "2026-09-23"
-  },
-  {
-    "id": "jobicy-8997a5eb948f",
-    "title": "Software Engineer - Solutions Engineering",
-    "company": "Canonical",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/149560-software-engineer-solutions-engineering",
-    "date_posted": "2026-09-23"
-  },
-  {
-    "id": "jobicy-019dd94c9cac",
-    "title": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics",
-    "company": "Canonical",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/149563-python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics",
-    "date_posted": "2026-09-23"
-  },
-  {
-    "id": "jobicy-7b025a2bd425",
-    "title": "Engineering Manager",
-    "company": "Canonical",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
-    "required_skills": [
-      "product & operations"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/149575-engineering-manager",
-    "date_posted": "2026-09-23"
-  },
-  {
-    "id": "jobicy-0696813e6b5a",
-    "title": "Engineering Manager - Data Platform",
-    "company": "Canonical",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Canonical is building a comprehensive suite of multi-cloud and on-premise data solutions for the enterprise. We want to make it easy to operate any database on any cloud, or on premise. The data platform team covers the full range of data stores and data technologies, spanning from big data, NoSQL, cache-layer capabilities, and analytics; all&hellip;",
-    "required_skills": [
-      "product & operations"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/149561-engineering-manager-data-platform",
-    "date_posted": "2026-09-23"
-  },
-  {
-    "id": "jobicy-f35cda3b8748",
-    "title": "Engineering Manager - Ubuntu Linux Kernel",
-    "company": "Canonical",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Canonical, the company behind the Ubuntu Linux distribution, is searching for highly skilled senior software engineers, tech leads, or team leads who are ready to take the next step in their careers by transitioning into engineering management.As a Kernel Engineering Manager, you will step into a pivotal leadership role overseeing the engineers who build, maintain,&hellip;",
-    "required_skills": [
-      "product & operations"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/149570-engineering-manager-ubuntu-linux-kernel",
-    "date_posted": "2026-09-23"
-  },
-  {
-    "id": "jobicy-2d588b18eab3",
-    "title": "Security Risk Management Specialist",
-    "company": "Canonical",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "In security risk management we’re looking to harness the power of industry best practice combined with driving new innovation on how we do security risk assessments and modelling. Our security risk management team is the primary owner of the strategy and practices of how we identify, track and reduce our security risk across everything we&hellip;",
-    "required_skills": [
-      "cybersecurity"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/149564-security-risk-management-specialist",
-    "date_posted": "2026-09-23"
-  },
-  {
-    "id": "jobicy-71284caea966",
-    "title": "Lead Linux Kernel Engineer - Ubuntu",
-    "company": "Canonical",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/149562-lead-linux-kernel-engineer-ubuntu",
-    "date_posted": "2026-09-23"
-  },
-  {
-    "id": "jobicy-6f46293d8730",
-    "title": "Embedded Linux Field Engineer for Devices/IoT",
-    "company": "Canonical",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Job DescriptionCanonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/149535-embedded-linux-field-engineer-for-devices-iot",
-    "date_posted": "2026-09-23"
-  },
-  {
-    "id": "jobicy-92427dea1eba",
-    "title": "Engineering Manager - Security Standards and Hardening",
-    "company": "Canonical",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "As the most widely used Linux distribution, Ubuntu underpins the security of the entire internet. The role of Security Engineering Manager directly impacts the safety and security of millions of users worldwide. Join a team of security experts dedicated to protecting the open-source ecosystem and driving innovation. Your leadership will be instrumental in addressing emerging&hellip;",
-    "required_skills": [
-      "product & operations"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/149536-engineering-manager-security-standards-and-hardening",
-    "date_posted": "2026-09-23"
-  },
-  {
-    "id": "jobicy-f24117cb8554",
-    "title": "Sustaining Operations Engineer",
-    "company": "Canonical",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "This is a fast-paced engineering role in Linux-based software-defined infrastructure and applications, covering all layers of the stack, including bare metal, virtualization (KVM) and containerization (Docker and LXC/LXD), storage (Ceph and Linux filesystems), networking (OVS, OVN and Core networking), up to OpenStack and Kubernetes, and the open source applications running on top of them.This role&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/149532-sustaining-operations-engineer",
-    "date_posted": "2026-09-23"
-  },
-  {
-    "id": "jobicy-e41be62316c8",
-    "title": "Cloud Field Engineer",
-    "company": "Canonical",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Help global companies embrace the latest private cloud infrastructure, Linux and cloud native operations, and open source applications. Our team applies expert insights to real-world customer problems, enabling the enterprise adoption of Linux Ubuntu, OpenStack, Kubernetes and a wide range of associated technology.This role has very diverse responsibilities. The team members are Linux and cloud&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/149523-cloud-field-engineer",
-    "date_posted": "2026-09-23"
-  },
-  {
-    "id": "jobicy-8803dc6ac471",
-    "title": "Solution Architecture Manager",
-    "company": "Canonical",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "This is an opportunity to run a field engineering team, helping customers understand and implement Canonical's open source solutions in public clouds and in their own data centers. We work across the entire spectrum of cloud offerings, from Ubuntu itself to virtualisation and private cloud, Kubernetes, and the implementation of sophisticated open source solutions such&hellip;",
-    "required_skills": [
-      "product & operations"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/149531-solution-architecture-manager",
-    "date_posted": "2026-09-23"
-  },
-  {
-    "id": "jobicy-22ab607270f6",
-    "title": "Engineering Manager, Managed Services",
-    "company": "Canonical",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
-    "required_skills": [
-      "product & operations"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/149528-engineering-manager-managed-services",
-    "date_posted": "2026-09-23"
-  },
-  {
-    "id": "jobicy-db360dff0b9f",
-    "title": "Enterprise Account Executive",
-    "company": "Canonical",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "This is a general track role, hiring for opportunities across all levels of seniority in our Sales Teams.Apply here if you believe you possess outstanding revenue generating experience from the Technology industry. Open source software is the new default in the enterprise, and Canonical is the new challenger to major enterprise software vendors.We deliver better open&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/149530-enterprise-account-executive",
-    "date_posted": "2026-09-23"
-  },
-  {
-    "id": "jobicy-db97ae128f2c",
-    "title": "Ubuntu Linux Kernel Engineer - Silicon Enablement",
-    "company": "Canonical",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Ubuntu Linux, already the most popular Linux distribution in the world, is looking to increase its adoption even further by expanding the number of System On Chip (SoC) platforms supported natively and further optimising to ensure the highest performant experience for all users. There is a strong demand from silicon manufacturers such as NVIDIA, Xilinx,&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/149533-ubuntu-linux-kernel-engineer-silicon-enablement",
-    "date_posted": "2026-09-23"
-  },
-  {
-    "id": "jobicy-32a44303d40a",
-    "title": "Alliances Field Engineer",
-    "company": "Canonical",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/149534-alliances-field-engineer",
-    "date_posted": "2026-09-23"
-  },
-  {
-    "id": "jobicy-9c9c681a29de",
-    "title": "Partner Sales Director - Global System Integrator (GSI)",
-    "company": "Canonical",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/149529-partner-sales-director-global-system-integrator-gsi",
-    "date_posted": "2026-09-23"
-  },
-  {
-    "id": "jobicy-5177bf6cf26c",
-    "title": "Technical Author (multiple roles and seniority levels)",
-    "company": "Canonical",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Our ambition is to set a standard of excellence in the industry for technical documentation and documentation practice. This is your chance to be a part of that, as a Technical Author at Canonical.We are building documentation capacity at scale. We have dozens of positions available, for teams and products across the organisation, at all&hellip;",
-    "required_skills": [
-      "content & editorial"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/149519-technical-author-multiple-roles-and-seniority-levels",
-    "date_posted": "2026-09-23"
-  },
-  {
-    "id": "jobicy-5ebc5730a057",
-    "title": "Senior Partner Sales Manager - Global System Integrator (GSI)",
-    "company": "Canonical",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/149525-senior-partner-sales-manager-global-system-integrator-gsi",
-    "date_posted": "2026-09-23"
-  },
-  {
-    "id": "jobicy-e45428835bc4",
-    "title": "Software Engineer, Sustaining Engineering",
-    "company": "Canonical",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/149524-software-engineer-sustaining-engineering",
-    "date_posted": "2026-09-23"
-  },
-  {
-    "id": "jobicy-0189f18430d8",
-    "title": "Senior/Staff/Principal Engineer",
-    "company": "Canonical",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/149522-senior-staff-principal-engineer",
-    "date_posted": "2026-09-23"
-  },
-  {
-    "id": "jobicy-7a0a8f32d74d",
-    "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
-    "company": "Canonical",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Canonical is a leading provider of open-source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter",
-    "date_posted": "2026-09-23"
-  },
-  {
-    "id": "jobicy-8b5c22e14235",
-    "title": "Engineering Manager - AppArmor",
-    "company": "Canonical",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "As the most widely used Linux distribution, Ubuntu underpins the security of the entire internet. The role of Security Engineering Manager directly impacts the safety and security of millions of users worldwide. Join a team of security experts dedicated to protecting the open-source ecosystem and driving innovation. Your leadership will be instrumental in addressing emerging&hellip;",
-    "required_skills": [
-      "product & operations"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/149526-engineering-manager-apparmor",
     "date_posted": "2026-09-23"
   },
   {
@@ -1570,94 +1570,92 @@
     "date_posted": "2026-08-25"
   },
   {
-    "id": "arbeitnow-1b3e898db58c",
-    "title": "(Senior) AI Strategy & Implementation Consultant",
-    "company": "Neurawork GmbH & Co. KG",
-    "location": "Ampfing",
+    "id": "arbeitnow-bf5a90657209",
+    "title": "Senior IT-Projektmanager / Technical Consultant (m/w/d)",
+    "company": "IT Studio Rech GmbH",
+    "location": "Würzburg",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Neurawork sucht den Consultant, der unsere Kunden durch die KI-Transformation führt — von der Strategie bis zur Implementierung. Du willst in der KI-Implementierung im Mittelstand arbeiten — aber ohne 50-Folien-Decks zu bauen oder Luftschloss-Ideen umzusetzen, die beim Kunden nie ankommen. Du hast KI nicht nur in einem Wochenend-Zertifikatskurs gelernt, sondern selbst gebaut, integriert und zum Laufen gebracht — und willst dieses Können jetzt strategisch einsetzen, nicht nur operativ. Du willst echte Transformation begleiten, nach klaren Strukturen, mit messbarem Ergebnis. Dann arbeite bei uns als Consultant in der KI-Transformation unserer Mittelstandskunden. Wir arbeiten nach unserem eigenen Operational-AI-Vorgehensmodell, implementieren klare Strukturen beim Kunden über standardisierte Produkte und führen ihn durch die gesamte Transformation. Wir sind keine Automation-Agentur und keine Custom-Softwareentwickler. Wir kreieren echten, messbaren Mehrwert — und stehen dafür ein. Wenn das dein Calling ist, lies weiter: Aufgaben Was du bei uns machst Mandatsverantwortung in KI-Strategie- und Implementierungsprojekten beim Mittelstand (Branchenschwerpunkte u.a. Dienstleistungen und Investoren) Strategiearbeit horizontal über alle Funktionsbereiche — Marketing, Vertrieb, Kundenbetreuung, Buchhaltung, Operations, IT Use-Case-Priorisierung und Roadmap-Design nach Wirkung Change Management begleitet jedes Mandat mit — du sorgst dafür, dass die Umsetzung den Faktor Mensch berücksichtigt und Veränderungen proaktiv adressiert werden Technischer Support und enge Abstimmung mit der IT-Abteilung des Kunden während der Implementierung Wissenstransfer in unsere TÜV-SÜD-zertifizierte KI-Ausbildung und ins KI-Business-Coaching — Live-Sessions aus laufenden Projekten Wie wir arbeiten Framework-driven, nicht ad-hoc. Wer Methodik schätzt, statt jedes Mal neu zu erfinden, ist hier richtig. Hierbei kannst du selbst die Frameworks mitgestalten Standardprodukte liefern den Hebel — Custom-Entwicklung gibt es bei uns nicht. Anpassungen zur Full-Integration beim Kunden sind selbstverständlich Wert statt Stunden. Wir verkaufen Ergebnisse, keine Tagessätze Direkter Draht zum Founding-Team, keine Beratungspyramide Wir zeigen Präsenz und übernehmen Verantwortung — online wie offline. Unser Geschäftsführer Christoph Knöll ist mit klarer Haltung sichtbar in der DACH-KI-Szene (data:unplugged, TÜV SÜD, LinkedIn). Du arbeitest in einem Team, das Position bezieht Qualifikation Was wir suchen Du hast KI-Systeme selbst konzipiert und gebaut, nicht nur genutzt oder begleitet — eine RAG-Pipeline aufgesetzt, einen Agenten produktiv gebracht, eine Automatisierung technisch verantwortet — und kannst dein technisches Verständnis (LLMs, RAG, Agentic AI, Cloud- vs. Lokalbetrieb, deren jeweilige Grenzen) im Fachgespräch an genau diesem Projekt verteidigen Du hast 4+ Jahre Berufserfahrung mit nachweisbarer Mandats- oder Projektverantwortung — als Strategie-, Management- oder Technologieconsultant, als (Teil-)Projektleiter:in einer KI- oder Digitalisierungsinitiative, oder in vergleichbarer operativer Verantwortung. Der Titel ist uns egal, die Verantwortung nicht Du weist eine souveräne Kundenführung sowohl auf C-Level als auch auf Projektleiter-Ebene auf Was uns nicht überzeugt: eine Weiterbildung zum \"KI-Berater\" ohne technische Substanz dahinter. Wenn dein KI-Wissen auf einem Zertifikatskurs statt auf eigener Umsetzung beruht, passen wir aktuell leider nicht zusammen Du hast idealerweise erste Erfahrung in der Präsentation und Wissensvermittlung vor Gruppen — Live-Sessions im KI-Business-Coaching, Online-Events, Workshops mit vielen Teilnehmenden Du bringst ein verhandlungssicheres Deutsch sowie gutes Englisch mit Du hast einen Wohnsitz in Deutschland Benefits Was wir bieten Mandatsverantwortung ab dem ersten Projekt, ohne Layer über dir Fachlicher Austausch mit der KI-Elite in Deutschland - in unserem Team bist du immer am Zahn der Zeit Moderner Tech-Stack und Raum zur Vertestung Sichtbarkeit als Experte über unsere KI-Business-Coaching-Community und TÜV-SÜD-Kooperation Voll-remote möglich— Teamtage und Kundenworkshops vor Ort, üblicherweise 2-4 Tage/Monat im DACH-Raum Direkter Draht zur Geschäftsführung, kurze Entscheidungswege Marktgerechtes Gehalt bei schnellen Wachstumsmöglichkeiten Klingt nach deinem nächsten Schritt? Dann freuen wir uns auf deine Bewerbung — am meisten aber auf das Projekt, das du uns zeigen willst! Find Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "consulting"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/neurawork-gmbh-co-kg/senior-ai-strategy-implementation-consultant-ampfing-104389",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-29bce958dc4d",
-    "title": "Account Executive DACH",
-    "company": "Aikido Security",
-    "location": "Remote job",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "🌍 We’re making security suck less for developers. Security tools haven’t kept up with how software is built today. They interrupt teams, slow releases, and turn security into a bottleneck instead of a capability. We built Aikido to change that. Aikido builds developer-first security products that reduce real risk without getting in the way of shipping software. We focus on what actually matters and automate the rest. We’re taking on legacy security tools teams have been stuck with, and we’re winning. If you want to help us take market share and build products developers actually enjoy using, you’re in the right place. Founded in 2022 by third-time founders, Aikido has $85M in the bank and a long runway ahead. We’re building toward self-securing software. Join an all-star team. Take real ownership. Push boundaries. Build things that matter. We're looking for an all-round salesperson in the DACH region&nbsp;to join our fast-growing startup. Since we're still quite small, you'll be wearing multiple hats, and helping out on many commercial initiatives. Responsibilities Manage sales opportunities Follow up on inbound leads Outbound and prospect Help with, and execute growth initiatives Medior/Senior profile familiar with dev / security industry&nbsp; Experience selling in DACH region Experience with CRM, outbounding, prospecting, sequences, (cold) calling, ... Very tech-savvy Hungry and 'get stuff done' mentality Self-starter and independent What you can expect Short decision lines. Big ownership. Shape the projects that matter and ship fast. Grow as fast as we do. Take on more, own more, and carve out your own path. Top-tier tech pay and equity. High trust, strong values, zero corporate BS. Flexibility in working hours. A company that sticks to its values in an open and informal atmosphere. We hire for talent, drive, and potential. Everything else is noise. Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "sales",
-      "remote"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/aikido-security/remote-account-executive-dach-munich-218754",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-9ba57ec21c55",
-    "title": "Integration Solutions Engineer (m/w/d) – Remote (EU)",
-    "company": "epilot GmbH",
-    "location": "Remote job",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Are you ready to be a technology leader in the SaaS space? Join epilot! epilot entwickelt ein SaaS-Produkt für den Online-Vertrieb komplexer Produkte – mit dem Ziel, E-Commerce im sich rasant wandelnden Energiemarkt neu zu gestalten. Unsere Mission: Den Verkauf komplexer Energieprodukte so einfach machen wie den Kauf eines Paares Schuhe im Internet. Über die Stelle Wir suchen eine:n Integration Solutions Engineer die:der bei epilot die technische Brücke zwischen unserer Plattform und den Systemlandschaften unserer Kunden baut – ERP-Systeme, Drittanbieter-APIs, Cloud-Dienste und externe Partner. Dies ist mehr als eine klassische Engineering-Rolle: Du arbeitest in Integrationsprojekten direkt mit unseren Kunden zusammen – von der ersten Anforderungsaufnahme über die technische Konzeption bis zum Go-Live. Du verstehst die Prozesse und Systemlandschaften auf Kundenseite, übersetzt Geschäftsanforderungen in robuste technische Lösungen und begleitest die Umsetzung als technische:r Ansprechpartner:in end-to-end. Du schreibst produktionsreifen Code, entwirfst zuverlässige Datenflüsse und verantwortest deine Projekte von Anfang bis Ende selbst – ohne zwischengeschaltete Projektmanager. Wenn du es liebst, technische Lösungen gemeinsam mit Kunden zu entwickeln, die Komplexität realer Systemlandschaften zu durchdringen und Integrationsprojekte eigenverantwortlich zum Erfolg zu führen, dann ist diese Stelle genau das Richtige für dich. Schau dir unser Versprechen an dich an : promise.epilot.cloud Das erwartet dich Eigenverantwortliche Leitung von Integrationsprojekten – von der Anforderungsanalyse beim Kunden über die Architektur bis zur produktiven Inbetriebnahme. Direkte Zusammenarbeit mit unseren Kunden und deren IT-Teams: Du bist die technische Ansprechperson, führst Workshops durch, stimmst Schnittstellen ab und begleitest den gesamten Integrationsprozess. Aufbau und Pflege von Integrationen zwischen der epilot-Plattform und externen Systemen (ERPs, Drittanbieter-APIs, Partnerdienste) Design und Implementierung von event-driven, asynchronen Datenpipelines Direkte Zusammenarbeit mit Integrationspartnern und ERP-Anbietern – von der Anforderungsaufnahme über die Fehlerbehebung bis hin zur kontinuierlichen Abstimmung Definition und Verwaltung der Cloud-Infrastruktur mittels Infrastructure as Code (IaC) Sicherstellung zuverlässiger, nachvollziehbarer und widerstandsfähiger Integrationen – mit sauberem Fehlerhandling, nicht nur für den Idealfall Mehr über unsere Architektur und unseren Tech-Stack erfährst du hier: Introduction to epilot | epilot dev center Das bringst du mit Erfahrung in der technischen Projektarbeit mit Kunden – du kannst Anforderungen aufnehmen, technische Konzepte verständlich vermitteln und Integrationsprojekte eigenständig steuern Kommunikationsstärke im Partnerumfeld – du managst externe Beziehungen selbstständig, hakst nach, setzt dich durch, wenn nötig und hältst Integrationen auf Kurs – ohne dass ein PM das für dich übernehmen muss Produktionsreife Programmierkenntnisse – du schreibst Backend-Code, der zuverlässig im Produktivbetrieb läuft, nicht nur Prototypen Cloud-Erfahrung (AWS bevorzugt) – du hast bereits Deployments in der Cloud durchgeführt und Infrastruktur mit IaC-Tools wie Terraform oder CloudFormation verwaltet Event-driven Architektur &amp; asynchrones Messaging – du verstehst Message Queues, Pub/Sub-Muster und weißt, warum sie für Integrationsarbeit entscheidend sind REST-API-Design und -Nutzung – du entwickelst und konsumierst APIs als zentralen Bestandteil deiner Arbeit Authentifizierungsmechanismen – du kennst OAuth2 und API-Key-Authentifizierung und weißt, wann du welche einsetzt Reliability patterns – Retries, idempotency, Dead-Letter-Queues und Circuit Breaker sind für dich selbstverständliche Praxis, keine nachträglichen Gedanken Serverless-Grundlagen – du verstehst das Paradigma und kannst einschätzen, wann es sinnvoll ist (praktische Erfahrung ist ein Plus, keine Voraussetzung) Deutschkenntnisse – Du kommunizierst sicher auf Deutsch und Englisch – im direkten Austausch mit deutschsprachigen Partnern und Anbietern genauso wie im internationalen Teamkontext. Dein Mindset Ownership: Du übernimmst Verantwortung für das, was in Production läuft. Produktdenken statt Ticketdenken. Pragmatischer Problemlöser. Du kommst auch mit Unklarheiten gut zurecht. Was wir dir bieten Bei epilot glauben wir daran, Leistung zu belohnen, Wachstum zu fördern und ein Umfeld zu schaffen, in dem du aufblühst: Ein zu 100 % serverless AWS -Produkt im produktiven Einsatz. Wirkungsvolle Arbeit : Gestalte das Integrations-Rückgrat eines Produkts mit, das den Energiesektor neu definiert. Startup-Mentalität : Dynamisches Umfeld, flache Hierarchien, offene Kommunikation. Flexibilität : Arbeite remote oder aus unserem zentral gelegenen Büro in Köln – mit flexiblen Arbeitszeiten. Wachstumsmöglichkeiten : Deine Karriere kann so schnell wachsen wie wir. Lerne, experimentiere und lebe die „Fail Fast and Often\"-Mentalität. Attraktive Vergütung : Wir nehmen deine Gehaltsvorstellung ernst und honorieren Leistung. Teamgeist : Regelmäßige Events wie Sommerfeste, gemeinsame Frühstücke und unser jährlicher DevSummit, epilot Summit mit Co-epilots aus aller Welt. Transparenz &amp; Offenheit : Bei uns ist alles besprechbar – in einer inklusiven und unterstützenden Unternehmenskultur. Wir freuen uns über Bewerbungen von Menschen aller Herkunft, unabhängig von Geschlecht, ethnischer Zugehörigkeit, Alter, Behinderung oder sexueller Orientierung! P.S.: Wenn du mehr über den Bewerbungsprozess erfahren möchtest, lies gerne Ekas Blogartikel: https://dev.to/epilot/how-to-get-hired-at-epilot-step-by-step-guide-4ei1 Find Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "tech",
-      "remote"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/epilot-gmbh/integration-solutions-engineer-remote-eu-koln-379113",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-908cfe7e04b8",
-    "title": "CEO / Business Co-Founder (f/m/d) role at startup FAMILY FLOW",
-    "company": "SouthwestX",
-    "location": "Homburg",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "FAMILY FLOW Saarbrücken / Homburg, Saarland, Germany | Remote | Fulltime | Digital Health (DiGA) About Family Flow Family Flow is a scientifically grounded, trauma-sensitive parenting app that helps parents with their own history of adverse childhood experiences (ACEs) manage the moment between a trigger and their reaction to their child — building a personalized 'Flow Plan' (trigger → warning signs → pause → skill → parenting strategy) instead of another generic parenting app. The opportunity The concept is built on more than 20 years of clinical and scientific work on child maltreatment led by Prof. Dr. med. Eva Möhler, Chair of Child and Adolescent Psychiatry at Saarland University, alongside DFKI researchers Patrick Gebhard and Jan Alexandersson. The idea and clinical content are finalized — what's missing is the team and funding to build and launch the app. We are looking for a CEO / Business co-founder (fundraising, tech and operations) to turn a validated clinical concept into a real product. Tasks What you will own Company build-up &#x26; fundraising - Lead incorporation of Family Flow and raise the funding needed for app development (German, French and English versions). - Own the path to the German DiGA directory (digital health app reimbursement) and the parallel free-market / B2C launch. Product &#x26; delivery - Translate the finalized clinical concept and psychotherapeutic material into a software roadmap, in partnership with a tech/development team or subcontractor (e.g. potential partnerships with Pioneo, Pfeffermind or Charamel). - Own day-to-day operations, as the current interdisciplinary team (DFKI + Child and Adolescent Psychiatry) is part-time only. Go-to-market - Build the launch plan for Germany and France, then wider Europe, including social-media-led B2C acquisition alongside the DiGA pathway. Requirements What you bring Core experience - Fundraising experience (grants and/or investors) and comfort building a company from an academic/clinical concept. - Hands-on operations and project management skills; willingness to work full-time (the current founding team is part-time). Especially valuable - Experience with the digital health / DiGA regulatory pathway in Germany. - Software/product background, or strong ability to manage external development partners. - Interest in child psychiatry, trauma-informed care or parenting technology. Benefits Why join Family Flow - A clinically validated concept backed by 20+ years of research and a published evidence base, not an unproven idea. - Direct partnership with a University Professor and Chair of Child and Adolescent Psychiatry at Saarland University. - Address a problem estimated to cost society €20 billion in Germany alone (Deutsche Traumafolgekostenstudie), with a clear DiGA reimbursement path. Family Flow welcomes co-founder candidates regardless of gender, age, ethnic origin, religion or belief, disability, sexual identity, or any other characteristic. This is a search for the right partner to build the company with, not a conventional hire. Find Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "directors",
-      "chief executives"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/southwestx/ceo-business-co-founder-role-at-startup-family-flow-homburg-23012",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-1e5ba4415f2b",
-    "title": "Senior SAP Berater Financial Supply Chain (M/W/D)",
-    "company": "BDF EXPERTS",
-    "location": "Düsseldorf",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Werde zum Architekten digitaler Finanzwelten – und gestalte mit uns die Zukunft! Zahlen sind Deine Leidenschaft, die Financial Supply Chain und SAP FI/CO Dein Spielfeld? Perfekt! Denn als Senior Consultant wirst Du: Aufgaben Digitale Finanzwelten erschaffen – Du berätst und implementierst SAP FI/CO-Lösungen, die unsere Kunden begeistern Geschäftsprozesse neu denken – Du analysierst, designst und revolutionierst Finanzprozesse Wissen teilen und multiplizieren – In Deinen Workshops und Schulungen machst Du aus Anwendern echte Power-User Konzepte entwickeln, die beeindrucken – Deine Fachkonzepte sind so klar wie durchdacht Bestehende Lösungen auf das nächste Level heben – Du entwickelst SAP- und BDF-Lösungen kontinuierlich weiter Qualifikation Du bist unser Perfect Match, wenn Du: Einen Abschluss in BWL, Wirtschaftsinformatik oder eine vergleichbare Qualifikation in der Tasche hast Mindestens 5-7 Jahre als SAP FI/CO-Berater die digitale Finanzwelt erobert hast Die SAP-Module FI und CO nicht nur kennst, sondern sie in- und auswendig beherrschst Die neuesten SAP-Entwicklungen rund um SAP Analytics Cloud bereits kennen- und lieben gelernt hast Implementierungsprojekte erfolgreich zum Ziel geführt hast Erfahrungen in der Leitung von gemischten Projektteams aus Entwicklung und Beratung gesammelt hast Erfahrungen im SAP-Customizing sammeln konntest Komplexe Zusammenhänge schnell erfasst und in klare Konzepte übersetzt Nicht nur mit Zahlen, sondern auch mit Menschen hervorragend kommunizieren kannst Auf Deutsch und Englisch überzeugst – egal ob in Meetings oder Dokumentationen Den Kunden immer in den Mittelpunkt stellst und flexibel auf Anforderungen reagierst Bereit bist, gelegentlich zu reisen (keine Sorge, wir schicken Dich nicht auf Weltreise) Benefits Bei uns erwartet Dich mehr als nur ein Job: Abwechslung garantiert! Kein Tag gleicht dem anderen in unserem dynamischen Team Work-Life-Balance leben mit flexiblen Arbeitszeiten und Homeoffice-Möglichkeiten Wachse über Dich hinaus durch individuelle Weiterbildungen, die zu Dir passen Ideen statt Hierarchien – bei uns zählt Dein Input, nicht Dein Titel Gestalte aktiv mit und sieh, wie Deine Ideen Wirklichkeit werden Heute Consultant, morgen...? Bei uns kannst Du: Einen langfristigen Karriereweg einschlagen – vielleicht als zukünftiger Projektleiter oder Solution Specialist Teil eines Unternehmens sein, das in den Bereichen Controlling, Corporate Finance und Treasury Management Maßstäbe setzt Mit Deinem Know-how direkt zum Unternehmenserfolg beitragen Dann lass uns reden! Erzähle uns in einem kurzen Motivationsschreiben, warum Du perfekt in die BDF-Familie passt, und bewirb Dich noch heute! Deine Ansprechpartnerin Karin van Soest P.S.: Wir freuen uns darauf, Dich kennenzulernen – und gemeinsam die digitale Zukunft zu gestalten! Find Jobs in Germany on Arbeitnow",
+    "description": "Business Systems, Digitalisierung &#x26; KI Du verstehst Softwareentwicklung, denkst in Geschäftsprozessen und bringst komplexe Projekte in die Umsetzung? Dann unterstütze mit uns wachsende Unternehmen dabei, ihre Systeme, Daten und Abläufe zukunftsfähig aufzustellen. Du bist arbeitest eng mit Geschäftsführung, Fachabteilungen und technischen Verantwortlichen unserer Kunden zusammen. Unser Beratungs- und Engineering-Team unterstützt dich mit fachlichem Sparring und Entwicklungskompetenz. Aufgaben Du übernimmst die operative Verantwortung für Digitalisierungs- und Softwareprojekte – von der ersten Anforderungsaufnahme bis zur Einführung. Dabei verbindest du technische Tiefe mit wirtschaftlichem Denken und verlässlicher Projektsteuerung. Anforderungen klären: Du analysierst Prozesse, Systeme und Datenflüsse und führst die Bedürfnisse verschiedener Fachbereiche zusammen. Lösungen bewerten: Du vergleichst Standardsoftware, Integrationen und Eigenentwicklung hinsichtlich Nutzen, Kosten, Wartbarkeit und Skalierbarkeit. Umsetzung steuern: Du entwickelst priorisierte Roadmaps, definierst Arbeitspakete und koordinierst Beteiligte, Abhängigkeiten und Entscheidungen. Ergebnisse sichern: Du begleitest Einführung und Abnahme, dokumentierst Wissen und bereitest die Übergabe an interne Teams vor. KI sinnvoll einsetzen: Du erkennst Potenziale für Automatisierung und berücksichtigst dabei Qualität, Datenschutz und Sicherheit. Qualifikation Mehrjährige Erfahrung in technischer Projektleitung, IT-Beratung oder einer vergleichbaren Rolle mit eigenständig verantworteten Software- oder Integrationsprojekten. Eigene Softwareentwicklungserfahrung und fundiertes Verständnis für Datenmodelle, APIs, Architektur und nachhaltigen Softwarebetrieb. Starke Analysefähigkeiten: Du übersetzt unklare Anforderungen in verständliche Prozesse, nachvollziehbare Entscheidungen und umsetzbare Schritte. Verständnis für Unternehmenssoftware , insbesondere für das Zusammenspiel von CRM, Backoffice, Kundenservice und Reporting. Wirtschaftliches Urteilsvermögen: Du priorisierst nach Nutzen, Aufwand und Risiken und kannst Eigenentwicklung gegen Zukauf abwägen. Selbstständigkeit und Verbindlichkeit: Du beschaffst fehlende Informationen, hältst offene Themen nach und schaffst Orientierung bei wechselnden Anforderungen. Sichere Kommunikation auf Deutsch mit Geschäftsführung, Fachbereichen und Entwicklern sowie Praxisverständnis für KI und Automatisierung. Zusätzliche Pluspunkte sind Erfahrungen mit wachsenden Unternehmen, CRM-/ERP-Einführungen, Unternehmensgruppen, KI-gestützter Entwicklung oder Automatisierungsplattformen wie n8n, Make und Zapier. Benefits Du erhältst eigenständige Projektverantwortung, direkten Austausch mit Entscheidern und fachliche Unterstützung durch unser Team. Du gestaltest technische Lösungen mit und begleitest ihre Einführung in den Arbeitsalltag unserer Kunden. Entscheidend sind für uns deine nachweisbaren Projektergebnisse und dein technisches Urteilsvermögen. Einen bestimmten Abschluss, eine Zertifizierung oder einen festen Technologie-Stack setzen wir nicht voraus. Schick uns deinen Lebenslauf und ein bis zwei kurze Projektbeispiele: Welche Herausforderung hast du übernommen, welche Verantwortung hattest du und was wurde erreicht? Find Jobs in Germany on Arbeitnow",
     "required_skills": [
       "remote",
       "it"
     ],
     "requirements": [],
     "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/bdf-experts/senior-sap-berater-financial-supply-chain-dusseldorf-163408",
+    "url": "https://www.arbeitnow.com/jobs/companies/it-studio-rech-gmbh/senior-it-projektmanager-technical-consultant-wurzburg-62128",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-28085b907d68",
+    "title": "Linguist - Japanese - Remote",
+    "company": "LILT (Production)",
+    "location": "Remote",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Linguist - Japanese - Finance - Remote About The Opportunity We are currently looking for experienced linguists to join our Finance Talent Community . We are seeking senior linguists with a strong background in financial translation and a deep understanding of market-specific terminology and conventions. We prioritize linguists with expertise in areas such as investment, compliance, and regulatory documentation, where accuracy and consistency are essential. What You’ll Deliver Financial Translation: Translate complex financial content between English and your native language with a high degree of accuracy and terminological consistency. Regulatory Alignment: Ensure translations reflect market-specific financial systems, terminology, and formatting conventions. Quality &amp; Risk Awareness: Apply rigorous quality standards to deliver precise, unambiguous content where accuracy is critical. Collaboration: Work closely with production and quality teams to meet client requirements and deadlines. Qualifications Native-level proficiency in the target language(s) A graduate qualification in translation, linguistics, or language studies, OR A graduate qualification in another field plus 2 years of full-time professional translation experience, OR 5 years of full-time professional translation experience. The ability to follow terminology and reference materials precisely. Proven professional experience in translation and localization within the financial domain. Why Collaborate with Lilt? Your schedule, your rules. As an independent contractor, work when you want, as much or as little as you want. No fixed hours, no check-ins, no micromanaging. Get paid quickly and fairly. We respect your time and your expertise. Competitive rates, prompt payments, no chasing invoices. Work on projects that actually matter . Contribute to cutting-edge AI and language technology that is shaping how humans and machines communicate. Be part of something bigger. Join a global community of linguists, subject matter experts, and language professionals who are advancing human knowledge together. Grow without limits. As a Lilt contractor you get access to diverse, innovative projects that expand your portfolio and sharpen your skills across industries and domains. Have fun doing what you love. Bring your language skills to life on projects that are as interesting as they are impactful. What to Consider Before Applying Not ideal as a full time job or primary income source. Work availability fluctuates with project demand, making this better suited as a supplemental income stream. As a 1099 contractor, you won't receive benefits such as health insurance, paid time off, or retirement contributions, and hours are not guaranteed. Requires reliable availability and commitment. Once you accept a task, we expect quality work and on-time delivery. Most tasks require a minimum of 2 hours per day or 10 hours per week. If your schedule is unpredictable, this may not be the right fit. Geographic restrictions may apply. We cannot engage contractors in regions subject to international embargo or sanctions. As a 1099 contractor, you are solely responsible for your own tax obligations. We recommend consulting a tax professional before engaging. How to join our expert community Step 1: Submit your application, including an updated copy of your CV in English. Step 2: If a test is required, you will be asked to take a test in specific domains you specialise in. Step 3: Once you are selected to join our translation team and you have passed the test, we'll guide you through the remaining onboarding steps — completing an application form, getting you set up for payments, and welcoming you into our community. AI is changing how the world communicates — and LILT is leading that transformation. LILT's mission is to make the world's information available to everyone, no matter the language they speak. Join our global community who thrive on innovation and excellence. Our collective knowledge, uniqueness, and skills deliver multilingual AI and human-verified services to Enterprises, Governments, and AI Developers around the world. Earn money. Have fun. Advance human knowledge. Work on diverse projects from anywhere, any time you want. Get paid quickly and fairly, and build your professional network in a supportive community—all through a streamlined application process tailored to your expertise. Information collected and processed as part of your application process, including any job applications you choose to submit, is subject to LILT's Privacy Policy at https://lilt.com/legal/privacy . At LILT, we are committed to a fair, inclusive, and transparent hiring process. As part of our recruitment efforts, we may use artificial intelligence (AI) and automated tools to assist in the evaluation of applications, including résumé screening, assessment scoring, and interview analysis. These tools are designed to support human decision-making and help us identify qualified candidates efficiently and objectively. All final hiring decisions are made by people. If you have any concerns, require accommodations, or would like to opt-out of the use of AI in our hiring process, please let us know at ----- style=\"min-height:1.5em\"> LILT is an equal opportunity employer. We extend equal opportunity to all individuals without regard to an individual’s race, religion, color, national origin, ancestry, sex, sexual orientation, gender identity, age, physical or mental disability, medical condition, genetic characteristics, veteran or marital status, pregnancy, or any other classification protected by applicable local, state or federal laws. We are committed to the principles of fair employment and the elimination of all discriminatory practices. Find more English Speaking Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "liltlancer community"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/lilt-production/linguist-japanese-remote-79710",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-f0b39612af21",
+    "title": "AI Product Engineer",
+    "company": "paddy",
+    "location": "Bielefeld",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Das ist kein gewöhnlicher Job. Wir bauen paddy, das Agentic Operating System für Teaching &#x26; Learning, und arbeiten damit an einem der wichtigsten Themen für die Zukunftsfähigkeit unserer Gesellschaft: Bildung. Unsere Mission ist es, Lehrkräfte zu entlasten, Lernergebnisse zu verbessern und die Unterrichtsqualität zu steigern. Tausende Lehrkräfte und hunderttausende Lernende nutzen paddy bereits. Mit starken Investoren im Rücken wachsen wir schnell. Unsere Ambition ist es, den europäischen AI-Player für Bildung zu bauen. Als AI Product Engineer übernimmst du Probleme unserer Nutzer End-to-End: vom Verständnis des Problems über Architektur, Backend und Frontend bis zum Deployment. Du prüfst, ob die Lösung im Klassenzimmer wirklich funktioniert. Dein Schwerpunkt liegt auf AI Engineering: Du baust die agentischen Systeme, die paddy ausmachen, und bringst sie zuverlässig, schnell und bezahlbar in Production. Aufgaben Product Engineering Erfahrung: Mindestens drei Jahre Erfahrung in der Entwicklung und im Betrieb moderner Webanwendungen mit TypeScript, Node.js, Next.js und React, in einem Produktteam mit echten Nutzer. AI Engineering Know-how: Du hast LLM-basierte Features oder agentische Systeme gebaut und in Production betrieben. Du verstehst Context Windows, Failure Modes von Modellen, RAG, Vektor-Datenbanken und warum Prompts ohne Evals nicht fertig sind. Kein ML Research nötig, aber echtes technisches Verständnis statt Feature-Ebene. Technisches Fundament: Du bist sicher in API-Design, Datenbanken (SQL, NoSQL und Vector), Containerization (Docker, Kubernetes) und CI/CD. Dein stärkster Schwerpunkt darf Backend und Architektur sein, aber du bist kein enger Spezialist. Ownership und Urteilskraft: Du kommst mit unterspezifizierten Problemen klar, findest einfache Lösungen für komplexe Fragen und baust Systeme, die auch im Schulalltag funktionieren. AI-native Arbeitsweise: Du nutzt Coding Agents und moderne AI-Tools selbstverständlich, um deinen Output zu vervielfachen, und beschäftigst dich intensiv damit, wie AI Softwareentwicklung verändert. Sprachen: Fließend Deutsch und sehr gutes Englisch. Qualifikation Sichtbaren Impact: Du arbeitest am wichtigsten Zukunftsthema unserer Gesellschaft, der Bildung. 70.000 bis 100.000 € Bruttojahresgehalt , abhängig von deiner Erfahrung, plus Equity (VSOP). 100 % Remote-Arbeit. Wenn du lieber ins Büro kommst, steht dir unser modernes Office in Bielefeld offen. Großen Gestaltungsspielraum und Ownership sowie direkte Zusammenarbeit mit den Foundern und einem starken Product- und Engineering-Team. Ein hohes Budget , solange der Nutzen stimmt. Zeit und Unterstützung für deine Entwicklung , mit Fortbildungsbudget, Coaching und klaren Entwicklungsperspektiven. 30 Urlaubstage und 50 € monatlichen steuerfreien Sachbezug. Regelmäßige Team-Events und Offsites. Starkes Backing durch erfahrene Investoren und Mentoren. Benefits Brutaler Impact: Du arbeitest an dem wichtigsten gesellschaftlichen Thema überhaupt: Bildung. 70.000 bis 100.000 € Brutto-Jahresgehalt, abhängig von Erfahrung, plus Equity (VSOP) 100 % Remote: Wenn du lieber vor Ort arbeitest, steht dir unser modernes Office in Bielefeld offen Nahezu unbegrenztes Budget, solange der ROI stimmt Direkte Zusammenarbeit mit den Foundern und einem starken Product-&#x26;-Engineering-Team Sehr viel Gestaltungsspielraum &#x26; full Ownership Weiterentwicklung &#x26; Lernen: Budget für Fortbildungen, Zugang zu Coaching und klare Entwicklungsperspektiven 30 Urlaubstage, 50 € monatlicher steuerfreier Sachbezug Regelmäßige Team-Events und Offsites Starkes Backing: Top-Investoren und Mentoren Unser Bewerbungsprozess Wenn die Kalender passen, können wir den gesamten Prozess innerhalb von fünf Tagen abschließen. Kennenlernen, Tag 1: Im ersten Gespräch schauen wir, ob es für beide Seiten passt. Wenn ja, vereinbaren wir direkt deinen Probetag. Probetag mit Case Study, Tag 4: Du arbeitest mit uns an einer echten Aufgabe und stellst anschließend dein Ergebnis vor. Gespräch mit unserem CEO, Tag 4: Das Gespräch findet am Abend deines Probetags statt. Teamgespräch, Tag 5: Du lernst die Engineers kennen, mit denen du arbeiten wirst. Entscheidung, Tag 5: Nach dem Teamgespräch geben wir dir unsere finale Rückmeldung. Wir freuen uns darauf, dich kennenzulernen. Erzähl uns, welche Probleme du gelöst, welche Entscheidungen du getroffen und welche Systeme du in Produktion gebracht hast. Find more English Speaking Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "remote",
+      "software development"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/paddy/ai-product-engineer-bielefeld-415380",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-2121e041dc53",
+    "title": "Senior Python Developer (w/m/d) - Remote",
+    "company": "node.energy",
+    "location": "Frankfurt am Main",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Als Senior Python Developer (w/m/d) bist du Teil unseres hochqualifizierten Inhouse-Entwicklungsteams. Du setzt Tickets eigenverantwortlich um und unterstützt andere Teammitglieder insbesondere bei Fragen zur Code-Struktur und Software-Architektur. Du trägst entscheidend dazu bei, dass wir schnell robuste Features ausliefern, die unseren Kunden und Nutzern einen direkten Mehrwert stiften. Damit leistest du einen wichtigen Beitrag zum Erfolg unserer SaaS-Lösung opti.node und damit auch zur Energiewende. node energy ermöglicht mit klugen Software-as-a-Service-Lösungen professionellen Betreibern Unsere Software opti.node führt alle Daten für die kaufmännische Betriebsführung von Windkraft- und PV-Anlagen zusammen und automatisiert anspruchsvolle Verwaltungsaufgaben und energiewirtschaftliche Geschäftsprozesse. Unsere Kunden sparen sich damit nicht nur hunderte Stunden mühseliger und fehleranfälliger Arbeit mit Excel-Listen, sie werden zu digitalen Energieversorgungsunternehmen der neuen Generation. Bereits heute vertrauen Betreiber von mehr als 14.000 Windkraft- und PV-Anlagen, die mehr als ein Drittel des deutschen Grünstroms erzeugen, auf opti.node. Und hier kommst du ins Spiel: Wir suchen dich als Senior Python Developer (w/m/d) , in Voll- oder Teilzeit zum nächstmöglichen Zeitpunkt. Wir freuen uns darauf, dich kennenzulernen! Aufgaben Du gestaltest den gesamten Software-Entwicklungsprozess mit - von der Anforderungsanalyse, Implementierung und Testing bis hin zum Deployment Du planst und entwirfst die technische Umsetzung von neuen Features für unsere Produkte Du sorgst mit deinen Implementierungen, Code Reviews und kreativen Lösungen für hohe Qualität und damit zufriedene Kunden Du fungierst für das Entwicklungsteam und den Product Owner als fachliche:r Ansprechpartner:in (w/m/d) bei technischen Fragestellungen Du gibst dein Wissen gerne weiter und befähigst die Kolleg:innen darin, neue Herausforderungen zu lösen Qualifikation Du bringst mindestens 8 Jahre Erfahrung in der Softwareentwicklung, davon mindestens 5 Jahre im Bereich von Webanwendungen mit Du besitzt sehr gute Programmierkenntnisse und ein exzellentes technisches Verständnis - Kenntnisse in unserem Tech Stack sind dabei sehr wünschenswert, dieser umfasst unter anderem: Django Litestar Redis Postgresql Du verfügst über ein sehr gutes Verständnis von Software-Architekturen Idealerweise hast du außerdem Kenntnisse im Bereich DevOps (Docker, Kubernetes) und Managed Clouds (Azure, AWS …) Du hast Interesse daran, über aktuelle Trends und (State-of-the-Art-)Technologien auf dem Laufenden zu bleiben und deine Kenntnisse in diesen weiterzuentwickeln Du sprichst fließend Deutsch (unsere Unternehmenssprache) und das Verfassen von technischen Dokumenten in englischer Sprache bereitet dir keine Schwierigkeiten Und ganz wichtig: Du hast Lust darauf, mit uns die Energiewelt von morgen klimafreundlich zu machen! Benefits Job mit Sinn: Wir treiben gemeinsam die grüne Energiewende voran Nachhaltige und flexible Arbeitsbedingungen: Unbefristeter Arbeitsertrag, ein ordentliches Gehalt, 30 Tage Urlaub pro Jahr, Remote-First-Kultur mit Büros in Frankfurt a. M. und Freiburg - von wo aus du arbeitest, entscheidest du Strukturierte Einarbeitung: Du bekommst eine strukturierte Einarbeitung, begleitet durch eine:n Mentor:in und eine:n Kolleg:in als Social Buddy für deine soziale Integration bei node energy Mitgestaltungsmöglichkeiten: Du wirkst aktiv an der stetigen Entwicklung unseres Unternehmens mit und das ohne starre Prozesse, hierarchische Strukturen oder veraltete Technologien Weiterbildung: Jährliches Weiterbildungsbudget und regelmäßige Feedbackgespräche zur Förderung deiner individuellen Entwicklung Persönliche Treffen: Monatliche Teamtage und jährige Teamevents vor Ort zur persönlichen Zusammenarbeit und Vernetzung - diese sind aber freiwillig Workation: Nach der Probezeit hast du die Möglichkeit, im Rahmen der gesetzlichen Bestimmungen temporär an einem Ort innerhalb der EU zu arbeiten Eine Vielzahl weiterer Benefits: Bahncard, Bezuschussung des Job-Tickets, Bikeleasing, Urban Sports Club/Hansefit, nilo.health Zugang und betriebliche Altersvorsorge Für mehr Klimaschutz zu demonstrieren, ist gut und wichtig. Mit einem Job bei uns kann man aber noch effektiver die Welt retten. Bei helfen wir Unternehmen beim Umstieg auf erneuerbare Energien. Erneuerbare Energien sind inzwischen wettbewerbsfähig. Trotzdem nutzen die meisten Firmen ihr Potenzial nicht mal annähernd aus. Der Grund dafür: Es ist einfach zu kompliziert. Dieses Problem lösen wir mit unserer Software, welche die Planung und das Management von klimafreundlichen Energielösungen radikal vereinfacht. Werde Teil unseres Teams und helfe uns dabei, die Energiewende im Industrie- und Gewerbebereich zu ermöglichen. Wir freuen uns über alle Bewerbungen unabhängig von Geschlecht oder geschlechtlicher Identität, Alter, kultureller und sozialer Herkunft, ethnischer Herkunft, Fähigkeiten oder sexueller Orientierung. Find more English Speaking Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "remote",
+      "software development"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/nodeenergy/senior-python-developer-remote-frankfurt-am-main-250296",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-7a74898a9f6a",
+    "title": "Product Builder (UI/UX Designer & Mobile App Developer) - (m/w/d)",
+    "company": "Luma Life",
+    "location": "Hamburg",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Luma Life entwickelt eine KI-basierte Alltagsbegleitung für Menschen mit Demenz. Unser Ziel: Menschen mit Demenz ein möglichst selbstbestimmtes Leben ermöglichen und Angehörige im Alltag entlasten. Wir sind ein Early-Stage-Startup mit funktionierendem Produkt, ersten Nutzern und starken Partnern. Bei uns arbeitest du direkt mit den Foundern, übernimmst echte Verantwortung und kannst deine Ideen unmittelbar in ein Produkt bringen, das bereits von Menschen genutzt wird. Wir arbeiten AI-first, mit kurzen Entscheidungswegen und viel Gestaltungsspielraum. Aufgaben Entwicklung und Weiterentwicklung unserer mobilen App für iOS &#x26; Android Features von der ersten Idee bis zum fertigen Release eigenständig umsetzen Nutzerprobleme verstehen und daraus konkrete Produktlösungen entwickeln UI/UX gestalten , Prototypen erstellen und Lösungen schnell testen und iterieren Gemeinsam mit den Foundern Produktentscheidungen treffen und neue Ideen in funktionierende Features übersetzen Claude Code, Figma AI und weitere AI-Tools nutzen, um schneller zu entwickeln und zu iterieren Nutzerfeedback auswerten und direkt in Produktverbesserungen übersetzen Testing und QA übernehmen und eine hohe Produktqualität sicherstellen Bugs und UX-Probleme selbstständig erkennen und beheben Technische Strukturen und Entwicklungsprozesse kontinuierlich verbessern Neue Technologien ausprobieren und sinnvoll in Luma Life integrieren Wichtig: Du arbeitest nicht einfach Tickets aus einem fertigen Backlog ab. Du begleitest Features von der Problemstellung über Produkt und Design bis zur technischen Umsetzung und übernimmst dafür echte Ownership. Qualifikation Erfahrung in der App- oder Frontend-Entwicklung , idealerweise im Mobile-Bereich Sehr gutes Verständnis für moderne iOS- und Android-Entwicklung Fähigkeit, Features eigenständig von Grund auf zu bauen und bis zum Release zu begleiten Sehr gutes Gespür für UI/UX und Produktdesign Erfahrung mit Figma , idealerweise auch mit Figma AI Intensive Erfahrung mit Claude Code oder vergleichbaren AI-Coding-Tools Ausgeprägtes Produktverständnis: Du denkst in Usern, Problemen und Lösungen , nicht nur in Code Hohe Eigenverantwortung, Lernbereitschaft und Ownership Sicherer Umgang mit Testing und QA Fähigkeit, dich schnell und selbstständig in neue Technologien und Problemstellungen einzuarbeiten Pragmatische, lösungsorientierte Arbeitsweise und Freude daran, Dinge selbst in die Hand zu nehmen Sehr gute bis exzellente Deutschkenntnisse in Wort und Schrift , da Sprache ein zentraler Bestandteil unseres Produkts ist Benefits Direkte Zusammenarbeit mit den Foundern und extrem kurze Entscheidungswege Großer Gestaltungsspielraum: Du entscheidest mit, was wir bauen und wie wir es bauen Echte Ownership: Von der ersten Idee bis zum fertigen Feature AI-first Arbeitsweise: Claude Code, Figma AI und weitere moderne AI-Tools gehören zu unserem Alltag Direkter Impact: Deine Arbeit wird unmittelbar von echten Nutzern verwendet Startup statt Konzern: Wenig Bürokratie, schnelle Entscheidungen und viel Eigenverantwortung Gesellschaftliche Mission: Du arbeitest an einem Produkt, das Menschen mit Demenz und ihre Angehörigen im Alltag unterstützt Share Options bei entsprechender Leistung und langfristigem Commitment Aufbauphase: Du bist früh dabei und kannst Produkt, Team und Unternehmenskultur aktiv mitgestalten Du willst nicht nur Features entwickeln, sondern ein Produkt von Grund auf mitgestalten ? Du hast Lust, Verantwortung zu übernehmen, AI intensiv zu nutzen und Dinge einfach auszuprobieren und zu bauen? Dann würden wir dich sehr gerne kennenlernen. Schick uns deinen CV und gerne Links zu Projekten, Apps oder GitHub. Uns interessiert weniger ein perfekter Lebenslauf als das, was du tatsächlich bauen kannst . Wir freuen uns auf deine Bewerbung! Find more English Speaking Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "remote",
+      "software development"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/luma-life/product-builder-ui-ux-designer-mobile-app-developer-hamburg-353211",
     "date_posted": null
   }
 ]
