@@ -1,5 +1,379 @@
 [
   {
+    "id": "jobicy-1399613c31ab",
+    "title": "OrioleDB Developer (AMER)",
+    "company": "Supabase",
+    "location": "LATAM,  Canada,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the role We're looking for an engineer to drive the evolution of OrioleDB and its collaboration&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154087-orioledb-developer-amer",
+    "date_posted": "2026-09-25"
+  },
+  {
+    "id": "jobicy-a5ada60125d9",
+    "title": "Senior Brand Designer",
+    "company": "Phantom",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Phantom is on a mission to connect the world to the freedom of open markets. Tens of millions of people all over the world use Phantom to access global markets that never close, including perpetuals, prediction markets, tokenized assets, stablecoins and memes. Phantom users are able to discover the markets that matter and the cultural&hellip;",
+    "required_skills": [
+      "creative & design"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154086-senior-brand-designer",
+    "date_posted": "2026-09-25"
+  },
+  {
+    "id": "jobicy-32e892703ab4",
+    "title": "Staff Engineer, Full Stack (Trust, Safety & Risk)",
+    "company": "Phantom",
+    "location": "EMEA,  LATAM,  Canada,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Phantom is on a mission to connect the world to the freedom of open markets. Tens of millions of people all over the world use Phantom to access global markets that never close, including perpetuals, prediction markets, tokenized assets, stablecoins and memes. Phantom users are able to discover the markets that matter and the cultural&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154084-staff-engineer-full-stack-trust-safety-risk",
+    "date_posted": "2026-09-25"
+  },
+  {
+    "id": "jobicy-74846dec8eab",
+    "title": "Product Manager - Security & Trust (EMEA/AMER)",
+    "company": "Supabase",
+    "location": "EMEA,  LATAM,  Canada,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Supabase is the Postgres development platform, built by developers for developers to help them ship countless products that people love. More than 7 million developers trust us with their data, and we are custodians of every byte of it. Security is foundational to that trust, and as we move deeper into AI-native development, regulated industries,&hellip;",
+    "required_skills": [
+      "product & operations"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154085-product-manager-security-trust-emea-amer",
+    "date_posted": "2026-09-25"
+  },
+  {
+    "id": "jobicy-7466945e603a",
+    "title": "Database Support Engineer (EMEA)",
+    "company": "Supabase",
+    "location": "EMEA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We’re looking for an experienced Database Support Engineer to join our Support Team and&hellip;",
+    "required_skills": [
+      "technical support"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154079-database-support-engineer-emea",
+    "date_posted": "2026-09-25"
+  },
+  {
+    "id": "jobicy-af60948db121",
+    "title": "Database Support Engineer (AMER)",
+    "company": "Supabase",
+    "location": "LATAM,  Canada,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We’re looking for an experienced Database Support Engineer to join our Support Team and&hellip;",
+    "required_skills": [
+      "technical support"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154076-database-support-engineer-amer",
+    "date_posted": "2026-09-25"
+  },
+  {
+    "id": "jobicy-10f11e14a0de",
+    "title": "Account Executive (APAC)",
+    "company": "Supabase",
+    "location": "APAC",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We’re looking for a creative and driven Commercial Account Executive to help grow our customer base&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154083-account-executive-apac",
+    "date_posted": "2026-09-25"
+  },
+  {
+    "id": "jobicy-35da8caf4d2f",
+    "title": "Senior Software Engineer, Backend (Money Movement)",
+    "company": "Phantom",
+    "location": "Anywhere",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Phantom is on a mission to connect the world to the freedom of open markets. Tens of millions of people all over the world use Phantom to access global markets that never close, including perpetuals, prediction markets, tokenized assets, stablecoins and memes. Phantom users are able to discover the markets that matter and the cultural&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154082-senior-software-engineer-backend-money-movement",
+    "date_posted": "2026-09-25"
+  },
+  {
+    "id": "jobicy-611b01a8aa91",
+    "title": "Staff Platform Security Engineer (Security)",
+    "company": "Phantom",
+    "location": "Canada,  Europe,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Phantom is on a mission to connect the world to the freedom of open markets. Tens of millions of people all over the world use Phantom to access global markets that never close, including perpetuals, prediction markets, tokenized assets, stablecoins and memes. Phantom users are able to discover the markets that matter and the cultural&hellip;",
+    "required_skills": [
+      "cybersecurity"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154078-staff-platform-security-engineer-security",
+    "date_posted": "2026-09-25"
+  },
+  {
+    "id": "jobicy-d325fc4001e0",
+    "title": "Database Support Engineer (APAC)",
+    "company": "Supabase",
+    "location": "APAC",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We’re looking for an experienced Database Support Engineer to join our Support Team and&hellip;",
+    "required_skills": [
+      "technical support"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154081-database-support-engineer-apac",
+    "date_posted": "2026-09-25"
+  },
+  {
+    "id": "jobicy-c7f533a9bb22",
+    "title": "Head of Brand Creative",
+    "company": "Phantom",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Phantom is on a mission to connect the world to the freedom of open markets. Tens of millions of people all over the world use Phantom to access global markets that never close, including perpetuals, prediction markets, tokenized assets, stablecoins and memes. Phantom users are able to discover the markets that matter and the cultural&hellip;",
+    "required_skills": [
+      "creative & design"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154080-head-of-brand-creative",
+    "date_posted": "2026-09-25"
+  },
+  {
+    "id": "jobicy-e48299b0d316",
+    "title": "Inbound Support Coordinator",
+    "company": "HomeLight",
+    "location": "Philippines",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "*** This is a permanent work from home position from the Philippines, 9am to 5pm US Pacific time *** Who We Are We’re building the future of real estate — today. HomeLight is the real estate technology platform powering innovative transactions for top agents, lenders, and their clients. Our technology makes it easier to buy&hellip;",
+    "required_skills": [
+      "customer support & success"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154077-inbound-support-coordinator",
+    "date_posted": "2026-09-25"
+  },
+  {
+    "id": "jobicy-77a8f4ca8a1b",
+    "title": "Principal Software Engineer, AI",
+    "company": "Salesloft",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Job Title: Principal Software Engineer, AI Location: Remote - US Salesloft is building the next era of enterprise revenue — one where teams make confident decisions powered by AI and real signals. By combining our scale, insights, and AI innovation, we're building the industry's first Predictive Revenue System, enabling humans and AI to work together&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154065-principal-software-engineer-ai",
+    "date_posted": "2026-09-25"
+  },
+  {
+    "id": "jobicy-6ccd35e59013",
+    "title": "Senior Commercial Counsel",
+    "company": "Salesloft",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Senior Commercial Counsel Location: US, Remote. “This is a fully remote opportunity and can be worked from any location in the United States.” ABOUT THE COMPANY: Salesloft is building the next era of enterprise revenue — one where teams make confident decisions powered by AI and real signals. By combining our scale, insights, and AI&hellip;",
+    "required_skills": [
+      "legal & compliance"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154072-senior-commercial-counsel",
+    "date_posted": "2026-09-25"
+  },
+  {
+    "id": "jobicy-6cef838d661f",
+    "title": "Senior Commercial Account Manager",
+    "company": "Salesloft",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Job Title: Senior Commercial Account Manager Location: United States, Remote This is a fully remote opportunity and can be worked from any location in the United States. ABOUT THE COMPANY: Salesloft is building the next era of enterprise revenue — one where teams make confident decisions powered by AI and real signals. By combining our&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154070-senior-commercial-account-manager",
+    "date_posted": "2026-09-25"
+  },
+  {
+    "id": "jobicy-9123ccb63cf5",
+    "title": "Enterprise Sales Director, DMV",
+    "company": "Semperis",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "At Semperis, our mission is to be a Force for Good. Starting with being a great place to work. We believe that when people feel valued, supported, and empowered, they do their best work. That’s why we focus on creating an employee experience rooted in purpose, growth, and balance. Semperis has been recognized as one&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154074-enterprise-sales-director-dmv",
+    "date_posted": "2026-09-25"
+  },
+  {
+    "id": "jobicy-6b7c5206bc95",
+    "title": "Analytics Engineer, Data",
+    "company": "Tailscale",
+    "location": "Canada",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Thank you for considering Tailscale. If this job description resonates with you, please apply. Frequently cited statistics show that people who identify with historically marginalized groups are likely to apply to jobs only if they meet 100% of the qualifications. We encourage you to help us break that statistic! About Tailscale Tailscale is making safe&hellip;",
+    "required_skills": [
+      "data science & analytics"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154067-analytics-engineer-data",
+    "date_posted": "2026-09-25"
+  },
+  {
+    "id": "jobicy-6c0941efa20c",
+    "title": "Revenue Systems Analyst",
+    "company": "UpGuard",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Who are we? At UpGuard, we are replacing manual security bottlenecks with AI-driven precision. Fresh off a US$75M Series C, we are scaling our infrastructure to process 100 billion risk signals daily. This isn’t just growth; it’s a total reimagining of how the world manages cyber risk. We build the Cyber Risk Posture Management (CRPM)&hellip;",
+    "required_skills": [
+      "product & operations"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154071-revenue-systems-analyst",
+    "date_posted": "2026-09-25"
+  },
+  {
+    "id": "jobicy-78635e30923c",
+    "title": "Enterprise Sales Director (TN, LA, AR)",
+    "company": "Semperis",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "At Semperis, our mission is to be a Force for Good. Starting with being a great place to work. We believe that when people feel valued, supported, and empowered, they do their best work. That’s why we focus on creating an employee experience rooted in purpose, growth, and balance. Semperis has been recognized as one&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154066-enterprise-sales-director-tn-la-ar",
+    "date_posted": "2026-09-25"
+  },
+  {
+    "id": "jobicy-435c6af9c69a",
+    "title": "Senior Customer Success Manager",
+    "company": "Salesloft",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Title: Senior Customer Success Manager Location: United States, REMOTE Salesloft is building the next era of enterprise revenue — one where teams make confident decisions powered by AI and real signals. By combining our scale, insights, and AI innovation, we're building the industry's first Predictive Revenue System, enabling humans and AI to work together to&hellip;",
+    "required_skills": [
+      "customer support & success"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154073-senior-customer-success-manager-16",
+    "date_posted": "2026-09-25"
+  },
+  {
+    "id": "jobicy-883718f2cfea",
+    "title": "Staff Software Engineer",
+    "company": "UpGuard",
+    "location": "Australia",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Who are we? At UpGuard, we are replacing manual security bottlenecks with AI-driven precision. Fresh off a US$75M Series C, we are scaling our infrastructure to process 100 billion risk signals daily. This isn’t just growth; it’s a total reimagining of how the world manages cyber risk. We build the Cyber Risk Posture Management (CRPM)&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154068-staff-software-engineer-7",
+    "date_posted": "2026-09-25"
+  },
+  {
+    "id": "jobicy-7f5f41c65173",
+    "title": "Salesforce Business Systems Administrator",
+    "company": "Salesloft",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "ROLE: Business Systems Administrator Location: United States, Remote Salesloft is building the next era of enterprise revenue — one where teams make confident decisions powered by AI and real signals. By combining our scale, insights, and AI innovation, we're building the industry's first Predictive Revenue System, enabling humans and AI to work together to make&hellip;",
+    "required_skills": [
+      "cybersecurity"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154069-salesforce-business-systems-administrator",
+    "date_posted": "2026-09-25"
+  },
+  {
     "id": "jobicy-08a0e71bc97c",
     "title": "Head of GTM Enablement",
     "company": "Obsidian Security",
@@ -272,23 +646,6 @@
     "date_posted": "2026-09-25"
   },
   {
-    "id": "jobicy-9082b0fd6979",
-    "title": "Senior Data Scientist, Product",
-    "company": "RevenueCat",
-    "location": "EMEA,  LATAM,  Canada,  USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "RevenueCat removes the headaches of building and scaling in‑app subscriptions. Since graduating from YC’s S18 batch we’ve grown into the default monetization platform for mobile: we’re in &gt;40% of newly shipped subscription apps, we process $12B+ in annual purchase volume, and we help everyone from a solo dev in Brazil to the OpenAI mobile team&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/151640-senior-data-scientist-product",
-    "date_posted": "2026-09-25"
-  },
-  {
     "id": "jobicy-88893d727fc9",
     "title": "Engineering Manager - UK",
     "company": "Ashby",
@@ -371,23 +728,6 @@
     "requirements": [],
     "source": "Jobicy",
     "url": "https://jobicy.com/jobs/151629-engineering-manager-rc-capital",
-    "date_posted": "2026-09-25"
-  },
-  {
-    "id": "jobicy-12863aacb28e",
-    "title": "Senior Sales Director, Corporate",
-    "company": "NetDocuments",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "NetDocuments is committed to providing an excellent candidate experience and will never ask you to engage in recruitment activity without phone, video, and in person meetings and communications from emails using the @netdocuments.com domain. If you have any concerns or questions about communications you have received, please send them to hrgroup@netdocuments.com so our team members can review.&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/151573-senior-sales-director-corporate",
     "date_posted": "2026-09-25"
   },
   {
@@ -493,23 +833,6 @@
     "date_posted": "2026-09-25"
   },
   {
-    "id": "jobicy-181ee24cb5fe",
-    "title": "Senior Software Engineer - Next-Gen",
-    "company": "NetDocuments",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "NetDocuments is committed to providing an excellent candidate experience and will never ask you to engage in recruitment activity without phone, video, and in person meetings and communications from emails using the @netdocuments.com domain. If you have any concerns or questions about communications you have received, please send them to hrgroup@netdocuments.com so our team members can review.&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/151575-senior-software-engineer-next-gen",
-    "date_posted": "2026-09-25"
-  },
-  {
     "id": "jobicy-27d6be9f19eb",
     "title": "Software Engineer — AI-Native CAD Integrations",
     "company": "Quilter",
@@ -524,329 +847,6 @@
     "requirements": [],
     "source": "Jobicy",
     "url": "https://jobicy.com/jobs/151574-software-engineer-ai-native-cad-integrations",
-    "date_posted": "2026-09-25"
-  },
-  {
-    "id": "jobicy-fd5e8dfbf291",
-    "title": "Staff ML Systems Engineer",
-    "company": "Quilter",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Quilter At Quilter, we are helping electrical engineers save time and accomplish more by automating the tedious and time-consuming task of designing printed circuit boards (PCBs). Our small team is composed of experts in electrical engineering, electromagnetic simulation, ML/AI, and high-performance computing (HPC). We are inventing and leveraging novel techniques to solve the decades-old&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/151571-staff-ml-systems-engineer",
-    "date_posted": "2026-09-25"
-  },
-  {
-    "id": "jobicy-34288f7bc315",
-    "title": "Senior Product Manager, Funnels/Workflow",
-    "company": "RevenueCat",
-    "location": "APAC,  EMEA,  LATAM,  Canada,  USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "RevenueCat removes the headaches of building and scaling in‑app subscriptions. Since graduating from YC’s S18 batch we’ve grown into the default monetization platform for mobile: we’re in &gt;40% of newly shipped subscription apps, we process $12B+ in annual purchase volume, and we help everyone from a solo dev in Brazil to the OpenAI mobile team&hellip;",
-    "required_skills": [
-      "product & operations"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/151545-senior-product-manager-funnels-workflow",
-    "date_posted": "2026-09-25"
-  },
-  {
-    "id": "jobicy-f5fcb851729c",
-    "title": "Account Executive, Small Group",
-    "company": "Elation Health",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Our team is committed to enhancing physician and patient quality of life through Elation, a SaaS cloud-based clinical platform. Since inception, we’ve been focused on building a world-class technology solution that creates an experience of delight and ease for physicians, and that our users love. Elation is looking for an Account Executive with a keen&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/151567-account-executive-small-group",
-    "date_posted": "2026-09-25"
-  },
-  {
-    "id": "jobicy-52595a53f52d",
-    "title": "Account Executive - Velocity",
-    "company": "Emburse",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Who We Are: At Emburse, you’ll not just imagine the future – you’ll build it. As a leader in expense intelligence, we are creating a future where technology drives business value and inspires extraordinary results. Our AI-powered platform helps organizations modernize financial operations, increase visibility, and optimize spend across the enterprise. Account Executives will focus&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/151559-account-executive-velocity",
-    "date_posted": "2026-09-25"
-  },
-  {
-    "id": "jobicy-887f0e46b098",
-    "title": "Sales Executive New Business - Nordics",
-    "company": "Emburse",
-    "location": "UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Who We Are: At Emburse, you’ll not just imagine the future – you’ll build it. As a leader in expense intelligence, we are creating a future where technology drives business value and inspires extraordinary results. Our AI-powered platform helps organizations modernize financial operations, increase visibility, and optimize spend across the enterprise. This is a foundational&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/151564-sales-executive-new-business-nordics",
-    "date_posted": "2026-09-25"
-  },
-  {
-    "id": "jobicy-4323881900c9",
-    "title": "Senior Software Engineer - Verification Platform",
-    "company": "Veriff",
-    "location": "Estonia,  Spain",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Beneath a simple yet elegant user interface lies a complex system of functionalities. Our AI-powered product uses advanced image recognition, facial verification, face recognition, facial anti-spoofing (liveness detection), and behavior analysis to make identity decisions. We help our partners build onboarding processes that ensure good people get things done and bad folks get stopped. To&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/151549-senior-software-engineer-verification-platform",
-    "date_posted": "2026-09-25"
-  },
-  {
-    "id": "jobicy-7ef511bb1886",
-    "title": "Alliance Manager, Translational Medicine",
-    "company": "Natera",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Position Summary The Alliance Manager will play a critical role in enabling successful external collaborations that accelerate the translation of scientific discoveries into clinically actionable molecular solutions. This individual combines a strong scientific understanding of translational medicine with exceptional relationship management, legal/contracting acumen, and strategic oversight. Serving as the primary relationship manager for strategic external&hellip;",
-    "required_skills": [
-      "business development"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/151562-alliance-manager-translational-medicine",
-    "date_posted": "2026-09-25"
-  },
-  {
-    "id": "jobicy-ef9cc002d60c",
-    "title": "Senior ML Engineer",
-    "company": "Quilter",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Quilter At Quilter, we are helping electrical engineers save time and accomplish more by automating the tedious and time-consuming task of designing printed circuit boards (PCBs). Our small team is composed of experts in electrical engineering, electromagnetic simulation, ML/AI, and high-performance computing (HPC). We are inventing and leveraging novel techniques to solve the decades-old&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/151566-senior-ml-engineer",
-    "date_posted": "2026-09-25"
-  },
-  {
-    "id": "jobicy-5bd4fef6bc9e",
-    "title": "Account Executive, Enterprise",
-    "company": "Fivetran",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more organizations continue to leverage our technology every day to become&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/151569-account-executive-enterprise",
-    "date_posted": "2026-09-25"
-  },
-  {
-    "id": "jobicy-c2e8de78b4c6",
-    "title": "Director, Strategic Partner Sales",
-    "company": "Remote",
-    "location": "Europe",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Remote Remote is solving modern organizations’ biggest challenge – navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focused work culture, our team works tirelessly on ambitious problems, asynchronously, around the world. You&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/151440-director-strategic-partner-sales",
-    "date_posted": "2026-09-25"
-  },
-  {
-    "id": "jobicy-5e91adec574d",
-    "title": "Senior Backend Software Engineer (Observability)",
-    "company": "Nebius",
-    "location": "Netherlands",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/147408-senior-backend-software-engineer-observability",
-    "date_posted": "2026-09-25"
-  },
-  {
-    "id": "jobicy-0318e539fc53",
-    "title": "Senior Product Manager, Ads Quality",
-    "company": "Instacart",
-    "location": "Canada",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "We're transforming the grocery industry At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied&hellip;",
-    "required_skills": [
-      "product & operations"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/149664-senior-product-manager-ads-quality",
-    "date_posted": "2026-09-25"
-  },
-  {
-    "id": "jobicy-a8fe33b78346",
-    "title": "Customer Engineer",
-    "company": "Cresta",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channel. The world’s leading companies, including United Airlines, Cox Communications, and Marriott, use Cresta to&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/149642-customer-engineer-2",
-    "date_posted": "2026-09-25"
-  },
-  {
-    "id": "jobicy-bfe4296ca03e",
-    "title": "Technical Customer Success Manager",
-    "company": "Cloudinary",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Cloudinary is the Image and Video API platform trusted by millions of developers and over 10,000 companies worldwide. Our powerful tools fuel websites to be faster, richer in user engagement, and breakthrough creativity. With a growing suite of products that support everything from developer efficiency to brand storytelling, Cloudinary is becoming the visual layer of&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/151604-technical-customer-success-manager-2",
-    "date_posted": "2026-09-25"
-  },
-  {
-    "id": "jobicy-b34b6fada96c",
-    "title": "Software Engineer (All Levels)",
-    "company": "Fieldguide",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Fieldguide Fieldguide is redefining trust in global commerce by modernizing how cybersecurity, privacy, and financial audits are done. We build software that empowers the practitioners who enable trust between businesses—automating and streamlining their work to deliver faster, higher-quality results. We’re a remote-first company headquartered in San Francisco, CA, backed by top investors including Bessemer&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/151601-software-engineer-all-levels",
-    "date_posted": "2026-09-25"
-  },
-  {
-    "id": "jobicy-8ec69321772e",
-    "title": "Lifecycle Senior Specialist (OHS): Contract Management",
-    "company": "Remote",
-    "location": "EMEA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Remote Remote is solving modern organizations’ biggest challenge – navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focused work culture, our team works tirelessly on ambitious problems, asynchronously, around the world. You&hellip;",
-    "required_skills": [
-      "legal & compliance"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/151449-lifecycle-senior-specialist-ohs-contract-management",
-    "date_posted": "2026-09-25"
-  },
-  {
-    "id": "jobicy-06c55df3d69f",
-    "title": "Global Payroll Implementation Country Lead - Germany",
-    "company": "Remote",
-    "location": "EMEA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Remote Remote is solving modern organizations’ biggest challenge – navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focused work culture, our team works tirelessly on ambitious problems, asynchronously, around the world. You&hellip;",
-    "required_skills": [
-      "finance & accounting"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/151448-global-payroll-implementation-country-lead-germany",
-    "date_posted": "2026-09-25"
-  },
-  {
-    "id": "jobicy-936a6a67034a",
-    "title": "Senior Specialist, Global Benefits Risk & Compliance",
-    "company": "Remote",
-    "location": "EMEA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Remote Remote is solving modern organizations’ biggest challenge – navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focused work culture, our team works tirelessly on ambitious problems, asynchronously, around the world. You&hellip;",
-    "required_skills": [
-      "hr & recruiting"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/151447-senior-specialist-global-benefits-risk-compliance",
-    "date_posted": "2026-09-25"
-  },
-  {
-    "id": "jobicy-010a1081f19c",
-    "title": "Solutions Architect - MENA",
-    "company": "Deepgram",
-    "location": "EMEA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Company OverviewDeepgram is the leading platform underpinning the emerging trillion-dollar Voice AI economy, providing real-time APIs for speech-to-text (STT), text-to-speech (TTS), and building production-grade voice agents at scale. More than 200,000 developers and 1,300+ organizations build voice offerings that are ‘Powered by Deepgram’, including Twilio, Cloudflare, Sierra, Decagon, Vapi, Daily, Cresta, Granola, and Jack in&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/151446-solutions-architect-mena",
     "date_posted": "2026-09-25"
   },
   {
@@ -1570,6 +1570,104 @@
     "date_posted": "2026-08-25"
   },
   {
+    "id": "arbeitnow-42451a4db19a",
+    "title": "Team Lead SAP ABAP Development – Data Migration (m/w/d)",
+    "company": "Natuvion GmbH",
+    "location": "Remote job",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Du findest ABAP-Entwicklungen und technische Beratung im SAP-Umfeld spannend, bist spezialisiert an Themen der Datenmigration und bringst erste Führungserfahrung und Leidenschaft für die Entwicklung deiner Mitarbeitenden mit? Du hast Lust in agilen und internationalen Teams Lösungen für komplexe technische Themen zu erarbeiten, möchtest noch technisch hands-on arbeiten, aber gleichzeitig auch deine Führungsstärke entwickeln? Dann suchen wir Dich zur Erweiterung unseres Transformation Teams als Team Lead SAP ABAP Development – Data Migration (m/w/d) – bundesweit. Deine Aufgaben: Du übernimmst die Projekt- und Budgetverantwortung für technische Datenmigrationen. Du übernimmst die fachliche und disziplinarische Führung eines Entwicklungsteams im Bereich SAP ABAP mit Schwerpunkt Datenmigration Du arbeitest an der Produktentwicklung zur Erweiterung und Standardisierung unseres Service- und Tool-Portfolios rund um unsere Migrationssoftware ( Natuvion DCS ) mit Du pflegst eine enge Zusammenarbeit mit Projektleitung, Fachbereichen und externen Partnern zur Definition von Anforderungen und Prioritäten Du organisierst und steuerst die technische Unterstützung unserer Kunden bei der Konzeption und Umsetzung innovativer IT-Lösungen Du arbeitest an spannenden Zukunftsthemen wie S/4HANA Migrationen sowie auch Einführungen neuer digitaler Plattformen (z.B.: Powercloud, Salesforce) mit Du förderst die Weiterentwicklung und Schulung der Teammitglieder im Bereich ABAP und Migrationstechnologien Dein Profil: Du übernimmst die fachliche und disziplinarische Führung eines Entwicklungsteams im Bereich SAP ABAP mit Schwerpunkt Datenmigration Du arbeitest an der Produktentwicklung zur Erweiterung und Standardisierung unseres Service- und Tool-Portfolios rund um unsere Migrationssoftware ( Natuvion DCS ) mit Du pflegst eine enge Zusammenarbeit mit Projektleitung, Fachbereichen und externen Partnern zur Definition von Anforderungen und Prioritäten Du organisierst und steuerst die technische Unterstützung unserer Kunden bei der Konzeption und Umsetzung innovativer IT-Lösungen Du arbeitest an spannenden Zukunftsthemen wie S/4HANA Migrationen sowie auch Einführungen neuer digitaler Plattformen (z.B.: Powercloud, Salesforce) mit Du förderst die Weiterentwicklung und Schulung der Teammitglieder im Bereich ABAP und Migrationstechnologien Falls du denkst, dass du nicht alle Anforderungen erfüllst: Bei uns sind deiner Entwicklung „keine Grenzen gesetzt“! Geh mit uns gemeinsam deinen Weg – Wir unterstützen dich dabei! Zeige uns einfach wer du bist. Was dich bei uns erwartet: Ein Umfeld, dass jederzeit offen für Veränderungen und Optimierungen ist. Ein „das war schon immer so“ gibt es bei uns nicht. Du hast die Chance dein Wissen einzubringen, Prozesse zu gestalten, vorhandenen Themen zu standardisieren oder Abläufe zu optimieren. Sei Impulsgeber und bringe uns mit deiner Expertise noch weiter nach vorne! Wir schaffen Rahmenbedingungen, in denen du dich wohlfühlst: Home-Office Verträge &amp; absolute Flexibilität durch freie Gestaltung der Arbeitszeit&nbsp; Unbefristete Festanstellung und 30 Tage Urlaub&nbsp; FlexWork: Bis zu 3 Monate pro Jahr remote aus dem europäischen Ausland arbeiten&nbsp; Monatliches Budget für individuell wählbare Benefits aus über 50 möglichen Angeboten über emplu, verschiedene Angebote über Corporate Benefits, sowie Fahrrad- und Autoleasing per Gehaltsumwandlung Mental Health Benefit 'Nilo' – 12 kostenlose Sessions mit Psycholog:innen jährlich sowie Zugang zu Meditationen und Kursen&nbsp; Wir unterstützen dich gezielt bei deiner fachlichen und persönlichen Entwicklung bei Natuvion&nbsp; Mentorenprogramm für eine strukturierte und persönliche Einarbeitung&nbsp; Werde Teil des #teamgreen - Bei Natuvion arbeitest du an innovativen Projekten als Teil eines Teams, das füreinander einsteht. Wir setzen auf Zusammenarbeit, Offenheit und Vertrauen&nbsp; Modernes Equipment und zentrale Büros in Walldorf, Berlin, München und Leipzig &nbsp; Uns ist deine langfristige Perspektive wichtig, deshalb bezuschussen wir deine betriebliche Altersvorsorge sowie vermögenswirksame Leistungen &nbsp; Join #teamgreen - Natuvion ist ein digitales Umzugsunternehmen. Unser Team bewegt keine Tische, Aktenschränke oder Stühle. Natuvion transportiert geschäftskritische Daten und Prozesse von einer Technologieplattform auf eine andere. Typische Natuvion „Umzugsdienstleistungen“ umfassen Datenmigration, Datentransformation, Datenintegration, Datenschutz, Datensicherheit und Datenqualität. Unsere 300 BeraterInnen und EntwicklerInnen in Deutschland, Österreich, Slowakei, USA und Australien verfügen über weitreichendes Knowhow bei (SAP®-)Projekten und ein profundes Prozessverständnis über Branchengrenzen hinweg. Mit viel Erfahrung, Engagement und Einsatz begleiten sie unsere Kunden mit Beratung, Dienstleistung und eigener Softwaretechnologie. So ermöglichen wir Unternehmen, ihre Daten und Prozesse immer auf den modernsten und innovativsten Plattformen zu nutzen. Du bist interessiert? Wir freuen uns auf deine Bewerbung und darauf, dich kennenzulernen! Find Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "technical migration",
+      "remote"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-team-lead-sap-abap-development-data-migration-berlin-368024",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-53f795d56f68",
+    "title": "SAP Finance (FI/CO) Migration Architect (m/w/d)",
+    "company": "Natuvion GmbH",
+    "location": "Remote job",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Möchtest du die Zukunft unserer Kunden aktiv mitgestalten und dabei sowohl fachlich als auch technisch Verantwortung übernehmen?&nbsp; Dann bist du bei uns genau richtig!&nbsp; Wir suchen einen Migration Architect SAP FI/CO&nbsp; (m/w/d) der unsere nationalen und internationalen Kunden in anspruchsvollen Transformations- und Datenmigrationsprojekten begleitet. Dich erwartet ein dynamisches Team, abwechslungsreiche Projekte und maximaler Gestaltungsspielraum.&nbsp; &nbsp; Deine Aufgaben: Eigenverantwortliche Umsetzung von SAP Transformations und Datenmigrationsprojekten im SAP Finance Umfeld – von der Analyse über die Konzeption bis zur technischen Realisierung im SAP-System&nbsp;.&nbsp; Erstellung und Umsetzung technischer Migrations und Transformationskonzepte , inkl. Validierung der Migrationsergebnisse sowie Optimierung in Test und Produktivsystemen.&nbsp;&nbsp; Standardisierung und Rollout von SAP FinanceServices wie New G/L, S/4HANA Finance Conversion, Geschäftsjahresumstellungen sowie Währungsmodifikationen/-einführungen. Fachliche (technische) Leitung von Teilprojekten und Projektteams in SAP Finance und S/4HANA Projekten &nbsp;&nbsp; und S/4HANAProjekten. &nbsp; Organisation und Durchführung von technisch geprägten Workshops, Schulungen und Meetings – auch in internationalen Projektkontexten.&nbsp;&nbsp; Technische Beratung unserer Kunden zu SAP FI/CO sowie Unterstützung bei PresalesAktivitäten mit Fokus auf SAPFinance und Transformationsthemen. &nbsp; Dein Profil: Fundierte Grundlagen der (Wirtschafts-)Informatik – ein abgeschlossenes Studium oder eine vergleichbare Ausbildung ist gern gesehen, ein technischanalytischer Hintergrund ist entscheidend.&nbsp;&nbsp; Mehrjährige Berufserfahrung (idealerweise mind. 5 Jahre) in den Modulen SAP FI/CO oder FICA. &nbsp;&nbsp; Tiefes technisches Verständnis von SAP sowie Erfahrung in der ABAPEntwicklung (klassisch und/oder ABAP OO); weitere objektorientierte Sprachen wie Java sind von Vorteil.&nbsp;&nbsp; Erfahrung im Umfeld von SAPDatenmigrations- und Transformationsprojekten , idealerweise mit Fokus auf tabellenbasierte Migrationen.&nbsp;&nbsp; Beratungs- und Projekterfahrung sowie eine strukturierte, analytische und lösungsorientierte Arbeitsweise. &nbsp; &nbsp;Ausgeprägte Kunden und Teamorientierung sowie die Bereitschaft, dich fachlich und technisch kontinuierlich weiterzuentwickeln.&nbsp;&nbsp; Sehr gute Deutschkenntnisse in Wort und Schrift , Englischkenntnisse sind von Vorteil. &nbsp; Find more English Speaking Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "technical migration",
+      "remote"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-sap-finance-fi-co-migration-architect-berlin-58106",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-96d82272d76f",
+    "title": "Senior Advisor Project Excellence & AI (m/w/d)",
+    "company": "Natuvion GmbH",
+    "location": "Remote job",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Du entwickelst und optimierst unser unternehmensweites Delivery- und Projekt-Operating-Model für die erfolgreiche Umsetzung unserer Beratungsprojekte, definierst Standards und Governance-Strukturen und treibst die Integration moderner KI-Lösungen zur Automatisierung und Standardisierung von Projekt- und Beratungsprozessen voran. Deine Aufgaben Entwicklung und kontinuierliche Optimierung eines unternehmensweiten S/4HANA Delivery- und Projektvorgehensmodells für unser Beratungsgeschäft Steuerung globaler Standardisierungsinitiativen sowie Einführung von Governance-, Qualitäts- und Quality-Gate-Konzepten Aufbau und Weiterentwicklung standardisierter Templates, Methoden, Projekt-Accelerators sowie eines zentralen Wissensmanagements mit Best Practices und Lessons Learned Definition und Etablierung von Reporting-, Risiko- und Eskalationsprozessen zur nachhaltigen Steuerung des Projektportfolios Identifikation, Bewertung und Implementierung KI-gestützter Lösungen zur Automatisierung, Standardisierung und Effizienzsteigerung von Projekt- und Beratungsprozessen Durchführung von Projekt-Health-Checks und Qualitätsreviews sowie Ableitung und Umsetzung von Maßnahmen zur kontinuierlichen Verbesserung der Delivery Excellence Dein Profil Abgeschlossenes Studium der Wirtschaftsinformatik, Informatik, Betriebswirtschaftslehre oder eine vergleichbare Qualifikation Mehrjährige Erfahrung im PMO, Projektmanagement, IT-Consulting oder einem vergleichbaren Projektumfeld Erfahrung in der Entwicklung, Einführung oder Weiterentwicklung von Governance-, Delivery- oder Operating-Modellen Fundierte Kenntnisse in der Steuerung komplexer IT-Transformationsprojekte, idealerweise im SAP-Umfeld Interesse an innovativen Technologien sowie erste Erfahrungen mit Generativer KI, Automatisierung oder digitalen Produktivitätslösungen Analytische und strukturierte Arbeitsweise, ausgeprägte Kommunikationsstärke sowie sehr gute Deutsch- und Englischkenntnisse Falls du denkst, dass du nicht alle Anforderungen erfüllst: Bei uns sind deiner Entwicklung „keine Grenzen gesetzt“! Geh mit uns gemeinsam deinen Weg – Wir unterstützen dich dabei! Zeige uns einfach, wer du bist. Was dich bei uns erwartet: Ein Umfeld, das jederzeit offen für Veränderungen und Optimierungen ist. Ein „das war schon immer so“ gibt es bei uns nicht. Du hast die Chance, dein Wissen einzubringen, Prozesse zu gestalten, vorhandene Themen zu standardisieren oder Abläufe zu optimieren. Sei Impulsgeber und bringe uns mit deiner Expertise noch weiter nach vorne! Wir schaffen Rahmenbedingungen, in denen du dich wohlfühlst: Home-Office Verträge &amp; absolute Flexibilität durch freie Gestaltung der Arbeitszeit&nbsp; Unbefristete Festanstellung und 30 Tage Urlaub&nbsp; FlexWork: Bis zu 3 Monate pro Jahr remote aus dem europäischen Ausland arbeiten&nbsp; Monatliches Budget für individuell wählbare Benefits aus über 50 möglichen Angeboten über emplu, verschiedene Angebote über Corporate Benefits, sowie Fahrrad- und Autoleasing per Gehaltsumwandlung Mental Health Benefit 'Nilo' – 12 kostenlose Sessions mit Psycholog:innen jährlich sowie Zugang zu Meditationen und Kursen&nbsp; Wir unterstützen dich gezielt bei deiner fachlichen und persönlichen Entwicklung bei Natuvion&nbsp; Mentorenprogramm für eine strukturierte und persönliche Einarbeitung&nbsp; Werde Teil des #teamgreen - Bei Natuvion arbeitest du an innovativen Projekten als Teil eines Teams, das füreinander einsteht. Wir setzen auf Zusammenarbeit, Offenheit und Vertrauen&nbsp; Modernes Equipment und zentrale Büros in Walldorf, Berlin, München und Leipzig &nbsp; Uns ist deine langfristige Perspektive wichtig, deshalb bezuschussen wir deine betriebliche Altersvorsorge sowie vermögenswirksame Leistungen &nbsp; Join #teamgreen - Natuvion ist ein digitales Umzugsunternehmen. Unser Team bewegt keine Tische, Aktenschränke oder Stühle. Natuvion transportiert geschäftskritische Daten und Prozesse von einer Technologieplattform auf eine andere. Typische Natuvion „Umzugsdienstleistungen“ umfassen Datenmigration, Datentransformation, Datenintegration, Datenschutz, Datensicherheit und Datenqualität. Unsere&nbsp;&gt;400 BeraterInnen und EntwicklerInnen in Deutschland, Österreich, Slowakei, USA und Australien verfügen über weitreichendes Knowhow bei (SAP®-)Projekten und ein profundes Prozessverständnis über Branchengrenzen hinweg. Mit viel Erfahrung, Engagement und Einsatz begleiten sie unsere Kunden mit Beratung, Dienstleistung und eigener Softwaretechnologie. So ermöglichen wir Unternehmen, ihre Daten und Prozesse immer auf den modernsten und innovativsten Plattformen zu nutzen. Du bist interessiert? Wir freuen uns auf deine Bewerbung und darauf, dich kennenzulernen! Find more English Speaking Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "staffing office",
+      "remote"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-advisor-project-excellence-ai-berlin-335684",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-306b592361a5",
+    "title": "Senior SEO & GEO Manager (m/w/d)",
+    "company": "Auxmoney Gmbh",
+    "location": "Remote / Düsseldorf",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Dein neues Team: Du willst organische Sichtbarkeit so aufbauen, dass sie in Google ebenso wie in KI-Antwortsystemen zuverlässig wirkt? Dann übernimm bei auxmoney die Weiterentwicklung unserer SEO- und GEO-Strategie und setze sie end to end um. Du arbeitest mit Marketing-Stakeholdern eng zusammen, triffst datenbasierte Priorisierungen und stimmst strategische Leitplanken sowie richtungsweisende Entscheidungen eng mit Deinem Lead ab. Ziel ist eine messbar stärkere Präsenz der Marke und Entität auxmoney in Suchmaschinen, KI-Antworten und relevanten externen Quellen. Das erwartet Dich: Strategie weiterentwickeln: Du entwickelst die SEO- und GEO-Strategie für auxmoney weiter und setzt sie eigenständig um. Chancen ableiten: Du identifizierst Potenziale in klassischen und KI-gestützten Suchsystemen und leitest daraus konkrete Maßnahmen ab. Content optimieren: Du erstellst und optimierst SEO- und GEO-relevante Inhalte wie Webseiten, Blogbeiträge und Landingpages. Insights gewinnen: Du führst Keyword-, Suchintention-, SERP-, Prompt- und Wettbewerbsanalysen durch und übersetzt Ergebnisse in klare Prioritäten. Onpage umsetzen: Du setzt Onpage-Maßnahmen um, zum Beispiel in den Bereichen Seitenstruktur, interne Verlinkung, Content, Snippets und technische SEO-Grundlagen. Performance messen: Du überwachst Rankings, organischen Traffic und Performance sowie Brand Mentions und Quellenverweise in KI-generierten Antworten. Sichtbarkeit ausbauen: Du stärkst die Sichtbarkeit der Marke und Entität auxmoney in Suchmaschinen, KI-Antworten und relevanten externen Quellen. Arbeitsmodell: Du arbeitest flexibel, und wenn es für die Zusammenarbeit sinnvoll ist, kommst Du idealerweise 1 bis 2 Mal pro Monat in unser Düsseldorfer Büro. Das bringst Du mit: SEO-Expertise: Du bringst mindestens fünf Jahre Erfahrung im SEO mit, idealerweise als SEO Manager. Ganzheitlicher Blick: Du hast ein sehr gutes Verständnis von Suchintention, Content-Strategie sowie Onpage-, technischem und Offpage-SEO. GEO-Erfahrung: Du verfügst über praktische Erfahrung mit GEO, AI Search oder der Optimierung von Sichtbarkeit in KI-gestützten Suchsystemen. Daten und Tools: Du kennst gängige SEO-, GEO- und Webanalyse-Tools und kannst Daten sicher interpretieren und in Maßnahmen übersetzen. LLM-Verständnis: Du verstehst die Bedeutung von LLMs, Entitäten, Wissensgraphen und externen Markensignalen für SEO und GEO. Hands-on Mentalität: Du arbeitest strukturiert, datengetrieben und setzt Themen pragmatisch in die Umsetzung. Ownership: Du priorisierst Maßnahmen eigenständig, setzt sie um und bewertest ihre Wirkung kontinuierlich. Marktverständnis: Du verfolgst die Entwicklung von Suchmaschinen und KI-getriebenen Suchsystemen und leitest daraus konkrete Empfehlungen ab. Sprachlevel: Du kommunizierst verhandlungssicher auf Deutsch (C2) und sehr gut auf Englisch (B2). Das bringen wir mit: Flexibilität für Deine Lebensgestaltung : Genieße familienfreundliche Arbeitszeiten und eine großzügige Homeoffice-Regelung , damit Du in jeder Lebenslage agil und flexibel bleiben kannst. Ergonomisches Arbeiten : Für Deine Tage im Büro bieten wir ergonomische Arbeitsplätze , die Dir eine komfortable und gesunde Arbeitsumgebung bieten. Eigenverantwortliches Arbeiten : Durch kurze Entscheidungswege ermöglichen wir Dir, selbstständig zu arbeiten und Deine Ideen aktiv einzubringen – bei uns hast Du Raum, Verantwortung zu übernehmen. Wachse mit uns : Entfalte Dein Potenzial mit zahlreichen Gestaltungs- und Entwicklungsmöglichkeiten und einem jährlichen Entwicklungsbudget , um Deine fachlichen und persönlichen Ziele zu erreichen. Gemeinsamer Spaß : Der Teamgeist kommt bei uns nicht zu kurz – wir bieten regelmäßig Events und Partys , bei denen der Spaß nicht zu kurz kommt. Mobilität nach Wahl : Ob Bahnticket oder Parkplatz – wir unterstützen Dich bei der Wahl Deiner bevorzugten Mobilität. Aktiv bleiben : Halte Dich fit mit einer vergünstigten Mitgliedschaft bei Fitness First oder Urban Sports Club oder nutze unseren Fitnessraum direkt im Haus , um nach der Arbeit aktiv zu bleiben und Deine Work-Life-Balance zu stärken. Zukunft sichern : Denk auch an Deine Zukunft – wir bieten Dir Zuschüsse zur betrieblichen Altersvorsorge , damit Du mit uns langfristig planst. Individuelle Angebote : Wir berücksichtigen Deine persönliche Lebenssituation – ob Du ein Elternteil bist oder gerne reist, wir bieten maßgeschneiderte Angebote, die zu Deinem Leben passen. Deine Perspektive: Du setzt den Rahmen dafür, wie auxmoney organisch gefunden wird, und machst Sichtbarkeit in klassischen Suchsystemen und KI-Antworten strategisch steuerbar. Mit Deinen Analysen und Maßnahmen übersetzt Du Signale aus Search und AI Search in konkrete Verbesserungen an Content, Struktur und Markenpräsenz. So baust Du einen skalierbaren Ansatz auf, der Wirkung zeigt und sich weiterentwickeln lässt. Für uns als Arbeitgeber sind Chancengleichheit und Diversität besonders wichtig. Daher freuen wir uns auf Bewerbungen von Müttern, Vätern, Menschen mit Behinderungen und Menschen aus der LGBTQIA+ Community. Bitte teile uns gerne mit, wenn wir z.B. ein geschlechtsneutrales Pronomen verwenden sollen, Du einen barrierefreien Zugang zu unserem Büro benötigst oder wir mehr Zeit für den Bewerbungsprozess einplanen sollen. Find Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "marketing",
+      "seo",
+      "geo",
+      "senior",
+      "manager",
+      "remote",
+      "düsseldorf",
+      "homeoffice",
+      "jobs",
+      "stellen"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-seo-geo-manager-141645",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-206c9ee8aad6",
+    "title": "Werkstudent (m/w/d) Softwareentwicklung Go / IoT & Energy",
+    "company": "initEnergy GmbH",
+    "location": "Cologne",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Du willst die Energiewende nicht nur diskutieren, sondern aktiv mit Code vorantreiben? Wir bei init Energy entwickeln die smarte Logik für intelligente Energiemanagement-Systeme. Kurz gesagt schreiben wir Algorithmen, die Batteriespeicher, E-Autos, flexible Stromverbraucher und Erzeugungsanlagen so steuern, dass sie möglichst kosteneffizient und netzdienlich arbeiten. Um unser Entwicklerteam zu unterstützen, suchen wir ein motiviertes Tech-Talent, das Lust hat, smarte Geräte mit unserer Software zu vernetzen! Du musst noch kein Go-Profi sein – wenn du Programmiererfahrung hast, geben wir dir die Zeit, die Sprache bei uns zu lernen. Wichtig ist, dass du gerne Dinge praktisch umsetzt und zuverlässig arbeitest. Aufgaben Als Werkstudent (m/w/d) bist du voll ins Team integriert und unterstützt uns bei echten Kernaufgaben: Geräte-Integration: Du hilfst uns dabei, verschiedenste Hardware-Komponenten (z. B. Wechselrichter, Wallboxen und Wärmepumpen) an unsere Go-Anwendung anzubinden. Schnittstellen &#x26; Datenflüsse: Du arbeitest an APIs und sorgst dafür, dass die Kommunikation zwischen den Geräten und unserem System reibungslos läuft. Testing &#x26; Weiterentwicklung: Du testest neue Funktionen direkt in der Praxis und entwickelst unseren bestehenden Code weiter. Troubleshooting: Du analysierst Fehler, nimmst kleinere Anpassungen im Code vor und arbeitest gemeinsam mit dem Team an cleveren technischen Lösungen. Qualifikation Du studierst Informatik, Elektrotechnik oder einen vergleichbaren technischen Studiengang. Du hast erste Programmiererfahrung und idealerweise schon mal mit Go (Golang) gearbeitet – oder du hast große Lust, Go bei uns zu lernen! Du hast eine selbstständige Arbeitsweise und Spaß daran, Dinge nicht nur theoretisch zu planen, sondern direkt in der Praxis umzusetzen. Bonus (kein Muss!): Du interessierst dich für vernetzte Systeme (IoT) oder Energietechnik. Benefits Echter Impact &#x26; Praxisnähe: Keine Theorie-Projekte für die Schublade. Du arbeitest an echten Produkten im spannenden Zukunftsthema der intelligenten Energienetze. Team &#x26; Verantwortung: Ein kleines, motiviertes Team, in dem du von Tag 1 an Verantwortung übernehmen und unglaublich viel dazulernen kannst. Maximale Flexibilität: Wir wissen, dass dein Studium vorgeht. Deine Arbeitszeiten passen wir flexibel an deinen Vorlesungsplan an. Klingt spannend? Dann schick uns einfach eine kurze Nachricht mit deinem CV oder deinem LinkedIn. Ein langes Anschreiben brauchst du nicht! Find more English Speaking Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "remote",
+      "software development"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/initenergy-gmbh/werkstudent-softwareentwicklung-go-iot-energy-cologne-56281",
+    "date_posted": null
+  },
+  {
     "id": "arbeitnow-e2d2172fbd44",
     "title": "Senior AI Product Designer  (m/w/d)",
     "company": "Recare Deutschland GmbH",
@@ -1577,7 +1675,7 @@
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "About Recare As one of the leading German HealthTech companies, we are reshaping discharge management – technology-driven, patient-centered, and free from bureaucracy. In addition to our market-leading SaaS platform, we develop AI solutions that radically simplify processes in hospitals and for aftercare providers, relieve healthcare professionals, and refocus attention on patients. Today, we already connect two-thirds of all German hospitals with over 650 rehabilitation clinics and 25,000 nursing and homecare providers. With currently around 100 employees, we continue to grow – and we are looking for people with character who want to help us improve the healthcare system and solve administrative complexity across care journeys in Europe. What you'll own as our Senior AI Product Designer You'll own end-to-end design for one of our core product areas, on a platform where AI is the foundation of the product, not a bolt-on feature. Your mission is to bring consumer-grade craft to a B2B healthcare product used by clinicians and hospital administrators under real time pressure, and to help invent the design patterns for AI-native surfaces that don't exist anywhere else yet. You design the AI-native surfaces our platform is built around, including multi-modal interfaces, agent state, uncertainty, and human-in-the-loop controls, inventing the patterns as you go rather than adapting existing ones. You own end-to-end design for a product area – Discharge Core, Voice Desktop, Extract &amp; Docs, Patient Overview, or Agent – taking work from a messy problem statement through to what ships in production. You contribute to our design system, building the components and AI-specific conventions that other designers and teams build on. You partner closely with product and engineering, shaping technical and product direction rather than being handed a spec to execute against. You work with other designers across the organisation, bringing your input and influence beyond your own product area rather than staying inside a single team's boundary. You hold a high craft bar in critique, lifting the standard of what the wider design team ships. You help hold coherence across our AI Suite (Voice, Docs, Extract, Agent) and Discharge Core, so a fast-growing multi-product platform still feels like one product to the people using it. How we design: We're AI-native. We use AI tools daily in our own process, not just in what we design, and we want strong, opinionated views on how to wield them well. Consumer-grade craft is the bar, even in B2B. Our users are clinicians and hospital administrators. Human-in-the-loop by default. This is healthcare: AI proposes, people stay in control, and we design the approval and verification moments that make that real, not just a confidence score bolted on. We ship in production, not just in Figma. Craft is judged by what clinicians actually use, so we stay close to what ships. What to expect as our Senior AI Product Designer (m/w/d): Purposeful work – your role will have a positive impact on patients, their families, and healthcare professionals. Company culture – we believe in flat hierarchies that promote high performance and strong team dynamics. We foster an environment characterized by mutual respect, loyalty, and recognition. Together, we strive for our goals – and expect the same from you. Flexibility – want to pick up your child from daycare? Like to exercise during lunch? We'll support you. We are a remote-friendly company offering flexible working hours. Workations are also possible by arrangement. Edenred card – which you can use according to your needs. Extra vacation day – so you can celebrate your birthday with your loved ones, you'll have the day off. Here's how we picture you as our Senior AI Product Designer (m/w/d): You have 8+ years of product design experience, with at least 3+ years operating at Senior, Principal, or Staff altitude. You have designed for AI and non-determinism before, and can talk concretely about how you've communicated agent behaviour, handled errors, and kept users in control, not just in the abstract. You have owned or significantly contributed to a design system, at the level of patterns and principles rather than individual components. You are block-shaped: equally strong across UX process, UI craft, product thinking, research, storytelling, and cross-functional collaboration. You have taken features from 0 to 1 through an ambiguous problem statement to shipped code, and you're comfortable feeling like a PM or frontend developer on the days that calls for it. You have high agency and spot gaps without being asked to look for them, including outside your own product area. You hold a position under pressure but change it when new information warrants, rather than becoming precious about your own decisions. You communicate confidently in English and are comfortable operating in an international environment; German is a plus but not required. You bring a consumer-grade craft background with exceptional design; healthtech experience is a plus but not required. If this sounds like your kind of challenge, we'd love to hear from you Find more English Speaking Jobs in Germany on Arbeitnow",
+    "description": "About Recare As one of the leading German HealthTech companies, we are reshaping discharge management – technology-driven, patient-centered, and free from bureaucracy. In addition to our market-leading SaaS platform, we develop AI solutions that radically simplify processes in hospitals and for aftercare providers, relieve healthcare professionals, and refocus attention on patients. Today, we already connect two-thirds of all German hospitals with over 650 rehabilitation clinics and 25,000 nursing and homecare providers. With currently around 100 employees, we continue to grow – and we are looking for people with character who want to help us improve the healthcare system and solve administrative complexity across care journeys in Europe. What you'll own as our Senior AI Product Designer You'll own end-to-end design for one of our core product areas, on a platform where AI is the foundation of the product, not a bolt-on feature. Your mission is to bring consumer-grade craft to a B2B healthcare product used by clinicians and hospital administrators under real time pressure, and to help invent the design patterns for AI-native surfaces that don't exist anywhere else yet. You design the AI-native surfaces our platform is built around, including multi-modal interfaces, agent state, uncertainty, and human-in-the-loop controls, inventing the patterns as you go rather than adapting existing ones. You own end-to-end design for a product area – Discharge Core, Voice Desktop, Extract &amp; Docs, Patient Overview, or Agent – taking work from a messy problem statement through to what ships in production. You contribute to our design system, building the components and AI-specific conventions that other designers and teams build on. You partner closely with product and engineering, shaping technical and product direction rather than being handed a spec to execute against. You work with other designers across the organisation, bringing your input and influence beyond your own product area rather than staying inside a single team's boundary. You hold a high craft bar in critique, lifting the standard of what the wider design team ships. You help hold coherence across our AI Suite (Voice, Docs, Extract, Agent) and Discharge Core, so a fast-growing multi-product platform still feels like one product to the people using it. How we design: We're AI-native. We use AI tools daily in our own process, not just in what we design, and we want strong, opinionated views on how to wield them well. Consumer-grade craft is the bar, even in B2B. Our users are clinicians and hospital administrators. Human-in-the-loop by default. This is healthcare: AI proposes, people stay in control, and we design the approval and verification moments that make that real, not just a confidence score bolted on. We ship in production, not just in Figma. Craft is judged by what clinicians actually use, so we stay close to what ships. What to expect as our Senior AI Product Designer (m/w/d): Purposeful work – your role will have a positive impact on patients, their families, and healthcare professionals. Company culture – we believe in flat hierarchies that promote high performance and strong team dynamics. We foster an environment characterized by mutual respect, loyalty, and recognition. Together, we strive for our goals – and expect the same from you. Flexibility – want to pick up your child from daycare? Like to exercise during lunch? We'll support you. We are a remote-friendly company offering flexible working hours. Workations are also possible by arrangement. Edenred card – which you can use according to your needs. Extra vacation day – so you can celebrate your birthday with your loved ones, you'll have the day off. Here's how we picture you as our Senior AI Product Designer (m/w/d): You have 8+ years of product design experience, with at least 3+ years operating at Senior, Principal, or Staff altitude. You have designed for AI and non-determinism before, and can talk concretely about how you've communicated agent behaviour, handled errors, and kept users in control, not just in the abstract. You have owned or significantly contributed to a design system, at the level of patterns and principles rather than individual components. You are block-shaped: equally strong across UX process, UI craft, product thinking, research, storytelling, and cross-functional collaboration. You have taken features from 0 to 1 through an ambiguous problem statement to shipped code, and you're comfortable feeling like a PM or frontend developer on the days that calls for it. You have high agency and spot gaps without being asked to look for them, including outside your own product area. You hold a position under pressure but change it when new information warrants, rather than becoming precious about your own decisions. You communicate confidently in English and are comfortable operating in an international environment; German is a plus but not required. You bring a consumer-grade craft background with exceptional design; healthtech experience is a plus but not required. If this sounds like your kind of challenge, we'd love to hear from you Find Jobs in Germany on Arbeitnow",
     "required_skills": [
       "product",
       "remote"
@@ -1603,44 +1701,6 @@
     "requirements": [],
     "source": "Arbeitnow",
     "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-software-engineer-computer-use-integrations-berlin-342698",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-3d7e22f8f9c4",
-    "title": "Lead Security Engineer (m/w/d)",
-    "company": "Recare Deutschland GmbH",
-    "location": "Remote job",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Lead Security Engineer (m/w/d) About Recare As one of the leading German HealthTech companies, we are reshaping discharge management – technology-driven, patient-centered, and free from bureaucracy. In addition to our market-leading SaaS platform, we develop AI solutions that radically simplify processes in hospitals and for aftercare providers, relieve healthcare professionals, and refocus attention on patients. Today, we already connect two-thirds of all German hospitals with over 650 rehabilitation clinics and 25,000 nursing and homecare providers. With currently around 120 employees from a broad range of nations, we continue to grow – and we're now going far beyond our core business, aiming to eliminate bureaucracy and admin in hospitals with a whole portfolio of AI products. What to expect as our Lead Security Engineer (m/w/d): Purposeful work – your role will have a positive impact on patients, their families, and healthcare professionals. Company culture – we believe in flat hierarchies that promote high performance and strong team dynamics. We foster an environment characterized by mutual respect, loyalty, and recognition. Together, we strive for our goals – and expect the same from you. Flexibility – want to pick up your child from daycare? Like to exercise during lunch? We'll support you. We are a remote-friendly company offering flexible working hours. Workations are also possible by arrangement. Edenred card – which you can use according to your needs. Extra vacation day – so you can celebrate your birthday with your loved ones, you'll have the day off. In this role, you can make an impact and grow with us as Lead Security Engineer (m/w/d): You'll be our first dedicated security engineer: a senior IC with no team at the start. You join as Deputy CISO, report to our Director of Technology (currently acting CISO), and build security engineering from scratch. The baseline is already in place – ISO 27001, C5 Type II, regular penetration tests, and encryption in the product. AI is adding new surfaces: voice documentation, document generation, and agentic workflows. You build and own the security program, the tooling, and the security story we tell customers. Vulnerability management – scanners and dependency updates across repos, plus the process that gets findings closed. Partner to Platform – review security-sensitive infrastructure decisions and explore options like customer-managed keys or HSMs. Platform still owns architecture. Certifications, technical side – control design and assessments for our ISO 27001 and C5 setup, the security case for a potential upcoming Class IIa medical device (MDR), and pentest scoping and follow-up, with regulation like the EU Cyber Resilience Act on the horizon. This is roughly a quarter to a third of the role, and we say it openly: for the right person in healthcare security, it's a draw, not a chore. Customer security – reusable docs, evidence, and AI-assisted questionnaires, so the tenth enterprise deal costs a fraction of the first. You join the call when a hospital CISO asks something new about our AI architecture. Incident response – process, runbooks, and escalation, and you lead when it's real. We're too small for a SOC, so you design on-call that fits a company our size. Product incidents and platform bugs have their own owners in engineering. Company-wide security – watch the threat landscape, turn this week's supply-chain mess into concrete actions, and set the baselines IT applies to devices and accounts. How we work: AI-native – our engineers use coding agents every day. Security should too: scanning, evidence, questionnaires. AI is also our attack surface – agent sandboxing, prompt injection, voice data, computer-use automation inside hospitals. We deal with security questions most companies will only meet in a few years. Human-in-the-loop by default – this is healthcare: AI proposes, people stay in control. Ship and observe – we ship continuously and debug from telemetry, including in the open when that's the fastest path. Here's how we picture you as our Lead Security Engineer (m/w/d): You're a hands-on security engineer with 6+ years across software and security engineering, and you can point to a security program (or a big part of one) you've owned. You've been the technical counterpart through at least one ISO 27001, C5, or SOC 2 certification cycle: you've designed controls, faced an auditor, and written the technical side of a Statement of Applicability. This is a hard requirement. You've run vulnerability management somewhere real: scanners, dependency bots, triage, and the follow-through that gets things fixed. You follow the security scene closely (podcasts, advisories, incident write-ups) and usually have an opinion on this week's incident before it reaches the news. You're genuinely curious about AI security – both securing AI systems (agents, sandboxing, data flows) and using AI tooling to work at leverage. You can talk to engineers, auditors, and hospital security teams in English without a slide deck translating for you. Nice to have: German language skills, since our customers and the C5 world are German-speaking. Experience in healthcare or another regulated domain. Offensive security experience. Security certifications such as OSCP, CISSP, or similar. Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "engineering",
-      "remote"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-lead-security-engineer-berlin-30087",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-f8e61be68bb4",
-    "title": "Java Entwickler (m/w/d) | Full Remote | Top Company 2026",
-    "company": "Kooku",
-    "location": "Germany",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Die Gesellschaft für innovative Personalwirtschaftssysteme mbH ist ein führender Softwarehersteller für staatliche, öffentliche und soziale Arbeitgeber in Deutschland. Unser Produkt KIDICAP® ist seit 40 Jahren auf dem Markt und wird heute von rund 25.000 Organisationen als Cloud Service genutzt. KIDICAP® bildet eine moderne Web-APP-Plattform für alle Bereiche des Human Capital Managements und alle Unternehmensgrößen. Wir beschäftigen rund 200 Mitarbeiter:innen und wachsen weiter. Zur Verstärkung unserer Entwicklungs-Teams suchen wir ab sofort eine(n): Java Entwickler (m/w/d) Arbeitsorte: Remote (Deutschland) oder Offenbach am Main oder Leipzig | Zeitmodell : Vollzeit/ Teilzeit Teams &amp; Kultur: Die Tech &amp; Produkt Organisation arbietet full remote, besteht aus knapp 160 Mitarbeiter:innen verteilt auf insgesamt ca. 15 crossfunktionale Teams. Diese Teams verantworten aktuell 34 Apps. Wir schätzen Clean Code, eine 'You build it, You run it' Einstellung und trotzdem 'Common Ownership'. Wir arbeiten agil und pragmatisch: JA! Das geht! Das machst du bei uns: Du entwickelst Komponenten für die Software as a Service Plattform Du arbeitest an thematischen Web-APPs für die Personalwirtschaft Du konzipierst passende Tests und analysierst die Ergebnisse Du planst und beschreibst das Backlog zusammen mit den Product Ownern Du nutzt AI-Tools als festen Bestandteil der Entwicklung von Code, Tests und Reviews Requirements Du hast eine akademische oder gleichwertige Ausbildung als Informatiker (m/w/d) oder Ingenieur (m/w/d) Du besitzt Erfahrungen in der Entwicklung mit Java bzw. JEE/ Jakarta Enterprise Du verfügst über erste Kenntnisse im Umgang mit JPA Hibernate, CDI, Restful Services und API Design Du hast Erfahrungen mit relationalen Datenbanken, am besten ORACLE DBMS Du konntest bereits Erfahrungen in Test Driven Development und Continuous Integration sammeln Du begeisterst Dich für neue technologische Entwicklungen und willst unsere zukünftige Entwicklung mitgestalten&nbsp;&nbsp;&nbsp;&nbsp; Du bist offen für AI-gestützte Entwicklung und setzt AI-Tools bewusst und kritisch ein Du hast Freude an Teamwork und Ownership Sprachkenntnisse:Deutsch (C1+) Benefits New Work: 100% Home Office (innerhalb von D; EU &amp; andere Orte nach Absprache), Flex-Arbeitsplätze an beiden Unternehmensstandorten inkl. Wohnzimmer Persönliches Wachstum: Eine anspruchsvolle Tätigkeit in einer agilen Arbeitsumgebung mit offenen Kommunikationsstrukturen und Spaß an der Arbeit in einem hoch motivierten Team Flexible Arbeitszeiten: Freie Zeiteinteilung und familienfreundliche Kultur Prämien und Boni: Beteiligung am Unternehmenserfolg Urlaub: 30 Tage + bis zu 12 Zusatztage (Arbeitszeitkonto), Option auf Sabbatical Weiterbildung: Regelmäßige interne oder externe Angebote sowie nach individueller Absprache Vergünstigungen: Pluxee Benefits Card, Corporate Benefits Rabatte Kantine: An den Standorten Leipzig und Offenbach am Main Altersvorsorge: Arbeitgeberfinanzierte betriebliche Altersvorsorge Die GIP ist stolz bei kununu als „ Top Company “ ausgezeichnet worden zu sein. Konnten wir Dein Interesse wecken? Dann sende uns gern Deinen CV über das Online-Bewerbungsformular. Dein Kontakt Annika Andresen (Kooku Recruiting Partners im Auftrag der GIP – Gesellschaft für innovative Personalwirtschaftssysteme mbh) Find Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "project management",
-      "internet",
-      "gesellschaft für innovative personalwirtschaftssysteme mbh",
-      "remote"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/kooku/java-entwickler-full-remote-top-company-2026-germany-485173",
     "date_posted": null
   }
 ]
