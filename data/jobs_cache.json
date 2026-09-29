@@ -1,20 +1,513 @@
 [
   {
-    "id": "jobicy-e60729f8438e",
-    "title": "Threat Detection Analyst (Japanese Speaking)",
-    "company": "Fastly",
-    "location": "Japan",
+    "id": "jobicy-e17104c6b0cb",
+    "title": "[Contract] Accreditation Solutions Consultant, Clinical Strategy",
+    "company": "Lyra Health",
+    "location": "USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Fastly helps people stay better connected with the things they love. Fastly’s edge cloud platform enables customers to create great digital experiences quickly, securely, and reliably by processing, serving, and securing our customers’ applications as close to their end-users as possible — at the edge of the Internet. The platform is designed to take advantage&hellip;",
+    "description": "About Lyra Health Lyra Health is a leading provider of evidence-based mental health care, serving more than 20 million people globally in partnership with employers and more than 100 million through health plan and partner relationships. The company has delivered more than 15 million sessions of mental health care, published more than 35 peer-reviewed studies,&hellip;",
+    "required_skills": [
+      "project & program management"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/152054-contract-accreditation-solutions-consultant-clinical-strategy",
+    "date_posted": "2026-09-29"
+  },
+  {
+    "id": "jobicy-747bbbd63a12",
+    "title": "Developer Relations Engineer",
+    "company": "Supabase",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We’re looking for a Developer Relations Engineer based in San Francisco to join our&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/152060-developer-relations-engineer-2",
+    "date_posted": "2026-09-29"
+  },
+  {
+    "id": "jobicy-87c8d748ea05",
+    "title": "Support Engineer (EMEA)",
+    "company": "Supabase",
+    "location": "EMEA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. We are seeking Support Engineers to provide world-class developer support for anyone experiencing issues or seeking guidance when using&hellip;",
+    "required_skills": [
+      "technical support"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/152053-support-engineer-emea",
+    "date_posted": "2026-09-29"
+  },
+  {
+    "id": "jobicy-547efff1262c",
+    "title": "Senior Data Scientist, RC Capital",
+    "company": "RevenueCat",
+    "location": "LATAM,  Canada,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "RevenueCat removes the headaches of building and scaling in‑app subscriptions. Since graduating from YC’s S18 batch we’ve grown into the default monetization platform for mobile: we’re in &gt;40% of newly shipped subscription apps, we process $10B+ in annual purchase volume, and we help everyone from a solo dev in Brazil to the OpenAI mobile team&hellip;",
+    "required_skills": [
+      "data science & analytics"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/143120-senior-data-scientist-rc-capital",
+    "date_posted": "2026-09-29"
+  },
+  {
+    "id": "jobicy-381b20c14ccf",
+    "title": "Director of Product Management - US Remote",
+    "company": "PerfectServe",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "What is PerfectServe? PerfectServe is a leading provider of clinical communication and physician scheduling solutions in the health IT space. The company was founded in 1997 and has grown steadily since then, with a notable jump after several major acquisitions were announced in 2019. PerfectServe now has 400+ employees, 30,000+ customers — spanning medical practices,&hellip;",
+    "required_skills": [
+      "product & operations"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/152061-director-of-product-management-us-remote",
+    "date_posted": "2026-09-29"
+  },
+  {
+    "id": "jobicy-41a9ce5e5130",
+    "title": "Multigres Engineer",
+    "company": "Supabase",
+    "location": "Anywhere",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. We're looking for an engineer to help build the future of distributed Postgres. You'll work on Multigres, our open-source&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/152057-multigres-engineer",
+    "date_posted": "2026-09-29"
+  },
+  {
+    "id": "jobicy-7834843eda5b",
+    "title": "Manager/ Sr. Manager - BI Consulting (Life Sciences/Pharma)",
+    "company": "Tiger Analytics",
+    "location": "Canada",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Tiger Analytics is an advanced analytics consulting firm. We are the trusted analytics partner for several Fortune 100 companies, enabling them to generate business value from data. Our consultants bring deep expertise in Data Science, Data Analytics, Data Engineering, Business Intelligence, Machine Learning and AI. Our business value and leadership has been recognized by various&hellip;",
+    "required_skills": [
+      "data science & analytics"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/142623-manager-sr-manager-bi-consulting-life-sciences-pharma",
+    "date_posted": "2026-09-29"
+  },
+  {
+    "id": "jobicy-8760b0c92364",
+    "title": "Employee Relations Business Partner - EMEA",
+    "company": "Remote",
+    "location": "EMEA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Remote Remote is solving modern organizations’ biggest challenge – navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focused work culture, our team works tirelessly on ambitious problems, asynchronously, around the world. You&hellip;",
+    "required_skills": [
+      "hr & recruiting"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/152001-employee-relations-business-partner-emea",
+    "date_posted": "2026-09-29"
+  },
+  {
+    "id": "jobicy-a31e3c69715f",
+    "title": "Business Operations & Chief of Staff",
+    "company": "Waymark",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Waymark Waymark is a team of healthcare providers, technologists, and builders whose mission is to bring the best healthcare to people with Medicaid benefits. Guided by the communities we serve, we bring support and technology-enabled care to help primary care providers keep Medicaid patients healthy. We are building the tools and designing an approach&hellip;",
+    "required_skills": [
+      "product & operations"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/152055-business-operations-chief-of-staff",
+    "date_posted": "2026-09-29"
+  },
+  {
+    "id": "jobicy-1344f7c740aa",
+    "title": "Account Executive DACH",
+    "company": "Remote",
+    "location": "UK",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Remote Remote is solving modern organizations’ biggest challenge – navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focused work culture, our team works tirelessly on ambitious problems, asynchronously, around the world. You&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/151999-account-executive-dach-3",
+    "date_posted": "2026-09-29"
+  },
+  {
+    "id": "jobicy-4edc7ca34e6d",
+    "title": "Software Developer",
+    "company": "D2L",
+    "location": "Canada",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "D2L is a cloud company that is modernizing education and building the Future of Work. The old models of teaching and learning are in the midst of the largest transformation in history, and D2L is at the heart of that fundamental shift. New models of teaching and learning enable a personalized, student-centric experience – and&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/151986-software-developer",
+    "date_posted": "2026-09-29"
+  },
+  {
+    "id": "jobicy-62b1fa5ea7d4",
+    "title": "Senior Software Developer 2",
+    "company": "D2L",
+    "location": "Canada",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "D2L is a cloud company that is modernizing education and building the Future of Work. The old models of teaching and learning are in the midst of the largest transformation in history, and D2L is at the heart of that fundamental shift. New models of teaching and learning enable a personalized, student-centric experience – and&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/151984-senior-software-developer-2-2",
+    "date_posted": "2026-09-29"
+  },
+  {
+    "id": "jobicy-bf62d62e5086",
+    "title": "Bilingual Product Support Analyst (Canadian French)",
+    "company": "D2L",
+    "location": "Canada",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "D2L is a cloud company that is modernizing education and building the Future of Work. The old models of teaching and learning are in the midst of the largest transformation in history, and D2L is at the heart of that fundamental shift. New models of teaching and learning enable a personalized, student-centric experience – and&hellip;",
+    "required_skills": [
+      "technical support"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/151964-bilingual-product-support-analyst-canadian-french",
+    "date_posted": "2026-09-29"
+  },
+  {
+    "id": "jobicy-169a0370cb1d",
+    "title": "Senior Software Developer",
+    "company": "D2L",
+    "location": "Canada",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "D2L is a cloud company that is modernizing education and building the Future of Work. The old models of teaching and learning are in the midst of the largest transformation in history, and D2L is at the heart of that fundamental shift. New models of teaching and learning enable a personalized, student-centric experience – and&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/151981-senior-software-developer",
+    "date_posted": "2026-09-29"
+  },
+  {
+    "id": "jobicy-2cd3d4e3aea3",
+    "title": "Marketing Director, Americas",
+    "company": "Echodyne",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Radar Reinvented. Echodyne offers the world’s first compact solid-state true beam-steering radar for a wide range of industries and applications. Our high-performance radars work in all weather and are designed for autonomous vehicles, uncrewed aircraft &amp; drones, and security of borders, critical infrastructure, and smart cities. The company combines the patented technology of metamaterials with&hellip;",
+    "required_skills": [
+      "marketing & sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/151968-marketing-director-americas",
+    "date_posted": "2026-09-29"
+  },
+  {
+    "id": "jobicy-58869dce23a7",
+    "title": "Regional Sales Manager - Asia",
+    "company": "Echodyne",
+    "location": "APAC",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Radar Reinvented. Echodyne offers the world’s first compact solid-state true beam-steering radar for a wide range of industries and applications. Our high-performance radars work in all weather and are designed for autonomous vehicles, uncrewed aircraft &amp; drones, and security of borders, critical infrastructure, and smart cities. The company combines the patented technology of metamaterials with&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/151972-regional-sales-manager-asia",
+    "date_posted": "2026-09-29"
+  },
+  {
+    "id": "jobicy-01b91baf73db",
+    "title": "Customer Sales Engineer",
+    "company": "UpGuard",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Who are we?At UpGuard, we are replacing manual security bottlenecks with AI-driven precision. Fresh off a US$75M Series C, we are scaling our infrastructure to process 100 billion risk signals daily. This isn’t just growth; it’s a total reimagining of how the world manages cyber risk.We build the Cyber Risk Posture Management (CRPM) platform that&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/147850-customer-sales-engineer-2",
+    "date_posted": "2026-09-29"
+  },
+  {
+    "id": "jobicy-f92a8613a75c",
+    "title": "Enterprise Account Executive - Nordics",
+    "company": "Chainguard",
+    "location": "Sweden",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/151988-enterprise-account-executive-nordics",
+    "date_posted": "2026-09-29"
+  },
+  {
+    "id": "jobicy-902616ba496c",
+    "title": "Solutions Engineering Integration Specialist",
+    "company": "Echodyne",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Radar Reinvented. Echodyne offers the world’s first compact solid-state true beam-steering radar for a wide range of industries and applications. Our high-performance radars work in all weather and are designed for autonomous vehicles, uncrewed aircraft &amp; drones, and security of borders, critical infrastructure, and smart cities. The company combines the patented technology of metamaterials with&hellip;",
+    "required_skills": [
+      "technical support"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/151977-solutions-engineering-integration-specialist",
+    "date_posted": "2026-09-29"
+  },
+  {
+    "id": "jobicy-6475c2ab6892",
+    "title": "Principal Software Architect",
+    "company": "Testlio",
+    "location": "EMEA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Principal Software ArchitectLocation: This is a 100% remote role open to those who reside in the United Kingdom, Poland, or Czech RepublicAbout the jobTestlio’s fully managed crowdsourced testing platform, powered by our proprietary intelligence technology - LeoAI Engine™, integrates expert, on-demand testers directly into your release process. Ship faster and more confidently with global coverage&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/147700-principal-software-architect",
+    "date_posted": "2026-09-29"
+  },
+  {
+    "id": "jobicy-d94c62bcd45c",
+    "title": "Enterprise Account Executive - DACH",
+    "company": "Chainguard",
+    "location": "Germany",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/151985-enterprise-account-executive-dach-2",
+    "date_posted": "2026-09-29"
+  },
+  {
+    "id": "jobicy-fa0233af20a3",
+    "title": "Detection & CorpSec Engineer",
+    "company": "Quora",
+    "location": "Anywhere",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "[Quora is a privately held, \"remote-first\" company. This position can be performed remotely from anywhere in Canada or the United States. Please visit careers.quora.com/eligible-countries for details regarding employment eligibility by country.] About Quora: Quora’s mission is to grow the world's collective intelligence. To do so, we have two platforms: Quora: a global knowledge sharing platform&hellip;",
     "required_skills": [
       "cybersecurity"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154166-threat-detection-analyst-japanese-speaking",
-    "date_posted": "2026-09-28"
+    "url": "https://jobicy.com/jobs/151966-detection-corpsec-engineer",
+    "date_posted": "2026-09-29"
+  },
+  {
+    "id": "jobicy-a3708681127b",
+    "title": "Business Development Manager, Central Region",
+    "company": "CompScience",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About CompScienceAt CompScience, we're not just building software, we're saving lives. We're a high-growth startup on a mission to prevent 1 million workplace injuries through bold technological innovations, ensuring that everyone can go home safe at the end of the day.Founded in 2019 and backed by investors from SpaceX, Tesla, and Anduril, we've assembled a&hellip;",
+    "required_skills": [
+      "business development"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150698-business-development-manager-central-region",
+    "date_posted": "2026-09-29"
+  },
+  {
+    "id": "jobicy-b32fe98854a6",
+    "title": "Senior Business Technology Product Manager- Supply Chain",
+    "company": "Samsara",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical&hellip;",
+    "required_skills": [
+      "product & operations"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/147872-senior-business-technology-product-manager-supply-chain",
+    "date_posted": "2026-09-29"
+  },
+  {
+    "id": "jobicy-8aeb5e25e26f",
+    "title": "Enterprise Business Development Representative - East",
+    "company": "Chainguard",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
+    "required_skills": [
+      "business development"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/151992-enterprise-business-development-representative-east",
+    "date_posted": "2026-09-29"
+  },
+  {
+    "id": "jobicy-8ddf20c2d2b0",
+    "title": "Professional Services Engagement Manager",
+    "company": "Harness",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Harness is the AI Software Delivery Platform company, led by technologist and entrepreneur Jyoti Bansal (founder of AppDynamics, acquired by Cisco for $3.7B). Harness has raised approximately $570M in funding and is valued at $5.5B, backed by leading investors including Goldman Sachs, Menlo Ventures, IVP, Unusual Ventures, Citi Ventures, and more. As AI accelerates code&hellip;",
+    "required_skills": [
+      "business development"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/147874-professional-services-engagement-manager",
+    "date_posted": "2026-09-29"
+  },
+  {
+    "id": "jobicy-841c34dd6074",
+    "title": "Founding Sales Development Representative (DACH)",
+    "company": "Tremendous",
+    "location": "Europe",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Tremendous is the fast, free, flexible way to send bulk payouts to people in over 230 countries and regions. 20,000+ companies ranging from mom-and-pops to Google, MIT, and United Way have sent over $1 billion, saving 15 hours a month on average. In both our product and our workplace, we’re intentional about making work more&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/151997-founding-sales-development-representative-dach",
+    "date_posted": "2026-09-29"
+  },
+  {
+    "id": "jobicy-24e6dce62f6a",
+    "title": "Founding Sales Development Representative (Europe)",
+    "company": "Tremendous",
+    "location": "Europe",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Tremendous is the global platform built for businesses to send thousands of payouts to anyone, anywhere, for free. We're trusted by 20,000 organizations like Atlassian, MIT, and United Way to deliver gift cards and money to millions of recipients worldwide. Our customers (researchers, marketers, HR teams, nonprofits, and platform businesses) rave about how fast and&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/151996-founding-sales-development-representative-europe",
+    "date_posted": "2026-09-29"
+  },
+  {
+    "id": "jobicy-19d3a560072e",
+    "title": "Founding Mid-Market Account Executive (EMEA - German Speaker)",
+    "company": "Tremendous",
+    "location": "Europe",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Tremendous is the fast, free, flexible way to send bulk payouts to people in over 200 countries. 10,000+ companies ranging from mom-and-pops to Google, MIT, and United Way have sent over $1 billion, saving 15 hours a month on average. In both our product and our workplace, we’re intentional about making work more efficient, flexible,&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/151995-founding-mid-market-account-executive-emea-german-speaker",
+    "date_posted": "2026-09-29"
+  },
+  {
+    "id": "jobicy-fa0eae9db010",
+    "title": "Founding Enterprise Account Executive (EMEA - German Speaker)",
+    "company": "Tremendous",
+    "location": "Europe",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Tremendous is the fast, free, flexible way to send bulk payouts to people in over 200 countries. 10,000+ companies ranging from mom-and-pops to Google, MIT, and United Way have sent over $1 billion, saving 15 hours a month on average. In both our product and our workplace, we’re intentional about making work more efficient, flexible,&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/151998-founding-enterprise-account-executive-emea-german-speaker",
+    "date_posted": "2026-09-29"
   },
   {
     "id": "jobicy-d57d76ec4dc2",
@@ -34,20 +527,20 @@
     "date_posted": "2026-09-28"
   },
   {
-    "id": "jobicy-6b847841abf1",
-    "title": "Business Development Manager - Berlin, Brandenburg, Saxony-Anhalt, Saxony",
-    "company": "Ajax Systems",
-    "location": "Germany",
+    "id": "jobicy-e60729f8438e",
+    "title": "Threat Detection Analyst (Japanese Speaking)",
+    "company": "Fastly",
+    "location": "Japan",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Ajax Systems ist ein internationales Technologieunternehmen und der größte Hersteller von Sicherheitssystemen in Europa mit über 4,5 Millionen Endnutzern und 330.000 PRO-Nutzern in mehr als 180 Ländern weltweit. Das Unternehmen bietet End-to-End-Lösungen zum Schutz von Wohn- und Geschäftsobjekten jeder Größenordnung. Bis heute umfasst das Produktportfolio von Ajax 280 Geräte für Einbruchschutz, Videoüberwachung, Brand- und Lebenssicherheit&hellip;",
+    "description": "Fastly helps people stay better connected with the things they love. Fastly’s edge cloud platform enables customers to create great digital experiences quickly, securely, and reliably by processing, serving, and securing our customers’ applications as close to their end-users as possible — at the edge of the Internet. The platform is designed to take advantage&hellip;",
     "required_skills": [
-      "business development"
+      "cybersecurity"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154161-business-development-manager-berlin-brandenburg-saxony-anhalt-saxony",
+    "url": "https://jobicy.com/jobs/154166-threat-detection-analyst-japanese-speaking",
     "date_posted": "2026-09-28"
   },
   {
@@ -65,6 +558,23 @@
     "requirements": [],
     "source": "Jobicy",
     "url": "https://jobicy.com/jobs/154163-legal-engineer-2",
+    "date_posted": "2026-09-28"
+  },
+  {
+    "id": "jobicy-6b847841abf1",
+    "title": "Business Development Manager - Berlin, Brandenburg, Saxony-Anhalt, Saxony",
+    "company": "Ajax Systems",
+    "location": "Germany",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Ajax Systems ist ein internationales Technologieunternehmen und der größte Hersteller von Sicherheitssystemen in Europa mit über 4,5 Millionen Endnutzern und 330.000 PRO-Nutzern in mehr als 180 Ländern weltweit. Das Unternehmen bietet End-to-End-Lösungen zum Schutz von Wohn- und Geschäftsobjekten jeder Größenordnung. Bis heute umfasst das Produktportfolio von Ajax 280 Geräte für Einbruchschutz, Videoüberwachung, Brand- und Lebenssicherheit&hellip;",
+    "required_skills": [
+      "business development"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154161-business-development-manager-berlin-brandenburg-saxony-anhalt-saxony",
     "date_posted": "2026-09-28"
   },
   {
@@ -337,516 +847,6 @@
     "requirements": [],
     "source": "Jobicy",
     "url": "https://jobicy.com/jobs/154149-clinical-product-lead",
-    "date_posted": "2026-09-28"
-  },
-  {
-    "id": "jobicy-0d8dad94c48d",
-    "title": "Senior Sales Engineer",
-    "company": "Built Technologies",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Built's Mission: Connect and simplify doing business in real estate. Built is the AI-powered platform transforming the way real estate is financed, developed, and managed. Purpose-built for real estate and construction, Built began by fixing construction draw management for lenders and has grown into a comprehensive operating system addressing some of the industry’s most complex&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154148-senior-sales-engineer-7",
-    "date_posted": "2026-09-28"
-  },
-  {
-    "id": "jobicy-1eb28e38eab9",
-    "title": "Public Sector Account Executive, SLED - Boston, MA",
-    "company": "DeleteMe",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About DeleteMe: DeleteMe is the leader in proactive privacy protection. We help security teams reduce their human attack surface by continuously monitoring and removing exposed personal data (PII) from the open web — the very data threat actors use to launch social engineering, phishing, Gen-AI deepfake, doxxing campaigns, physical threats, and identity fraud. Operating as&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154156-public-sector-account-executive-sled-boston-ma",
-    "date_posted": "2026-09-28"
-  },
-  {
-    "id": "jobicy-a4b69e9646b3",
-    "title": "Head of GTM, Research Services | AI-Native Research (Remote US/EU)",
-    "company": "Maze",
-    "location": "Europe,  USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Maze Maze is the user research platform that helps companies build the right products faster by making user insights available at the speed of product development. In most companies, research demand far exceeds supply. Time, cost, and lack of access to expertise hold teams back. In today’s AI-powered world, anyone can build a product&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154138-head-of-gtm-research-services-ai-native-research-remote-us-eu",
-    "date_posted": "2026-09-28"
-  },
-  {
-    "id": "jobicy-6d9fff9d005d",
-    "title": "Senior Site Reliability Engineer | SRE (Remote, EU/CET)",
-    "company": "Maze",
-    "location": "Europe",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Maze Maze is the user research platform that helps companies build the right products faster by making user insights available at the speed of product development. In most companies, research demand far exceeds supply. Time, cost, and lack of access to expertise hold teams back. In today’s AI-powered world, anyone can build a product&hellip;",
-    "required_skills": [
-      "devops & infrastructure"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154141-senior-site-reliability-engineer-sre-remote-eu-cet",
-    "date_posted": "2026-09-28"
-  },
-  {
-    "id": "jobicy-3c952448e7c3",
-    "title": "Head of Market Research | AI-Native Research (Remote US/EU)",
-    "company": "Maze",
-    "location": "Europe,  USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Maze Maze is the user research platform that helps companies build the right products faster by making user insights available at the speed of product development. In most companies, research demand far exceeds supply. Time, cost, and lack of access to expertise hold teams back. In today’s AI-powered world, anyone can build a product&hellip;",
-    "required_skills": [
-      "product & operations"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154132-head-of-market-research-ai-native-research-remote-us-eu",
-    "date_posted": "2026-09-28"
-  },
-  {
-    "id": "jobicy-4a51dda8f803",
-    "title": "Enterprise Account Director – EMEA",
-    "company": "MaintainX",
-    "location": "UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "MaintainX is a leading mobile-first work execution platform for industrial and frontline teams. More than 13,000 customers, including Duracell, McDonald's, Shell, DHL and Volvo, use MaintainX to cut unplanned downtime and run better operations, across 13.9 million managed assets and 79.5 million completed work orders. In August 2026 MaintainX became part of Autodesk, joining Autodesk&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154135-enterprise-account-director-emea",
-    "date_posted": "2026-09-28"
-  },
-  {
-    "id": "jobicy-c7fbb88087ec",
-    "title": "WO-psycholoog",
-    "company": "BetterHelp",
-    "location": "Netherlands",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "BetterHelp – Word onderdeel van het grootste online therapieplatform ter wereld! Bij BetterHelp hebben we als missie om barrières voor therapie weg te nemen en geestelijke gezondheidszorg voor iedereen toegankelijk te maken. Sinds onze oprichting in 2013 zijn we uitgegroeid tot de grootste online therapie dienst ter wereld, met betaalbare en toegankelijke therapie in meer&hellip;",
-    "required_skills": [
-      "healthcare & medical"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154136-wo-psycholoog",
-    "date_posted": "2026-09-28"
-  },
-  {
-    "id": "jobicy-02bf31e845ef",
-    "title": "Senior Solutions Consultant, Identity",
-    "company": "Feedzai",
-    "location": "Spain",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At Feedzai, we're building a world of safer money. A world where financial institutions move faster than criminals. Where the payments that fund real lives through salaries, savings, and businesses are protected in real time. We use trusted AI to detect and prevent financial crime, fraud, and money laundering at scale: the world's top banks,&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154134-senior-solutions-consultant-identity",
-    "date_posted": "2026-09-28"
-  },
-  {
-    "id": "jobicy-2610cc7bbe5e",
-    "title": "Principal Design Engineer",
-    "company": "AlphaSense",
-    "location": "UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About AlphaSense: The world’s most sophisticated companies rely on AlphaSense to remove uncertainty from decision-making. With market intelligence and search built on proven AI, AlphaSense delivers insights that matter from content you can trust. Our universe of public and private content includes equity research, company filings, event transcripts, expert calls, news, trade journals, and clients’&hellip;",
-    "required_skills": [
-      "web, ui & ux design"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154140-principal-design-engineer",
-    "date_posted": "2026-09-28"
-  },
-  {
-    "id": "jobicy-cd813a9102f2",
-    "title": "Enterprise Risk Officer, ECRM",
-    "company": "AlphaSense",
-    "location": "Ireland",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About AlphaSense: The world’s most sophisticated companies rely on AlphaSense to remove uncertainty from decision-making. With market intelligence and search built on proven AI, AlphaSense delivers insights that matter from content you can trust. Our universe of public and private content includes equity research, company filings, event transcripts, expert calls, news, trade journals, and clients’&hellip;",
-    "required_skills": [
-      "legal & compliance"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154137-enterprise-risk-officer-ecrm",
-    "date_posted": "2026-09-28"
-  },
-  {
-    "id": "jobicy-6857cc03f464",
-    "title": "Senior Growth Marketing Manager",
-    "company": "Cobalt",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Who We Are Cobalt was founded on the belief of a fundamental human aspiration: the desire to live better and safer. It all started in 2013, when our founders realized that pentesting can be better. Today our diverse, fully remote team is committed to helping organizations of all sizes with seamless, effective and collaborative Offensive&hellip;",
-    "required_skills": [
-      "marketing & sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154131-senior-growth-marketing-manager",
-    "date_posted": "2026-09-28"
-  },
-  {
-    "id": "jobicy-b45fba16b24a",
-    "title": "Contract Senior Staff Product Manager (US - East)",
-    "company": "Cobalt",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Who We Are Cobalt was founded on the belief of a fundamental human aspiration: the desire to live better and safer. It all started in 2013, when our founders realized that pentesting can be better. Today our diverse, fully remote team is committed to helping organizations of all sizes with seamless, effective and collaborative Offensive&hellip;",
-    "required_skills": [
-      "product & operations"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154124-contract-senior-staff-product-manager-us-east",
-    "date_posted": "2026-09-28"
-  },
-  {
-    "id": "jobicy-45498f5363a3",
-    "title": "Senior Director of Sales, Enterprise",
-    "company": "Cobalt",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Who We Are Cobalt was founded on the belief of a fundamental human aspiration: the desire to live better and safer. It all started in 2013, when our founders realized that pentesting can be better. Today our diverse, fully remote team is committed to helping organizations of all sizes with seamless, effective and collaborative Offensive&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154128-senior-director-of-sales-enterprise-2",
-    "date_posted": "2026-09-28"
-  },
-  {
-    "id": "jobicy-c1c57fc74339",
-    "title": "VP of Clinical Services and Executive Medical Director",
-    "company": "Solace",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Solace Healthcare in the U.S. is fundamentally broken. The system is so complex that 88% of U.S. adults do not have the health literacy necessary to navigate it without help. Solace cuts through the red tape of healthcare by pairing patients with expert advocates and giving them the tools to make better decisions—and get&hellip;",
-    "required_skills": [
-      "healthcare & medical"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154122-vp-of-clinical-services-and-executive-medical-director",
-    "date_posted": "2026-09-28"
-  },
-  {
-    "id": "jobicy-854baff5ab4c",
-    "title": "Senior Product Marketing Manager",
-    "company": "TRM Labs",
-    "location": "Canada,  USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Build a Safer World. TRM Labs provides AI-powered intelligence solutions that help public and private sector agencies investigate and disrupt crime. TRM's platforms enable investigators to trace illicit activity, build cases, and construct operating pictures of threat networks. Leading agencies and businesses worldwide rely on TRM to make the world safer and more secure. TRM&hellip;",
-    "required_skills": [
-      "marketing & sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154130-senior-product-marketing-manager-6",
-    "date_posted": "2026-09-28"
-  },
-  {
-    "id": "jobicy-9f303cbddcee",
-    "title": "Senior Data Scientist, Full Stack",
-    "company": "TRM Labs",
-    "location": "Canada,  USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Build a Safer World. TRM Labs provides AI-powered intelligence solutions that help public and private sector agencies investigate and disrupt crime. TRM's platforms enable investigators to trace illicit activity, build cases, and construct operating pictures of threat networks. Leading agencies and businesses worldwide rely on TRM to make the world safer and more secure. TRM&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154127-senior-data-scientist-full-stack",
-    "date_posted": "2026-09-28"
-  },
-  {
-    "id": "jobicy-63e37f0d72e9",
-    "title": "Territory Sales Specialist, Twin Cities, Minneapolis",
-    "company": "Juul Labs",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "THE COMPANY: Juul Labs's mission is to transition the world’s billion adult smokers away from combustible cigarettes, eliminate their use, and combat underage usage of our products. We have the opportunity to address one of the world’s most intractable challenges through a commitment to exceptional quality, research, design, and innovation. Backed by leading technology investors,&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154126-territory-sales-specialist-twin-cities-minneapolis",
-    "date_posted": "2026-09-28"
-  },
-  {
-    "id": "jobicy-1dedb7bc15b7",
-    "title": "Product Counsel",
-    "company": "Solace",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Solace Healthcare in the U.S. is fundamentally broken. The system is so complex that 88% of U.S. adults do not have the health literacy necessary to navigate it without help. Solace cuts through the red tape of healthcare by pairing patients with expert advocates and giving them the tools to make better decisions—and get&hellip;",
-    "required_skills": [
-      "legal & compliance"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154129-product-counsel",
-    "date_posted": "2026-09-28"
-  },
-  {
-    "id": "jobicy-f1e00513d9b2",
-    "title": "Sr. Security Engineer (Detection)",
-    "company": "Solace",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Solace Healthcare in the U.S. is fundamentally broken. The system is so complex that 88% of U.S. adults do not have the health literacy necessary to navigate it without help. Solace cuts through the red tape of healthcare by pairing patients with expert advocates and giving them the tools to make better decisions—and get&hellip;",
-    "required_skills": [
-      "cybersecurity"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154125-sr-security-engineer-detection",
-    "date_posted": "2026-09-28"
-  },
-  {
-    "id": "jobicy-377d49f1af58",
-    "title": "Territory Manager, Sioux Falls, SD",
-    "company": "Juul Labs",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "THE COMPANY: Juul Labs's mission is to transition the world’s billion adult smokers away from combustible cigarettes, eliminate their use, and combat underage usage of our products. We have the opportunity to address one of the world’s most intractable challenges through a commitment to exceptional quality, research, design, and innovation. Backed by leading technology investors,&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154123-territory-manager-sioux-falls-sd",
-    "date_posted": "2026-09-28"
-  },
-  {
-    "id": "jobicy-2df023a6f626",
-    "title": "Customer Success - Team Manager",
-    "company": "Canonical",
-    "location": "APAC,  LATAM,  Canada,  USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/151890-customer-success-team-manager",
-    "date_posted": "2026-09-28"
-  },
-  {
-    "id": "jobicy-655bd818040e",
-    "title": "Customer Success Manager",
-    "company": "Smartling",
-    "location": "Ireland",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Overview Smartling is an AI-native translation platform that's redefining how the world's biggest brands go global — ranked #3 on Fast Company's Most Innovative Companies list. We're growing rapidly at scale and are backed by Battery Ventures, a global technology-focused investment firm. While most companies are still figuring out how to use AI, we've spent&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/151930-customer-success-manager-26",
-    "date_posted": "2026-09-28"
-  },
-  {
-    "id": "jobicy-e8bfdc28c72b",
-    "title": "Staff Design Engineer - UK",
-    "company": "Ashby",
-    "location": "UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Hi I’m Abhik, Ashby's Co-Founder and VP of Engineering. This role is close to my heart because, as someone who can both design and code, it’s where I’ve always done my best work, but also where I was seen as a rebel and an outsider. I want folks like me to feel at home&hellip;",
-    "required_skills": [
-      "web, ui & ux design"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/151929-staff-design-engineer-uk",
-    "date_posted": "2026-09-28"
-  },
-  {
-    "id": "jobicy-65305b3fb1ed",
-    "title": "Staff Design Engineer - EU",
-    "company": "Ashby",
-    "location": "Croatia,  Estonia,  Germany,  Ireland,  Italy,  Portugal,  Romania,  Spain,  Sweden,  Switzerland",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Hi I’m Abhik, Ashby's Co-Founder and VP of Engineering. This role is close to my heart because, as someone who can both design and code, it’s where I’ve always done my best work, but also where I was seen as a rebel and an outsider. I want folks like me to feel at home&hellip;",
-    "required_skills": [
-      "web, ui & ux design"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/151927-staff-design-engineer-eu",
-    "date_posted": "2026-09-28"
-  },
-  {
-    "id": "jobicy-bb1a5823ab25",
-    "title": "Large Enterprise Sales Director, Spain",
-    "company": "Semperis",
-    "location": "Spain",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At Semperis, our mission is to be a Force for Good. Starting with being a great place to work. We believe that when people feel valued, supported, and empowered, they do their best work. That’s why we focus on creating an employee experience rooted in purpose, growth, and balance. Semperis has been recognized as one&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/151926-large-enterprise-sales-director-spain",
-    "date_posted": "2026-09-28"
-  },
-  {
-    "id": "jobicy-bcb6e9ccf3c3",
-    "title": "Senior Business Consultant w/ Spanish, French or Italian",
-    "company": "Bloomreach",
-    "location": "Czechia,  Slovakia",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Bloomreach is building the world’s premier agentic platform for personalization.We’re revolutionizing how businesses connect with their customers, building and deploying AI agents to personalize the entire customer journey. We're taking autonomous search mainstream, making product discovery more intuitive and conversational for customers, and more profitable for businesses. We’re making conversational shopping a reality, connecting every&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/151925-senior-business-consultant-w-spanish-french-or-italian",
-    "date_posted": "2026-09-28"
-  },
-  {
-    "id": "jobicy-ec8e07fc5052",
-    "title": "Principal Engineer (Payments)",
-    "company": "Masabi",
-    "location": "UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Us_// At Masabi, we’re driving the fare payment revolution, powering the journeys of millions all over the world. We build fare collection platforms that allow riders to seamlessly buy and present tickets for public transport either on their mobile phones, from a ticket machine, or even by tapping their bank card to travel. Our&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/151924-principal-engineer-payments",
-    "date_posted": "2026-09-28"
-  },
-  {
-    "id": "jobicy-d4061b35b792",
-    "title": "Growth Manager - Campaigns",
-    "company": "OKX",
-    "location": "Germany,  Netherlands,  Portugal",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Who We Are At OKX, we believe that the future will be reshaped by crypto, and ultimately contribute to every individual's freedom. OKX is a leading crypto exchange, and the developer of OKX Wallet, giving millions access to crypto trading and decentralized crypto applications (dApps). OKX is also a trusted brand by hundreds of large&hellip;",
-    "required_skills": [
-      "marketing & sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/151922-growth-manager-campaigns",
-    "date_posted": "2026-09-28"
-  },
-  {
-    "id": "jobicy-6c6085e981e1",
-    "title": "Account Manager",
-    "company": "Cloudbeds",
-    "location": "Europe",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "What Makes Cloudbeds UniqueAt Cloudbeds, we're not just building software, we’re transforming hospitality. Our intelligently designed platform powers properties across 150 countries, processing billions in bookings annually. From independent properties to hotel groups, we help hoteliers transform operations and uplevel their commercial strategy through a unified platform that integrates with hundreds of partners. And we&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/151920-account-manager-3",
-    "date_posted": "2026-09-28"
-  },
-  {
-    "id": "jobicy-f7421f613418",
-    "title": "Affiliate Business Development Manager, Poland",
-    "company": "OKX",
-    "location": "Poland",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Who We Are At OKX, we believe that the future will be reshaped by crypto, and ultimately contribute to every individual's freedom. OKX is a leading crypto exchange, and the developer of OKX Wallet, giving millions access to crypto trading and decentralized crypto applications (dApps). OKX is also a trusted brand by hundreds of large&hellip;",
-    "required_skills": [
-      "business development"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/151919-affiliate-business-development-manager-poland",
     "date_posted": "2026-09-28"
   },
   {
@@ -1378,177 +1378,95 @@
     "date_posted": "2026-09-02"
   },
   {
-    "id": "arbeitnow-4ae7d874f6d2",
-    "title": "Junior Fullstack Entwickler Fokus Next.js",
-    "company": "Attek Solutions GmbH",
-    "location": "Berlin",
+    "id": "arbeitnow-c441931ece99",
+    "title": "Erfahrene/r freiberufliche/r Telefoninterviewer/in bei RONIN Research GmbH (m/w/d)",
+    "company": "RONIN Research GmbH",
+    "location": "Hamburg",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Attek Solutions GmbH ist ein innovatives IT-Dienstleistungsunternehmen mit Sitz in Berlin. Mit unserem neuartigen Geschäftsmodell „Custom Software as a Service“ planen, entwickeln und betreiben wir moderne, sichere IT-Infrastrukturen und individuelle Anwendungen für unsere Kunden. Unser Ziel ist es, Unternehmen mit maßgeschneiderten Lösungen, modernen Technologien und höchsten Qualitätsstandards nachhaltig zu unterstützen. Wir suchen technische Allrounder, die Lust haben, sich in verschiedenste technische Probleme und Technologien hineinzudenken. Unser Umfeld ist extrem abwechslungsreich – von Großkonzernen bis zu Startups ist bei unseren Kunden alles vertreten. Aufgaben Konzeption und Entwicklung von Fullstack-Anwendungen. Implementierung und Optimierung von IT-Infrastrukturen. Beratung unserer Kunden hinsichtlich effizienter Entwicklungs- und Betriebsprozesse.​ Optimierung und Performance-Steigerung bestehender Systeme. Zusammenarbeit mit interdisziplinären Teams zur Umsetzung von Kundenanforderungen. Integration von Drittanbieter-APIs und Services zur Erweiterung der Funktionalität. Durchführung von Code-Reviews und Sicherstellung der Einhaltung von Best Practices in der Softwareentwicklung. Qualifikation Abgeschlossenes Studium der Informatik oder eine vergleichbare Qualifikation Erfahrung in der Entwicklung von Anwendungen Fundierte Kenntnisse in Backend-Technologien (Node.js, Nest.js) Erfahrung mit modernen Frontend-Frameworks (Next.js, React) Analytisches Denkvermögen und eine lösungsorientierte Arbeitsweise. Gute Kommunikationsfähigkeiten und Teamgeist Benefits Ein junges Team und coole Events im Ausland, zum Beispiel in Prag oder Mailand, die den Teamgeist stärken. Leistungsorientierte Boni. Umfassender Zertifizierungs- und Weiterentwicklungsplan. Find more English Speaking Jobs in Germany on Arbeitnow",
+    "description": "Wir sind ein internationales Marktforschungsunternehmen und suchen für unser deutschsprachiges Team erfahrene Interviewer/innen auf freiberuflicher Basis in Deutschland/Österreich. Als Telefoninterviewer/in führen Sie strukturierte Interviews anhand eines Fragebogens durch. Die Themen sind abwechslungsreich und reichen von Konsumgütern und Technologie bis zu gesellschaftlichen und wirtschaftlichen Studien. Erfahrung in der telefonischen Interviewführung im Bereich Marktforschung, sowie Erfahrung mit Arbeit auf freiberuflicher/slebständiger Basis sind erforderlich . Sie erhalten eine umfassende Einarbeitung in unsere Systeme und werden während der Projekte intensiv betreut. Aufgaben Mitarbeit an nationalen und internationalen Marktforschungsprojekten Rekrutieren potenzieller Teilnehmer/innen durch Telefonanrufe Terminvereinbarungen für Rückrufe mit Teilnehmer/innen Durchführung telefonischer Interviews anhand strukturierter Fragebögen Dokumentation der Antworten im Befragungssystem Qualifikation Nachgewiesene Erfahrung in der telefonischen Interviewführung im Bereich Marktforschung Zuverlässige, kommunikative und selbstständige Arbeitsweise Freude am Telefonieren und am Kontakt mit Menschen Deutsch C2 - Experte oder Mutterspache Englisch B1+ - Mittelstufe (Verständnis in Sprache und Schrift ) Technische Voraussetzungen: PC/Laptop mit Windows 11 oder Mac mit aktuellem Betriebssystem, stabile Internetverbindung, Smartphone mit mindestens iOS16 oder Android 12, USB-Headset Benefits Freiberufliche Tätigkeit auf Honorarbasis 100 % Home Office, das Telefonieren ist nur aus Deutschland oder Österreich möglich/erlaubt . Flexible Zeiteinteilung innerhalb der Projektvorgaben Umfassende Einarbeitung und laufende Unterstützung Regelmäßiges Feedback und Coaching Abwechslungsreiche und interessante Forschungsprojekte Vergütung pro abgeschlossenem Interview („Complete“) Ø 25 - 100 € pro Complete (projektabhängig) RONIN fördert Chancengleichheit und Vielfalt. Wir begrüßen Bewerbungen unabhängig von Geschlecht, Alter, ethnischer Herkunft, Religion, Behinderung oder sexueller Orientierung. Wir sind Mitglied im Berufsverband Deutscher Markt- und Sozialforscher e.V. (BVM), im Arbeitskreis Deutscher Markt- und Sozialforschungsinstitute e.V. (ADM) sowie im Interviewer Quality Control Scheme (IQCS). Wir freuen uns auf Ihre Bewerbung! Find more English Speaking Jobs in Germany on Arbeitnow",
     "required_skills": [
       "remote",
-      "consulting",
-      "engineering"
+      "market research",
+      "analysis"
     ],
     "requirements": [],
     "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/attek-solutions-gmbh/junior-fullstack-entwickler-fokus-nextjs-berlin-112090",
+    "url": "https://www.arbeitnow.com/jobs/companies/ronin-research-gmbh/erfahrene-r-freiberufliche-r-telefoninterviewer-in-bei-ronin-research-gmbh-hamburg-113587",
     "date_posted": null
   },
   {
-    "id": "arbeitnow-a39f86812bc2",
-    "title": "Fullstack Entwickler Fokus Next.js",
-    "company": "Attek Solutions GmbH",
-    "location": "Berlin",
+    "id": "arbeitnow-a00532c11870",
+    "title": "Business Analyst (ATP / Order Fulfillment",
+    "company": "Market Cloud",
+    "location": "Eschborn",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Attek Solutions GmbH ist ein innovatives IT-Dienstleistungsunternehmen mit Sitz in Berlin. Mit unserem neuartigen Geschäftsmodell „Custom Software as a Service“ planen, entwickeln und betreiben wir moderne, sichere IT-Infrastrukturen und individuelle Anwendungen für unsere Kunden. Unser Ziel ist es, Unternehmen mit maßgeschneiderten Lösungen, modernen Technologien und höchsten Qualitätsstandards nachhaltig zu unterstützen. Wir suchen technische Allrounder, die Lust haben, sich in verschiedenste technische Probleme und Technologien hineinzudenken. Unser Umfeld ist extrem abwechslungsreich – von Großkonzernen bis zu Startups ist bei unseren Kunden alles vertreten. Aufgaben Konzeption und Entwicklung von Fullstack-Anwendungen. Implementierung und Optimierung von IT-Infrastrukturen. Beratung unserer Kunden hinsichtlich effizienter Entwicklungs- und Betriebsprozesse.​ Optimierung und Performance-Steigerung bestehender Systeme. Zusammenarbeit mit interdisziplinären Teams zur Umsetzung von Kundenanforderungen. Integration von Drittanbieter-APIs und Services zur Erweiterung der Funktionalität. Durchführung von Code-Reviews und Sicherstellung der Einhaltung von Best Practices in der Softwareentwicklung. Qualifikation Abgeschlossenes Studium der Informatik oder eine vergleichbare Qualifikation Mehrjährige Erfahrung in der Entwicklung von Anwendungen Fundierte Kenntnisse in Backend-Technologien speziell Node.js bzw. Nest.js Erfahrung mit modernen Frontend-Frameworks wie React bzw. Next.js Analytisches Denkvermögen und eine lösungsorientierte Arbeitsweise. Gute Kommunikationsfähigkeiten und Teamgeist Benefits Ein junges Team und coole Events im Ausland, zum Beispiel in Prag oder Mailand, die den Teamgeist stärken. Leistungsorientierte Boni. Umfassender Zertifizierungs- und Weiterentwicklungsplan. Find more English Speaking Jobs in Germany on Arbeitnow",
+    "description": "Business Analyst / ATP &#x26; Order Fulfilment Experience 5+ Yrs Location: Germany / Remote Project language: English For the life sciences sector, we are looking for an experienced Business Analyst with expertise in ATP / AATP (Available-to-Promise) and Order Fulfillment processes to support a large SAP OTC initiative. The focus of the project is the business-side analysis and further development of ATP and Order Fulfillment processes. Tasks Qualifications: Several years of experience as a Business Analyst, Process Expert or Functional Consultant Proven experience within Pharma, Biotechnology or Life Sciences environments Strong understanding of ATP (Available-to-Promise) and Order Fulfillment processes Experience with Product Allocation, Backorder Processing and Substitution processes Experience gathering and documenting business requirements Experience creating user stories, acceptance criteria and test scripts Experience with UAT and business validation activities Ability to understand and analyze process reporting and business KPIs Strong understanding of end-to-end Order-to-Cash processes Experience working in international projects Excellent communication and stakeholder management skills Fluent English German and/or French would be advantageous Requirements Responsibilities: Analyze ATP and Order Fulfillment processes from a business perspective Gather, structure and document business requirements Develop business scenarios related to Product Allocation, Substitution and Backorder Processing Create user stories, acceptance criteria and business requirements Prepare and execute business testing and UAT activities Develop and maintain test scripts and test scenarios Analyze process reports and derive business recommendations Identify process gaps and improvement opportunities Document business rules and process decisions Translate business needs into clear requirements for the implementation team Contribute ATP and Order Fulfillment best practices from Life Sciences environments Act as a business representative for ATP-related processes Find Jobs in Germany on Arbeitnow",
     "required_skills": [
       "remote",
-      "consulting",
-      "engineering"
+      "business analyst"
     ],
     "requirements": [],
     "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/attek-solutions-gmbh/fullstack-entwickler-fokus-nextjs-berlin-156081",
+    "url": "https://www.arbeitnow.com/jobs/companies/market-cloud/business-analyst-atp-order-fulfillment-eschborn-412183",
     "date_posted": null
   },
   {
-    "id": "arbeitnow-849c2a3daad8",
-    "title": "Werkstudent Content Creator Social Media mit Fokus vor der Kamera (m/w/d)",
-    "company": "Global Treats GmbH",
-    "location": "Wutöschingen",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Du fühlst dich vor der Kamera wohl, hast ein gutes Gespür für Social Media und weißt, wie man Menschen innerhalb der ersten Sekunden eines Videos abholt? Dann suchen wir dich. Für unsere Social Media Kanäle suchen wir eine kreative Content Creatorin, die regelmäßig selbst vor der Kamera steht und eigenständig Videos für TikTok, Instagram Reels und weitere Plattformen produziert. Dabei geht es nicht nur darum, vor der Kamera zu stehen. Du entwickelst Ideen, filmst deine Inhalte selbst und übernimmst anschließend auch den Schnitt und die fertige Aufbereitung der Videos. Aufgaben Du stehst regelmäßig selbst vor der Kamera und bist eines der Gesichter unserer Social Media Kanäle Du entwickelst kreative Ideen und neue Videoformate für TikTok, Instagram Reels und weitere Plattformen Du produzierst deine Videos eigenständig von der Idee bis zum fertigen Content Du kümmerst dich selbst um Aufnahme, Schnitt, Untertitel, Musik und die finale Aufbereitung deiner Videos Du präsentierst Produkte auf eine natürliche, unterhaltsame und authentische Art Du beobachtest aktuelle Social Media Trends und setzt passende Trends schnell in eigenen Content um Du entwickelst Hooks und Konzepte, die Aufmerksamkeit erzeugen und Zuschauer zum Weiterschauen bringen Du testest unterschiedliche Videoideen und entwickelst erfolgreiche Formate kontinuierlich weiter Qualifikation Uns ist nicht entscheidend, ob du bereits jahrelange Berufserfahrung hast. Viel wichtiger ist, dass du vor der Kamera authentisch wirkst, kreativ bist und Social Media wirklich verstehst. Du solltest: dich sehr wohl vor der Kamera fühlen offen, kommunikativ und selbstbewusst auftreten TikTok und Instagram intensiv nutzen und aktuelle Trends kennen ein gutes Gespür für unterhaltsamen und aufmerksamkeitsstarken Content haben Videos selbstständig aufnehmen und schneiden können mit Apps oder Programmen wie CapCut, Premiere Pro oder vergleichbaren Tools umgehen können eigene Ideen einbringen und selbstständig umsetzen zuverlässig arbeiten und Content auch regelmäßig produzieren können bereit sein, verschiedene Ideen auszuprobieren und auch mehrere Takes zu drehen Erfahrung als Content Creatorin, Influencerin oder im Social Media Bereich ist von Vorteil, aber keine Voraussetzung. Entscheidend ist für uns, was du vor der Kamera und mit deinem Content daraus machst. Benefits Viel kreativer Freiraum Die Möglichkeit, eigene Ideen direkt umzusetzen Abwechslungsreiche Produkte und Themen Kurze Entscheidungswege Moderne Social Media Formate statt klassischer Werbung Die Möglichkeit, neue Formate von Anfang an mit aufzubauen Ein unkompliziertes Arbeitsumfeld Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "marketing and communication"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/global-treats-gmbh/werkstudent-content-creator-social-media-mit-fokus-vor-der-kamera-wutoschingen-316929",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-dcd5eaacfaac",
-    "title": "Content Creator Social Media mit Fokus vor der Kamera (m/w/d)",
-    "company": "Global Treats GmbH",
-    "location": "Wutöschingen",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Du fühlst dich vor der Kamera wohl, hast ein gutes Gespür für Social Media und weißt, wie man Menschen innerhalb der ersten Sekunden eines Videos abholt? Dann suchen wir dich. Für unsere Social Media Kanäle suchen wir eine kreative Content Creatorin, die regelmäßig selbst vor der Kamera steht und eigenständig Videos für TikTok, Instagram Reels und weitere Plattformen produziert. Dabei geht es nicht nur darum, vor der Kamera zu stehen. Du entwickelst Ideen, filmst deine Inhalte selbst und übernimmst anschließend auch den Schnitt und die fertige Aufbereitung der Videos. Aufgaben Du stehst regelmäßig selbst vor der Kamera und bist eines der Gesichter unserer Social Media Kanäle Du entwickelst kreative Ideen und neue Videoformate für TikTok, Instagram Reels und weitere Plattformen Du produzierst deine Videos eigenständig von der Idee bis zum fertigen Content Du kümmerst dich selbst um Aufnahme, Schnitt, Untertitel, Musik und die finale Aufbereitung deiner Videos Du präsentierst Produkte auf eine natürliche, unterhaltsame und authentische Art Du beobachtest aktuelle Social Media Trends und setzt passende Trends schnell in eigenen Content um Du entwickelst Hooks und Konzepte, die Aufmerksamkeit erzeugen und Zuschauer zum Weiterschauen bringen Du testest unterschiedliche Videoideen und entwickelst erfolgreiche Formate kontinuierlich weiter Qualifikation Uns ist nicht entscheidend, ob du bereits jahrelange Berufserfahrung hast. Viel wichtiger ist, dass du vor der Kamera authentisch wirkst, kreativ bist und Social Media wirklich verstehst. Du solltest: dich sehr wohl vor der Kamera fühlen offen, kommunikativ und selbstbewusst auftreten TikTok und Instagram intensiv nutzen und aktuelle Trends kennen ein gutes Gespür für unterhaltsamen und aufmerksamkeitsstarken Content haben Videos selbstständig aufnehmen und schneiden können mit Apps oder Programmen wie CapCut, Premiere Pro oder vergleichbaren Tools umgehen können eigene Ideen einbringen und selbstständig umsetzen zuverlässig arbeiten und Content auch regelmäßig produzieren können bereit sein, verschiedene Ideen auszuprobieren und auch mehrere Takes zu drehen Erfahrung als Content Creatorin, Influencerin oder im Social Media Bereich ist von Vorteil, aber keine Voraussetzung. Entscheidend ist für uns, was du vor der Kamera und mit deinem Content daraus machst. Benefits Viel kreativer Freiraum Die Möglichkeit, eigene Ideen direkt umzusetzen Abwechslungsreiche Produkte und Themen Kurze Entscheidungswege Moderne Social Media Formate statt klassischer Werbung Die Möglichkeit, neue Formate von Anfang an mit aufzubauen Ein unkompliziertes Arbeitsumfeld Find Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "marketing and communication"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/global-treats-gmbh/content-creator-social-media-mit-fokus-vor-der-kamera-wutoschingen-277840",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-c50f6bbc0ded",
-    "title": "Senior Social Media Manager:in (gn)",
-    "company": "Intermate Media GmbH",
-    "location": "Homeoffice",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Intermate x SAMY – Shaping the State of Social Intermate gehört zu den größten Social-Media- und Influencer-Agenturen im DACH-Raum. Mit mehr als 250 Mates in Berlin, Hamburg, Köln und Remote entwickeln wir Social-First-Strategien, produzieren Content in eigenen Studios, arbeiten eng mit Creator:innen zusammen und steuern Kampagnen datengetrieben über unsere eigene Technologie. Unsere Kund:innen sind einige der bekanntesten Marken der Welt – von Lifestyle über FMCG bis hin zu Tech. Als Teil von SAMY, einem globalen Agenturnetzwerk für Social Media und Creator Marketing, sind wir mit über 970 Expert:innen an 20 Standorten vernetzt. Das eröffnet internationale Perspektiven, Projekte in rund 55 Märkten und die Möglichkeit, dich weit über Ländergrenzen hinweg weiterzuentwickeln. 💡 👉 Hinweis: Unser Bewerbungsprozess wird teilweise von einem KI-gestützten Assistenten begleitet, der das erste Kennenlerngespräch führt. Weitere Informationen erhältst du im Verlauf deiner Bewerbung. WAS DU MACHST Du entwickelst und implementierst strategische Social Media Konzepte Du steuerst eigenverantwortlich alle Phasen des Social Media Managements – von der strategischen Planung über die Content-Produktion bis zur&nbsp;Community-Betreuung Du fungierst als dedicated Ansprechperson für das Kundenteam, berätst proaktiv zu Social Media Trends und entwickelst maßgeschneiderte Lösungen für verschiedene Zielgruppen Du verantwortest die Entwicklung innovativer Social Media Kampagnen für Kunden-Produkte – von der Redaktionsplanung über Content Creation bis zur Performance-Optimierung Du identifizierst Beauty- und Lifestyle-Trends, testest neue Formate und setzt innovative Ansätze zur Steigerung von Brand Awareness und Engagement um Du erstellst detaillierte Performance-Reportings , analysierst KPIs im Kontext und präsentierst Optimierungspotenziale sowie Marktinsights überzeugend Du entwickelst aus Kunden- und Community-Feedback kontinuierlich neue Ideen für die Markenführung und verbesserst die Social Media Performance nachhaltig Du arbeitest eng mit dem Kundenteam sowie internen Fachbereichen zusammen, um integrierte Kampagnen erfolgreich umzusetzen&nbsp; Du unterstützt Junior-Kolleg:innen bei der Betreuung von Projekten und förderst den Wissenstransfer zu spezifischen Social Media Strategien WAS DU BRAUCHST Du verfügst über mindestens fünf Jahre fundierte Berufserfahrung im Bereich Social Media Management und hast dabei unterschiedlichste Marken und Projekte erfolgreich begleitet Du bist auf TikTok spezialisiert, kennst die Besonderheiten der Plattform, ihre Community sowie die relevanten Content-Formate. Auch im Umgang mit Meta (Facebook, Instagram, Business Suite) bewegst du dich sicher und setzt kanalübergreifende Strategien souverän um Du glänzt mit Erfahrung in der Kundenkommunikation, trittst jederzeit professionell auf und überzeugst Kund:innen mit deiner empathischen und lösungsorientierten Beratung Du hast ein ausgeprägtes Gespür für aktuelle Entwicklungen und Trends im Social Media Bereich, erkennst frühzeitig Chancen und setzt diese kreativ und zielgerichtet für unsere Kund:innen ein Du zeichnest dich durch hohe Eigenmotivation und Lernbereitschaft aus, strukturierst dich und deine Aufgaben selbstständig und behältst auch in dynamischen Phasen stets den Überblick Du denkst strategisch und analytisch, entwickelst nachhaltige Wachstumsstrategien und triffst datenbasierte Entscheidungen. Analysen und Reportings sind für dich essenzielles Handwerkszeug, um Erfolge zu messen und Maßnahmen weiterzuentwickeln Du verstehst die Bedürfnisse unserer Kund:innen und baust durch deine offene, verbindliche Art langfristige und vertrauensvolle Beziehungen auf Du bist mit den gängigen Social Media Tools bestens vertraut und nutzt sie effizient zur Planung, Umsetzung und Auswertung deiner Aktivitäten Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift runden dein Profil ab WAS WIR DIR BIETEN Onboarding &amp; Support No one likes to be the new kid. Mit strukturiertem Onboarding, einem persönlichen Mate und Zugang zu Lernmaterialien bist du ab Tag eine:r von uns. Erstklassige Ausstattung Can’t work without my iPhone. Mit MacBook, iPhone und aktueller Apple-Tech arbeitest du flexibel und effizient. Das gilt für unsere Altbau-Offices genauso wie zuhause oder unterwegs. Wachstum &amp; Weiterentwicklung Rise &amp; shine, darling! Dein jährliches Weiterbildungsbudget gibt dir die Freiheit, in Workshops, Seminare, zertifizierte Kurse oder Coachings zu investieren. So entwickelst du dich genau in die Richtung, die zu deinen Zielen passt. Flexibel arbeiten „Ob das bei euch gerade genauso ist? I doubt it!” Bis zu sechs Wochen im Jahr kannst du innerhalb der EU remote arbeiten. Unsere flexiblen Arbeitszeitmodelle machen es leicht, Arbeit und Leben in Einklang zu bringen. Bei einem Umzug oder in besonderen Lebenssituationen wie einem Trauerfall erhältst du zusätzliche freie Tage. Mehr Freizeit „It’s my birthday, I’mma spend my money.“ An deinem Geburtstag heißt es: Laptop zu und genießen. Zusätzlich sind der 24. Dezember und der 31. Dezember frei. Jubiläen und Geburtstage feiern wir mit kleinen Überraschungen. Health &amp; Wellbeing Hot girl walk or heavy lift? Mit der Urban Sports Club Mitgliedschaft entscheidest du selbst, ob Yoga, Pilates, Schwimmen oder Krafttraining zu deinem Glow Up passt. nilo.health sorgt für mentale Stärke und bietet Sessions mit Psycholog:innen oder Coaches. Über deinen Zugang können auch bis zu fünf Familienmitglieder mitmachen. Exklusive Deals &amp; Extras It’s giving… perks! Profitiere von attraktiven Rabatten bei Partnern wie plantclub, FutureBens und vielen mehr. Zusätzlich kannst du eines dieser drei Benefits wählen: Givve Card – 50 € Guthaben pro Monat, frei einsetzbar für alles, was du liebst. Mobiko – 65 € monatliches Mobilitätsbudget, nutzbar für Deutschlandticket, Tankkosten und alles, was kostet, um von A nach B zu kommen. Betriebliche Altersvorsorge – 50 € monatlicher Zuschuss zu deiner betrieblichen Altersvorsorge. Außerdem sind unsere Offices dog-friendly. Snacks, Obst und Drinks stehen allen Mates jederzeit kostenlos zur Verfügung. Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "social media marketing",
-      "remote"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/intermate-media-gmbh/remote-senior-social-media-managerin-gn-berlin-487172",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-152e8da0241e",
-    "title": "Werkstudent Vertrieb (m/w/d)",
-    "company": "Shyftplan",
+    "id": "arbeitnow-82515642ddb6",
+    "title": "Working Student (m/f/d) Full-Stack Developer - Next.js",
+    "company": "CBAM Estimator GmbH",
     "location": "Stuttgart",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Your playground Unsere Mission bei Scable: Fabriken einfach erfolgreich machen. Dafür entwickeln wir eine SaaS-Lösung für Instandhaltung und Produktion, mit der Industriebetriebe ihre Wartung planen statt reagieren. Im Vertrieb bist du nah dran an dem Teil, der über Wachstum entscheidet: Wen sprechen wir an, mit welcher Botschaft, und was davon funktioniert? Deine Aufgaben Du recherchierst Zielkunden in Fertigung und Instandhaltung, qualifizierst Leads und pflegst sie sauber in HubSpot. Du übernimmst nach der Einarbeitung die Erstansprache per E-Mail, LinkedIn und am Telefon. Du bereitest Kundengespräche und Produktdemos mit vor und übernimmst die Follow-ups danach. Du verantwortest eigene Themen von Anfang bis Ende, zum Beispiel den Aufbau einer Zielkundenliste. Your profile Du bist eingeschriebene:r Student:in. Welche Fachrichtung, ist zweitrangig. Ein betriebswirtschaftliches oder technisches Studium, etwa Wirtschaftsingenieurwesen, hilft dir beim Einstieg. Du interessierst dich für Vertrieb, Software und industrielle Digitalisierung. Du arbeitest strukturiert, gehst gern auf Menschen zu und denkst vom Kunden her. Du sprichst Deutsch auf muttersprachlichem Niveau und fühlst dich auch im Englischen wohl. Erste Berührung mit Produktion oder Instandhaltung ist ein Plus, aber keine Voraussetzung. Our perks Schreib Deine Abschlussarbeit bei uns: Wenn gewünscht, kannst Du deine Bachelor- oder Masterarbeit über ein echtes Thema aus unserem Vertrieb oder Produkt schreiben. Studierendenfreundliche Arbeitszeiten &amp; die Möglichkeit, remote zu arbeiten. Ein eigener Verantwortungsbereich statt Zuarbeit, mit regelmäßigen Feedback. Tiefe Einblicke in SaaS-Vertrieb und die Digitalisierung der Industrie, vom ersten Lead bis zum Abschluss. Ein Hinweis zur Bewerbung: Scable gehört zur shyftplan-Gruppe. Weil das Recruiting über shyftplan läuft, siehst du diesen Namen im Bewerbungsprozess. Arbeiten wirst du bei Scable. Wir freuen uns darauf, dich kennenzulernen! Find Jobs in Germany on Arbeitnow",
+    "description": "We are CBAM Estimator – a young SaaS company based in Stuttgart. Our mission is to help companies meet the requirements of the EU Carbon Border Adjustment Mechanism (CBAM) correctly, efficiently and at scale. To do this, we build modern web platforms that let our customers analyze the impact, obligations and costs of CBAM and estimate them realistically. Our customers include international industrial and trading companies that rely on accurate data, clean processes and planning certainty. We are a young, international team with diverse backgrounds – from IT, emissions calculation and mathematics to business. What unites us is the drive to make complex regulation solvable in a pragmatic, transparent way. We work data-driven and direct, without corporate bureaucracy. Taking ownership, questioning things and moving fast are part of our everyday work. As a Working Student in Next.js Development, you'll work around 20 hours per week alongside your studies and contribute directly to production features of our platform – not isolated practice tasks. You'll work closely with our development team, have real influence on how features are built, and gain hands-on insight into developing a SaaS product used by international customers. Tasks - Develop new features for our CBAM web platform and improve existing functionality - Help build a platform for calculating supply chain emissions - Work with modern web technologies such as Next.js, TypeScript and TailwindCSS - Implement frontend and backend functionality in close collaboration with the development team - Contribute to structuring code, components and data models - Gain experience with software development processes, code reviews and version control Requirements Required: - Very good written and spoken English - Enrolled in a Master's program in Computer Science or a related field - Some experience in web development, ideally with Next.js and TypeScript – or the willingness and ability to learn new technologies quickly - You work independently, in a structured way, and reliably - You're motivated, curious and interested in working on a production software system - You communicate technical topics clearly and enjoy working in a team Nice to have: - Experience with TailwindCSS - Experience with Drizzle ORM / SQLite - Experience with Next.js authentication (e.g. NextAuth or similar) - Basic understanding of IT security (e.g. OWASP Top 10, secure auth flows, API security) - Experience with Git, code reviews or modern development workflows Benefits - 100% remote / remote-first work environment - Flexible working hours that fit well with your studies - Work with a modern tech stack and real production systems - Early responsibility for real product features - Attractive, above-average working student pay - Collaboration in a small, dynamic development team Equal Opportunity &#x26; Accessibility CBAM Estimator is committed to fostering a diverse and inclusive workplace. All qualified applicants will be considered regardless of race, gender identity, sexual orientation, disability or any other protected characteristic. If you'd like to gain hands-on experience building modern web platforms and help shape a real product, we look forward to hearing from you! Find more English Speaking Jobs in Germany on Arbeitnow",
     "required_skills": [
-      "sales",
-      "vertrieb",
-      "studentenjob",
-      "start-up",
-      "startups",
-      "remote"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/shyftplan/remote-werkstudent-vertrieb-stuttgart-26599",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-8d965804814d",
-    "title": "Senior Experience Engineer",
-    "company": "Parity",
-    "location": "Remote",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Us Parity is one of the world’s most experienced companies building the core infrastructure behind blockchain — the system that allows information and value to be shared securely without needing an intermediary. We’re laying the foundation for a better web which respects the freedom and data of individuals, and empowers developers to build better, more trustworthy online services. Our remote-first, global team develops open-source software that anyone can use or improve. This includes Polkadot , Polkadot SDK , and Kusama — key parts of the Web3 tech stack, the next generation of the internet. Our mission is to make Polkadot the most active and innovative community in blockchain, powering a new era of connected and decentralised applications. About the Team This role sits in our Acceleration department, home to the people who drive ecosystem growth by building tools, integrations, and partnerships across the Polkadot network. Reporting into our Polkadot Research Lead, you’ll be joining the Polkadot Research Engineering team. We shape the Polkadot research vision and roadmap, translating ecosystem needs into tools and experiences that accelerate platform adoption. About the Role As a Senior Experience Engineer , you will lead the end-to-end delivery of features, from initial problem discovery to production deployment. This role is designed for a self-directed builder who prioritizes \"what\" to build as much as \"how\" to build it. You will leverage an AI-native workflow to iterate rapidly and deliver high-impact solutions to complex user problems. What you’ll do Full-Lifecycle Ownership: Lead feature development through scoping, architecture, deployment, and iteration based on live user data. AI-Augmented Development: Integrate AI tools (e.g., Cursor, Copilot, Claude) into your daily workflow to accelerate velocity and maximize output. Autonomous Decision-Making: Navigate ambiguity by exercising sound judgment, filling requirement gaps without waiting for exhaustive specifications. Rapid Iteration: Deploy MVPs quickly to gather real-world feedback, avoiding over-engineering in favor of momentum and validated learning. Direct Collaboration: Partner with stakeholders and users to deeply understand pain points and translate them into functional, scalable software. Cross-Functional Execution: Work proactively across the organization to remove blockers and maintain a high shipping cadence. Your Skills Proven experience developing and maintaining production-grade web applications (ideally with TypeScript, React, or similar frameworks). Strong understanding of frontend architecture, component-driven development, and modern build pipelines. Possess a good understanding of system design and an ability to work with complex systems. Strong product intuition for applying AI to solve real user problems and ship features that deliver genuine value. About Working With Us Joining Parity means joining team mates who are genuinely excited about the impact their projects are having, and the opportunity to grow alongside some of the brightest minds in the Web3 space! You’ll work remotely and flexibly, while still getting to meet your team mates throughout the year at team and company-wide retreats. Upon receiving an offer, all candidates undergo a background check through Zinc , our trusted third-party provider. Team members will be taken on as a contractor via our UK entity. View our Applicant Notice to see how we use your data. Parity is an Equal Opportunity Employer. We welcome diversity in our global team and care about everyone in our collective feeling included and welcome Is this position not quite your match? Browse our other open roles. Find Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "acceleration"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/parity/remote-senior-experience-engineer-129490",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-c7ad7052f274",
-    "title": "AI Developer (m/f/d)",
-    "company": "Partspace",
-    "location": "Nürnberg",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Join the AI of Manufacturing PartSpace is a f ast-growing, innovative tech company with a clear mission: with artificial intelligence and real engineering data, PartSpace is redefining the future of technical procurement. Our cloud-based platform makes the procurement of components in industry more intelligent - acting like an engineer. We have big ambitions: that’s why we’re looking for driven talents who don’t just think along, but actively help shape the future. With us, you’ll take on responsibility from day one and join a team that combines technology with attitudes. You won’t just have room to contribute and influence decisions - you’ll become part of an ambitious team that works passionately every day to further develop our AI platform and sustainably transform industrial procurement. That is our commitment. To further drive our growth, we are looking for you as AI Developer (m/f/d) at our offices in Nuremberg, Deggendorf or Munich. Ready to help make industry more efficient? Then we’re excited to meet you! Your mission You ensure the scalability, maintainability, and reliability of our entire pipeline You develop and improve our production-grade software systems You make architecture and design decisions together with the team, ensuring clean and future-proof technical solutions You design, train, and integrate machine learning models into production applications (APIs, pipelines, and services) You work on computer vision applications (documents, images, layout, OCR-related topics) as well as graph neural networks for complex structures You evaluate modern machine learning approaches (classical ML, deep learning, multimodal foundation models) and apply them pragmatically and purposefully You work closely with the product and business teams to translate requirements into practical AI solutions Your profile You have a completed degree in Computer Science, Software Engineering, AI, Mathematics, or a comparable qualification You bring at least 5 years of professional experience as a software developer and hands-on experience delivering complex software projects You have very strong Python development skills (C++ is a plus) You possess deep and broad knowledge of machine learning, with practical experience in ML models and algorithms (supervised, unsupervised, and deep learning) You have experience in computer vision or are eager to deepen your expertise in this area, with a solid understanding of multimodal approaches (text + image) Ideally, you have experience with OCR, document processing, or layout analysis You are able to solve complex technical challenges in a structured way and integrate solutions into production environments You are motivated, structured, and see things through - you take ownership and deliver reliably You are a team player who communicates openly, clearly, and in a solution-oriented manner You have very good German and English skills What we offer Attractive compensation package with multiple components, including company pension scheme and training budget Discounts through Corporate Benefits – e.g., Business Bike, corporate fitness programs, BahnCard, and numerous partner offers Flexible working hours &amp; remote work options – including the possibility of workations A growing company with drive and openness , where you have real creative freedom and the opportunity to take responsibility Open corporate culture with flat hierarchies – short decision-making paths, direct communication, and a respectful first-name (“you”) culture at all levels Strong team spirit fostered through regular team events, offsites, and shared activities outside the office Modern workplace with good transport connections, high-quality equipment, and free beverages and snacks Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "c#",
-      ".net",
-      ".net core",
-      "apis",
-      "azure devops",
-      "software developer",
-      "clean code",
-      "solid",
-      "ocr",
-      "ml engineer",
-      "deep learning",
-      "c++",
-      "ai",
-      "machine learning",
-      "computer vision",
-      "document ai",
-      "multimodal ai",
-      "llms",
-      "mlops",
-      "scalable systems",
-      "api development",
-      "data engineering",
-      "lay",
       "remote",
-      "saas",
-      "cad",
-      "cam"
+      "it"
     ],
     "requirements": [],
     "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/partspace/remote-ai-developer-nurnberg-225660",
+    "url": "https://www.arbeitnow.com/jobs/companies/cbam-estimator-gmbh/working-student-full-stack-developer-nextjs-stuttgart-79721",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-d447bbf216d4",
+    "title": "Senior Enterprise Content Marketer (m/f/d)",
+    "company": "Bots and People Product GmbH",
+    "location": "Berlin",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Hi there, if you want to create outstanding content for the most interesting topic for the future of work, keep on reading :) You will own content at Bots &#x26; People. We focus on premium content that will make us an industry authority for AI Up-skilling. You will work for example on a scientific-grade AI adoption report, industry events that stand out, and collaborations with high-profile corporate influencers. Bots &#x26; People builds learning experiences that help teams adopt automation and AI in a practical, hands-on way. We have trained 100,000+ employees across 30+ large enterprises, in 8 languages. We are a small, fast-moving core team with 50+ freelance trainers, and we are growing. You will work closely with our founder Nico Bitzer and our Enterprise Growth Marketer Chisco Mosteiro (whom you report to). Chisco owns distribution, campaigns, and ABM. You own the content, the creatives and brand. You will have design support but also get your hands dirty with it. Aufgaben Create high-impact content across channels Write blog articles that rank and actually get read (SEO &#x26; GEO) Design event and keynote presentations Develop creative concepts for trade fair booths and other onsite experiences Produce concepts short-form videos for social and ads (concept, script, edit, captions) Build LinkedIn formats Create Linkedin ad creatives that perform Flagship &#x26; premium content Own our flagship research, like an annual AI Adoption Report built to a scientific standard Concept and organize standout industry events Build collaborations with high-profile corporate influencers Create other premium, authority-building assets that make Bots &#x26; People the reference point for enterprise AI adoption Build the content machine Build a scalable content operation Own the content calendar end to end, independently, prioritizing the assets that impact revenue. Design repeatable workflows, prompts, and templates so we produce high-quality content faster. Set the creative and brand and editorial standard for everything we publish Use AI but avoid AI slop please ;) Work closely with our delivery team and trainer pool to create and recycle content. Creative direction &#x26; no more boring Bring original ideas, formats, and angles Turn dry enterprise topics (AI adoption, upskilling, change management) into no more boring content Own the brand voice across every channel What success looks like Flagship pieces (reports, events, collaborations) that the industry shares. A content machine that consistently ships high-quality, on-brand assets at speed Your main KPIs are impressions and conversations into generated meetings. Qualifikation Must-haves German and English language skills Proactive and self-driven: you come with new ideas, execute them without being chased, and stand behind your work. Hands-on experience/knowledge with paid ads (LinkedIn and other platforms). Track record of premium, authority-building content: research reports, flagship events, or high-profile thought leadership Several years in content marketing (think 3-4+), across writing, visual, and video formats in a B2B marketing team (ABM, Multi-Channel campaigns) Genuinely excited to build with AI: you already use Claude or similar tools and want to push how far they go for content Comfortable working with senior external stakeholders and high-profile influencers, and holding your own with them Strong creative range and a portfolio of shipped work that proves you do the opposite of boring Hands-on maker: you produce content yourself (copy, presentations, video, social) and iterate fast Structured and reliable: you manage multiple formats and deadlines and keep people in the loop Nice to have EdTech experience Background in a storytelling-heavy field such as journalism, copywriting, video or documentary production, or podcasting (you know how to find a story and tell it) Research or data-storytelling chops, or an academic/scientific background, for report-grade content Experience producing live events or conferences Experience with HubSpot and marketing/automation tools Experience building AI agents or automated content workflows Benefits What you get You work with the best AI tools on the market (Claude, Microsoft Copilot, and whatever comes next) You shape how an entire category talks about AI adoption You work directly with the founder in a small, high-trust team where your ideas ship fast You create content for and with some of Europe's biggest enterprises, including Deutsche Telekom, Daimler Truck, and Siemens Energy You get our full support in building your personal brand and becoming a recognized voice in enterprise AI You work flexibly from our Berlin base, with room for remote work No more boring At Bots &#x26; People, \"No More Boring\" is the principle behind every training we run, and we hold our own content to exactly the same standard. If you are the kind of person who gets genuinely annoyed when a brilliant idea ends up as another lifeless corporate PDF, you will feel right at home here. You will have the tools, the creative freedom, and real enterprise stories worth telling, and we will back you to make work that people actually remember. Show us what you can do. Find Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "remote",
+      "marketing and communication"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/bots-and-people-product-gmbh/senior-enterprise-content-marketer-berlin-454123",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-d4b5ec98a846",
+    "title": "SAP Senior Berater PLM/ SCM/ EAM / PM / CS (M/W/D)",
+    "company": "BDF EXPERTS",
+    "location": "Düsseldorf",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "B uilding D igital F uture! Gestalte die digitale Zukunft als SAP Berater (M/W/D) im Maschinen- und Anlagenbau. BDF EXPERTS stellt die führenden Experten in den Bereichen Product Lifecycle Management, Supply Chain Management, Instandhaltung &#x26; Service und Corporate Finance &#x26; Treasury. Da digitale Prozesse zukünftig die Wertschöpfung bestimmen, unterstützen wir unsere Kunden bei der Digitalisierung und Optimierung komplexer Daten und Prozesse mit Hilfe von SAP ERP und S/4 HANA. Als offizieller SAP-Partner unterstützen wir innovative Mittelständler bis hin zu Weltkonzernen im Maschinen- und Anlagenbau, wie Schüco, Beumer, thyssenkrupp und vielen Weiteren. Flexible Teamstrukturen und flache Hierarchien prägen unsere Zusammenarbeit. Wir suchen kluge Köpfe, die gerne eigenständig agieren und mit ihren Ideen zum Unternehmenserfolg beitragen. Aufgaben nach angemessener Einarbeitungszeit: (Teil-)Projektleitung in aktuellen Projekten Beratung unserer Kunden durch die weltweit führende Lösung im Maschinen- und Anlagenbau: SAP PPG by BDF Weiterentwicklung der BDF Modellfabrik Eigenständige Fachkonzeptionierung Qualifikation Ausgeprägtes technisches Verständnis Mehrjährige Erfahrung in SAP Projekten und den SAP Modulen: PLM/ SCM/ EAM / PM / CS Kompetenz in der Implementierung von Komponenten des Product Lifecycle Managements, Supply Chain Management oder Instandhaltung und Service Verhandlungssicheres Deutsch und Englisch DAS ERWARTEN WIR Eigenverantwortung, Selbstständigkeit und Flexibilität Leadership und Intrapreneurship Begeisterung für komplexe Geschäftsprozesse Leidenschaft für die Digitalisierung Deutschlandweite hohe Reisebereitschaft Benefits Flexible Arbeitszeiten Home Office Ortsunabhängig Bonusmodell Long-term Incentive Firmenwagen / Bahncard 100 nach der Probezeit Mitarbeiterevents Attraktive Vergütung Urban Sports oder Hansefit Firmenfitness WIR FREUEN UNS AUF DEINE BEWERBUNG! DU HAST FRAGEN/ ANSPRECHPARTNERIN Karin van Soest Find Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "remote",
+      "sap/erp consulting",
+      "development"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/bdf-experts/sap-senior-berater-plm-scm-eam-pm-cs-dusseldorf-308973",
     "date_posted": null
   }
 ]
