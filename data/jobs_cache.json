@@ -1,5 +1,175 @@
 [
   {
+    "id": "jobicy-8b684c12561a",
+    "title": "Senior Full Stack Engineer",
+    "company": "infisical",
+    "location": "Brazil,  Canada,  Europe,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Infisical is the open source security infrastructure platform that engineers use for secrets management, certificates, and privileged access management. We help developers and organizations securely manage billions of secrets every month including application configuration, database credentials, certificates, and more. We’ve raised $19M from Y Combinator, Google, and Elad Gil, and our customers include Hugging Face,&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154483-senior-full-stack-engineer-4",
+    "date_posted": "2026-10-03"
+  },
+  {
+    "id": "jobicy-49a15bbde616",
+    "title": "Analytics Lead, Deposit Fraud Risk",
+    "company": "Affirm",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. The Fraud team at Affirm Bank works cross-functionally with Machine Learning, Product, Engineering, Operations to combat fraudulent activities to foster a safe platform. This&hellip;",
+    "required_skills": [
+      "data science & analytics"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154482-analytics-lead-deposit-fraud-risk",
+    "date_posted": "2026-10-03"
+  },
+  {
+    "id": "jobicy-fec4994af6ba",
+    "title": "Post-producer (Freelance)",
+    "company": "Monks",
+    "location": "Mexico",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Please note that we will never request payment or bank account information at any stage of the recruitment process. As we continue to grow our teams, we urge you to be cautious of fraudulent job postings or recruitment activities that misuse our company name and information. Please protect your personal information during any recruitment process.&hellip;",
+    "required_skills": [
+      "project & program management"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154484-post-producer-freelance",
+    "date_posted": "2026-10-03"
+  },
+  {
+    "id": "jobicy-7e3747b96aba",
+    "title": "Director of Engineering - Content Platform (Catalog)",
+    "company": "Spotify",
+    "location": "Sweden,  UK",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "We design Spotify’s consumer experience—end to end, moment to moment, across every screen, platform, and partner integration. Our mission is to make listening feel effortless, personal, and joyful for billions of users around the world. That means turning complexity into clarity across hundreds of touchpoints—from our mobile and desktop apps to the smart speakers, TVs,&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154481-director-of-engineering-content-platform-catalog",
+    "date_posted": "2026-10-03"
+  },
+  {
+    "id": "jobicy-f7dc6a2a8c35",
+    "title": "Analytics Engineer II, Full Stack (Revenue Analytics)",
+    "company": "Affirm",
+    "location": "Poland",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. We’re looking for a curious, driven professional to join our Revenue Analytics team. This builds and owns the data products, reporting infrastructure, semantic foundations,&hellip;",
+    "required_skills": [
+      "data science & analytics"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154478-analytics-engineer-ii-full-stack-revenue-analytics",
+    "date_posted": "2026-10-03"
+  },
+  {
+    "id": "jobicy-5a6097114d5a",
+    "title": "Data Scientist - Music Mission",
+    "company": "Spotify",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "The Music Mission enables music creators to grow, engage, and monetize their fan bases on Spotify. Central to the Music Mission's vision is the development of promotional tools for artists and label teams, powered by Spotify's deep knowledge of listener behavior. Products like Discovery Mode, Marquee, Showcase, Music Videos, and Clips help artists and their&hellip;",
+    "required_skills": [
+      "data science & analytics"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154472-data-scientist-music-mission",
+    "date_posted": "2026-10-03"
+  },
+  {
+    "id": "jobicy-841c96387e8b",
+    "title": "Enterprise Account Executive (DACH)",
+    "company": "infisical",
+    "location": "Germany",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Infisical is the open source security infrastructure platform that engineers use for secrets management, certificates, and privileged access management. We help developers and organizations securely manage billions of secrets every month including application configuration, database credentials, certificates, and more. We’ve raised $19M from Y Combinator, Google, and Elad Gil, and our customers include Hugging Face,&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154479-enterprise-account-executive-dach-4",
+    "date_posted": "2026-10-03"
+  },
+  {
+    "id": "jobicy-f81b89f66cff",
+    "title": "Data Scientist - Music Promotion",
+    "company": "Spotify",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "The Music Mission enables Music creators to grow, engage &amp; monetize their fan bases on Spotify. Central to the Music Mission's vision is the development of promotional tools for artist and label teams, powered by Spotify's deep knowledge of listener behavior. Products like Discovery Mode, Marquee, Showcase, Music Videos and Clips enable artists and their&hellip;",
+    "required_skills": [
+      "data science & analytics"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154477-data-scientist-music-promotion",
+    "date_posted": "2026-10-03"
+  },
+  {
+    "id": "jobicy-0cfbd461a43a",
+    "title": "Strategic Finance",
+    "company": "infisical",
+    "location": "Canada,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Infisical is the open source security infrastructure platform that engineers use for secrets management, certificates, and privileged access management. We help developers and organizations securely manage billions of secrets every month including application configuration, database credentials, certificates, and more. We’ve raised $19M from Y Combinator, Google, and Elad Gil, and our customers include Hugging Face,&hellip;",
+    "required_skills": [
+      "finance & accounting"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154474-strategic-finance",
+    "date_posted": "2026-10-03"
+  },
+  {
+    "id": "jobicy-34eac8c28849",
+    "title": "Analyst II, Full Stack",
+    "company": "Affirm",
+    "location": "Spain",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. Financial Systems owns the data and reporting foundation for Accounting, and the operational reliability of the pipelines that power reporting, reconciliations, and automation. We&hellip;",
+    "required_skills": [
+      "data science & analytics"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154473-analyst-ii-full-stack",
+    "date_posted": "2026-10-03"
+  },
+  {
     "id": "jobicy-7b6211d7c325",
     "title": "Business Development Manager - Strategic Cuisine (Mandarin)",
     "company": "Toast",
@@ -680,176 +850,6 @@
     "date_posted": "2026-10-03"
   },
   {
-    "id": "jobicy-042f81ca85c9",
-    "title": "Onboarding Project Manager",
-    "company": "Cloudbeds",
-    "location": "Europe",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "What Makes Us Unique At Cloudbeds, we're not just building software, we’re transforming hospitality. Our intelligently designed platform powers properties across 150 countries, processing billions in bookings annually. From independent properties to hotel groups, we help hoteliers transform operations and uplevel their commercial strategy through a unified platform that integrates with hundreds of partners. And&hellip;",
-    "required_skills": [
-      "product & operations"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/144915-onboarding-project-manager",
-    "date_posted": "2026-10-03"
-  },
-  {
-    "id": "jobicy-11e638004343",
-    "title": "Senior Solutions Architect - ACE",
-    "company": "Aviatrix",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "WHO WE ARE: Aviatrix® is pioneering the Cloud Native Security Fabric — the architecture the Containment Era requires. The Cloud Native Security Fabric governs every workload communication path across every cloud, every VPC, every Kubernetes cluster, and every serverless function, from a single policy plane. One rule. Universal propagation. Enforced at the workload, not&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/148145-senior-solutions-architect-ace",
-    "date_posted": "2026-10-03"
-  },
-  {
-    "id": "jobicy-129a7de18ac4",
-    "title": "Partner Success Manager (EMEA)",
-    "company": "Litmus",
-    "location": "Germany",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Who is Litmus Litmus is building the data foundation that powers industrial AI. AI doesn’t work without real-world, contextualized data - Litmus makes that data usable. As AI adoption accelerates, most industrial environments still can’t access or use their operational data. We solve that gap. We’re a growth-stage software company helping manufacturers access, structure, and&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/152394-partner-success-manager-emea",
-    "date_posted": "2026-10-03"
-  },
-  {
-    "id": "jobicy-ac06ae1f173b",
-    "title": "1775 RPG/AS400 & JD Edwards EnterpriseOne Developer",
-    "company": "Softgic",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "This is a remote position. We are looking for a professional with hands-on experience developing in RPG/RPGLE on IBM AS400/iSeries, as well as proven experience with JD Edwards EnterpriseOne development tools. We are not looking for an infrastructure administrator, a JD Edwards functional consultant, or an AS400 developer without JD Edwards experience. The ideal candidate&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/150052-1775-rpg-as400-jd-edwards-enterpriseone-developer",
-    "date_posted": "2026-10-03"
-  },
-  {
-    "id": "jobicy-05ae21e8bf7b",
-    "title": "Client Full-Stack Engineer — IM Chat Platform, Android Focus",
-    "company": "Binance",
-    "location": "APAC",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/150064-client-full-stack-engineer-im-chat-platform-android-focus",
-    "date_posted": "2026-10-03"
-  },
-  {
-    "id": "jobicy-f840256d8ff3",
-    "title": "US- Escalation Manager (Customer Support)",
-    "company": "PointClickCare",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At PointClickCare our mission is simple: to help providers deliver exceptional care. And that starts with our people. As a leading health tech company that’s founder-led and privately held, we empower our employees to push boundaries, innovate, and shape the future of healthcare. With the largest long-term and post-acute care dataset and a Marketplace of&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/150041-us-escalation-manager-customer-support",
-    "date_posted": "2026-10-03"
-  },
-  {
-    "id": "jobicy-a9042ab03409",
-    "title": "Canada- Escalation Manager (Customer Support)",
-    "company": "PointClickCare",
-    "location": "Canada",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At PointClickCare our mission is simple: to help providers deliver exceptional care. And that starts with our people. As a leading health tech company that’s founder-led and privately held, we empower our employees to push boundaries, innovate, and shape the future of healthcare. With the largest long-term and post-acute care dataset and a Marketplace of&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/150040-canada-escalation-manager-customer-support",
-    "date_posted": "2026-10-03"
-  },
-  {
-    "id": "jobicy-c107790bece5",
-    "title": "Client Onboarding Specialist",
-    "company": "Housecall Pro",
-    "location": "Mexico",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Why Housecall Pro? Help us build solutions that build better lives. At Housecall Pro, we show up to work every day to make a difference for real people: the home service professionals that support America’s 100 million homes. We’re all about the Pro, and dedicate our days to helping them streamline operations, scale their businesses,&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/152374-client-onboarding-specialist",
-    "date_posted": "2026-10-03"
-  },
-  {
-    "id": "jobicy-6cf28b21972b",
-    "title": "Director, Product & Segment Marketing Manager",
-    "company": "NetDocuments",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "NetDocuments is committed to providing an excellent candidate experience and will never ask you to engage in recruitment activity without phone, video, and in person meetings and communications from emails using the @netdocuments.com domain. If you have any concerns or questions about communications you have received, please send them to hrgroup@netdocuments.com so our team members can review.&hellip;",
-    "required_skills": [
-      "marketing & sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/152364-director-product-segment-marketing-manager",
-    "date_posted": "2026-10-03"
-  },
-  {
-    "id": "jobicy-5eb9bd771f31",
-    "title": "Customer Success Manager - WE",
-    "company": "Bloomreach",
-    "location": "UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Bloomreach is building the world’s premier agentic platform for personalization.We’re revolutionizing how businesses connect with their customers, building and deploying AI agents to personalize the entire customer journey. We're taking autonomous search mainstream, making product discovery more intuitive and conversational for customers, and more profitable for businesses. We’re making conversational shopping a reality, connecting every shopper with tailored guidance and product expertise&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/150037-customer-success-manager-we",
-    "date_posted": "2026-10-03"
-  },
-  {
     "id": "remotive-702e46f9463a",
     "title": "Senior back-end Engineer",
     "company": "Lemon.io",
@@ -1412,38 +1412,56 @@
     "date_posted": "2026-09-04"
   },
   {
-    "id": "arbeitnow-8f89febbb3e9",
-    "title": "Provider Credentialing and Practice Lead",
-    "company": "Neko Health",
+    "id": "arbeitnow-7d807c5d3be7",
+    "title": "Controller",
+    "company": "Notabene",
     "location": "Remote",
     "remote": true,
-    "location_restriction": null,
+    "location_restriction": "US only",
     "salary": null,
-    "description": "Mission Neko is redefining what prevention means, from treating illness when it arrives, to sustaining health before it's ever at risk. Our mission: make data-driven, preventative care accessible to more people, before symptoms appear. In a single, non-invasive visit under an hour, proprietary technology and direct clinical care combine to deliver personalised, actionable insights. It's a team that thinks in 10x, not 10%. Every role here plays a part in building a world where prevention is the norm, and where your work genuinely helps people live longer, healthier lives. Role Purpose The Clinical Practicec Lead owns practice management for Neko Health's United States professional corporation. The role covers four areas: provider credentialing, SOP organization and maintenance, onboarding operationalization, and compliance assurance. Neko runs a tech-enabled clinical model, and this role is expected to run all four through systems and automation rather than manual tracking. Credentialing: the role holds the credential file for every provider practicing under the PC: license, certification, permitted scope by state, malpractice coverage details and every other expirable, verified at source and kept current so that no provider ever sees a member on a lapsed credential. While Neko does not credential with payers today - this role runs the credentialing gate that clears a provider to practice and removes that clearance when a credential lapses. It supplies provider credentialing data into the clinic compliance systems and works to the credentialing standard and clear-to-practice definition set by the Head of Compliance. SOPs: the role owns the SOP library for US practice operations. The role keeps every SOP current, versioned, and easy to find, and retires SOPs that no longer apply. Onboarding: the role turns each new provider's onboarding plan into a working, tracked sequence: credentialing, system access, training, and clearance to start, in the right order and against a clear timeline. Compliance: the role checks that US practice operations meet the standards set by the Head of Compliance, and reports gaps as they surface. Systems and automation: the role chooses, configures and owns the tooling that carries all of the above — one source of truth for provider data, automated expiry alerts, and workflows that hand off cleanly between Talent Acquisition, the People Team, IT and clinical operations. Status should be visible from the system rather than assembled by hand. As Neko opens further states, credentialing volume and complexity grow faster than headcount, and practice operations grow with them. This role exists to make provider readiness, SOP currency, onboarding execution, and compliance standing a managed process with evidence behind it, built on tooling that scales faster than headcount, rather than a scramble before each launch. What You'll Deliver in the First 6–12 Months A current, auditable register of every clinician's license, credential, and permitted scope by state, held in a single system of record with automated expiry tracking and a named process for renewal before lapse. A complete credential file per provider practicing under the PC, with primary source verification evidence attached and dated. A written credentialing procedure covering intake, verification, the clear-to-practice decision, re-verification cycle, and removal of clearance. The credentialing gate built into the clinician onboarding sequence, so a start date cannot be confirmed without verified credentials. A current SOP library for US practice operations: indexed, version-controlled, and reviewed on a set cycle. An onboarding operations sequence that turns each new provider's plan into a tracked timeline from offer to start, with the credentialing gate built in. Practice operations running in-system rather than on spreadsheets: onboarding, SOP review cycles and compliance checks tracked in Neko's tooling, with the remaining manual steps documented and a plan to remove them. A compliance status report showing where US practice operations meet the Head of Compliance's standards, and where they do not, generated from the system rather than compiled by hand. Key Responsibilities Provider credentialing and primary source verification Run credentialing intake for every new provider joining the PC: application, document collection, and verification at source rather than from candidate-supplied copies. Verify state medical/nursing licenses, board certification, education and training, work history, and DEA registration where the provider's scope requires it. Operate the clear-to-practice gate: no provider is released to see members until the credential file is complete and verified. Maintain the permitted scope by state for each provider and flag to the Head of Compliance any request to practice outside it. Expirables, re-verification and removal Own the expirables calendar for licenses, certifications, DEA registrations, malpractice coverage and any other time-limited credential, driven by automated alerts rather than manual review. Chase renewals ahead of expiry against defined lead times and escalate when a renewal is at risk. Remove clearance to practice immediately when a credential lapses and notify the clinical rota owner and the Head of Compliance the same day. Run the re-verification cycle so credential files do not silently age. Systems, tooling and automation Select, implement and administer the tooling that runs practice operations: credentialing records, expiry tracking, onboarding workflow and SOP version control. Replace manual tracking with automated alerts, scheduled reporting and system-driven handoffs, and keep a running list of the steps still done by hand. Define the data structure behind credentialing and onboarding so status can be reported out of the system rather than reconstructed. Work with IT and, where relevant, product and engineering to integrate practice operations data with adjacent systems instead of maintaining parallel spreadsheets. SOP organization and maintenance Own the SOP library for US practice operations: create, index, and version every procedure. Review each SOP on a set cycle and update it when a process changes. Retire SOPs that no longer apply, and flag processes that run without one. Keep SOPs easy to find and use for the staff who rely on them day to day. Onboarding operationalization Turn each new provider's onboarding plan into a tracked sequence: credentialing, system access, training, and clearance to start. Own the onboarding timeline from offer to start date, and flag delays before they hit the start date. Coordinate with Talent Acquisition, the People Team, and clinical operations to keep the sequence moving. Improve the onboarding sequence as volume grows, including automation of tracking and reminders. Compliance assurance Confirm that US practice operations meet the standards set by the Head of Compliance. Run periodic checks against those standards, and report gaps as they surface. Support audits of practice operations with evidence drawn from SOPs, onboarding records, and the credentialing file. Escalate compliance gaps that need action beyond this role. Credentialing process, data and reporting Keep the credentialing record system accurate and audit-ready, so a credential file can be produced on request without reconstruction. Report credentialing status, upcoming expiries and blocked providers into the Medical Quality reporting cycle, on a set cadence and drawn from the system of record. Improve the credentialing process as volume grows, including automation of tracking and reminders. Prepare the function for payer credentialing and provider enrollment should Neko US move to billing insurance. About you Minimum Requirements Experience streamlining clinical or healthcare operations in a tech-enabled environment: you have taken a manual, spreadsheet-run process and rebuilt it as a system-driven workflow, and you can describe what you removed and what changed as a result. Experience working in a clinical operations capacity – where you were responsible for not just executing but building the systems to ensure credentialing, compliance and other clinical operations processes are handled excellently. Confident with operational tooling: you configure and administer the systems you depend on rather than raising a ticket for every change, and you are comfortable working with data, reporting and everyday automation. Direct, hands-on experience of state medical board licensure and clinician credentialing processes, including primary source verification. Experience maintaining a credentialing database or record system to an audit-ready standard. Experience developing, organizing, and maintaining SOPs in a clinical or regulated operations setting. Working knowledge of compliance standards in a healthcare or clinical operations setting, with experience checking operations against them. Precise and persistent administratively Preferred Experience in a digital health, telehealth or otherwise tech-enabled care setting, where clinical operations run on product and tooling rather than paper. Hands-on experience with credentialing or provider data platforms, and with the workflow and tracking tools used to run operations day to day. Experience working alongside product or engineering teams to specify what operational tooling needs to do. Direct experience provider credentialing in a United States clinical setting, including multi-state credentialing. Experience of credentialing in a newly opened market or a start-up clinical service where the process did not yet exist. Experience building an SOP program from scratch in a growing or newly opened operation. Compensation and Benefits Paid Time Off &amp; Holidays Medical, Dental, Vision, and Life Insurance 401(k) Retirement Plan Commuter Benefits Wellness Rewards Program Complimentary full Neko scan for you and eligible family members Compensation: $137K – $167K • $137K – $167K Find Jobs in Germany on Arbeitnow",
+    "description": "About Notabene Notabene is building infrastructure that's transforming how money moves in the digital economy. We're evolving beyond our compliance foundations to enable the next generation of digital financial services between regulated institutions with unprecedented efficiency. With nearly 50 employees across 14 countries and having recently closed our Series B round last November with support from leading investors including Y Combinator, DRW, F-Prime, Jump Capital, Castle Island, and Green Visor Capital, we're looking for people like you to help shape the future rails of the crypto industry. Location: US-based, Remote East Coast The impact you will have Notabene is planning on going through its first external financial statement audit, covering the fiscal years ending January 2026 and January 2027. You will own that process. You will also own the close, the books, and the accounting policy for a two-entity, multi-currency business whose revenue includes subscription fees, usage-based transaction billing, and a payments network take rate that has no clean accounting precedent anywhere. The accounting function is already substantially built. Close runs, the books are in order, and readiness work for the audit is well underway. What we need is someone to own it, finish it, and take it through the audit, while raising the standard on policy and documentation as the business gets more complex. You will be the most senior accounting voice in the company, reporting to the VP of Finance, with one direct report and a set of external providers. You will not have a large team before late 2027, and that is deliberate. Capacity here comes from better systems and better automation, and you will be the one deciding what those look like. Within a year you are successful if Notabene has a clean audit opinion on both fiscal years, with no material weaknesses and no second cycle on auditor requests The close hits its calendar consistently, starting with the revenue close landing on time Revenue recognition is documented in a written memo that stands up in fieldwork, rather than living only in the billing system configuration Multi-entity consolidation and FX translation run cleanly enough to survive audit scrutiny, with intercompany and CTA tied and supported Payroll allocation across departments and software development capitalization are written policy applied consistently, not judgment applied after the fact Key accounting controls are documented, operating, and evidenced At least two accounting processes that are manual today run without a person in the loop, and still hold up under audit What you will be doing Audit. Run the readiness assessment, build the remediation plan, contribute the technical view on which firm we engage, and then own the auditor relationship day to day. Close and reporting. Own the monthly, quarterly, and annual close across Notabene Inc. and Notabene GmbH. Produce GAAP financial statements, consolidations, intercompany eliminations, and FX translation under ASC 830. Technical accounting. Write the positions and the memos. ASC 606 across three revenue models, ASC 350-40 for internal-use software capitalization, ASC 718 for stock compensation expense, and whatever emerges as stablecoin payment revenue matures. Revenue and billing systems. Own Tabs as the billing and revenue system of record, including contract configuration, usage data integrity, and the bridge from Tabs to the general ledger. Cost accounting. Build the payroll allocation method for people whose work splits across functions, and the capitalization policy for development work, so departmental margin reflects where effort actually goes. Controls. Design and implement controls over revenue, cash, procure to pay, and payroll. Not SOX. Controls that operate, are evidenced, and can be walked by an auditor. Automation. Evaluate the accounting stack and the processes running on it with a bias toward automation, including agentic tooling where work is rule-bound and high volume. Categorization, reconciliation matching, usage validation, and collections follow-up are the obvious places to start. Accounting operations. Own AR and collections with your direct report, plus AP and payroll accounting. Employee onboarding and HRIS administration sit with People, not with you. Tax. Own US tax compliance in coordination with our external advisers, including the income tax provision and sales tax. Coordinate Swiss compliance with our local accountants. External providers. We produce revenue in-house, our Swiss accountants produce their piece, and our outsourced firm assembles the close. You will own the checklist, the policies, and the reconciliations, so providers execute against a Notabene-owned close rather than holding it themselves. What you bring Experience as a Controller, Assistant Controller, or Senior Accounting Manager at a venture-backed company, with a track record of raising the standard on process rather than just running what exists You have taken a company through a first external audit and can describe specifically what broke and what you did about it Month-end close ownership across two or more legal entities in different currencies Deep, hands-on ASC 606, applied to at least one revenue model without clean precedent, and defended to an auditor You operate in the detail. You build the calendar, do the reconciliations, and touch the ledger Experience developing a small team or a single direct report Nice to have Active CPA license Usage-based or consumption billing experience, particularly Tabs, Metronome, Maxio, or similar Public accounting background, especially audit Software development capitalization under ASC 350-40, including the time capture that makes it auditable Experience replacing manual accounting work with automation, and a clear view on what should stay manual Swiss entity experience, including CHF functional currency and Swiss statutory or VAT exposure Digital assets, payments, or regulated financial services exposure Benefits Flexible Remote Work: Work from anywhere! $1000 WFH Stipend: Use within your first year of employment. MacBook Pro: Procured by you and your manager to find a model that meets your needs. Unlimited PTO: We trust you to take as much holiday as you need. Country-Specific Benefits: Statutory offerings and contributions, managed via our employer-of-record. Apply Today! If you strongly believe this role is for you, please apply. Notabene considers a broad array of candidates, including those without blockchain experience. Whether you're returning to work after a gap in employment, or taking the next step in your career path, we will be glad to have you on our radar. Notabene is proud to be an equal employment workplace and an affirmative action employer. By valuing inclusion and diversity of all forms, we strictly prohibit and do not discriminate based on race, color, religion, national origin, gender, gender identity, gender expression, age, ancestry, citizenship, sexual orientation. Find Jobs in Germany on Arbeitnow",
     "required_skills": [
-      "medical excellence"
+      "finance"
     ],
     "requirements": [],
     "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/neko-health/remote-provider-credentialing-and-practice-lead-465997",
+    "url": "https://www.arbeitnow.com/jobs/companies/notabene/remote-controller-358524",
     "date_posted": null
   },
   {
-    "id": "arbeitnow-7cb3365a38c4",
-    "title": "Project Manager - Software Implementation (m/f/x)",
-    "company": "Makersite GmbH",
+    "id": "arbeitnow-dd3d1d4c3e67",
+    "title": "Market Lead DACH / Senior Account Executive",
+    "company": "Aquablu B.V",
     "location": "Remote job",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Job Title: Project Manager - Software Implementation (m/f/x)&nbsp; Location: EU (Remote)&nbsp; &nbsp; Who You’ll Work For: &nbsp; &nbsp; At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle management (PLM), we empower companies to make smarter, more sustainable decisions across their entire supply chain. Our cutting-edge software enables teams to design, prototype, and manufacture with transparency, efficiency, and responsibility—reducing environmental impact while optimizing performance.&nbsp; We're a fast-growing, innovative company that thrives on creativity, collaboration, and continuous learning. If you're passionate about technology, sustainability, and creating meaningful impact, we’d love to hear from you. Join us and be a part of shaping the future of manufacturing and product innovation.&nbsp; &nbsp; Who we're looking for: &nbsp; &nbsp; As part of our growing team, you will play a key role in shaping the future of sustainable product development. We’re looking for innovative, driven Project Managers who are passionate about technology and sustainability to join us in building tools that enable companies to make smarter, more responsible decisions. In this role, you’ll have the opportunity to collaborate with talented professionals, contribute to cutting-edge projects, and help drive the digital transformation of industries worldwide. If you're ready to make an impact and contribute to meaningful change, we want to hear from you!&nbsp; This role is a fixed, permanent position. All successful applicants will receive a permanent employment contract regardless of location.&nbsp;&nbsp; &nbsp; The role: &nbsp; &nbsp; Lead the planning and implementation of software projects related to system connections with our customers, ensuring they are delivered on time and within scope.&nbsp; Maintain and update project plans, proactively identifying and managing any project risks.&nbsp; Ensure the availability of the right expertise for each project phase, coordinating with internal and external resources as necessary.&nbsp; Manage stakeholder expectations, delivering regular and comprehensive project updates and effectively resolving any arising issues.&nbsp; Contribute to the standardization of project implementation methodology and project templates to improve project standardization and efficiency.&nbsp; Generate thorough Project/Solution Documentation, outlining project goals, deliverables, and timelines.&nbsp; Handle all customer communication across various projects, ensuring clear, consistent, and timely communication with all stakeholders.&nbsp; Master's degree in project management or related technical field required.&nbsp; Background in Electronics/Electricals Professional Project Management Certification from an accredited institution preferred.&nbsp; Demonstrated understanding of Project Management processes, strategies, and methods&nbsp; Excellent time management and organizational skills and experience establishing guidelines in these areas for others.&nbsp; 3+ years of Project management experience in the field of software implementations&nbsp; Experience with complex data projects where a systematic approach is crucial to success.&nbsp; Dexterity with software tools and data manipulation &amp; analysis&nbsp; A creative mind that can think outside the box.&nbsp; Curiosity to find disruptive as opposed to incremental solutions to challenging data problems.&nbsp; Residing in and legally permitted to work in the EU.&nbsp; &nbsp; What We Offer: &nbsp; &nbsp; Competitive Salary – We reward your skills and experience with a compensation package that reflects your value.&nbsp; 30 Days Paid Time Off – Take the time you need to recharge and maintain a healthy work-life balance.&nbsp; Remote-First Flexibility – Work from anywhere in the EU, with the option to collaborate in person at our offices in Stuttgart, Berlin (role dependent).&nbsp; Generous Learning &amp; Development Budget – We invest in your growth, providing ample resources for personal and professional development.&nbsp; Choose Your Ideal Work Equipment – Whether you prefer Apple or Microsoft, we’ll equip you with the tools you need to excel.&nbsp; &nbsp; The Experience: &nbsp; &nbsp; Purpose-Driven Work – Build something meaningful. Here, you’re not just creating another app; you’re contributing to a transformative vision that you can be proud of.&nbsp; Great Colleagues – Join a team that’s open, transparent, and international. We value inclusivity and foster a culture of collaboration and mutual respect.&nbsp; Work-Life Balance – As a remote-first company, we trust you to do your best work, your way. You have the flexibility to work when it suits you, ensuring a healthy balance between personal and professional life.&nbsp; Pride in Impact – We're already making a significant difference with global, well-known customers who share our vision. Be part of something that matters.&nbsp; Stability with Ambition – With realistic growth plans, we’re committed to changing the way things are made—without sacrificing our ambitious goals for innovation and impact.&nbsp; If you want to find out more about what it’s like to work at Makersite, check out our Careers Page here &nbsp; &nbsp;&nbsp; Diversity and Inclusion &nbsp; If you have a medical condition or an individual need for an adjustment to our process, and you believe this may affect your ability to be at your best – please let us know so we can talk about how we can best support you and make any adjustments that may be needed.&nbsp;&nbsp; &nbsp; At Makersite, we are dedicated to fostering an environment that champions diversity, equity, inclusion, and belonging. We believe that diverse teams drive innovation and success, and we are proud to be an equal opportunity employer. We welcome applicants from all backgrounds and will consider all applications regardless of age, disability, gender identity, marital status, pregnancy or maternity, race, nationality, religion, sex, sexual orientation, or any other status protected by applicable law. Rest assured, all applications will be handled with the utmost confidentiality.&nbsp; Find Jobs in Germany on Arbeitnow",
+    "description": "🌊 Who are we? We're a smart hydration company rebuilding an industry that still runs on sugar water and single-use packaging. Filtered water, functional flavors, zero bottles. Still, sparkling, cold, and hot. All poured from one tap. We create hydration people want to reach for, starting with the workplace where we help teams thrive. As an AI-native company, we build at speed. In 2025, Aquablu ranked 2nd in the Deloitte Technology Fast 50 (Netherlands) and 30th in the Sifted 250 (Europe), both rankings of the fastest-growing companies by revenue growth. In 2026 we were named a winner of Maya's Culture 100 Europe Awards as one of the best workplaces to thrive in. Growing that fast and thriving comes down to our people. Our team is our biggest asset and one that we’re proud of. We’re committed to maintaining our vibrant culture as we continue to grow. About the role Aquablu is looking for a Senior Account Executive / Market Lead to open the German market for our direct sales channel . You are the first Aquablu seller on the ground in Germany and you own the market end-to-end: you generate the pipeline, close the deals, work directly with our Facility Management and Contract Catering partners, and shape how we go to market in Germany. This is a senior individual-contributor role with a clear entrepreneurial mandate: build . It is designed for a country builder or a former sales manager who wants to go back into a closing seat, own a market, and grow into leading the German team once the numbers justify it. You are based in or around Frankfurt am Main, Berlin or Cologne/Düsseldorf. What you'll do Germany is yours to build Own the German direct territory and build the pipeline that hits target. Work your named accounts, run your own outbound into end clients and the FM/CM layer, answer inbound within SLA, and qualify every meeting your BDR books. Run the full cycle with SPICED. You'll lead discovery, demo to every stakeholder in the room, set up pilots with success criteria agreed upfront, and take Pay-Per-Drink proposals through negotiation to signature. HubSpot stays current, and your monthly forecast holds up when someone pushes on it. Shape the German go-to-market plan with Marketing, from positioning and ABM to content and events. Sit down together every month and read the funnel. Write the German playbook and make it the way the team sells. Coach the BDR Germany, build the case for the next German hires, and be ready to lead them when they arrive. About you 6–10 years of B2B full-cycle sales , with a proven record of carrying and beating a new-business target in a recurring-revenue or hardware-enabled-SaaS model You have built before : opened a country, region or segment, or led a sales team and you now want to own a market as an individual contributor with a path to lead it Fluent German, business-fluent English: you sell and contract in German and work in English with the Amsterdam team Customer-centric seller : you run a structured, SPICED-based process from discovery to decision — you diagnose the customer's situation and impact before you pitch, and you build consensus across a buying committee without a single sponsor handing you the deal Pipeline builder : you know how much pipeline your target requires and you generate it your own outbound, fast inbound conversion, BDR meetings as a bonus, not the plan FM / Contract Catering / Workplace Services experience : you know how the FM layer, the site manager and the end-client Facilities or Procurement lead interact and who decides Marketing-literate : you shape what the German buyer needs to hear and co-design campaigns and events for your market Resilient, autonomous, mobile : office and field, regular travel across Germany, periodic weeks at Amsterdam HQ Nice to have Experience working hand-in-hand with Marketing on ABM and local demand generation Background in sustainability, workplace experience or food &amp; beverage services FM / Contract Catering / Workplace Services experience : you know how the FM layer, the site manager and the end-client Facilities or Procurement lead interact and who decides Why Aquablu? You will be part of a young, fun and ambitious team which aims to change the way people consume water! 💰 A yearly salary between €65k – €88k base salary with a 70/30 OTE structure 🌴 26 paid holiday days 📈 Equity through our Aquablu for All plan — everyone shares in what we’re building 🌱 Healthy (heavily discounted) lunches 💪 Urban Sports Club membership 🚀 Access to the Corporate Benefits platform for endless savings 🚆 Travel compensation &gt;10km 👴 A pension plan by Zwitserleven. 💧 Endless amount of our very own flavoured water ! 💙Check out out our Youtube to get a feeling for the culture at Aquablu! Find Jobs in Germany on Arbeitnow",
     "required_skills": [
-      "services and data",
+      "sales",
       "remote"
     ],
     "requirements": [],
     "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-project-manager-software-implementation-berlin-35325",
+    "url": "https://www.arbeitnow.com/jobs/companies/aquablu-bv/remote-market-lead-dach-senior-account-executive-frankfurt-71387",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-5bb5844b5d5c",
+    "title": "Senior Project Manager (m/w/d)",
+    "company": "epilot GmbH",
+    "location": "Remote job",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Du bist jemand,&nbsp;der gerne Verantwortung übernimmt und Projekte von der Planung bis zum erfolgreichen Abschluss begleitet? Bei uns wirst du zentrale:r Ansprechpartner:in für unsere Kunden, steuerst deren Projekte und trägst aktiv dazu bei, Leuchtturmprojekte zu schaffen, die unser Wachstum vorantreiben. In enger Zusammenarbeit mit unseren Produktentwickler:innen stellst du sicher, dass Zeit, Budget und Qualität stets im Einklang bleiben und Risiken proaktiv gemanagt werden. Du suchst eine neue Herausforderung in einem ambitionierten Team auf dem Weg, die 360° Plattform für die Energiewende weiterzuentwickeln? Dann freuen wir uns auf deine Bewerbung! epilot digitalisiert die Energiewirtschaft mit einer einzigartigen Cloud-Software. Wir sind ein wachsendes Scale-Up im Herzen von Köln. Unsere Mission: epilot revolutioniert die Zusammenarbeit von allen Marktpartnern, die in der Energiewelt zur Erbringung von Produkten und Dienstleistungen zusammenarbeiten. Wir bieten innerhalb der Cloudwelt ein großes Netzwerk aus Partnern, welches durch die Community ständig erweitert wird. Wir „epiloten“ sind ein Team aus Experten aus den Bereichen Softwareentwicklung, Energiewirtschaft, Produktmanagement und Sales.&nbsp;Um unsere Lösung noch schneller in der Energiewelt an die Spitze zu bringen, suchen wir ab sofort dich als &nbsp; Senior Project Manager&nbsp;(m/w/d) . Das erwartet dich Erste:r Ansprechpartner:i n : Du bist der zentrale Kontakt für unsere Kunden, verstehst ihre Anforderungen und stimmst dich dazu eng mit den Produktentwicklungsteams von epilot ab. Dein Ziel ist es immer, das Projekt und den Kunden an unserer Roadmap als SaaS Company auszurichten. Projektsteuerung : Du übernimmst die Verantwortung für deine Kundenprojekte und begleitest diese bis zum erfolgreichen Abschluss. Leuchtturmkunden : Durch die erfolgreiche Projektarbeit baust du Leuchtturmkunden auf und hilfst diese in Zusammenarbeit mit Sales und Marketing zu vermarkten. Leistungssicherung : Du stellst sicher, dass wir unsere vertraglichen Scope erfüllen und überwachst dafür Time, Budget und Quality. Risikomanagement : Du identifizierst Risiken frühzeitig und managst Eskalationen professionell. Dokumentation und Reporting : Du dokumentierst den Projektverlauf in geeigneter Form und reportest den Projektstatus, um den Fortschritt allen Stakeholdern transparent zu machen. Unterstützung und Akquisition : Bei Bedarf unterstützt du bei Angeboten und Ausschreibungen und hilfst bei der Akquirierung neuer Projekte gemeinsam mit dem Vertrieb, sowie bei der Weiterentwicklung von Kundenbeziehungen. Das bringst du mit Erfahrung im klassischen sowie agilen IT-Projektmanagement. Erfahrungen in der Zusammenarbeit mit Software-Entwicklungsteams. Idealerweise Kenntnisse / Erfahrungen in der Energiewirtschaft oder SaaS Bereich. Analytisches und strukturiertes Vorgehen sowie Überblick fürs „große Ganze“ – auch bei hoher Projektkomplexität. Starke Kommunikationsfähigkeiten und unternehmerisches Denken an der Schnittstelle zwischen externen und internen Stakeholdern. Fähigkeit zur Risikobewertung und proaktivem Risikomanagement. Du verfügst über sehr gute Deutsch- und Englischkenntnisse in Sprache und Schrift. Wir freuen uns, wenn du bereits Nachweise von Schlüsselqualifikationen aus den Bereichen IPMA, SCRUM Master/CSPO, PRINCE2 Practitioner, ITIL Foundation, PMP oder AgilePM Practitioner mitbringst Das bieten wir dir Die Möglichkeit, die erfolgreichste SaaS-Plattform auf dem Energiemarkt mit aufzubauen. Start-up-Mentalität: dynamische Atmosphäre und großartiger Teamspirit. Ein stark wachsendes Unternehmen mit offener Kommunikationskultur, motivierten Kolleg:innen, und internationaler Unternehmenskultur Exponentielle Lernkurve – epilot wächst rasant, selbiges erwarten wir von dir Einen zentralen und modernen Standort im Herzen von Köln mit coolen Cafés direkt um die Ecke Transparenz – Wir pflegen eine sehr flache und offene Unternehmenskultur, alles ist einsehbar und steht zur Diskussion. Regelmäßige Teamevents wie bspw. zu Karneval, das Sommerfest, Weihnachtsfeier, Company Breakfast und noch viel mehr Gelegenheiten deine epilot:innen auch außerhalb der Arbeitszeiten kennenzulernen Die Möglichkeit für mobiles, flexibles Arbeiten, Sportangebote u.v.m. Immer noch nicht überzeugt? Hier unser Versprechen an alle zukünftigen epilot:innen: promise.epilot.cloud P.S.: Falls du dir nicht sicher bist, ob diese Stelle noch offen sein sollte, dann schau einfach unter https://epilot.cloud/karriere/ (dort findest du natürlich auch alle weiteren offenen Positionen). Wenn sie dort noch online ist, dann suchen wir auch noch. Also: worauf wartest du noch? Wir freuen uns über Bewerbungen von Menschen aller Herkunft, unabhängig von Geschlecht, ethnischer Zugehörigkeit, Alter, Behinderung oder sexueller Orientierung! Find more English Speaking Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "projectmanagement",
+      "remote"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/epilot-gmbh/remote-senior-project-manager-koln-495722",
     "date_posted": null
   }
 ]
