@@ -1,5 +1,345 @@
 [
   {
+    "id": "jobicy-8924928219dd",
+    "title": "CRM Marketing Intern",
+    "company": "Catawiki",
+    "location": "Netherlands",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "At Catawiki, every day brings the extraordinary! Whether it’s Daniel Ricciardo’s Formula 1 Car, a Woolly Mammoth’s Skeleton, Lady Gaga's Jumpsuit or Usain Bolt’s running shoe, we encounter exceptional objects every day. We’re a one-of-a-kind marketplace for buying and selling special objects. Each week, more than 100,000 unique items are auctioned, all carefully curated by&hellip;",
+    "required_skills": [
+      "marketing & sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154706-crm-marketing-intern",
+    "date_posted": "2026-10-06"
+  },
+  {
+    "id": "jobicy-87b59fb788d4",
+    "title": "Principal Dark Web Collection Analyst",
+    "company": "Recorded Future, Inc.",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "With 1,000+ intelligence professionals serving over 1,900 clients worldwide, Recorded Future is the world’s most advanced, and largest, intelligence company! Recorded Future is expanding its dark web collection capability with a focus on underground community intelligence — criminal forums, illicit marketplaces, and covert messaging channels where threat actors recruit, collaborate, and transact. You will be&hellip;",
+    "required_skills": [
+      "cybersecurity"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154704-principal-dark-web-collection-analyst",
+    "date_posted": "2026-10-06"
+  },
+  {
+    "id": "jobicy-f1359d5e8021",
+    "title": "Senior Software Engineering Manager, Managed Gateways SREs",
+    "company": "Kong Inc.",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Are you ready to unlock intelligence? If you don’t think you meet all of the criteria below but are still interested in the job, please apply. Nobody checks every box - we’re looking for candidates that are particularly strong in a few areas, and have some interest and capabilities in others. Location:Washington The Mission: As&hellip;",
+    "required_skills": [
+      "devops & infrastructure"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154703-senior-software-engineering-manager-managed-gateways-sres",
+    "date_posted": "2026-10-06"
+  },
+  {
+    "id": "jobicy-049ddd6c7b85",
+    "title": "Senior Trader, SeatGeek IQ",
+    "company": "SeatGeek",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "SeatGeek believes live events are powerful experiences that unite humans. With our technological savvy and fan-first attitude we’re simplifying and modernizing the ticketing industry. SeatGeekIQ works alongside major sports and entertainment rightsholders to build and run a collaborative pricing and inventory strategy, operating as an extension of their commercial teams and accountable to the same&hellip;",
+    "required_skills": [
+      "finance & accounting"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154700-senior-trader-seatgeek-iq",
+    "date_posted": "2026-10-06"
+  },
+  {
+    "id": "jobicy-59be2f0403a7",
+    "title": "EDR Engineer / Senior EDR Engineer",
+    "company": "Recorded Future, Inc.",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "With 1,000+ intelligence professionals serving over 1,900 clients worldwide, Recorded Future is the world’s most advanced, and largest, intelligence company! The EDR Security Engineer is responsible for the technical administration, configuration, and maintenance of Endpoint Detection and Response (EDR) platforms. As a member of the Incident Response (IR) team, this role ensures the integrity of&hellip;",
+    "required_skills": [
+      "cybersecurity"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154699-edr-engineer-senior-edr-engineer",
+    "date_posted": "2026-10-06"
+  },
+  {
+    "id": "jobicy-e648b0bb4f49",
+    "title": "Enterprise SDR",
+    "company": "Rockbot",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Enterprise Sales Development Representative (SDR) Why This Role Matters Every day, millions of consumers engage with businesses in physical locations — from retailers and grocery stores to restaurants, gyms, hospitality venues, convenience stores, and healthcare providers. While digital advertising has transformed online experiences, physical businesses are only beginning to modernize how they engage customers and&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154702-enterprise-sdr",
+    "date_posted": "2026-10-06"
+  },
+  {
+    "id": "jobicy-4b61107461bf",
+    "title": "Director, Talent Acquisition",
+    "company": "Rockbot",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Rockbot is building a People &amp; Talent organization capable of operating at the same high standard on both halves of the function. The People side already has that leadership in place; Talent Acquisition is the remaining gap. Today, recruiting runs through a strong technical recruiter and a senior GTM recruiting consultant — a structure that&hellip;",
+    "required_skills": [
+      "hr & recruiting"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154698-director-talent-acquisition-2",
+    "date_posted": "2026-10-06"
+  },
+  {
+    "id": "jobicy-486e427f719e",
+    "title": "Senior UX Designer",
+    "company": "SeatGeek",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "SeatGeek believes live events are powerful experiences that unite humans. With our technological savvy and fan-first attitude we’re simplifying and modernizing the ticketing industry. SeatGeek's user experience team is seeking a senior designer to change live experiences. This person is highly skilled in behavioral design, systems design, and storytelling. They will define strategies, provide end-to-end&hellip;",
+    "required_skills": [
+      "web, ui & ux design"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154705-senior-ux-designer",
+    "date_posted": "2026-10-06"
+  },
+  {
+    "id": "jobicy-4b3e553f7589",
+    "title": "Commercial, Post-War Art & Prints Intern",
+    "company": "Catawiki",
+    "location": "Netherlands",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "At Catawiki, every day brings the extraordinary! Whether it’s Daniel Ricciardo’s Formula 1 Car, a Woolly Mammoth’s Skeleton, Lady Gaga's Jumpsuit or Usain Bolt’s running shoe, we encounter exceptional objects every day. We’re a one-of-a-kind marketplace for buying and selling special objects. Each week, more than 100,000 unique items are auctioned, all carefully curated by&hellip;",
+    "required_skills": [
+      "business development"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154701-commercial-post-war-art-prints-intern",
+    "date_posted": "2026-10-06"
+  },
+  {
+    "id": "jobicy-eb5c9c48c2cf",
+    "title": "Lead Entertainment Consultant, Tour Performance",
+    "company": "SeatGeek",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "SeatGeek believes live events are powerful experiences that unite humans. With our technological savvy and fan-first attitude we’re simplifying and modernizing the ticketing industry. This role is responsible for the day-to-day commercial execution and success of the Entertainment touring portfolio. This role partners closely with promoters, client venues, Client Success, Marketing, Product, Business Operations, and&hellip;",
+    "required_skills": [
+      "product & operations"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154697-lead-entertainment-consultant-tour-performance",
+    "date_posted": "2026-10-06"
+  },
+  {
+    "id": "jobicy-0078fe4c672b",
+    "title": "Contract Staff Software Engineer-FireFox Layout",
+    "company": "Mozilla",
+    "location": "Canada",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "You will take on the ongoing maintenance and routine engineering work in Firefox’s Layout area (CSS, page layout, APZ, text, images). Working independently at a tech-lead level, you keep the Layout code healthy. Responsibilities Own day-to-day Layout maintenance: fix bugs and regressions, keep tests green, handle incoming issues. Diagnose and fix Layout problems across platforms&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154690-contract-staff-software-engineer-firefox-layout",
+    "date_posted": "2026-10-06"
+  },
+  {
+    "id": "jobicy-2e50994f3b43",
+    "title": "Staff AI Engineer (Data & Intelligence function)",
+    "company": "Acquia, Inc.",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Acquia Acquia empowers the world’s most ambitious brands to create digital customer experiences that matter. With open source Drupal at its core, the Acquia Digital Experience Platform (DXP) enables marketers, developers, and IT operations teams at thousands of global organizations to rapidly compose and deploy digital products and services that engage customers, enhance conversions,&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154694-staff-ai-engineer-data-intelligence-function",
+    "date_posted": "2026-10-06"
+  },
+  {
+    "id": "jobicy-de570797f342",
+    "title": "Senior Security Analyst",
+    "company": "Abby Care",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Abby Care: Powering the future of care at home for all of America. Abby Care is building the leading AI-native platform for family-led care. America is facing a growing care crisis. Millions more people need care at home than ever. Over 50 million family caregivers support loved ones without the tools, training, or recognition&hellip;",
+    "required_skills": [
+      "cybersecurity"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154692-senior-security-analyst",
+    "date_posted": "2026-10-06"
+  },
+  {
+    "id": "jobicy-ec82bfa9e352",
+    "title": "Associate General Counsel, Privacy, Product & AI",
+    "company": "Abby Care",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Abby Care: Powering the future of care at home for all of America. Abby Care is building the leading AI-native platform for family-led care. America is facing a growing care crisis. Millions more people need care at home than ever. Over 50 million family caregivers support loved ones without the tools, training, or recognition&hellip;",
+    "required_skills": [
+      "legal & compliance"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154689-associate-general-counsel-privacy-product-ai",
+    "date_posted": "2026-10-06"
+  },
+  {
+    "id": "jobicy-b635ff762cba",
+    "title": "Senior Financial Analyst",
+    "company": "Mozilla",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Why Mozilla? Mozilla Corporation is the non-profit-backed technology company that has shaped the internet for the better over the last 25 years. We make pioneering brands like Firefox, the privacy-minded web browser. Now, with more than 225 million people around the world using our products each month, we're shaping the next 25 years of technology&hellip;",
+    "required_skills": [
+      "finance & accounting"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154696-senior-financial-analyst-3",
+    "date_posted": "2026-10-06"
+  },
+  {
+    "id": "jobicy-2119e0e8e8a9",
+    "title": "Senior Accounting Manager",
+    "company": "Mozilla",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Mozilla.org Mozilla is a mission-driven portfolio of companies and organizations working together to shape an internet that serves people and the public good. Currently, this portfolio includes: the Mozilla Foundation, which champions our mission through philanthropic risk capital; Mozilla Corporation, which makes Firefox; MZLA, which makes Thunderbird; Mozilla Ventures, which invests in responsible tech&hellip;",
+    "required_skills": [
+      "finance & accounting"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154695-senior-accounting-manager-2",
+    "date_posted": "2026-10-06"
+  },
+  {
+    "id": "jobicy-e5c08ad4cb1a",
+    "title": "Contract Staff Software Engineer - Performance Graphics (C++,Rust, WebGL)",
+    "company": "Mozilla",
+    "location": "Canada",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "The role You will take on the ongoing maintenance and engineering work in Firefox’s Graphics area (rendering, compositing, images, canvas, WebGL). You help keep the graphics code healthy. Responsibilities Own day-to-day Graphics maintenance: bug fixes, regressions, test upkeep, incoming issues. Diagnose and fix graphics problems across platforms (Windows, macOS, Linux, Android). Carry code review and&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154693-contract-staff-software-engineer-performance-graphics-crust-webgl",
+    "date_posted": "2026-10-06"
+  },
+  {
+    "id": "jobicy-941d7f9d20d3",
+    "title": "Director, Technology Alliance Partnerships",
+    "company": "Acquia, Inc.",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Acquia Acquia empowers the world’s most ambitious brands to create digital customer experiences that matter. With open source Drupal at its core, the Acquia Digital Experience Platform (DXP) enables marketers, developers, and IT operations teams at thousands of global organizations to rapidly compose and deploy digital products and services that engage customers, enhance conversions,&hellip;",
+    "required_skills": [
+      "business development"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154687-director-technology-alliance-partnerships",
+    "date_posted": "2026-10-06"
+  },
+  {
+    "id": "jobicy-c2a2f3605ae7",
+    "title": "Sales Account Executive",
+    "company": "AppSamurai",
+    "location": "Brazil",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Let create the future of mobile user engagement together! Would you like to be at the center of a digital storytelling revolution? Do you enjoy technology but also love getting to know people? Then let's carry on because we're searching for a technical sales wiz help brands connect, share, learn and engage with their audiences&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154691-sales-account-executive-2",
+    "date_posted": "2026-10-06"
+  },
+  {
+    "id": "jobicy-32c34aa5a781",
+    "title": "Group Product Manager",
+    "company": "Teachable",
+    "location": "Brazil",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "What is Teachable? Teachable is the platform for experts and businesses who take education seriously. In a world where anyone can ask AI for information, we're the home for those who educate with purpose, modernity, and humanity. We help experts and businesses scale their impact and operations through courses, coaching, and digital downloads that students&hellip;",
+    "required_skills": [
+      "product & operations"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154688-group-product-manager",
+    "date_posted": "2026-10-06"
+  },
+  {
     "id": "jobicy-24c18e733910",
     "title": "Senior Information Security Engineer",
     "company": "Five9",
@@ -507,346 +847,6 @@
     "requirements": [],
     "source": "Jobicy",
     "url": "https://jobicy.com/jobs/152572-area-pre-sales-engineer-france",
-    "date_posted": "2026-10-06"
-  },
-  {
-    "id": "jobicy-445be2b85e9b",
-    "title": "Solutions Engineer - Spain (German Speaking)",
-    "company": "Quantum Metric",
-    "location": "Spain",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Our Culture Quantum Metric's number one objective is happy people, diverse and inclusive culture. We’re passionate about empowering our people to become the best version of themselves, offering coaching and training programs designed to accelerate their career in whatever direction they choose. As a remote-first company, we understand the importance of building an engaged,&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/152571-solutions-engineer-spain-german-speaking",
-    "date_posted": "2026-10-06"
-  },
-  {
-    "id": "jobicy-82153f3eacaa",
-    "title": "Manager, Customer Success - Upmarket",
-    "company": "6sense",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Our Mission: 6sense's mission is to multiply what matters: growth, retention, and efficiency. We envision a future where companies, teams and people reach their full potential. Our People: People are the heart and soul of 6sense. We serve with passion and purpose. We live by our Being 6sense values of Win as One Team, Stay&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/152593-manager-customer-success-upmarket",
-    "date_posted": "2026-10-06"
-  },
-  {
-    "id": "jobicy-588d746777cf",
-    "title": "Manager, Fund Administration (Accounting)",
-    "company": "Juniper Square",
-    "location": "Canada,  USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Juniper Square Private markets are one of the largest, most complex, and most underserved corners of global finance. Our mission at Juniper Square is to unlock their full potential. We’re the Operations Partner trusted by 2,300+ GPs, unifying technology, data, and fund administration services into a single platform that helps GPs move faster, make&hellip;",
-    "required_skills": [
-      "finance & accounting"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/152591-manager-fund-administration-accounting",
-    "date_posted": "2026-10-06"
-  },
-  {
-    "id": "jobicy-9db7e0034d52",
-    "title": "Global Specialized Domain Expert Recruiter (Contractor)",
-    "company": "Labelbox",
-    "location": "LATAM,  Europe,  USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Shape the Future of AI At Labelbox, we're building the critical infrastructure that powers breakthrough AI models at leading research labs and enterprises. Since 2018, we've been pioneering data-centric approaches that are fundamental to AI development, and our work becomes even more essential as AI capabilities expand exponentially. About Labelbox We're the only company offering&hellip;",
-    "required_skills": [
-      "hr & recruiting"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/152587-global-specialized-domain-expert-recruiter-contractor",
-    "date_posted": "2026-10-06"
-  },
-  {
-    "id": "jobicy-4c9d3a9287a1",
-    "title": "Pricing Specialist",
-    "company": "Docplanner",
-    "location": "Brazil",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Company Description At Docplanner Group, we’re on a mission to help people live longer, healthier lives. As the world’s largest healthcare platform, each month, we connect 24 million patients with 280k doctors across 13 countries (through brands like ZnanyLekarz, Doctoralia, MioDottore, DoktorTakvimi, and jameda). Our marketplaces, SaaS and AI tools simplify daily tasks and help&hellip;",
-    "required_skills": [
-      "finance & accounting"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/152582-pricing-specialist",
-    "date_posted": "2026-10-06"
-  },
-  {
-    "id": "jobicy-34ce55512887",
-    "title": "Condition Monitoring Engineer",
-    "company": "AssetWatch",
-    "location": "Mexico",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "AssetWatch serves global manufacturers by powering manufacturing uptime through the delivery of an unparalleled condition monitoring experience, with a passion to care about the assets our customers care for every day. We are a devoted and capable team that includes world-renowned engineers and distinguished business leaders united by a common goal – To build the&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/152581-condition-monitoring-engineer",
-    "date_posted": "2026-10-06"
-  },
-  {
-    "id": "jobicy-275576a20f23",
-    "title": "Business Development Manager (Tech Alliances)",
-    "company": "DevRev",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About DevRev At DevRev, we're building the future of work with Computer – your AI teammate. Unlike traditional tools, Computer unifies all your data sources, tools, and workflows into a single AI-ready platform, giving employees real-time insights, proactive suggestions, and powerful agentic actions. It extends your existing software with AI-native apps and agents that work&hellip;",
-    "required_skills": [
-      "business development"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/152577-business-development-manager-tech-alliances",
-    "date_posted": "2026-10-06"
-  },
-  {
-    "id": "jobicy-b30611fc688c",
-    "title": "Solution Engineer",
-    "company": "RelationalAI",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Who We Are At RelationalAI, we’re solving one of the most important challenges in artificial intelligence: how to teach large language models the logic, semantics, and business context of the modern enterprise. Frontier models are trained almost entirely on public data — they can speak about the world, but they don’t understand your business. We&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/152574-solution-engineer-3",
-    "date_posted": "2026-10-06"
-  },
-  {
-    "id": "jobicy-b9aff108ff7b",
-    "title": "AI Outcomes Manager",
-    "company": "DevRev",
-    "location": "Australia",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About DevRev At DevRev, we're building the future of work with Computer – your AI teammate. Unlike traditional tools, Computer unifies all your data sources, tools, and workflows into a single AI-ready platform, giving employees real-time insights, proactive suggestions, and powerful agentic actions. It extends your existing software with AI-native apps and agents that work&hellip;",
-    "required_skills": [
-      "technical support"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/152573-ai-outcomes-manager",
-    "date_posted": "2026-10-06"
-  },
-  {
-    "id": "jobicy-3306ed270fb2",
-    "title": "Customer Support Engineer",
-    "company": "RelationalAI",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Who We Are At RelationalAI, we’re solving one of the most important challenges in artificial intelligence: how to teach large language models the logic, semantics, and business context of the modern enterprise. Frontier models are trained almost entirely on public data — they can speak about the world, but they don’t understand your business. We&hellip;",
-    "required_skills": [
-      "technical support"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/152570-customer-support-engineer-2",
-    "date_posted": "2026-10-06"
-  },
-  {
-    "id": "jobicy-ac338979df93",
-    "title": "Senior Manager, Fund Administration (Accounting)",
-    "company": "Juniper Square",
-    "location": "Canada,  USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Juniper Square Private markets are one of the largest, most complex, and most underserved corners of global finance. Our mission at Juniper Square is to unlock their full potential. We’re the Operations Partner trusted by 2,300+ GPs, unifying technology, data, and fund administration services into a single platform that helps GPs move faster, make&hellip;",
-    "required_skills": [
-      "finance & accounting"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/152594-senior-manager-fund-administration-accounting",
-    "date_posted": "2026-10-06"
-  },
-  {
-    "id": "jobicy-cbdec0df8b62",
-    "title": "Support Engineer",
-    "company": "Roboflow",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Who We Are Our mission is to make the world programmable. Sight is one of the key ways we understand the world, and soon this will be true for the software we use, too. We’re building the tools, community, and resources needed to make the world programmable with artificial intelligence. Roboflow simplifies building and using&hellip;",
-    "required_skills": [
-      "technical support"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/152566-support-engineer",
-    "date_posted": "2026-10-06"
-  },
-  {
-    "id": "jobicy-64f52e179e52",
-    "title": "Senior Enterprise Account Executive",
-    "company": "Fastly",
-    "location": "UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Fastly helps people stay better connected with the things they love. Fastly’s edge cloud platform enables customers to create great digital experiences quickly, securely, and reliably by processing, serving, and securing our customers’ applications as close to their end-users as possible — at the edge of the Internet. The platform is designed to take advantage&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/152564-senior-enterprise-account-executive-2",
-    "date_posted": "2026-10-06"
-  },
-  {
-    "id": "jobicy-8ebc78ddc335",
-    "title": "RevTech Senior Salesforce Developer - LATAM",
-    "company": "Luxury Presence",
-    "location": "LATAM",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 90,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/152602-revtech-senior-salesforce-developer-latam",
-    "date_posted": "2026-10-06"
-  },
-  {
-    "id": "jobicy-90a8af14c663",
-    "title": "Sales Manager, Small Business",
-    "company": "HubSpot",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "As a Small Business Sales Manager, you will be responsible for hiring, training, coaching, and leading a team of new and established Growth Specialist (Account Executives) in a fast-paced and rapidly changing environment. This role is based remotely in the US or in our Cambridge, MA office.We are looking for someone who: Is passionate about&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/150244-sales-manager-small-business",
-    "date_posted": "2026-10-06"
-  },
-  {
-    "id": "jobicy-b2add2896298",
-    "title": "Sales Operations Manager, Foundry",
-    "company": "Instructure",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At Instructure, we believe in the power of people to grow and succeed throughout their lives. Our goal is to amplify that power by creating intuitive products that simplify learning and personal development, facilitate meaningful relationships, and inspire people to go further in their education and careers.We do this by giving smart, creative, passionate people&hellip;",
-    "required_skills": [
-      "product & operations"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/150240-sales-operations-manager-foundry",
-    "date_posted": "2026-10-06"
-  },
-  {
-    "id": "jobicy-5d8fd81a32ba",
-    "title": "Capture Management Director",
-    "company": "Concept Plus",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Concept PlusConcept Plus is a growing consulting firm headquartered in Fairfax, VA. We are an Oracle Gold Partner, offering deep technical expertise, combined with business insights and an experienced team focused on providing technical solutions for our clients. We are proud to have been recognized as one of the \"25 Most Powerful Oracle Solution&hellip;",
-    "required_skills": [
-      "business development"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/150198-capture-management-director",
-    "date_posted": "2026-10-06"
-  },
-  {
-    "id": "jobicy-2ebcca40d686",
-    "title": "Client Solutions Manager",
-    "company": "Meta",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "The Client Solutions Manager for Meta’s Global Business Group is a professional with proven experience in scoping, developing and implementing strategies and plans that increase impact, putting our customers at the core of everything we do. This is an opportunity to build and manage key client relationships, leverage analytical skills, and develop platform and product&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/150189-client-solutions-manager",
-    "date_posted": "2026-10-06"
-  },
-  {
-    "id": "jobicy-2abdf5e46705",
-    "title": "Product Designer, Shop Everything",
-    "company": "Meta",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Instagram is seeking a Product Designer to help lead our Shop Everything effort. Shop Everything is our bet that any piece of content on Instagram can become a storefront — that when you spot a jacket in a creator's morning routine, a lamp in a travel Reel, or a skincare product in a friend's Story,&hellip;",
-    "required_skills": [
-      "web, ui & ux design"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/150188-product-designer-shop-everything",
-    "date_posted": "2026-10-06"
-  },
-  {
-    "id": "jobicy-e69a72655762",
-    "title": "Strategic Sales Director, Iberia",
-    "company": "Cresta",
-    "location": "Spain",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channel. The world’s leading companies, including United Airlines, Cox Communications, and Marriott, use Cresta to&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/150243-strategic-sales-director-iberia",
     "date_posted": "2026-10-06"
   },
   {
@@ -1523,39 +1523,200 @@
     "date_posted": "2026-09-07"
   },
   {
-    "id": "arbeitnow-63062129b2ce",
-    "title": "UX/UI Designer (m/w/d) SaaS & digitale Produkte",
-    "company": "Cannaleo Digital GmbH",
-    "location": "Saarbrücken",
+    "id": "arbeitnow-5c6dfca6f7cb",
+    "title": "Video Cutter (m/w/d)",
+    "company": "Start To Finish Consulting GmbH",
+    "location": "Hamburg",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Über Cannaleo Digital Wir gehören zu den führenden Softwareanbietern im Bereich Medizinal Cannabis. Über 400 Apotheken nutzen bereits unsere Lösungen und mehr als 3 Millionen Bestellungen wurden über unsere Systeme verarbeitet. Wir entwickeln digitale Produkte für Apotheken, Ärzt:innen, Großhändler und weitere Partner und gestalten damit die digitale Zukunft der Medizinal-Cannabis-Versorgung. Aufgaben Deine Aufgaben: Gestaltung und Optimierung von User Interfaces: Du entwickelst und optimierst Benutzeroberflächen für unsere Web- und Mobile-Anwendungen, um ein nahtloses und ansprechendes Nutzererlebnis zu gewährleisten. Entwicklung von Wireframes, Prototypen und Design-Systemen: Du erstellst Wireframes, Prototypen und Design-Systeme, um Konzepte zu visualisieren und die Konsistenz unserer Produkte sicherzustellen. Analyse von Nutzerbedürfnissen: Du analysierst Nutzerbedürfnisse und setzt diese in nutzerfreundliche Lösungen um, die sowohl funktional als auch ästhetisch überzeugen. Zusammenarbeit mit Stakeholdern: Du arbeitest eng mit Entwicklern, Produkt Owner und anderen Stakeholdern zusammen, um die Produktvision umzusetzen und sicherzustellen, dass Design und Funktionalität Hand in Hand gehen. Usability-Tests und iteratives Design: Du führst Usability-Tests durch, um Feedback von Nutzern zu sammeln, und nutzt dieses Feedback, um Designs kontinuierlich zu optimieren. Qualifikation Das bringst du mit: Fundiertes Verständnis von User-Experience-Prinzipien und visuellem Design Mindestens 2 Jahre Berufserfahrung im Bereich UX/UI oder Visual Design Erfahrung mit Motion Design und interaktiven Animationen Kreativität, analytisches Denken und ein ausgeprägtes Gespür für modernes Design Kreativität und Freude an innovativer Gestaltung sowie ein gutes Gespür für aktuelle Designtrends Ausgeprägte Teamfähigkeit sowie eine eigenverantwortliche und strukturierte Arbeitsweise Offenheit für die umfassende Integration von Claude und Figma in den Arbeitsalltag; idealerweise bereits Erfahrung mit beiden Tools Offene und freundliche Persönlichkeit mit der Fähigkeit, konstruktiv mit Feedback und Kritik umzugehen Lösungsorientierte Herangehensweise und aktive Beteiligung an Designbesprechungen Selbstständige Arbeitsweise sowie Freude am Austausch und an der Zusammenarbeit mit Kolleg:innen aus anderen Fachbereichen Benefits Das bieten wir dir Innovatives Umfeld: Wir entwickeln Softwarelösungen, die die digitale Healthcare- und Cannabis-Branche voranbringen. Vielfältige Projekte: Abwechslungsreiche Aufgaben, spannende Herausforderungen und viel Gestaltungsspielraum statt Routine. Flache Hierarchien: Offene Kommunikation, kurze Entscheidungswege und Zusammenarbeit auf Augenhöhe. 30 Tage Urlaub: Für deine Erholung und neue Energie. Corporate Benefits: Exklusive Vergünstigungen bei zahlreichen Partnern. Flexible Arbeitszeiten: Gestalte deine Arbeitszeit flexibel und passend zu deinem Alltag. Feedback &#x26; Entwicklung: Regelmäßige Gespräche und konkrete Möglichkeiten für deine persönliche und berufliche Weiterentwicklung. Strukturiertes People Onboarding: Ein persönlicher und gut organisierter Start mit klaren Abläufen und festen Ansprechpartnern. Verantwortung &#x26; Gestaltungsspielraum: Übernimm Verantwortung und bringe deine Ideen aktiv ein. Digitale Healthcare-Lösungen: Gestalte gemeinsam mit uns innovative Produkte und Lösungen für die Healthcare-Branche. Warum Cannaleo? Bei Cannaleo arbeitest du in einem Umfeld, in dem du etwas bewegen kannst. Du übernimmst Verantwortung für zentrale Projekte und trägst direkt dazu bei, medizinisches Cannabis für mehr Menschen zugänglich zu machen. Du hast Lust auf ein wachsendes Unternehmen und willst komplexe Projekte mit Struktur und Ownership voranbringen? Dann bewirb dich bei uns. Find Jobs in Germany on Arbeitnow",
+    "description": "Wir sind Start to Finish. Kein Startup kann wachsen ohne das richtige Team. Aus diesem Grund unterstützen wir aufstrebende Startups und Growth Companies wie Snocks, SellerX, Formary, Schema M und viele weitere dabei, ihre Schlüsselpositionen mit den richtigen Talenten zu besetzen. Mit über 100 zufriedenen Kunden sind wir die #1 Recruiting Boutique für E-Commerce Startups im deutschsprachigen Raum. Unser Kunde sucht Dich! Das Unternehmen ist eine stark wachsende E-Commerce-Marke mit ambitionierten Plänen: Neben der Expansion in die USA und UK steht der Launch einer neuen Produktlinie bevor. Social Media und Performance Marketing sind dabei zentrale Wachstumstreiber – monatlich entstehen hunderte Creatives für Meta und weitere Kanäle. Deine Rolle Gesucht wird ein Video Cutter, der Tempo, Performance und Kreativität verbindet. Jemand, der aus Rohmaterial schnell starke Social- und Direct-Response-Creatives entwickelt, verschiedene Varianten testet und versteht, was bei der Zielgruppe funktioniert. Dabei geht es nicht um den perfekten künstlerischen Schnitt, sondern um Output und Wirkung. KI spielt bereits heute eine wichtige Rolle und soll künftig noch stärker genutzt werden, um mehr Creatives schneller und effizienter zu produzieren. Aufgaben Schnitt und Umsetzung von Social-Media- und Direct-Response-Creatives Verarbeitung großer Mengen an Rohmaterial und hoher Creative-Volumes Entwicklung unterschiedlicher Varianten, Hooks und Creative-Konzepte Optimierung von Videos für Performance Marketing und Meta Ads Enge Zusammenarbeit mit Creative, Copywriting und Marketing Analyse und Weiterentwicklung von Creatives anhand ihrer Performance Einsatz und Weiterentwicklung von KI-Tools im Editing-Prozess Nutzung von KI für B-Roll, Szenen, Avatare, Captions, Vorbearbeitung und weitere Editing-Prozesse Kontinuierliche Optimierung von Geschwindigkeit, Qualität und Output Qualifikation Erste relevante Erfahrung im Video Editing, idealerweise im E-Commerce oder Performance Marketing Ein überzeugendes Portfolio mit Social-Media- oder Performance-Creatives Verständnis für Direct Response und die Mechaniken von Social-Media-Ads Schnelle, strukturierte und zuverlässige Arbeitsweise Hohes Tempo und Lust auf großen Output statt Perfektionismus Gutes Gespür für Bildsprache, Hooks, Timing und Zielgruppen Eigenverantwortliche und lösungsorientierte Arbeitsweise Ausgeprägte Machermentalität und „Getting Things Done“-Mentalität Offenheit für KI und Interesse daran, neue Tools aktiv auszuprobieren Bereitschaft, sich schnell in neue Themen und Tools einzuarbeiten Auch Profile aus angrenzenden Bereichen wie YouTube, Influencer-Content, Social Media oder Mediengestaltung sind willkommen, wenn die relevanten Editing-Skills und die richtige Einstellung vorhanden sind. Benefits 100 % Remote innerhalb Deutschlands Hoher Gestaltungsspielraum und eigenverantwortliches Arbeiten Große Mengen an Rohmaterial und die Möglichkeit, sehr viel Content zu produzieren Direkter Einfluss auf die Performance der Creatives Zusammenarbeit mit einem jungen, dynamischen Creative- und Marketing-Team Arbeiten an einer stark wachsenden E-Commerce-Marke Moderne KI-Tools und die Möglichkeit, deren Einsatz aktiv mitzugestalten Kurze Entscheidungswege und schnelle Umsetzung Viel Raum für persönliche und fachliche Weiterentwicklung 🚀 Bereit für den nächsten Step? Dann bewirb dich jetzt - Wir freuen uns auf dich! 💡 Die angegebene Gehaltsrange basiert auf aktuellen Marktdaten und gibt dir eine realistische Orientierung. Am Ende hängt es aber von zwei Dingen ab: deiner tatsächlichen Qualifikation – und vor allem von unserem Kunden, der die finale Entscheidung trifft. Wir sind eine Vermittlung, kein Arbeitgeber – das heißt, wir können das Angebot nicht selbst festlegen. Was wir aber können: dich bestmöglich beraten, dein Profil stark positionieren und gemeinsam mit dir schauen, was drin ist. Find Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "remote",
+      "marketing and communication"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/start-to-finish-consulting-gmbh/video-cutter-hamburg-251243",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-5b2a4b775d27",
+    "title": "Senior Oracle Fusion HCM Security Specialist (Freelance)",
+    "company": "Sidekick Network GmbH & Co. KG",
+    "location": "Bonn",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Sidekick Network is looking for a highly experienced Oracle Fusion Cloud HCM Security Specialist for a focused security assessment and remediation engagement within an international HR environment. The current landscape contains numerous custom roles copied from seeded roles, with limited transparency over role inheritance, access permissions and underlying business requirements. Your task is to assess the existing setup and define a clear, maintainable security model. Duration: Approx. 1 month Workload: Full-time Start: asap Location / remote arrangement: remote Tasks Audit the HCM security configuration across Development, Test and Production . Analyse role hierarchies, inheritance, privileges and relationships between seeded and custom roles. Identify excessive access, redundant roles, inconsistencies and security risks. Review custom roles derived from seeded roles and recommend how to simplify and maintain them. Translate business access requirements into a structured target role model. Develop a practical Segregation of Duties (SoD) concept, including relevant conflicts, controls and exceptions. Analyse Areas of Responsibility (AORs) and HCM Data Security Profiles , identifying inappropriate scope, overlaps and cleanup needs. Assess access to sensitive HR, compensation and future payroll data. Work confidently within the Oracle Security Console to investigate and validate the configuration. Support agreed remediation activities and transfer knowledge to the internal team. Expected deliverables: Security assessment covering all three environments, with prioritised findings. Role inventory and overview of inheritance, dependencies and relevant access permissions. Target role model and recommendations for streamlining seeded and custom roles. SoD concept with a proposed conflict matrix and handling of exceptions. AOR and Data Security Profile cleanup recommendations. Prioritised remediation roadmap, including validation steps and implementation dependencies. Handover documentation and a walkthrough with the internal team. Requirements Extensive practical experience with Oracle Fusion Cloud HCM Security in productive environments. Strong understanding of job roles, abstract roles, duty roles, data roles, privileges and role inheritance. Proven experience with seeded roles, custom roles and the Oracle Security Console. Deep knowledge of AORs and HCM Data Security Profiles. Experience conducting security audits and redesigning complex HCM role landscapes. Practical expertise in SoD and access to sensitive HR and payroll data. Experience across several relevant HCM modules, ideally including Core HR, Talent, Learning, Recruiting, Helpdesk and Compensation. Ability to turn an unclear existing configuration into actionable recommendations and clear documentation. Strong English communication skills and confidence working with international HR and IT stakeholders. Find Jobs in Germany on Arbeitnow",
     "required_skills": [
       "remote",
       "it"
     ],
     "requirements": [],
     "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/cannaleo-digital-gmbh/ux-ui-designer-saas-digitale-produkte-saarbrucken-2207",
+    "url": "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/senior-oracle-fusion-hcm-security-specialist-freelance-bonn-192936",
     "date_posted": null
   },
   {
-    "id": "arbeitnow-18e60df808b2",
-    "title": "Platform / Automation Engineer (m/w/d) - Elasticsearch & Ansible // TZ",
-    "company": "citema systems GmbH",
-    "location": "Munich",
+    "id": "arbeitnow-bed98380af54",
+    "title": "E-Commerce & Digital Commerce - Praktikum / Werkstudent (m/w/d)",
+    "company": "Vision Brand House GmbH",
+    "location": "Hamburg",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Driving Digital Technologies Den digitalen Wandel begleiten und aktiv mitgestalten – unsere Mission bei citema. Mit unseren innovativen Ansätzen beraten und unterstützen wir unsere Kunden in den Technologiefeldern Cyber Security, KI und Blockchain. Ebenso gehört die Umsetzung system- und sicherheitsrelevanter Softwareprojekte zu unserem Portfolio. So verbinden wir die neuen Technologien mit der klassischen Softwarewelt. Bei uns wird ein professionelles, kollegiales Miteinander mit Du-Kultur gelebt, denn unser exzellenter Teamgeist und die offene Kommunikation sind der Spirit unseres Unternehmens. Als sehr erfolgreiches und kontinuierlich wachsendes Unternehmen mit solider Basis, bieten wir Dir vielfältige Möglichkeiten in einem hochinteressanten, dynamischen Umfeld. Werde Teil unseres Erfolgs, bring Deine Expertise mit ein und gestalte gemeinsam mit uns die Zukunft verantwortungsvoll. Aufgaben Deine Mission Wir suchen Dich als Platform / Automation Engineer (m/w/d) am Standort Münster mit hohem remote-Anteil in Teilzeit. Deine Aufgaben dabei sind: Du betreibst, pflegst und entwickelst bestehende Elasticsearch-Cluster weiter und führst Minor- sowie gegebenenfalls Major-Upgrades durch. Du planst und setzt Migrationen um, unter anderem im Zuge der Ablösung veralteter Linux-Server (RHEL 8 → RHEL 9) sowie der Überführung von Daten auf neu aufgebaute Elasticsearch-Cluster. Du konzipierst und implementierst ein zuverlässiges Snapshot- und Restore-Verfahren für Elasticsearch inklusive Automatisierung und Monitoring. Du überarbeitest und erweiterst bestehende Ansible-Playbooks und Rundeck-Automationen für den Elasticsearch-Betrieb, beispielsweise für das Benutzermanagement und die Integration von HashiCorp Vault. Du baust Teststellungen auf und evaluierst eine mögliche Migration von Elasticsearch auf OpenSearch. Du entwickelst und erweiterst die dafür benötigten Ansible-Playbooks und testest bisher nicht eingesetzte OpenSearch-Funktionen, beispielsweise Document Level Security. Du entwickelst und erprobst geeignete Ansätze für die Migration von Elasticsearch auf OpenSearch. Optional unterstützt Du bei der Überarbeitung, Strukturierung und Weiterentwicklung bestehender Ansible-Playbooks für weitere Plattformbereiche, beispielsweise Python Hosting oder Redis. Du arbeitest eng mit dem bestehenden Team zusammen. Die fachlichen Anforderungen werden durch das Team vorgegeben – Dein Schwerpunkt liegt auf fundiertem Ansible-Know-how und Deiner praktischen Erfahrung in der Automatisierung. Qualifikation Dein Profil Folgende Kenntnisse und Fähigkeiten solltest Du mitbringen: Praktische Erfahrung im Betrieb von Elasticsearch- oder OpenSearch-Clustern Sicherer Umgang mit Ansible, einschließlich Aufbau und Erweiterung von Playbooks und Rollen. Sicherer Umgang mit Linux-Servern (idealerweise RHEL) Erfahrung mit Monitoring- und Logging-Werkzeugen, idealerweise Grafana, telegraf Strukturierte, eigenverantwortliche Arbeitsweise Fähigkeit, komplexe technische Sachverhalte verständlich zu kommunizieren Für die effektive Kommunikation im Projektumfeld sowie mit unseren deutschsprachigen Kunden ist ein sehr gutes mündliches und schriftliches Deutsch erforderlich Benefits Das bieten wir Dir Wir sind der Überzeugung, dass folgende Rahmenbedingungen die besten Voraussetzungen für Effizienz und kreative Lösungsfindungen bieten: Aktives Mitwirken an innovativen Zukunftstechnologien Flexibles New-Work-Modell mit hybriden Arbeitsmöglichkeiten Unbefristeter Arbeitsvertrag Givve-Card als steuerfreier Unternehmensbenefit Maximale Entscheidungs- und Gestaltungsspielräume Individuelle Karriereplanung und Entwicklungsperspektiven Wissenstransfer und Synergieeffekte durch ein starkes Team Technologische Vielfalt mit spannenden Einblicken in sicherheitsrelevante Systeme Und: Herausforderungen, die wirklich Spaß machen! Ready to shape the future? Drive digital technologies with us! Wir freuen uns auf Deine Bewerbung. Find more English Speaking Jobs in Germany on Arbeitnow",
+    "description": "Du möchtest nicht einfach nur Produkte in einen Shop einpflegen, sondern verstehen, was einen erfolgreichen E-Commerce-Shop wirklich ausmacht? Als Praktikant / Werkstudent E-Commerce &#x26; Digital Commerce (m/w/d) bei der Vision Brand House GmbH arbeitest du direkt an der Weiterentwicklung und Performance unserer Shopify-Shops. Du analysierst Zahlen, hinterfragst bestehende Prozesse und hilfst uns dabei, Customer Journey, Conversion und unsere Releases kontinuierlich zu verbessern. Dein Schwerpunkt liegt auf RETERNITY. Darüber hinaus erhältst du Einblicke in weitere Brands unseres Portfolios wie Hatline, Flowers for Society und SACRALITE. Dabei arbeitest du eng mit unseren Brand-, Marketing- und Creative-Teams zusammen und bekommst die Möglichkeit, schnell Verantwortung für eigene Themen und Projekte zu übernehmen. Aufgaben E-Commerce Performance &#x26; Reporting : Du behältst wichtige Shop-KPIs wie Conversion Rate, Warenkorbwert, Abbruchraten, Wiederkaufrate und Release-Performance im Blick und leitest daraus konkrete Optimierungspotenziale ab. Conversion Rate Optimization : Du analysierst unsere Customer Journey von der Landingpage bis zum Checkout, identifizierst Schwachstellen und unterstützt bei der Umsetzung und Auswertung von Tests – mit besonderem Fokus auf Mobile. Shop- &#x26; Produktoptimierung : Du optimierst Produktseiten, Collections und Landingpages und sorgst dafür, dass Produkte, Preise, Varianten, Verfügbarkeiten und Inhalte jederzeit korrekt dargestellt werden. Release Management : Du begleitest unsere Drops und Produktlaunches von der Vorbereitung bis zum Go-live und stellst sicher, dass Produkte, Shop-Inhalte, Early Access und relevante Landingpages zum richtigen Zeitpunkt live sind. Shop Merchandising : Du unterstützt dabei, Bestseller, Neuheiten und Kampagnen innerhalb unserer Shops optimal zu präsentieren und die Customer Journey kontinuierlich weiterzuentwickeln. Website Operations : Du überprüfst unsere Shops regelmäßig auf Fehler, Darstellung, Aktualität und Performance und koordinierst notwendige Anpassungen. Tools &#x26; Internationalisierung : Du testest neue Shopify-Funktionen, Apps und Tools und unterstützt uns bei der Weiterentwicklung unserer Shops für internationale Märkte. Dabei arbeitest du unter anderem mit Shopify, Shopify Analytics, Admetrics, DataX sowie Excel / Google Sheets. Qualifikation Du studierst idealerweise E-Commerce, Marketing, Wirtschaft, Medien oder einen vergleichbaren Studiengang. Du hast ein starkes Interesse an E-Commerce, Fashion, digitalen Produkten und Markenaufbau. Du arbeitest gerne mit Zahlen und möchtest verstehen, warum sich KPIs verändern und welche Maßnahmen dahinterstehen. Du hast ein gutes Verständnis für digitale Customer Journeys und erkennst schnell, wenn etwas im Shop besser funktionieren könnte. Du arbeitest strukturiert, sorgfältig und zuverlässig – auch wenn mehrere Projekte oder Releases gleichzeitig laufen. Du bringst Eigeninitiative mit: Du erkennst Probleme, hinterfragst bestehende Lösungen und schlägst eigene Verbesserungen vor. Du hast keine Scheu vor Excel oder Google Sheets und arbeitest gerne datenbasiert. Erste Erfahrungen mit Shopify, Analytics-Tools, CRO oder A/B-Testing sind ein Plus, aber kein Muss. Du sprichst sehr gut Deutsch und kannst dich sicher auf Englisch verständigen. Benefits Flexible Homeoffice-Möglichkeiten Modernes Office im Herzen Hamburgs Regelmäßige Teamevents &#x26; gemeinsame Aktivitäten epassi-Mitgliedschaft für Sport und Fitness Exklusive Mitarbeiterrabatte auf unsere Marken und Produkte Viel Eigenverantwortung und die Möglichkeit, eigene Ideen einzubringen Kurze Entscheidungswege und direkte Zusammenarbeit mit unseren Brand-, Marketing- und Creative-Teams Tiefe Einblicke in E-Commerce und Markenaufbau sowie die Entwicklung und Skalierung moderner Fashion Brands Klingt nach dir? Du möchtest E-Commerce nicht nur bedienen, sondern verstehen, was einen erfolgreichen Online-Shop wirklich ausmacht? Dann freuen wir uns darauf, dich kennenzulernen. Werde Teil von Vision Brand House und entwickle gemeinsam mit uns die digitalen Shops und Brands von morgen. Lynn freut sich auf deine Bewerbung – gerne per Du. Find more English Speaking Jobs in Germany on Arbeitnow",
     "required_skills": [
       "remote",
-      "automation engineering"
+      "online marketing"
     ],
     "requirements": [],
     "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/citema-systems-gmbh/platform-automation-engineer-elasticsearch-ansible-tz-munich-418234",
+    "url": "https://www.arbeitnow.com/jobs/companies/vision-brand-house-gmbh/e-commerce-digital-commerce-praktikum-werkstudent-hamburg-273211",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-8028cb3d3497",
+    "title": "SDR/Setter - 100% Remote/Vollzeit",
+    "company": "Erschaffe dich neu",
+    "location": "Berlin",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Jobbeschreibung Wir suchen eine*n SDR/Setter, der sich einem der größten B2C Coaching Unternehmen im deutschsprachigen Raum anschließen, Rekorde brechen, Leben verändern und mit einem starken Sales Team jeden Tag Höchstleistung abliefern will. Das erwartet dich bei Erschaffe dich neu: Leistungsbezogene Vergütung: 60.000€+ OTE, ohne Cap. ​ Remote-Work: Jeder im Team arbeitet zu 100% remote ​Warme Leads: Wir arbeiten ausschließlich mit Inbound Leads (5.000+ pro Jahr zusätzlich 10.000 - 20.000 Produktkäufer pro Jahr, die als Leads reinkommen) ​ Dominant im Markt: EDN besteht seit 10 Jahren und besitzt mit über 100 Mio organischer Views, 500.000+ Abos eine der größten Reichweiten im Online Marketing im Dach-Raum ​ High Performance Team: Langjährige Mitarbeiter, bestehende Systeme, Jahr für Jahr Millionenumsätze - keine Eintagsfliege ​ Hohe Autonomie: Wir stellen dich ein, damit DU aktiv mit Lösungen findest. Die Rolle Als SDR/Setter bei Erschaffe dich neu bist du der erste Kontaktpunkt für unsere Leads – und damit einer der wichtigsten Hebel für unseren Umsatz. Du qualifizierst Leads, baust echtes Commitment auf und sorgst dafür, dass nur die richtigen Menschen in die Calls mit unseren Closern gehen. Deine Arbeit umfasst dabei mehr als nur Terminsetzen: Du arbeitest warme Bewerbungen ab, die sich aktiv auf unser Coaching-Programm beworben haben, followst Leads konsequent nach und überzeugst gleichzeitig Buch- und Produktkäufer davon, den nächsten Schritt ins Coaching zu gehen. Dazu kommen Bestandskunden, bei denen du Potenzial für Folgeprodukte und mögliche Upsells erkennst und aktiv begleitest. Anstellungsart: Festanstellung Das Gehalt ist eine Kombination aus Fixum + Provision. Das Modell belohnt echte Leistung – ohne versteckte Deckelung. Fixum: EUR 2.000 / Monat – immer, egal wie der Monat lief + Provision Realistisches Verdienstpotenzial: bis 7.000+. Euro Arbeitsumfang: Min. 40 Std. wöchentlich Mo–Fr, Bereitschaft auch am Wochenende wenn notwendig 100 % Remote. Deine Arbeitszeiten kannst du dabei weitgehend frei einteilen – wir arbeiten mit einer monatlichen Kapazitätenplanung, die dir Struktur gibt ohne dich starr einzuschränken. Wichtig ist jedoch, dass du in den umsatzstärksten Zeitfenstern erreichbar und aktiv bist, insbesondere in den Abendstunden zwischen 17 und 20 Uhr, wenn die meisten Leads verfügbar sind. Die Situation Unser Jahresumsatz lag bei knapp 4.000.000 € in 2025 – während viele im Coaching-Markt gestruggelt haben. Unser Ziel für 2026: die 6.000.000 € Booked Revenue knacken. 600+ High-Ticket-Kunden pro Jahr + Bestandskundenumsatz Tausende Leads + 10.000–20.000 Kunden über kleinere Produkte wie Bücher, Kurse und Challenges Kurze Sales Cycles, hochgradig emotionaler Verkauf Zielgruppe: 20–35-jährige, größtenteils Männer ADV bei 5.000 €, Tickets von 3.000 € bis 15.000 € Monatliche oder zweimonatliche Events mit 300–400 Live-Teilnehmern Als CRM nutzen wir Salesforce, dazu Zoom, Slack und WhatsApp und Aircall Die Aufgaben eines SDR/Setters bei Erschaffe dich neu Lead-Qualifizierung &#x26; Terminbuchung Eingehende Leads schnell, strukturiert und verbindlich qualifizieren Termine mit echtem Commitment buchen Show-Rate aktiv managen: Bestätigung, Vorbereitung, Vorqualifizierung Leads sauber im CRM pflegen und dokumentieren (Salesforce) Kommunikation &#x26; Aufbau von Verbindlichkeit Ersten Kontakt per Telefon (Aircall) oder WhatsApp Echtes Interesse wecken, Einwände früh adressieren, Commitment aufbauen Den Übergabeprozess an Closer sauber und vollständig gestalten Performance &#x26; Qualität Eigene KPIs im Blick behalten: Show-Rate, Termine und Cash Collected Aktiv an der eigenen Weiterentwicklung arbeiten – Call-Feedback annehmen und umsetzen Teil einer High-Performance-Kultur sein, die Ergebnisse ernst nimmt Pipeline Pflege Sauberes Follow-Up Wer wir sind Erschaffe dich neu ist eine der wachstumsstärksten Coaching-Marken im DACH-Raum im Bereich persönliche Weiterentwicklung. Wir haben mit die größten organische Reichweite (über 500.000 Abos) auf Social Media im Bereich Persönlichkeitsentwicklung, 100.000.000+ organische Views, einen konstanten AD-Spent von 500.000€+ auf Meta pro Jahr mit deutlich positivem ROI und sind nun seit über 10 Jahren am Markt, mit zehntausenden Kunden und veränderten Menschenleben. Du trittst nicht irgendeiner Firma bei, du wirst Teil eines Teams, welches die Branche bereits seit einem Jahrzehnt prägt. Unsere Vision: Bis 2050 das größte Unternehmen für persönliche Weiterentwicklung weltweit. Wir leben: Value, Value, Value – We Care for Results Open Critique &#x26; Honesty Constant &#x26; Massive Growth Extreme Ownership – Everybody is a Leader Hard, Hard Work Stellenanforderungen Pflicht Nachweisbare Erfahrung im telefonischen oder digitalen Erstkontakt mit Kunden – ob als SDR, Setter, im Vertriebsinnendienst oder vergleichbar Starke Kommunikation: Du weißt, wie man Menschen abholt, Vertrauen aufbaut und Verbindlichkeit erzeugt Strukturierte, eigenverantwortliche Arbeitsweise Erfahrung mit CRM-Systemen (idealerweise Salesforce) Coaching-, Fitness-, Finanz- oder Online-Business-Hintergrund von Vorteil Zahlenaffin und performance-getrieben Was Erfolg in dieser Rolle bedeutet Deine Show-Rate liegt konstant bei 80 %+ – und du weißt genau, welche Stellschrauben du dafür drehen musst Über dich werden monatlich mindestems 25+ Closes generiert Du wirst ein integraler Bestandteil des Teams und wir können uns voll auf dich verlassen, dass kein Lead liegen bleibt und jeder Termin zählt Lust mit uns die Welt zu verändern? Bewirb dich jetzt und werde Teil des Erschaffe dich neu Teams. Find more English Speaking Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "remote",
+      "marketing and communication"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/erschaffe-dich-neu/sdr-setter-100-remote-vollzeit-berlin-333482",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-fe48f182dc7f",
+    "title": "Junior GTM Engineer - Deutsch C1 - 100% remote",
+    "company": "Pipebuilders",
+    "location": "München",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Pipebuilders ist die erste Recruiting-Agentur Deutschlands für GTM Engineers. Für Startups und GTM-Agenturen besetzen wir Stellen für die AI-GTM-Talente von morgen. Als Consultative Recruiter arbeiten wir mit einem AI-Backend und einem Human-Frontend. Egal ob für diese Stelle oder erst nächstes Jahr: wir helfen dir gerne beim Einstieg ins GTM Engineering. Heute geht es um eine Einsteigerstelle als Junior GTM Engineer bei einer Clay-Partner-Agentur. Die Agentur: → Offizieller Clay-Partner → Baut signalbasiertes Outbound für B2B-SaaS-Startups → Klein, founder-geführt, Ziel: 2 Mio. Umsatz in unter 3 Jahren → Ein Founder, der technisch denkt, empathisch führt und in sein eigenes und dein Wachstum investiert. Du lernst direkt von ihm. Was du konkret machst: → Du übernimmst ab Monat eins 2 bis 3 Kundenaccounts → Du baust Kampagnen mit Clay, Claude Code und dem restlichen AI-nativen Stack → Du sprichst mit Kunden. Erklärst Ergebnisse. Fixt, was nicht läuft. → Du machst die Delivery schneller, damit jeder Kunde weniger Zeit kostet Das Geld: → 40-50k Grundgehalt, plus vorraussichtlich 10k Umsatzbeteiligung im ersten Jahr → Umsatzbeteiligung an jedem Kunden, den du betreust → Ein Weg zum Head of GTM, zu 80k+ Gehalt Nicht \"vielleicht irgendwann\". Diese Person soll Partner werden. Wen ich suche: → Du brauchst keine 5 Jahre Erfahrung → Du hast Clay, Claude Code etc. schon angefasst und kannst Beispiele zeigen → Du kommst aus dem SDR- oder BDR-Umfeld oder von ganz woanders → Du hast Business-Verständnis und denkst technisch → Und du bist hungrig. Das kann dir niemand beibringen. Die Tools schon. Die Basics: → 100 % remote → Deutsch C1, die Kunden sind deutschsprachig → Zeitzone MEZ ±1 Stunde → Start asap Das hier ist eine Agentur. Kunden haben Druck, also hast du ihn auch. Nicht jeder Tag endet um 17 Uhr. Der Revenue Share sorgt dafür, dass sich deine Arbeit immer lohnt. Auch auf dem Konto. Hier lernst du die GTM Skills von morgen. Und die bringen dich nicht nur in dieser Agentur weiter. Als Recruiter sage ich dir: In 2 Jahren bist du die Person, die jedes Startup hiren will. Find Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "remote",
+      "business operations"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/pipebuilders/junior-gtm-engineer-deutsch-c1-100-remote-munchen-145031",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-e2ee41d4962c",
+    "title": "Linguist - Somali - UI Technical / Marketing - Remote",
+    "company": "LILT (Production)",
+    "location": "Remote",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About the Opportunity We are expanding our talent network and seeking skilled Somali-language professionals with expertise in user interfaces, marketing localization, and retail content. Our ideal partners possess a nuanced command of market-specific nuances and consumer expectations. We value linguists who excel at software localization and brand storytelling, ensuring every string is clear, consistent, and culturally impactful. What You'll Deliver Precision in UX and Technical Content. Adapt complex software interfaces and support documentation with total accuracy, ensuring terminological rigor and a seamless experience for native Somali users. Impactful Marketing Localization. Transform global campaigns and brand voices to hit home in the Somali-speaking market, maintaining the original creative spirit while maximizing local relevance. Polished Product and E-commerce Copy. Localize product and UI listings applying regional naming logic and formatting standards. Brand Integrity and Quality Assurance. Uphold elite quality benchmarks to provide engaging, audience-centric content aligned with brand identity. Agile Team Collaboration. Coordinate with our production and quality leads to execute high-stakes projects on schedule and within client specifications. Qualifications Native-level proficiency in Somali. A graduate qualification in translation, linguistics, or language studies, OR a graduate qualification in another field plus 2 years of full-time professional translation experience, OR 5 years of full-time professional translation experience. The ability to follow terminology and reference materials precisely. Proven professional experience in translation and localization within marketing, UI/software, or e-commerce content. Experience with app or platform localization (mobile UI, social media, or web content) preferred. Why Collaborate with LILT? Your schedule, your rules. As an independent contractor, work when you want, as much or as little as you want. No fixed hours, no check-ins, no micromanaging. Get paid quickly and fairly. Competitive rates, prompt payments, no chasing invoices. Work on projects that actually matter. Contribute to cutting-edge AI and language technology shaping how humans and machines communicate. Be part of something bigger. Join a global community of linguists, subject matter experts, and language professionals advancing human knowledge together. Grow without limits. Access diverse, innovative projects that expand your portfolio and sharpen your skills across industries and domains. Have fun doing what you love. Bring your language skills to life on projects that are as interesting as they are impactful. What to Consider Before Applying Not ideal as a full-time job or primary income source. Work availability fluctuates with project demand; as a 1099 contractor, you won't receive benefits such as health insurance, paid time off, or retirement contributions, and hours are not guaranteed. Requires reliable availability and commitment. Most tasks require a minimum of 2 hours per day or 10 hours per week. Geographic restrictions may apply. We cannot engage contractors in regions subject to international embargo or sanctions. As a 1099 contractor, you are solely responsible for your own tax obligations. How to Join Our Expert Community Submit your application, including an updated copy of your CV in English. If a test is required, you will be asked to take a test in the domain(s) you specialize in. Once selected and you've passed the test, we'll guide you through onboarding — completing an application form, getting you set up for payments, and welcoming you into our community. AI is changing how the world communicates — and LILT is leading that transformation. LILT's mission is to make the world's information available to everyone, no matter the language they speak. Join our global community who thrive on innovation and excellence. Our collective knowledge, uniqueness, and skills deliver multilingual AI and human-verified services to Enterprises, Governments, and AI Developers around the world. Earn money. Have fun. Advance human knowledge. Work on diverse projects from anywhere, any time you want. Get paid quickly and fairly, and build your professional network in a supportive community—all through a streamlined application process tailored to your expertise. Information collected and processed as part of your application process, including any job applications you choose to submit, is subject to LILT's Privacy Policy at https://lilt.com/legal/privacy . At LILT, we are committed to a fair, inclusive, and transparent hiring process. As part of our recruitment efforts, we may use artificial intelligence (AI) and automated tools to assist in the evaluation of applications, including résumé screening, assessment scoring, and interview analysis. These tools are designed to support human decision-making and help us identify qualified candidates efficiently and objectively. All final hiring decisions are made by people. If you have any concerns, require accommodations, or would like to opt-out of the use of AI in our hiring process, please let us know at ----- style=\"min-height:1.5em\"> LILT is an equal opportunity employer. We extend equal opportunity to all individuals without regard to an individual’s race, religion, color, national origin, ancestry, sex, sexual orientation, gender identity, age, physical or mental disability, medical condition, genetic characteristics, veteran or marital status, pregnancy, or any other classification protected by applicable local, state or federal laws. We are committed to the principles of fair employment and the elimination of all discriminatory practices. Find Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "liltlancer community"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/lilt-production/linguist-somali-ui-technical-marketing-remote-191143",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-419dc0137bca",
+    "title": "UGC Creator / Twórca UGC (k/m) – praca zdalna",
+    "company": "viral.app",
+    "location": "Jena",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Chcesz zostać twórcą UGC i szukasz pracy zdalnej albo pracy dodatkowej? Na viral.app marki aplikacji płacą twórcom za krótkie filmy, za każdy film osobno. Nagrywasz telefonem, kiedy ci pasuje. O viral.app viral.app to platforma, na której marki znajdują twórców UGC i im płacą. Marki publikują płatne zlecenia na naszym marketplace Canvas UGC, a ty aplikujesz za darmo. Ponad 5000 twórców dostało już pieniądze przez viral.app, łącznie ponad 5 milionów dolarów. Warto wiedzieć: pracujesz jako freelancer dla marki, która cię wybierze. viral.app dostarcza zlecenia, mierzy wyświetlenia twoich filmów i wypłaca ci pieniądze. Twoje zadania W większości zleceń (Canvas UGC) zakładasz nowe konto na TikToku, Instagramie albo YouTube dla aplikacji danej marki i publikujesz tam kilka razy w tygodniu. Dlatego liczba twoich obserwujących nie ma znaczenia. Planowanie, nagrywanie i montaż filmów według briefu marki Publikowanie filmów na koncie aplikacji Rozmowy na czacie z marką o tym, które filmy działają i co testować dalej Czego oczekujemy Masz co najmniej 18 lat i mieszkasz w Polsce Smartfon z dobrym aparatem Publikujesz regularnie, nawet gdy jakiś film się nie przyjmie Nagrywasz po polsku. Jeśli nagrywasz też po angielsku, masz dużo większy wybór, bo większość zleceń szuka teraz twórców anglojęzycznych Nie potrzebujesz obserwujących ani doświadczenia z markami. Marki wybierają na podstawie twojego profilu i przykładowych filmów. Niektóre zlecenia nie wymagają pokazywania twarzy, na przykład nagrania ekranu, lektor albo demo produktu. Ile i jak zarabiasz Każda marka sama ustala stawkę i widzisz ją, zanim aplikujesz. Najczęściej to stała kwota za film, często z bonusem za każde 1000 wyświetleń. Typowe zlecenie płaci teraz około 16 USD za film. Najlepsi twórcy zarabiają ponad 5000 USD miesięcznie, większość wyraźnie mniej. Przykład: 20 USD za film plus 1 USD za każde 1000 wyświetleń. Jeśli film ma 9500 wyświetleń, zarabiasz na nim 29,50 USD. viral.app nie zabiera nic z twojego wynagrodzenia (0%), opłatę za platformę płaci marka Wypłata przelewem SEPA (bez opłat, 1 do 3 dni roboczych), przez PayPal albo w USDC/EURC, także w euro Fakturę tworzymy za ciebie Podatki rozliczasz samodzielnie. W UE do wypłaty może być potrzebny numer identyfikacji podatkowej. Jak zacząć Załóż darmowy profil twórcy na viral.app (strona jest po angielsku). Działa w przeglądarce telefonu, bez pobierania aplikacji. Dodaj dwa lub trzy przykładowe filmy. Nie masz doświadczenia z UGC? Nasz darmowy kurs w sześciu rozdziałach tłumaczy hooki, nagrywanie, montaż i portfolio. Aplikuj na maksymalnie 10 zleceń dziennie albo poczekaj, aż marka cię zaprosi. Aplikuj przyciskiem na tej stronie, a pomożemy ci na starcie. Find more English Speaking Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "remote",
+      "social media manager"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/viralapp/ugc-creator-tworca-ugc-k-m-praca-zdalna-jena-219124",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-7aff8e94bb26",
+    "title": "UGC Creator (m/f) – Lavoro da casa part time",
+    "company": "viral.app",
+    "location": "Jena",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Vuoi diventare UGC creator e cerchi un lavoro da casa part time? Su viral.app i brand di app pagano i creator per video brevi, a video. Giri con lo smartphone quando ti è comodo. Chi è viral.app viral.app è una piattaforma dove i brand trovano e pagano gli UGC creator. I brand pubblicano lavori pagati sul nostro marketplace Canvas UGC e tu ti candidi gratis. Oltre 5.000 creator sono già stati pagati tramite viral.app, per un totale di più di 5 milioni di dollari. Da sapere: lavori come freelance per il brand che ti sceglie. viral.app mette a disposizione i lavori, misura le visualizzazioni dei tuoi video e ti paga. Cosa farai Nella maggior parte dei lavori (Canvas UGC) apri un nuovo account TikTok, Instagram o YouTube per l'app di un brand e ci pubblichi più volte a settimana. Per questo i tuoi follower non contano. Pianificare, girare e montare video seguendo il brief del brand Pubblicare i video sull'account dell'app Confrontarti in chat con il brand su quali video funzionano e cosa provare dopo Cosa ti serve Hai almeno 18 anni e vivi in Italia Uno smartphone con una buona fotocamera Costanza nel pubblicare, anche quando un video non va Giri in italiano. Se sai girare anche in inglese hai molta più scelta, perché oggi la maggior parte dei lavori cerca creator che parlano inglese Non servono follower né esperienza con i brand. I brand scelgono in base al tuo profilo e ai tuoi video di prova. Alcuni lavori si fanno anche senza mostrare il viso, con registrazioni dello schermo, voce fuori campo o demo del prodotto. Quanto e come vieni pagato Ogni brand decide il compenso e lo vedi prima di candidarti. Di solito è una cifra fissa a video, spesso con un bonus ogni 1.000 visualizzazioni. Oggi un lavoro tipico paga circa 16 USD a video. I creator migliori guadagnano oltre 5.000 USD al mese; la maggior parte guadagna molto meno. Un esempio: 20 USD a video più 1 USD ogni 1.000 visualizzazioni. Se un video arriva a 9.500 visualizzazioni, ti frutta 29,50 USD. viral.app trattiene lo 0% del tuo compenso: la commissione della piattaforma la paga il brand Pagamento con bonifico SEPA (gratis, da 1 a 3 giorni lavorativi), PayPal o USDC/EURC, anche in euro La fattura viene creata per te Le tasse le gestisci tu. Nell'UE potrebbe servirti un codice fiscale o una partita IVA per ricevere i pagamenti. Come iniziare Crea il tuo profilo creator gratuito su viral.app. Funziona dal browser del telefono, senza scaricare app. Carica due o tre video di prova. Mai fatto UGC? Il nostro corso gratuito in sei capitoli spiega hook, riprese, montaggio e portfolio. Candidati a un massimo di 10 lavori al giorno, oppure aspetta l'invito di un brand. Candidati con il pulsante in questa pagina e ti aiutiamo a partire. Find Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "remote",
+      "social media manager"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/viralapp/ugc-creator-m-f-lavoro-da-casa-part-time-jena-336512",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-15441673e8b9",
+    "title": "Créateur / Créatrice UGC (H/F) – Télétravail",
+    "company": "viral.app",
+    "location": "Jena",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Tu veux devenir créateur UGC et cherches un job à domicile ? Sur viral.app, des marques d'applis paient des créateurs pour des vidéos courtes, à la vidéo. Tu tournes avec ton téléphone, quand ça t'arrange. À propos de viral.app viral.app est une plateforme où les marques trouvent et paient des créateurs UGC. Les marques publient leurs missions payées sur notre marketplace Canvas UGC, et tu postules gratuitement. Plus de 5 000 créateurs ont déjà été payés via viral.app, pour plus de 5 millions de dollars au total. À savoir : tu travailles en freelance pour la marque qui te choisit. viral.app fournit les missions, mesure les vues de tes vidéos et te verse ton paiement. Tes missions Pour la plupart des missions (Canvas UGC), tu crées un nouveau compte TikTok, Instagram ou YouTube pour l'appli d'une marque et tu y publies plusieurs fois par semaine. Ton nombre d'abonnés ne compte donc pas. Préparer, tourner et monter des vidéos à partir du brief de la marque Publier les vidéos sur le compte de l'appli Échanger par chat avec la marque sur les vidéos qui marchent et sur ce que tu testes ensuite Ton profil Tu as 18 ans ou plus et tu vis en France Un smartphone avec une bonne caméra Tu publies régulièrement, même quand une vidéo ne décolle pas Tu tournes en français. Si tu peux aussi tourner en anglais, tu auras bien plus de choix : la plupart des missions cherchent en ce moment des créateurs anglophones Pas besoin d'abonnés ni d'expérience avec des marques. Les marques choisissent d'après ton profil et tes vidéos d'essai. Certaines missions se font sans montrer ton visage, avec des captures d'écran, une voix off ou des démos produit. Ta rémunération Chaque marque fixe sa rémunération, et tu la vois avant de postuler. En général, c'est un montant fixe par vidéo, souvent avec un bonus pour 1 000 vues. En ce moment, une mission typique paie environ 16 USD par vidéo. Les meilleurs créateurs gagnent plus de 5 000 USD par mois ; la plupart gagnent nettement moins. Un exemple : 20 USD par vidéo plus 1 USD pour 1 000 vues. Si une vidéo fait 9 500 vues, elle te rapporte 29,50 USD. viral.app ne prend rien sur ta rémunération (0 %) : c'est la marque qui paie les frais de plateforme Paiement par virement SEPA (gratuit, 1 à 3 jours ouvrés), PayPal ou USDC/EURC, y compris en euros La facture est générée pour toi Tu gères toi-même tes impôts. Dans l'UE, un numéro fiscal peut être demandé avant le paiement. Comment commencer Crée ton profil créateur gratuit sur viral.app. Ça marche dans le navigateur de ton téléphone, sans appli à télécharger. Ajoute deux ou trois vidéos d'essai. Jamais fait d'UGC ? Notre formation gratuite en six chapitres couvre les hooks, le tournage, le montage et le portfolio. Postule à 10 missions par jour au maximum, ou attends qu'une marque t'invite. Postule avec le bouton de cette page et on t'aide à démarrer. Find more English Speaking Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "remote",
+      "marketing and communication"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/viralapp/createur-creatrice-ugc-h-f-teletravail-jena-434234",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-f6a9a0e1de55",
+    "title": "Creador/a de contenido UGC – Trabajo desde casa",
+    "company": "viral.app",
+    "location": "Jena",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "¿Quieres ser UGC creator y buscas un trabajo desde casa? En viral.app, marcas de apps contratan creadores para vídeos cortos y pagan por vídeo. Tú grabas con el móvil cuando te venga bien. Sobre viral.app viral.app es una plataforma donde las marcas encuentran y pagan a creadores UGC. Las marcas publican trabajos pagados en nuestro marketplace Canvas UGC y tú solicitas gratis. Más de 5.000 creadores ya han cobrado a través de viral.app, más de 5 millones de dólares en total. Conviene saberlo: trabajas como freelance para la marca que te elige. viral.app pone los trabajos, mide las visualizaciones de tus vídeos y te paga. Qué harás En la mayoría de trabajos (Canvas UGC) creas una cuenta nueva de TikTok, Instagram o YouTube para la app de una marca y publicas varias veces por semana. Por eso tus propios seguidores no cuentan. Planificar, grabar y editar vídeos según el brief de la marca Publicar los vídeos en la cuenta de la app Hablar por chat con la marca sobre qué vídeos funcionan y qué probar después Qué necesitas Tener 18 años o más y vivir en España Un móvil con buena cámara Constancia para publicar, aunque algún vídeo no funcione Grabar en español. Si también puedes grabar en inglés tendrás muchas más opciones, porque ahora mismo la mayoría de trabajos buscan creadores de habla inglesa No necesitas seguidores ni experiencia con marcas. Las marcas deciden por tu perfil y tus vídeos de muestra. Algunos trabajos ni siquiera piden salir en cámara: grabaciones de pantalla, voz en off o demos de producto. Cuánto y cómo cobras Cada marca fija su pago y lo ves antes de solicitar. Casi siempre hay una cantidad fija por vídeo, a menudo con un bonus por cada 1.000 visualizaciones. Ahora mismo un trabajo típico paga unos 16 USD por vídeo. Los mejores creadores ganan más de 5.000 USD al mes; la mayoría gana bastante menos. Un ejemplo: 20 USD por vídeo más 1 USD por cada 1.000 visualizaciones. Si un vídeo llega a 9.500 visualizaciones, cobras 29,50 USD por él. viral.app se queda con el 0 % de tu pago; la comisión de la plataforma la paga la marca Cobras por transferencia SEPA (gratis, de 1 a 3 días hábiles), PayPal o USDC/EURC, también en euros La factura se genera automáticamente Los impuestos los gestionas tú. En la UE puede que necesites un NIF para cobrar. Cómo empezar Crea tu perfil de creador gratis en viral.app. Funciona en el navegador del móvil, sin descargar ninguna app. Sube dos o tres vídeos de muestra. ¿Nunca has hecho UGC? Nuestro curso gratis de seis capítulos explica hooks, grabación, edición y portfolio. Solicita hasta 10 trabajos al día o espera a que una marca te invite. Presenta tu candidatura con el botón de esta página. Find more English Speaking Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "remote",
+      "social media manager"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/viralapp/creador-a-de-contenido-ugc-trabajo-desde-casa-jena-384051",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-12ed5602ba12",
+    "title": "UGC Creator (m/w/d) – Nebenjob im Homeoffice",
+    "company": "viral.app",
+    "location": "Jena",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Du willst UGC Creator werden und suchst einen Nebenjob von zuhause? Auf viral.app buchen App-Marken Creator für kurze Videos und bezahlen pro Video. Du drehst mit dem Handy, wann es dir passt. Über viral.app viral.app ist eine Plattform, auf der Marken UGC Creator finden und bezahlen. Die Marken posten ihre bezahlten Jobs auf unserem Canvas UGC Marketplace, und du bewirbst dich dort kostenlos. Über 5.000 Creator haben schon Geld über viral.app bekommen, zusammen mehr als 5 Millionen US-Dollar. Gut zu wissen: Du arbeitest freiberuflich für die Marke, die dich auswählt. viral.app stellt die Jobs bereit, misst die Aufrufe deiner Videos und zahlt dich aus. Deine Aufgaben Bei den meisten Jobs (Canvas UGC) legst du einen neuen TikTok-, Instagram- oder YouTube-Account für die App einer Marke an und postest dort mehrmals pro Woche. Deine eigenen Follower spielen deshalb keine Rolle. Videos nach dem Briefing der Marke planen, drehen und schneiden Die Videos auf dem Account der App posten Im Chat mit der Marke besprechen, welche Videos laufen und was du als Nächstes testest Was du mitbringst Du bist mindestens 18 Jahre alt und lebst in Deutschland Ein Smartphone mit guter Kamera Du postest regelmäßig, auch wenn mal ein Video floppt Du drehst auf Deutsch. Wenn du auch auf Englisch drehen kannst, hast du deutlich mehr Auswahl, denn die meisten Jobs suchen gerade englischsprachige Creator Reichweite oder Erfahrung mit Marken brauchst du nicht. Marken entscheiden nach deinem Profil und deinen Beispielvideos. Manche Jobs gehen auch ohne Gesicht vor der Kamera, zum Beispiel mit Bildschirmaufnahmen oder Voiceover. So wirst du bezahlt Jede Marke legt ihre Bezahlung selbst fest, und du siehst sie, bevor du dich bewirbst. Meistens gibt es einen festen Betrag pro Video, oft plus Bonus pro 1.000 Aufrufe. Ein typischer Job zahlt aktuell rund 16 US-Dollar pro Video. Top-Creator verdienen über 5.000 US-Dollar im Monat, die meisten deutlich weniger. Ein Rechenbeispiel: 20 US-Dollar pro Video plus 1 US-Dollar pro 1.000 Aufrufe. Bekommt ein Video 9.500 Aufrufe, verdienst du damit 29,50 US-Dollar. viral.app behält 0 % deiner Bezahlung, die Plattformgebühr zahlt die Marke Auszahlung per SEPA-Überweisung (kostenlos, 1 bis 3 Werktage), PayPal oder USDC/EURC, auch in Euro Die Rechnung wird automatisch für dich erstellt Steuern regelst du selbst. Für Auszahlungen in der EU brauchst du eventuell eine Steuer-ID. So startest du Leg dein kostenloses Creator-Profil bei viral.app an. Das geht im Handy-Browser, eine App brauchst du nicht. Lade zwei oder drei Beispielvideos hoch. Noch nie UGC gemacht? Unser kostenloser UGC-Kurs erklärt in sechs Kapiteln Hooks, Dreh, Schnitt und Portfolio. Bewirb dich auf bis zu 10 Jobs pro Tag, oder lass dich von Marken einladen. Du kannst dich auch direkt hier bewerben. Dann schicken wir dir den Link zu deinem Profil und helfen dir beim Start. Find more English Speaking Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "remote",
+      "social media manager"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/viralapp/ugc-creator-nebenjob-im-homeoffice-jena-102311",
     "date_posted": null
   }
 ]
