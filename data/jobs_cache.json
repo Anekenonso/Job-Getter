@@ -1,58 +1,228 @@
 [
   {
-    "id": "jobicy-ce4f7772c119",
-    "title": "Senior Design Quality Engineer",
-    "company": "Bayesian Health",
+    "id": "jobicy-ad8d53171463",
+    "title": "Accounting Automation Engineer",
+    "company": "Ruby Labs",
+    "location": "Europe",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About us Ruby Labs is a leading tech company that creates and operates innovative consumer products. We offer a diverse range of opportunities across the health, education, and entertainment industries. Our innovative teams are driving the future of consumer-led products, and we're always looking for passionate individuals to join us. Learn more about our story&hellip;",
+    "required_skills": [
+      "finance & accounting"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154905-accounting-automation-engineer",
+    "date_posted": "2026-10-09"
+  },
+  {
+    "id": "jobicy-5febe09f7227",
+    "title": "Revenue Accounting Manager",
+    "company": "Ruby Labs",
+    "location": "Ukraine",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About us Ruby Labs is a leading tech company that creates and operates innovative consumer products. We offer a diverse range of opportunities across the health, education, and entertainment industries. Our innovative teams are driving the future of consumer-led products, and we're always looking for passionate individuals to join us. Learn more about our story&hellip;",
+    "required_skills": [
+      "finance & accounting"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154901-revenue-accounting-manager-2",
+    "date_posted": "2026-10-09"
+  },
+  {
+    "id": "jobicy-12b5fff86a2d",
+    "title": "Manager of Implementations, High Touch - EMEA",
+    "company": "Ashby",
+    "location": "Europe",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Manager of Implementations, High Touch - EMEA Hi, I’m John and I’m the Head of Professional Services at Ashby. One of my favorite aspects of Ashby is our operating principle of Continuous Improvement. Coupled with our principle of caring deeply about our customers, we often find ourselves wondering ‘what is a better way to accomplish&hellip;",
+    "required_skills": [
+      "customer support & success"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154897-manager-of-implementations-high-touch-emea",
+    "date_posted": "2026-10-09"
+  },
+  {
+    "id": "jobicy-95d9740a5d70",
+    "title": "Enterprise Account Executive - Germany",
+    "company": "Ashby",
+    "location": "Germany",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Why Join Sales at Ashby Sales at Ashby is a unique opportunity to sell a product customers genuinely love during an AI-fueled market expansion. Over 5,000 companies rely on Ashby, including OpenAI, Bolt, Statista, Neura Robotics and Monday.com, and our business is durably growing faster than 100% year-over-year. We’re well funded, and on a path&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154906-enterprise-account-executive-germany",
+    "date_posted": "2026-10-09"
+  },
+  {
+    "id": "jobicy-d928d210a9be",
+    "title": "Director, Global Campaigns",
+    "company": "Twilio",
+    "location": "Ireland,  UK",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work, and strong culture of connection and global inclusion means that no&hellip;",
+    "required_skills": [
+      "marketing & sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154904-director-global-campaigns",
+    "date_posted": "2026-10-09"
+  },
+  {
+    "id": "jobicy-7ff1d6ac99d7",
+    "title": "Product Support Engineer - EMEA",
+    "company": "Ashby",
+    "location": "EMEA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Hello! I’m Allie, Head of Support at Ashby. I’m excited to share that we’re hiring a Product Support Engineer in EMEA We’re expanding our global Support team to provide 24/7 coverage across time zones. You’ll join a global team while establishing the technical Support Engineering presence in EMEA, with the ownership and visibility that&hellip;",
+    "required_skills": [
+      "technical support"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154903-product-support-engineer-emea",
+    "date_posted": "2026-10-09"
+  },
+  {
+    "id": "jobicy-ad6bd7c97b30",
+    "title": "DevOps Engineer (Observability)",
+    "company": "Twilio",
+    "location": "Ireland",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work, and strong culture of connection and global inclusion means that no&hellip;",
+    "required_skills": [
+      "devops & infrastructure"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154900-devops-engineer-observability",
+    "date_posted": "2026-10-09"
+  },
+  {
+    "id": "jobicy-803c19cc053b",
+    "title": "Deal Desk Analyst",
+    "company": "Samsara",
+    "location": "UK",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical&hellip;",
+    "required_skills": [
+      "finance & accounting"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154902-deal-desk-analyst-6",
+    "date_posted": "2026-10-09"
+  },
+  {
+    "id": "jobicy-76c6bb67e9b0",
+    "title": "Mid Market Account Executive - EMEA (UKI)",
+    "company": "Ashby",
+    "location": "Austria,  Belgium,  Germany,  Ireland,  Spain,  Switzerland,  UK",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Why Join Sales at Ashby Sales at Ashby is a unique opportunity to sell a product customers genuinely love during an AI-fueled market expansion. Over 5,000 companies rely on Ashby, including OpenAI, Doctolib, Alan, Mistral and Monday.com, and our business is durably growing faster than 100% year-over-year. We’re well funded, and on a path to&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154899-mid-market-account-executive-emea-uki",
+    "date_posted": "2026-10-09"
+  },
+  {
+    "id": "jobicy-86cb546290f9",
+    "title": "Compliance Operations Specialist",
+    "company": "Twilio",
+    "location": "Estonia",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work, and strong culture of connection and global inclusion means that no&hellip;",
+    "required_skills": [
+      "legal & compliance"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154898-compliance-operations-specialist",
+    "date_posted": "2026-10-09"
+  },
+  {
+    "id": "jobicy-45993cc1321d",
+    "title": "Manager, Professional Services",
+    "company": "Collibra",
     "location": "USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Senior Design Quality Engineer In Brief We're a rapidly growing startup on a mission to make healthcare proactive by empowering physicians, nurses, and care team members with real-time data to save lives. You'll safeguard product quality for an FDA-cleared, AI-driven clinical platform, from design controls while we build, to complaint investigation once it's live in&hellip;",
+    "description": "Joining Collibra’s Professional Services Team At Collibra Public Sector, our Professional Services team relies on Federal Solution Architects to deliver on customer expectations for the services we sell, working directly with customer key projects stakeholders throughout the entire customer journey. Ensuring growth, adoption and renewal, Federal Solution Architects act as customer champions, ensuring customers are&hellip;",
     "required_skills": [
-      "qa & testing"
+      "project & program management"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154879-senior-design-quality-engineer",
-    "date_posted": "2026-10-08"
+    "url": "https://jobicy.com/jobs/154887-manager-professional-services",
+    "date_posted": "2026-10-09"
   },
   {
-    "id": "jobicy-aac2d29ddeb5",
-    "title": "Quality Assurance Engineer II",
-    "company": "Bloomreach",
-    "location": "Slovakia",
+    "id": "jobicy-825c543e931c",
+    "title": "Principal Security Field Engineer",
+    "company": "Databricks",
+    "location": "USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Bloomreach is building the world’s premier agentic platform for personalization.We’re revolutionizing how businesses connect with their customers, building and deploying AI agents to personalize the entire customer journey. We're taking autonomous search mainstream, making product discovery more intuitive and conversational for customers, and more profitable for businesses. We’re making conversational shopping a reality, connecting every&hellip;",
+    "description": "RDQ327R177 While candidates in the listed location(s) are encouraged for this role, candidates in other US locations will be considered. The Security Field Engineering team helps data teams solve the world's toughest problems by empowering customers to understand the security of the Databricks platform and by helping account teams address questions that come up during&hellip;",
     "required_skills": [
-      "qa & testing"
+      "cybersecurity"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154875-quality-assurance-engineer-ii",
-    "date_posted": "2026-10-08"
+    "url": "https://jobicy.com/jobs/154895-principal-security-field-engineer",
+    "date_posted": "2026-10-09"
   },
   {
-    "id": "jobicy-03ae2e7cb750",
-    "title": "Senior Quality Engineer",
-    "company": "StackAdapt",
-    "location": "Canada,  USA",
+    "id": "jobicy-50921892963b",
+    "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
+    "company": "Databricks",
+    "location": "UK",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to drive measurable results across the entire customer journey. The most forward-thinking marketers choose StackAdapt to orchestrate high-impact campaigns across&hellip;",
+    "description": "REQ ID: FEQ227R147 Location: United Kingdom (Remote/Hybrid — London or UK-based) Recruiter: Dina Hussain About the Role We are looking for a Lead Solution Architect focused on Generative AI to support our EMEA Emerging Digital Natives and Startups business unit — one of the fastest-moving, most technically ambitious patches in EMEA. Our customers are digital-native&hellip;",
     "required_skills": [
-      "qa & testing"
+      "data science & analytics"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154871-senior-quality-engineer-3",
-    "date_posted": "2026-10-08"
+    "url": "https://jobicy.com/jobs/154888-lead-solutions-architect-generative-ai-emea-emerging-dnb",
+    "date_posted": "2026-10-09"
   },
   {
-    "id": "jobicy-d0166ee2a98d",
-    "title": "Sr. Engineering Manager, SDET",
+    "id": "jobicy-85c5f25e1f45",
+    "title": "Facility Security Officer",
     "company": "Cribl",
     "location": "USA",
     "remote": true,
@@ -60,794 +230,624 @@
     "salary": null,
     "description": "Join the company that’s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world’s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telemetry, we give customers the choice,&hellip;",
     "required_skills": [
-      "qa & testing"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154877-sr-engineering-manager-sdet",
-    "date_posted": "2026-10-08"
-  },
-  {
-    "id": "jobicy-ccb2b9d5253c",
-    "title": "Freelance Software Tester With Smart TVs (Remote in Italy)",
-    "company": "Testlio",
-    "location": "Italy",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Hi there! We are Testlio, a global software testing company with its own freelance network. Our freelancers test apps from companies across the globe. Testlio is a great place for people who value the freedom and flexibility of remote work. At the moment, we are looking for freelance software testers based in Italy with various&hellip;",
-    "required_skills": [
-      "qa & testing"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154880-freelance-software-tester-with-smart-tvs-remote-in-italy",
-    "date_posted": "2026-10-08"
-  },
-  {
-    "id": "jobicy-437c1af2c567",
-    "title": "QA Engineer (Anywhere in Europe)",
-    "company": "PadSplit",
-    "location": "Europe",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "The Role We Need: PadSplit is hiring a QA Engineer to strengthen quality across our Marketplace pod, spanning Mobile (iOS/Android), Web, and backend Platform systems. As our product complexity increases, we need someone who can independently validate cross-platform user flows, reduce production risk, and increase release confidence through disciplined, hands-on testing. The Person We Are&hellip;",
-    "required_skills": [
-      "qa & testing"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154874-qa-engineer-anywhere-in-europe",
-    "date_posted": "2026-10-08"
-  },
-  {
-    "id": "jobicy-d4ba9e8058d8",
-    "title": "Junior QA Engineer - US Remote",
-    "company": "PerfectServe",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "What is PerfectServe? PerfectServe is a leading provider of clinical communication and physician scheduling solutions in the health IT space. The company was founded in 1997 and has grown steadily since then, with a notable jump after several major acquisitions were announced in 2019. PerfectServe now has 400+ employees, 30,000+ customers — spanning medical practices,&hellip;",
-    "required_skills": [
-      "qa & testing"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154878-junior-qa-engineer-us-remote",
-    "date_posted": "2026-10-08"
-  },
-  {
-    "id": "jobicy-30aca6b37df4",
-    "title": "Software Test Engineer",
-    "company": "Deepgram",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Company Overview Deepgram is the leading platform underpinning the emerging trillion-dollar Voice AI economy, providing real-time APIs for speech-to-text (STT), text-to-speech (TTS), and building production-grade voice agents at scale. More than 200,000 developers and 1,300+ organizations build voice offerings that are ‘Powered by Deepgram’, including Twilio, Cloudflare, Sierra, Decagon, Vapi, Daily, Cresta, Granola, and Jack&hellip;",
-    "required_skills": [
-      "qa & testing"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154872-software-test-engineer",
-    "date_posted": "2026-10-08"
-  },
-  {
-    "id": "jobicy-25c6a467e78f",
-    "title": "QA Analyst (Mexico, Remote)",
-    "company": "Varicent",
-    "location": "Mexico",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At Varicent, we’re not just transforming the Sales Performance Management (SPM) market—we’re redefining how organizations achieve revenue success. Our cutting-edge SaaS solutions empower revenue leaders globally to design smarter go-to-market strategies, maximize seller performance, and unlock untapped potential. Varicent stands at the forefront of innovation, celebrated as a market leader in the 2025 Forrester Wave&hellip;",
-    "required_skills": [
-      "qa & testing"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154873-qa-analyst-mexico-remote",
-    "date_posted": "2026-10-08"
-  },
-  {
-    "id": "jobicy-609c57330fc3",
-    "title": "Legal Counsel, Corporate & Business Affairs",
-    "company": "GiveDirectly",
-    "location": "UK,  USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "GiveDirectly has delivered more than $1B in cash directly to 2+ million people living in poverty across 15 countries since 2011. We believe cash transfers are one of the most scalable, cost-effective, and dignified forms of aid, with the research to back it up. Our work has been covered by The Economist, NPR, TED, and&hellip;",
-    "required_skills": [
       "legal & compliance"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154865-legal-counsel-corporate-business-affairs",
-    "date_posted": "2026-10-08"
+    "url": "https://jobicy.com/jobs/154892-facility-security-officer",
+    "date_posted": "2026-10-09"
   },
   {
-    "id": "jobicy-ae3812fd3561",
-    "title": "Growth Manager, Paid Media",
-    "company": "GiveDirectly",
-    "location": "UK,  USA",
+    "id": "jobicy-7135bf047d37",
+    "title": "Data Analytics Engineer",
+    "company": "Toptal",
+    "location": "LATAM,  Canada,  USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "GiveDirectly has delivered more than $1B in cash directly to 2+ million people living in poverty across 15 countries since 2011. We believe cash transfers are one of the most scalable, cost-effective, and dignified forms of aid, with the research to back it up. Our work has been covered by The Economist, NPR, TED, and&hellip;",
+    "description": "About Toptal Toptal is a global network of top talent in business, design, and technology that enables companies to scale their teams, on-demand. With $200+ million in annual revenue and team members based around the globe, Toptal is the world’s largest fully remote workforce. We take the best elements of virtual teams and combine them&hellip;",
     "required_skills": [
-      "marketing & sales"
+      "data science & analytics"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154861-growth-manager-paid-media",
-    "date_posted": "2026-10-08"
+    "url": "https://jobicy.com/jobs/154889-data-analytics-engineer-2",
+    "date_posted": "2026-10-09"
   },
   {
-    "id": "jobicy-9d0e119063f4",
-    "title": "Legal Counsel, Emergency Cash & U.S. Programs",
-    "company": "GiveDirectly",
-    "location": "UK,  USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "GiveDirectly has delivered more than $1B in cash directly to 2+ million people living in poverty across 15 countries since 2011. We believe cash transfers are one of the most scalable, cost-effective, and dignified forms of aid, with the research to back it up. Our work has been covered by The Economist, NPR, TED, and&hellip;",
-    "required_skills": [
-      "legal & compliance"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154869-legal-counsel-emergency-cash-u-s-programs",
-    "date_posted": "2026-10-08"
-  },
-  {
-    "id": "jobicy-fdcbb4483e1a",
-    "title": "Agentic Workforce Adoption Manager",
-    "company": "SOCi",
-    "location": "Canada",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Who We Are: SOCi is the leader in AI-powered marketing solutions for multi-location businesses. With its proprietary Genius AI™ and suite of Genius Agents™, SOCi provides a first-of-its-kind, AI-powered digital workforce capable of handling the workload of 1,000 local marketers™, empowering brands to achieve unmatched digital visibility, strengthen customer engagement, and scale faster than ever&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154870-agentic-workforce-adoption-manager",
-    "date_posted": "2026-10-08"
-  },
-  {
-    "id": "jobicy-3474cabab9ee",
-    "title": "Associate Director and Corporate Counsel",
-    "company": "BetterHelp",
+    "id": "jobicy-84d0a1e93e56",
+    "title": "Manager, Field Engineering - Global Telecommunications",
+    "company": "Databricks",
     "location": "USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Who are we and why should you join us? BetterHelp is on a mission to remove the traditional barriers to therapy and make mental health care more accessible to everyone. Founded in 2013, we are now the world’s largest online therapy service, providing affordable and convenient therapy across the globe. Our network of over 30,000&hellip;",
-    "required_skills": [
-      "legal & compliance"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154864-associate-director-and-corporate-counsel",
-    "date_posted": "2026-10-08"
-  },
-  {
-    "id": "jobicy-1a8de5def393",
-    "title": "Principal Product Manager",
-    "company": "ActiveCampaign",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Active Intelligence is already live — autonomous agents serving 180,000+ businesses, with real traction and a roadmap that gets more ambitious with every release. What we need now is the product leader who accelerates the layer that makes all of it smarter. This is a principal-level IC role focused on two connected problem spaces: the&hellip;",
+    "description": "FEQ227R233MANAGER, FIELD ENGINEERING About the Role As a Manager, Field Engineering, you will lead a team of technical customer advisors who help organizations solve complex data, analytics, and AI challenges. You will work closely with Sales and cross-functional partners to translate customer priorities into effective technical strategies, strong customer outcomes, and durable business impact. This&hellip;",
     "required_skills": [
       "product & operations"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154863-principal-product-manager-2",
-    "date_posted": "2026-10-08"
+    "url": "https://jobicy.com/jobs/154891-manager-field-engineering-global-telecommunications",
+    "date_posted": "2026-10-09"
   },
   {
-    "id": "jobicy-c04f9783d06b",
-    "title": "Mid Market Account Executive - Americas (West)",
-    "company": "Ashby",
-    "location": "Canada,  USA",
+    "id": "jobicy-7fd241b8a5c0",
+    "title": "Senior Account Executive II",
+    "company": "Collibra",
+    "location": "USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Why Join Sales at Ashby Sales at Ashby is a unique opportunity to sell a product customers genuinely love during an AI-fueled market expansion. Over 5,000 companies rely on Ashby including Shopify, Snowflake, OpenAI, Bolt, and Notion, and our business is durably growing faster than 100% year-over-year. We’re well funded, and on a path to&hellip;",
+    "description": "Join Collibra's Sales team as a Senior Account Executive Make an impact at Collibra by fueling Collibra's growth in your assigned territory of the Mid-West and be the guiding force behind bringing Collibra's value and vision to customers and prospects. As part of our Enterprise Sales team, you will manage some of Collibra's largest customers&hellip;",
     "required_skills": [
       "sales"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154867-mid-market-account-executive-americas-west",
-    "date_posted": "2026-10-08"
+    "url": "https://jobicy.com/jobs/154890-senior-account-executive-ii-2",
+    "date_posted": "2026-10-09"
   },
   {
-    "id": "jobicy-cb15516e721e",
-    "title": "Accounts Receivable Specialist",
-    "company": "SOCi",
-    "location": "Canada",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Who We Are: SOCi is the leader in AI-powered marketing solutions for multi-location businesses. With its proprietary Genius AI™ and suite of Genius Agents™, SOCi provides a first-of-its-kind, AI-powered digital workforce capable of handling the workload of 1,000 local marketers™, empowering brands to achieve unmatched digital visibility, strengthen customer engagement, and scale faster than ever&hellip;",
-    "required_skills": [
-      "finance & accounting"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154866-accounts-receivable-specialist",
-    "date_posted": "2026-10-08"
-  },
-  {
-    "id": "jobicy-02ad3d8f2334",
-    "title": "Senior Strategic Implementation Specialist - Americas (EST)",
-    "company": "Ashby",
-    "location": "Canada,  USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Senior Strategic Implementation Specialist, Americas (EST) Hi! I’m Morgan, the Manager of Strategic Implementations here at Ashby. Our customers are at the center of everything we do, and that’s especially true during implementation. We take pride in being responsive, collaborative partners who focus not just on delivery, but on doing things thoughtfully. This role plays&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154862-senior-strategic-implementation-specialist-americas-est",
-    "date_posted": "2026-10-08"
-  },
-  {
-    "id": "jobicy-33ad72dc07f5",
-    "title": "Senior AI Engineer",
-    "company": "ActiveCampaign",
+    "id": "jobicy-ef415c9acb8e",
+    "title": "Business Process Analyst",
+    "company": "Veracyte",
     "location": "USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Are you a hands-on technical builder passionate about driving business innovation through cutting-edge AI architecture? ActiveCampaign is seeking an Sr AI Engineer - AI Transformation Hub who will sit at the critical intersection of infrastructure and business innovation. In this role, you will not just help build capabilities—you will take meaningful ownership of how key&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154868-senior-ai-engineer-9",
-    "date_posted": "2026-10-08"
-  },
-  {
-    "id": "jobicy-0e997bb73927",
-    "title": "Account Executive II, Mid-Market",
-    "company": "Huntress",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "What We Do: Cybercrime is growing, and more businesses are getting hit by threats that used to target only the biggest organizations. That pushes defenders like us to operate at the highest level, and it deepens our need for good people who want to make a meaningful impact. Founded in 2015 by former NSA cyber&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154850-account-executive-ii-mid-market",
-    "date_posted": "2026-10-08"
-  },
-  {
-    "id": "jobicy-0276e4489096",
-    "title": "Engineering Manager, Machine Learning (Safety)",
-    "company": "Discord",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154851-engineering-manager-machine-learning-safety",
-    "date_posted": "2026-10-08"
-  },
-  {
-    "id": "jobicy-5c62d63c36f1",
-    "title": "(743) Event Coordinator/Virtual Event Specialist",
-    "company": "Arlo Solutions",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Company Summary Arlo Solutions (Arlo) is an information technology consulting services company that specializes in delivering technology solutions. Our reputation reflects the high quality of the talented Arlo Solutions team and the consultants working in partnership with our customers. Our mission is to understand and meet the needs of both our customers and consultants by&hellip;",
-    "required_skills": [
-      "project & program management"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154859-743-event-coordinator-virtual-event-specialist",
-    "date_posted": "2026-10-08"
-  },
-  {
-    "id": "jobicy-f1fcf02d8569",
-    "title": "Senior FP&A Manager",
-    "company": "Demandbase, Inc.",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Introduction to Demandbase: Demandbase is the only pipeline AI platform that empowers GTM teams to automate growth at scale. With a unified view of data, insights, actions, and outcomes, B2B enterprises can seamlessly align and execute their account-based GTM strategies with confidence. Thousands of businesses trust Demandbase to maximize revenue, minimize waste, and consolidate their&hellip;",
-    "required_skills": [
-      "finance & accounting"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154858-senior-fpa-manager",
-    "date_posted": "2026-10-08"
-  },
-  {
-    "id": "jobicy-585b7930207b",
-    "title": "Senior Software Engineer - Backend/Kotlin",
-    "company": "Fanatics",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Us Fanatics is building a leading global digital sports platform. We ignite the passions of global sports fans and maximize the presence and reach for our hundreds of sports partners globally by offering products and services across Fanatics Commerce, Fanatics Collectibles, and Fanatics Betting &amp; Gaming, allowing sports fans to Buy, Collect, and Bet.&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154857-senior-software-engineer-backend-kotlin",
-    "date_posted": "2026-10-08"
-  },
-  {
-    "id": "jobicy-3ae99670fdbb",
-    "title": "Community Lead",
-    "company": "Huntress",
-    "location": "Australia",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "What We Do: Cybercrime is growing, and more businesses are getting hit by threats that used to target only the biggest organizations. That pushes defenders like us to operate at the highest level, and it deepens our need for good people who want to make a meaningful impact. Founded in 2015 by former NSA cyber&hellip;",
-    "required_skills": [
-      "marketing & sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154855-community-lead",
-    "date_posted": "2026-10-08"
-  },
-  {
-    "id": "jobicy-cd3629813505",
-    "title": "Engineering Manager, Platform Security",
-    "company": "Discord",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people&hellip;",
-    "required_skills": [
-      "cybersecurity"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154856-engineering-manager-platform-security",
-    "date_posted": "2026-10-08"
-  },
-  {
-    "id": "jobicy-bef55dcb2978",
-    "title": "(737) Program Manager",
-    "company": "Arlo Solutions",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Company Summary Arlo Solutions (Arlo) is an information technology consulting services company that specializes in delivering technology solutions. Our reputation reflects the high quality of the talented Arlo Solutions team and the consultants working in partnership with our customers. Our mission is to understand and meet the needs of both our customers and consultants by&hellip;",
-    "required_skills": [
-      "project & program management"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154854-737-program-manager",
-    "date_posted": "2026-10-08"
-  },
-  {
-    "id": "jobicy-421e19730b09",
-    "title": "Advertising Campaign Strategist",
-    "company": "Demandbase, Inc.",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Introduction to Demandbase: Demandbase is the only pipeline AI platform that empowers GTM teams to automate growth at scale. With a unified view of data, insights, actions, and outcomes, B2B enterprises can seamlessly align and execute their account-based GTM strategies with confidence. Thousands of businesses trust Demandbase to maximize revenue, minimize waste, and consolidate their&hellip;",
-    "required_skills": [
-      "marketing & sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154853-advertising-campaign-strategist",
-    "date_posted": "2026-10-08"
-  },
-  {
-    "id": "jobicy-87e3ff10ff43",
-    "title": "Account Executive UKI",
-    "company": "Dropbox",
-    "location": "Ireland,  UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Role Description This role goes beyond traditional account expansion. You’ll be responsible for building and scaling how we sell across new use cases and buying centers within our install base and with net new customers. You’ll work through ambiguity to identify what resonates with customers, what drives real outcomes, and how we can create repeatable&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154841-account-executive-uki",
-    "date_posted": "2026-10-08"
-  },
-  {
-    "id": "jobicy-71b8d69a29d7",
-    "title": "Customer Success Manager — Japanese & Korean Speaking",
-    "company": "Dropbox",
-    "location": "Japan",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Role Description As a Customer Success Manager at Dropbox, you will own the post-sale customer strategy and relationship for a portfolio of customers. You will help customers realize measurable value from their investment while driving product adoption, retention, growth, and Net Revenue Retention (NRR). You will serve as a trusted advisor throughout the customer journey,&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154849-customer-success-manager-japanese-korean-speaking",
-    "date_posted": "2026-10-08"
-  },
-  {
-    "id": "jobicy-bba890ba289e",
-    "title": "Solutions Engineer - EMEA",
-    "company": "Veriff",
-    "location": "Estonia,  Spain",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Veriff is looking for a commercially minded Solutions Engineer to join our EMEA team and partner closely with Sales to drive new business and accelerate revenue growth. This role is an excellent opportunity for someone who enjoys combining technology with business, thrives in a collaborative environment, and understands that Solutions Engineering is a revenue-driving function&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154846-solutions-engineer-emea",
-    "date_posted": "2026-10-08"
-  },
-  {
-    "id": "jobicy-e18cada27870",
-    "title": "Director, Total Rewards, Systems & Analytics",
-    "company": "HackerOne",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "HackerOne is a global leader in Continuous Threat Exposure Management (CTEM). The HackerOne Platform unites agentic AI solutions with the ingenuity of the world’s largest community of security researchers to continuously discover, validate, prioritize, and remediate exposures across code, cloud, and AI systems. Through solutions like bug bounty, vulnerability disclosure, agentic pentesting, AI red teaming,&hellip;",
-    "required_skills": [
-      "hr & recruiting"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154845-director-total-rewards-systems-analytics",
-    "date_posted": "2026-10-08"
-  },
-  {
-    "id": "jobicy-29bf849219f6",
-    "title": "Oncology Specialist - Northwest TX / DFW",
-    "company": "Ataraxis AI",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Ataraxis AI Ataraxis is a clinical AI research lab working at the intersection of multi-modal AI and precision medicine. Our goal is to make disease predictable. To accomplish this, we develop new AI methods that predict patient outcomes and treatment response, and build clinical tools to assist physicians in selecting the most optimal treatments&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154840-oncology-specialist-northwest-tx-dfw",
-    "date_posted": "2026-10-08"
-  },
-  {
-    "id": "jobicy-ba2b708c9e89",
-    "title": "VP of Revenue Marketing",
-    "company": "Veriff",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About the team Revenue Marketing owns the global engine responsible for creating and accelerating pipeline at Veriff. The team brings together Account-Based Marketing, demand generation, digital marketing, web and SEO/AEO, field and events, and customer marketing. We work closely with Sales and Revenue Operations to decide where to focus, how to engage priority accounts and&hellip;",
-    "required_skills": [
-      "marketing & sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154848-vp-of-revenue-marketing",
-    "date_posted": "2026-10-08"
-  },
-  {
-    "id": "jobicy-341b5db85994",
-    "title": "Senior Security Engineer, Identity and Access Management",
-    "company": "HackerOne",
-    "location": "Netherlands,  UK,  USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "HackerOne is a global leader in Continuous Threat Exposure Management (CTEM). The HackerOne Platform unites agentic AI solutions with the ingenuity of the world’s largest community of security researchers to continuously discover, validate, prioritize, and remediate exposures across code, cloud, and AI systems. Through solutions like bug bounty, vulnerability disclosure, agentic pentesting, AI red teaming,&hellip;",
-    "required_skills": [
-      "cybersecurity"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154842-senior-security-engineer-identity-and-access-management",
-    "date_posted": "2026-10-08"
-  },
-  {
-    "id": "jobicy-2cf4715e4c8a",
-    "title": "Vice President, Partnership Sales",
-    "company": "HackerOne",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "HackerOne is a global leader in Continuous Threat Exposure Management (CTEM). The HackerOne Platform unites agentic AI solutions with the ingenuity of the world’s largest community of security researchers to continuously discover, validate, prioritize, and remediate exposures across code, cloud, and AI systems. Through solutions like bug bounty, vulnerability disclosure, agentic pentesting, AI red teaming,&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154847-vice-president-partnership-sales",
-    "date_posted": "2026-10-08"
-  },
-  {
-    "id": "jobicy-5071ac67ed4d",
-    "title": "Technical Project Manager",
-    "company": "Instructure",
-    "location": "Australia",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At Instructure, we believe in the power of people to grow and succeed throughout their lives. Our goal is to amplify that power by creating intuitive products that simplify learning and personal development, facilitate meaningful relationships, and inspire people to go further in their education and careers.We do this by giving smart, creative, passionate people&hellip;",
-    "required_skills": [
-      "project & program management"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154844-technical-project-manager-3",
-    "date_posted": "2026-10-08"
-  },
-  {
-    "id": "jobicy-6a6e5e33e439",
-    "title": "Sales Director, NSW",
-    "company": "StackAdapt",
-    "location": "Australia",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to drive measurable results across the entire customer journey. The most forward-thinking marketers choose StackAdapt to orchestrate high-impact campaigns across&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154832-sales-director-nsw",
-    "date_posted": "2026-10-08"
-  },
-  {
-    "id": "jobicy-54b8ebb6f716",
-    "title": "Sales Director, Victoria",
-    "company": "StackAdapt",
-    "location": "Australia",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to drive measurable results across the entire customer journey. The most forward-thinking marketers choose StackAdapt to orchestrate high-impact campaigns across&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154836-sales-director-victoria",
-    "date_posted": "2026-10-08"
-  },
-  {
-    "id": "jobicy-88f3565af7a3",
-    "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
-    "company": "TRM Labs",
-    "location": "EMEA,  Singapore,  South Korea,  USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Build a Safer World. TRM Labs provides AI-powered intelligence solutions that help public and private sector agencies investigate and disrupt crime. TRM's platforms enable investigators to trace illicit activity, build cases, and construct operating pictures of threat networks. Leading agencies and businesses worldwide rely on TRM to make the world safer and more secure. About&hellip;",
-    "required_skills": [
-      "cybersecurity"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154835-senior-staff-threat-intelligence-analyst-hacks",
-    "date_posted": "2026-10-08"
-  },
-  {
-    "id": "jobicy-6c929289b3c5",
-    "title": "Sales Engineer",
-    "company": "Zscaler",
-    "location": "Thailand",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 200+ public data centers globally and thousands of private sites at the&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154834-sales-engineer-8",
-    "date_posted": "2026-10-08"
-  },
-  {
-    "id": "jobicy-535f8a9ba76e",
-    "title": "APAC Partner Business Development Manager",
-    "company": "Deepgram",
-    "location": "Singapore",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Company Overview Deepgram is the leading platform underpinning the emerging trillion-dollar Voice AI economy, providing real-time APIs for speech-to-text (STT), text-to-speech (TTS), and building production-grade voice agents at scale. More than 200,000 developers and 1,300+ organizations build voice offerings that are ‘Powered by Deepgram’, including Twilio, Cloudflare, Sierra, Decagon, Vapi, Daily, Cresta, Granola, and Jack&hellip;",
-    "required_skills": [
-      "business development"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154833-apac-partner-business-development-manager",
-    "date_posted": "2026-10-08"
-  },
-  {
-    "id": "jobicy-625cd323c9db",
-    "title": "Customer Success Engineer (Singapore)",
-    "company": "Deepgram",
-    "location": "Singapore",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Company Overview Deepgram is the leading platform underpinning the emerging trillion-dollar Voice AI economy, providing real-time APIs for speech-to-text (STT), text-to-speech (TTS), and building production-grade voice agents at scale. More than 200,000 developers and 1,300+ organizations build voice offerings that are ‘Powered by Deepgram’, including Twilio, Cloudflare, Sierra, Decagon, Vapi, Daily, Cresta, Granola, and Jack&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154827-customer-success-engineer-singapore",
-    "date_posted": "2026-10-08"
-  },
-  {
-    "id": "jobicy-af8abbe80456",
-    "title": "Account Executive II",
-    "company": "Lightspeed Commerce",
-    "location": "Philippines",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Hi there! Thanks for stopping by Are you actively looking for a new opportunity? Or just checking the market? Well… you might just be in the right place! We have bike enthusiasts, foodies, video game heroes, dog and cat lovers, movie buffs, musicians, and every variety of people. Lightspeed was founded on the principles&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154831-account-executive-ii-2",
-    "date_posted": "2026-10-08"
-  },
-  {
-    "id": "jobicy-4953ab0b6b86",
-    "title": "Business Development Executive, APAC Public Sector (ANZ)",
-    "company": "TRM Labs",
-    "location": "Australia,  New Zealand",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Build a Safer World. TRM Labs provides AI-powered intelligence solutions that help public and private sector agencies investigate and disrupt crime. TRM's platforms enable investigators to trace illicit activity, build cases, and construct operating pictures of threat networks. Leading agencies and businesses worldwide rely on TRM to make the world safer and more secure. The&hellip;",
-    "required_skills": [
-      "business development"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154829-business-development-executive-apac-public-sector-anz",
-    "date_posted": "2026-10-08"
-  },
-  {
-    "id": "jobicy-9b6c7c35c870",
-    "title": "Partner Business Manager",
-    "company": "Zscaler",
-    "location": "Malaysia",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 200+ public data centers globally and thousands of private sites at the&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154828-partner-business-manager-2",
-    "date_posted": "2026-10-08"
-  },
-  {
-    "id": "jobicy-4249901655b5",
-    "title": "Binance Accelerator Programm - Product Manager (meme)",
-    "company": "Binance",
-    "location": "Hong Kong",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. Binance is trusted by more than 320 million people in 100+ countries for its industry-leading security, transparency, trading engine speed, protections for investors, and unmatched portfolio of digital asset products and offerings from trading and finance&hellip;",
+    "description": "At Veracyte, we offer exciting career opportunities for those interested in joining a pioneering team that is committed to transforming cancer care for patients across the globe. Working at Veracyte enables our employees to not only make a meaningful impact on the lives of patients, but to also learn and grow within a purpose driven&hellip;",
     "required_skills": [
       "product & operations"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154830-binance-accelerator-programm-product-manager-meme",
-    "date_posted": "2026-10-08"
+    "url": "https://jobicy.com/jobs/154886-business-process-analyst-2",
+    "date_posted": "2026-10-09"
   },
   {
-    "id": "jobicy-dc63f72c2375",
-    "title": "Safety Engineer - Free Tier Abuse",
-    "company": "Elevenlabs",
-    "location": "Ireland,  Japan,  Poland,  UK,  USA",
+    "id": "jobicy-0e4f1eb45c19",
+    "title": "Manager, Business Analytics",
+    "company": "Veracyte",
+    "location": "USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of&hellip;",
+    "description": "At Veracyte, we offer exciting career opportunities for those interested in joining a pioneering team that is committed to transforming cancer care for patients across the globe. Working at Veracyte enables our employees to not only make a meaningful impact on the lives of patients, but to also learn and grow within a purpose driven&hellip;",
     "required_skills": [
-      "cybersecurity"
+      "data science & analytics"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154823-safety-engineer-free-tier-abuse",
-    "date_posted": "2026-10-08"
+    "url": "https://jobicy.com/jobs/154894-manager-business-analytics",
+    "date_posted": "2026-10-09"
   },
   {
-    "id": "jobicy-396e918038d6",
-    "title": "Research Engineer - Inference",
-    "company": "Elevenlabs",
-    "location": "Bulgaria,  Poland,  UK,  USA",
+    "id": "jobicy-bbc8369ed76f",
+    "title": "Director, Partnerships",
+    "company": "Toptal",
+    "location": "Canada",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of&hellip;",
+    "description": "About Toptal Toptal is a global network of top talent in business, design, and technology that enables companies to scale their teams, on-demand. With $200+ million in annual revenue and team members based around the globe, Toptal is the world’s largest fully remote workforce. We take the best elements of virtual teams and combine them&hellip;",
+    "required_skills": [
+      "business development"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154893-director-partnerships",
+    "date_posted": "2026-10-09"
+  },
+  {
+    "id": "jobicy-90cb7166f165",
+    "title": "Regional Sales Manager - Minnesota",
+    "company": "BigID",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Who we are: BigID is an innovative tech startup that focuses on solutions for data security, compliance, privacy, and AI data management. We're leading the market in all things data: helping our customers reduce risk, drive business innovation, achieve compliance, build customer trust, make better decisions, and get more value from their data. We are&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/152748-regional-sales-manager-minnesota",
+    "date_posted": "2026-10-09"
+  },
+  {
+    "id": "jobicy-5d61298aaff9",
+    "title": "Regional Sales Manager - Ohio",
+    "company": "BigID",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Who we are: BigID is an innovative tech startup that focuses on solutions for data security, compliance, privacy, and AI data management. We're leading the market in all things data: helping our customers reduce risk, drive business innovation, achieve compliance, build customer trust, make better decisions, and get more value from their data. We are&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/152753-regional-sales-manager-ohio",
+    "date_posted": "2026-10-09"
+  },
+  {
+    "id": "jobicy-abb5d6fbd1ec",
+    "title": "Senior Director of Public Charging",
+    "company": "ChargePoint",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Us With electric vehicles expected to be nearly 30% of new vehicle sales by 2025 and more than 50% by 2040, electric mobility is becoming a reality. ChargePoint (NYSE: CHPT) is at the center of this revolution, powering one of the world’s leading EV charging networks and a comprehensive set of hardware, software and&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/152836-senior-director-of-public-charging",
+    "date_posted": "2026-10-09"
+  },
+  {
+    "id": "jobicy-b5839323714a",
+    "title": "Senior Director of Fleet Charging",
+    "company": "ChargePoint",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Us With electric vehicles expected to be nearly 30% of new vehicle sales by 2025 and more than 50% by 2040, electric mobility is becoming a reality. ChargePoint (NYSE: CHPT) is at the center of this revolution, powering one of the world’s leading EV charging networks and a comprehensive set of hardware, software and&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/152832-senior-director-of-fleet-charging",
+    "date_posted": "2026-10-09"
+  },
+  {
+    "id": "jobicy-0b79daeb98b2",
+    "title": "Principal Technical Product Marketing Manager",
+    "company": "6sense",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Our Mission: 6sense's mission is to multiply what matters: growth, retention, and efficiency. We envision a future where companies, teams and people reach their full potential. Our People: People are the heart and soul of 6sense. We serve with passion and purpose. We live by our Being 6sense values of Win as One Team, Stay&hellip;",
+    "required_skills": [
+      "marketing & sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/152834-principal-technical-product-marketing-manager",
+    "date_posted": "2026-10-09"
+  },
+  {
+    "id": "jobicy-de38e64835f8",
+    "title": "Vice President, Banking & Financial Services Industry Leader",
+    "company": "Quantum Metric",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Our Culture Quantum Metric's number one objective is happy people, diverse and inclusive culture. We’re passionate about empowering our people to become the best version of themselves, offering coaching and training programs designed to accelerate their career in whatever direction they choose. As a remote-first company, we understand the importance of building an engaged,&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/152796-vice-president-banking-financial-services-industry-leader",
+    "date_posted": "2026-10-09"
+  },
+  {
+    "id": "jobicy-4ff8770a4865",
+    "title": "Manager, Commercial Finance (Strategic Finance)",
+    "company": "Liftoff",
+    "location": "Canada",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Liftoff is a leading AI-powered performance marketing platform for the mobile app economy. Our end-to-end technology stack helps app marketers acquire and retain high-value users, while enabling publishers to maximize revenue across programmatic and direct demand. Liftoff’s solutions, including Accelerate, Direct, Monetize, Intelligence, and Vungle Exchange, support over 6,600 mobile businesses across 74 countries in&hellip;",
+    "required_skills": [
+      "finance & accounting"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/152831-manager-commercial-finance-strategic-finance",
+    "date_posted": "2026-10-09"
+  },
+  {
+    "id": "jobicy-0fd6f5d49dba",
+    "title": "Senior Growth Marketing Manager (Subscriptions)",
+    "company": "DuckDuckGo",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Who We Are Hi, we're DuckDuckGo, the online protection company and remote-first team of 300+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, annual revenue now exceeds $100m USD and millions use our browser on on Mac, Windows, iOS, and Android, our search engine, and the&hellip;",
+    "required_skills": [
+      "marketing & sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/152828-senior-growth-marketing-manager-subscriptions",
+    "date_posted": "2026-10-09"
+  },
+  {
+    "id": "jobicy-2b58ca726cec",
+    "title": "Strategic Account Executive - West Coast",
+    "company": "Zip",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Zip Zip is the AI platform for enterprise procurement — built for humans and agents working together. By orchestrating procurement across teams, tools, and suppliers with the help of AI agents, companies can secure the resources they need to innovate faster than ever before. The world’s most influential enterprises trust Zip, including T-Mobile, OpenAI,&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/152825-strategic-account-executive-west-coast",
+    "date_posted": "2026-10-09"
+  },
+  {
+    "id": "jobicy-53cd863bce4b",
+    "title": "Senior Product Manager",
+    "company": "Tremendous",
+    "location": "LATAM,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Tremendous is the global platform built for businesses to send thousands of payouts to anyone, anywhere, for free. We're trusted by 20,000 organizations like Atlassian, MIT, and United Way to deliver gift cards and money to millions of recipients worldwide. Our customers (researchers, marketers, HR teams, nonprofits, and platform businesses) rave about how fast and&hellip;",
+    "required_skills": [
+      "product & operations"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/152822-senior-product-manager-6",
+    "date_posted": "2026-10-09"
+  },
+  {
+    "id": "jobicy-8875d2d7c2c4",
+    "title": "Solution Engineer (Pre-Sales)",
+    "company": "Zip",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Zip Zip is the AI platform for enterprise procurement — built for humans and agents working together. By orchestrating procurement across teams, tools, and suppliers with the help of AI agents, companies can secure the resources they need to innovate faster than ever before. The world’s most influential enterprises trust Zip, including T-Mobile, OpenAI,&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/152820-solution-engineer-pre-sales",
+    "date_posted": "2026-10-09"
+  },
+  {
+    "id": "jobicy-df441b5c96f2",
+    "title": "Account Executive (EMEA)",
+    "company": "Supabase",
+    "location": "EMEA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We’re looking for a creative and driven Commercial Account Executive to help grow our customer base&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/152816-account-executive-emea-2",
+    "date_posted": "2026-10-09"
+  },
+  {
+    "id": "jobicy-38d146896e2c",
+    "title": "Business Systems Engineer",
+    "company": "ClickUp",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring process. Join us and&hellip;",
     "required_skills": [
       "software engineering"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154820-research-engineer-inference",
-    "date_posted": "2026-10-08"
+    "url": "https://jobicy.com/jobs/152814-business-systems-engineer",
+    "date_posted": "2026-10-09"
   },
   {
-    "id": "jobicy-84aa362af623",
-    "title": "Engineering Manager - Authentication & Authorisation",
-    "company": "Pleo",
-    "location": "Denmark,  Portugal,  Spain,  UK",
+    "id": "jobicy-efd2fbe46c9a",
+    "title": "Events Marketing Manager",
+    "company": "Chili Piper",
+    "location": "Canada,  USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "About Pleo Messy spend management is tricky business. And tedious processes are a lose-lose situation for all involved, not just finance. At Pleo, we're changing that. We build spend solutions that make managing money seamless, empowering, and surprisingly effective for finance teams and employees alike - with a vision to help all businesses ‘go beyond’.&hellip;",
+    "description": "About Chili Piper Chili Piper is a B2B SaaS company that helps GTM teams turn inbound leads into qualified meetings - instantly. Our Demand Conversion Platform makes it easier for buyers and sellers to connect fast, without the usual friction in the funnel. We’re a fully remote, global team that loves building solutions that truly&hellip;",
+    "required_skills": [
+      "marketing & sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/152812-events-marketing-manager",
+    "date_posted": "2026-10-09"
+  },
+  {
+    "id": "jobicy-22758e880db7",
+    "title": "Senior/Staff Machine Learning Data Scientist",
+    "company": "Bayesian Health",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Senior/Staff Machine Learning Data Scientist In Brief We’re an early-stage startup on a mission to make healthcare proactive by empowering physicians, nurses, and care team members with real-time data to save lives. TLDR: Independent end-to-end model development with ability to work cross-functionally with Clinical, Engineering, and Product to clarify and prioritize specifications and features for&hellip;",
+    "required_skills": [
+      "data science & analytics"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/152824-senior-staff-machine-learning-data-scientist",
+    "date_posted": "2026-10-09"
+  },
+  {
+    "id": "jobicy-4d346464ef54",
+    "title": "Software Engineer, Data Integration",
+    "company": "Bayesian Health",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Software Engineer, Data Integration In Brief We're a rapidly growing startup on a mission to make healthcare proactive by empowering physicians, nurses, and care team members with real-time data to save lives. Join us in transforming healthcare from reactive to proactive. You’ll spearhead the engineering effort to build the bridge between massive, complex Electronic Health&hellip;",
     "required_skills": [
       "software engineering"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/154819-engineering-manager-authentication-authorisation",
-    "date_posted": "2026-10-08"
+    "url": "https://jobicy.com/jobs/152819-software-engineer-data-integration",
+    "date_posted": "2026-10-09"
+  },
+  {
+    "id": "jobicy-4ef6420d2920",
+    "title": "Support Engineer (EMEA - Weekends)",
+    "company": "Supabase",
+    "location": "EMEA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. We are seeking Support Engineers to provide world-class developer support for anyone experiencing issues or seeking guidance when using&hellip;",
+    "required_skills": [
+      "technical support"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/152811-support-engineer-emea-weekends",
+    "date_posted": "2026-10-09"
+  },
+  {
+    "id": "jobicy-97faf82141d7",
+    "title": "Ads Conversion Modeling, Machine Learning Engineering Manager",
+    "company": "Reddit",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/152810-ads-conversion-modeling-machine-learning-engineering-manager",
+    "date_posted": "2026-10-09"
+  },
+  {
+    "id": "jobicy-51394a6a20a1",
+    "title": "Manager, Strategy & Analytics",
+    "company": "Beyond Finance",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "At Beyond Finance, we've made it our mission to help everyday Americans escape the endless cycle of crippling debt and step into a brighter financial future. Through compassionate, individualized care, a culture focused on compliance and ethics, supportive user-centric technology, and customized financial solutions, we've helped over 1 million clients on their path to a&hellip;",
+    "required_skills": [
+      "data science & analytics"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/152802-manager-strategy-analytics",
+    "date_posted": "2026-10-09"
+  },
+  {
+    "id": "jobicy-0d5779cccbc8",
+    "title": "Sr. Software Engineer, Ruby on Rails",
+    "company": "CentralReach",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "CentralReach is a leading provider of autism and IDD care software for Applied Behavior Analysis (ABA), multidisciplinary therapy, and special education. Trusted by more than 200,000 users, we enable therapy providers, educators, and employers to scale the way they deliver ABA and related therapies with innovative technology, market-leading industry expertise, and world-class customer satisfaction. Key&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/152795-sr-software-engineer-ruby-on-rails",
+    "date_posted": "2026-10-09"
+  },
+  {
+    "id": "jobicy-b3c49cf4b78c",
+    "title": "Support Engineer (AMER - Weekends)",
+    "company": "Supabase",
+    "location": "LATAM,  Canada,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. We are seeking Support Engineers to provide world-class developer support for anyone experiencing issues or seeking guidance when using&hellip;",
+    "required_skills": [
+      "technical support"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/152807-support-engineer-amer-weekends",
+    "date_posted": "2026-10-09"
+  },
+  {
+    "id": "jobicy-79507b2cdc90",
+    "title": "Solutions Engineer - UK (Italian Speaking)",
+    "company": "Quantum Metric",
+    "location": "UK",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Our Culture Quantum Metric's number one objective is happy people, diverse and inclusive culture. We’re passionate about empowering our people to become the best version of themselves, offering coaching and training programs designed to accelerate their career in whatever direction they choose. As a remote-first company, we understand the importance of building an engaged,&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/152778-solutions-engineer-uk-italian-speaking",
+    "date_posted": "2026-10-09"
+  },
+  {
+    "id": "jobicy-d39fe2b45b14",
+    "title": "International Audio/Video Remote Georgian Interpreter",
+    "company": "Language Services Associates",
+    "location": "Anywhere",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Overview: As an audio/video interpreter for Georgian in LSA’s network of Independently Contracted Interpreters, you are responsible for handling audio and video calls on demand and facilitating language communication for the Limited English Proficient (LEP) community in a variety of settings. Language Services Associates is continuously accepting qualified interpreters! Responsibilities: · Provide effective audio&hellip;",
+    "required_skills": [
+      "creative & design"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/152792-international-audio-video-remote-georgian-interpreter",
+    "date_posted": "2026-10-09"
+  },
+  {
+    "id": "jobicy-1ba5ff62a270",
+    "title": "Strategic Account Executive, BFSI",
+    "company": "Quantum Metric",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Our Culture Quantum Metric's number one objective is happy people, diverse and inclusive culture. We’re passionate about empowering our people to become the best version of themselves, offering coaching and training programs designed to accelerate their career in whatever direction they choose. As a remote-first company, we understand the importance of building an engaged,&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/152788-strategic-account-executive-bfsi",
+    "date_posted": "2026-10-09"
+  },
+  {
+    "id": "jobicy-e3f2050babdb",
+    "title": "International Audio/Video Remote Burmese and Karen Interpreter",
+    "company": "Language Services Associates",
+    "location": "Anywhere",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Overview: As an audio/video interpreter for Burmese and Karen in LSA’s network of Independently Contracted Interpreters, you are responsible for handling audio and video calls on demand and facilitating language communication for the Limited English Proficient (LEP) community in a variety of settings. Language Services Associates is continuously accepting qualified interpreters! Responsibilities: · Provide effective&hellip;",
+    "required_skills": [
+      "customer support & success"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/152785-international-audio-video-remote-burmese-and-karen-interpreter",
+    "date_posted": "2026-10-09"
+  },
+  {
+    "id": "jobicy-aa623b78bd28",
+    "title": "Customer Success Lead",
+    "company": "CentralReach",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "CentralReach is a leading provider of autism and IDD care software for Applied Behavior Analysis (ABA), multidisciplinary therapy, and special education. Trusted by more than 200,000 users, we enable therapy providers, educators, and employers to scale the way they deliver ABA and related therapies with innovative technology, market-leading industry expertise, and world-class customer satisfaction. As&hellip;",
+    "required_skills": [
+      "customer support & success"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/152787-customer-success-lead",
+    "date_posted": "2026-10-09"
+  },
+  {
+    "id": "jobicy-deb95c61c5ce",
+    "title": "Licensed Insurance Agent, Remote",
+    "company": "Matic",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "The Importance of this Role The Licensed Insurance Agent (P&amp;C or Personal Lines) is responsible for helping drive revenue and growth for the organization. You will be tasked with educating and advising customers on the most optimal personal lines insurance products. Matic specializes in streamlining the process for customers going through the lending process to&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/152782-licensed-insurance-agent-remote",
+    "date_posted": "2026-10-09"
+  },
+  {
+    "id": "jobicy-f0670ed8f679",
+    "title": "Enterprise Account Executive",
+    "company": "Sigma Computing",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About This Role This is not your average Account Executive role. At Sigma, we believe that people are our most valuable resource, and so we relentlessly invest in our team. Account Executives are set up to thrive while generating meaningful pipeline, winning new customers, and directly contributing to the success of our organization. Working with&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/152781-enterprise-account-executive-21",
+    "date_posted": "2026-10-09"
+  },
+  {
+    "id": "jobicy-4bf8aa67fcab",
+    "title": "Inside Sales Representative",
+    "company": "Beyond Finance",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "At Beyond Finance, we've made it our mission to help everyday Americans escape the endless cycle of crippling debt and step into a brighter financial future. Through compassionate, individualized care, a culture focused on compliance and ethics, supportive user-centric technology, and customized financial solutions, we've helped over 1 million clients on their path to a&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/152775-inside-sales-representative-2",
+    "date_posted": "2026-10-09"
+  },
+  {
+    "id": "jobicy-f558294f18b1",
+    "title": "Marketing Manager",
+    "company": "Canonical",
+    "location": "EMEA,  LATAM,  Canada,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
+    "required_skills": [
+      "marketing & sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/148814-marketing-manager",
+    "date_posted": "2026-10-09"
   },
   {
     "id": "remotive-cd6645945eea",
@@ -1189,21 +1189,6 @@
     "date_posted": "2026-09-18"
   },
   {
-    "id": "remotive-4e5b11469437",
-    "title": "🇩🇪 Kundenservice Mobilfunk Inbound - innerhalb der EU (ausgenommen: Deutschland)",
-    "company": "hey contact heroes GmbH",
-    "location": "Europe",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "🇩🇪 This job ad is written in German. 🇩🇪 Kennst du schon die hey contact heroes? Noch nicht? Dann wird’s Zeit! Die hey contact heroes stehen für echte Innovationen im Kundenservice! Wir haben uns auf die Bereitstellung erstklassiger Kundenservice-Lösungen spezialisiert hat. Mit über 500 Agent/innen sind wir in mittlerweile 17 Ländern rund um die Uhr und rund um den Globus im Einsatz. 100 % Remote - innerhalb der EU (ausgenommen: Deutschland) Die hey contact heroes starten für eine große und bekannte Mobilfunk-Marke ein neues, größeres Projekt im Bereich Prepaid-Kundenservice. Es handelt sich um einen Inbound-Service. Dafür suchen wir zuverlässige, motivierte Freelancer innerhalb der EU, mit Wohnsitz außerhalb Deutschlands, die uns langfristig im Inbound-Customer-Service unterstützen. Wenn du außerhalb von Deutschland lebst und arbeitest und als selbständiger Freelancer remote arbeiten möchtest, bist du bei uns genau richtig. Deine Mission: Bearbeitung von Inbound-Anrufen rund um Prepaid-Produkte, Tarife, SIM-Karten, Aufladungen und technische Basisanfragen Professionelles Projektumfeld mit festen Ansprechpartnern Flexible Einsatzzeiten im Rahmen des Projekts, Du bestimmst wann Du arbeitest Vergütung pro Stunde oder pro Produktivminute (abhängig vom Projektmodell) 100 % Remote - Arbeite von deinem Standort innerhalb der EU (außer Deutschland) Dein Profil: 1. Rechtliche &amp; formale Voraussetzungen: Selbstständigkeit/Freelancer-Status im jeweiligen Wohnsitzland Wohnsitz außerhalb von Deutschland, aber innerhalb der EU Fähigkeit, ordnungsgemäße Rechnungen gemäß den gesetzlichen Vorgaben des eigenen Landes an internationale Auftraggeber (uns) auszustellen Erfüllung der steuerlichen Pflichten im eigenen Land 2. Fachliche &amp; persönliche Anforderungen: Deutschkenntnisse auf C1/C2-Niveau Erfahrung im telefonischen Kundenservice von Vorteil Selbstständige Arbeitsweise &amp; Organisation Langfristiges Interesse an der Projektmitarbeit 3. Technische Voraussetzungen: Stabile Internetverbindung (mindestens 50 Mbit/s) Headset, zwei Monitore, Webcam und einen leistungsfähigen PC Ruhiger, ungestörter Arbeitsplatz im Home-Office (kein Einblick/Zugang für Dritte) Sicherer Umgang mit webbasierten Tools Unser Angebot: Langfristiges Großprojekt mit stabiler Auslastung Attraktive und faire Konditionen, je nach Projektmodell Persönlicher Support durch ein erfahrenes Team Hohe Flexibilität, Du planst deine Einsätze eigenständig Klingt gut? Dann freuen wir uns auf deine Bewerbung!",
-    "required_skills": [],
-    "requirements": [],
-    "source": "Remotive",
-    "url": "https://remotive.com/remote-jobs/customer-service/kundenservice-mobilfunk-inbound-innerhalb-der-eu-ausgenommen-deutschland-2091139",
-    "date_posted": "2026-09-18"
-  },
-  {
     "id": "remotive-72e42f98d4ba",
     "title": "Senior AI Engineer",
     "company": "Lemon.io",
@@ -1520,125 +1505,149 @@
     "date_posted": "2026-09-11"
   },
   {
-    "id": "remotive-4fc125eafbfe",
-    "title": "Inside Sales Contractor",
-    "company": "Credit Wellness, LLC",
-    "location": "Worldwide",
-    "remote": true,
-    "location_restriction": null,
-    "salary": "OTE $25k - $35k",
-    "description": "About Us We are a financial services start up focusing on helping to improve consumer credit profiles. We are currently seeking KPI driven sales representatives looking to earn up to 45K in their first year while working remotely. We offer comprehensive training and continuous sales coaching to help you meet your financial goals. During our training period we offer a guaranteed training stipend while our trainees are acclimating to the position (*see weekly pay below). If you are a seasoned sales professional looking for the autonomy of a remote position combined with great compensation, we want to hear from you! Compensation Structure This role is 100% commission-based , which means your earning potential is unlimited. In addition, we regularly offer competitive performance-based bonuses to reward hard work and results. Training Period (Weeks 1–4) We invest in your success and want to make sure you’re supported as you get up to speed: Week 1: Commission-only (a chance to start earning right away while learning the ropes). Weeks 2–4: Guaranteed training stipend of $500 USD total – or your commission if it’s higher. You’ll always receive whichever amount benefits you most. Week 0: Unpaid Week 1: $100 guaranteed minimum Week 2: $150 guaranteed minimum Week 3: $250 guaranteed minimum By the end of training, you’ll have the skills to maximize commissions, with the safety net of a guaranteed base during your ramp-up period. Post Training Period: Average first year OTE: 25K-35K (US) Annually Top Rep first year OTE: 35K-45K (US) Annually *The above is the average pay you can expect, however, there is unlimited earning potential for those who are financially motivated top performers looking to exceed sales targets. What will you be doing? Educating inbound callers on their credit standing by providing consultations with the goal of enrolling them in one of our services should they be a good fit. We are looking for team members who are: Tech savvy with the ability to navigate digital tools such as SLACK, CRM software, google sheets, etc. Our team uses these digital tools daily. Growth oriented and always looking to learn and acquire new skills. Autonomous self starters who can work independently and efficiently. Team players with the ability to implement feedback from their sales coaches. Patient and professional with clients. Finances can be a difficult topic for some clients to discuss. We are looking for individuals who showcase empathy and professionalism especially under pressure! Financially motivated individuals who can meet and exceed sales targets. Outgoing with outstanding rapport building and active listening skills. Can you carry a conversation with anyone? This may be for you! You will need: Home office or a quiet place to work. Strong internet connection. Desktop or laptop (*Please Note: Devices such as Chromebooks, IPADs and laptops with 8G’s of RAM and under will have issues supporting our system) Scheduling Training: The schedule for the first four weeks of our training period is 10 AM - 6 PM EST. *The first week of training is mandatory for all new trainees. If a day is missed you may be asked to restart the first week of training. Post Training: We are currently seeking representatives to work on the following schedule: Monday - Friday Shift hours to be discussed with our hiring manager based on our company's needs at the time of hire. Shifts are as follows: 8:00 AM - 4:00 PM EST 8:30 AM - 4:30 PM EST 9:00 AM - 5:00 AM EST 9:30 AM - 5:30 PM EST 10:00 AM - 6:00 PM EST 10:30 AM - 6:30 PM EST 11:00 AM - 7:00 PM EST 11:30 AM - 7:30 PM EST 12:30 PM - 8:30 PM EST 1:30 PM - 9:30 PM EST 2:30 PM - 10:30 PM EST 3:00 PM - 11:00 PM EST Job Type: Contract Shift: 8 hour shift Day shift Evening shift Morning shift Night shift Supplemental Pay: Bonus opportunities Commission pay Experience: Sales: 1 year (Required) Work Location: Remote",
-    "required_skills": [
-      "crm",
-      "google sheets",
-      "financial services",
-      "inside sales"
-    ],
-    "requirements": [],
-    "source": "Remotive",
-    "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
-    "date_posted": "2026-09-08"
-  },
-  {
-    "id": "arbeitnow-2a508f911572",
-    "title": "Territory Account Executive (Germany)",
-    "company": "purestorage",
-    "location": "Remote",
+    "id": "arbeitnow-319a5f71a8be",
+    "title": "IT Consultant Versicherungsbranche (w/m/d)",
+    "company": "Cognitivo AG",
+    "location": "Karlsruhe",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining the next era of technology - hyperscalers, AI labs, the AI hardware supply chain, data platform providers, and the broader AI ecosystem.&lt;/p&gt; &lt;p&gt;This type of work—work that changes the world—is what the tech industry was founded on. So, if you&#39;re ready to seize the endless opportunities and leave your mark, come join us.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;The Role&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The &lt;strong&gt;Territory Account Executive&lt;/strong&gt; (TAE) is a key growth role within Everpure (formerly Pure Storage) Germany&#39;s Go-To-Market organisation. This position focuses on driving growth across all accounts not currently managed by an Account Executive, including the full install base, dormant accounts, and new inbound opportunities. TAEs are responsible for expanding Pure’s footprint, reigniting customer relationships, and capturing new business through a combination of direct engagement and partner collaboration.&lt;br&gt;&lt;br&gt;As a Territory Account Executive (TAE), you’ll play a pivotal role in bringing this vision to life - helping customers unlock the power of their data, modernise their infrastructure, and accelerate transformation. You’ll &lt;strong&gt;join our Commercial team in Germany&lt;/strong&gt;, with the autonomy to own a dynamic territory, driving growth across a broad set of customers, from re-engaging dormant relationships to winning new logos.&lt;/p&gt; &lt;p&gt;At Pure, you’ll join a culture built on curiosity, innovation, and integrity. We celebrate diverse perspectives, challenge convention, and empower our people to think big, take bold action, and make a measurable impact. This is your opportunity to grow your career with one of the most innovative technology companies in the world and to do work that truly changes how businesses use data to compete and win.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;What You&#39;ll Do&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Drive Account Growth &amp;amp; Pipeline:&lt;/strong&gt; Execute sales activities to generate revenue, manage a high-volume pipeline, and contribute to closing deals on a quarterly basis.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Execute Outreach &amp;amp; Prospecting:&lt;/strong&gt; Perform consistent, high-activity prospecting to penetrate new accounts, reach decision-makers, and learn how to win new business effectively.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Support Partner Strategy:&lt;/strong&gt; Collaborate closely with Channel Partners and Partner Managers to align on customer engagement and utilise partner resources to advance opportunities.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Reactivate Customer Relationships:&lt;/strong&gt; Focus on re-engaging dormant or inactive customers by discovering new business use cases and identifying potential refresh and expansion opportunities.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Build Foundational Skills:&lt;/strong&gt; Develop and deliver proposals and business cases that clearly demonstrate the value of Pure&#39;s solutions, supported by internal experts.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Maintain Sales Discipline:&lt;/strong&gt; Diligently manage sales technology (Salesforce), deliver accurate forecasts, and maintain strong time management to thrive in a fast-paced, team environment.&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;&lt;strong&gt;What You Bring&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Proven Sales Experience:&lt;/strong&gt; Demonstrated success in direct, full-lifecycle B2B technology sales with a consistent record of meeting or exceeding sales metrics (KPIs).&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Sales Drive &amp;amp; Motivation:&lt;/strong&gt; A high degree of self-motivation, strong time management skills, demonstrates initiative and the drive to learn quickly and succeed across both transactional and early-stage strategic sales motions.&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Collaborative Mindset:&lt;/strong&gt; Demonstrated success working with both internal teams and channel partners to ensure seamless customer engagement and shared goal achievement.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Digital Proficiency:&lt;/strong&gt; Proficiency with core sales technologies, including Salesforce and G Suite, and an ability to use data to prioritise daily activities.&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Communication &amp;amp; Presence:&lt;/strong&gt; Strong verbal and written communication skills suitable for engaging with business leaders and maintaining professional business relationships.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Resilience &amp;amp; Focus:&lt;/strong&gt; A competitive, positive attitude combined with strong organisational and time management skills necessary to handle a dynamic, high-activity territory.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Language Skills: &lt;/strong&gt;Business Level, written and spoken, German and English language skills required.&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;&lt;strong&gt;Nice to Have&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Industry Knowledge:&lt;/strong&gt; Prior knowledge of the storage industry and familiarity with how data solutions drive business outcomes.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Channel Sales Expertise:&lt;/strong&gt; Understanding of channel-led sales motions and experience collaborating effectively within the broader partner ecosystem.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Sales Training:&lt;/strong&gt; Completion of a structured B2B sales methodology training (e.g., Business Value Selling or similar).&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Digital Tools:&lt;/strong&gt; Experience using digital prospecting and engagement tools (e.g., Outreach, LinkedIn Sales Navigator) to accelerate the sales cycle.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Join Everpure Germany team and be part of a team that&#39;s redefining data storage. Apply now and unleash your potential!&lt;/p&gt; &lt;p&gt;#LI-OFFICE&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;WHAT YOU CAN EXPECT FROM US:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Innovation&lt;/strong&gt;: We celebrate those who think critically, like a challenge, and aspire to be trailblazers.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Growth&lt;/strong&gt;: We give you the space and support to grow along with us and to contribute to something meaningful. We have been named Fortune&#39;s Best Workplaces in Technology™, Fortune&#39;s Best Workplaces in the Bay Area™, and certified as a Great Place to Work®!&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Team&lt;/strong&gt;: We build each other up and set aside ego for the greater good.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;And because we understand the value of bringing your full and best self to work, we offer a variety of perks to manage a healthy balance, including flexible time off, wellness resources, and company-sponsored team events. Check out &lt;a href=&quot;http://benefits.everpuredata.com/&quot;&gt;http://benefits.everpuredata.com/ &lt;/a&gt;for more information.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;ACCOMMODATIONS AND ACCESSIBILITY:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Candidates with disabilities may request accommodations for all aspects of our hiring process. For more on this, contact us at &lt;a ---------- if you’re invited to an interview.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;OUR COMMITMENT TO A STRONG AND INCLUSIVE TEAM:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We’re forging a future where everyone finds their rightful place and where every voice matters. Where uniqueness isn’t just accepted but embraced. That’s why we are committed to fostering the growth and development of every person, cultivating a sense of community through our Employee Resource Groups and advocating for inclusive leadership.&lt;/p&gt; &lt;p&gt;Everpure is proud to be an equal opportunity employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or any other characteristic legally protected by the laws of the jurisdiction in which you are being considered for hire.&lt;/p&gt; &lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Join us and bring your best.&lt;/strong&gt;&lt;/p&gt; &lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Bring your bold.&lt;/strong&gt;&lt;/p&gt; &lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Pure and simple.&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt; Find Jobs in Germany on Arbeitnow",
+    "description": "KARRIERE BEI COGNITIVO Gestalte mit uns die digitale Zukunft der Versicherungsbranche. Die Versicherungsbranche verändert sich grundlegend. Neue digitale Geschäftsmodelle, steigende Kundenanforderungen und die kontinuierliche Modernisierung von Prozessen und IT-Systemen stellen Versicherungsunternehmen vor neue Herausforderungen. Wir bei cognitivo begleiten namhafte Versicherungen bei diesem Wandel. Dafür suchen wir Dich: eine Beraterpersönlichkeit, die fachliche Tiefe mit echtem Gestaltungswillen verbindet und Lust hat, digitale Lösungen nicht nur zu denken, sondern umzusetzen. Aufgaben Du berätst unsere Kunden bei der Analyse, Optimierung und Digitalisierung ihrer Geschäftsprozesse und entwickelst gemeinsam mit ihnen Lösungen, die fachlich überzeugen und technisch funktionieren. Von der ersten Anforderungsanalyse bis zur erfolgreichen Umsetzung begleitest Du Projekte end-to-end und bist dabei eine zentrale Ansprechperson, die den Überblick behält und Themen ins Ziel bringt. Im Projektalltag analysierst Du komplexe Geschäftsprozesse, identifizierst Digitalisierungspotenziale und entwickelst gemeinsam mit unseren Kunden fachliche und technische Lösungskonzepte. Du übersetzt Anforderungen in Fachkonzepte, User Stories und Prozessmodelle, moderierst Workshops und Abstimmungen und bringst unterschiedliche Stakeholder zusammen Qualifikation Du hast ein Studium in (Wirtschafts-)Informatik, BWL, Mathematik, Wirtschaftswissenschaften oder eine vergleichbare Qualifikation abgeschlossen und bereits als IT Consultant, Business Analyst, Requirements Engineer oder Business Consultant gearbeitet. Idealerweise bringst Du Erfahrung in der Versicherungsbranche mit und kennst die Geschäftsprozesse und IT-Systeme von Versicherungsunternehmen. Was uns darüber hinaus wichtig ist: Du kannst komplexe Themen analytisch erfassen, verständlich strukturieren und in praxisnahe Lösungen übersetzen. Du arbeitest selbstständig, strukturiert und lösungsorientiert und hast Freude daran, Verantwortung für eigene Themen zu übernehmen. Gleichzeitig überzeugst Du durch Deine Kommunikations- und Moderationsstärke und fühlst Dich im Austausch mit unterschiedlichen Stakeholdern sicher. Du interessierst Dich für digitale Transformation und innovative Technologien und hast die Bereitschaft, für Projekteinsätze regelmäßig zu unseren Kunden zu reisen. Sehr gute Deutsch- und gute Englischkenntnisse setzen wir voraus. Benefits Spannende Projekte : Anspruchsvolle Digitalisierungs- und Transformationsprojekte bei führenden Versicherungsunternehmen. Gestaltungsspielraum : Verantwortung für eigene Themen und die Möglichkeit, deine Ideen direkt einzubringen. Kundenkontakt : Direkte Zusammenarbeit mit Fachbereichen und Entscheidern auf Augenhöhe. Kundennähe : Arbeiten beim Kunden, in einer unserer Niederlassungen oder zeitweise remote – passend zum Projekt. Entwicklung : Individuelle Weiterbildungs- und Entwicklungsmöglichkeiten zur gezielten Förderung deiner fachlichen Entwicklung. Team : Flache Hierarchien, kurze Entscheidungswege und ein Umfeld, in dem Wissen geteilt und Zusammenarbeit gelebt wird. Benefits : Unbefristeter Arbeitsvertrag, attraktive Vergütung, 30 Urlaubstage mit steigender Anzahl bei längerer Betriebszugehörigkeit sowie arbeitsfreie Tage an Heiligabend und Silvester. Weitere Benefits wie Edenred-Karte, JobRad und betriebliche Altersvorsorge runden unser Angebot ab. Warum cognitivo? „Big enough to deliver and small enough to care.“ Als spezialisierte Unternehmensberatung für die Finanz- und Versicherungsbranche begleiten wir namhafte Unternehmen seit fast zwei Jahrzehnten bei der Modernisierung ihrer IT und der Entwicklung zukunftsfähiger Lösungen. Mit rund 35 erfahrenen Beraterinnen und Beratern, über 50 erfolgreich abgeschlossenen Projekten und tiefem Domänenwissen in Versicherung, Payment, IT-Transformation und strategischen Innovationen schaffen wir Lösungen mit messbarem Mehrwert – und ein Arbeitsumfeld, in dem Eigeninitiative, Teamgeist und gute Zusammenarbeit zählen. Lust auf den nächsten Schritt? Wenn du abwechslungsreiche Projekte, direkten Kundenkontakt und moderne Digitalisierungsthemen suchst, freuen wir uns auf deine Bewerbung! Find Jobs in Germany on Arbeitnow",
     "required_skills": [
-      "sales"
+      "remote",
+      "consulting",
+      "engineering"
     ],
     "requirements": [],
     "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/purestorage/remote-territory-account-executive-germany-312675",
+    "url": "https://www.arbeitnow.com/jobs/companies/cognitivo-ag/it-consultant-versicherungsbranche-karlsruhe-120183",
     "date_posted": null
   },
   {
-    "id": "arbeitnow-c585aa55a072",
-    "title": "Territory Account Executive",
-    "company": "purestorage",
-    "location": "Remote",
+    "id": "arbeitnow-6ff8a2f78f9d",
+    "title": "Senior Product Manager - ARR & Subscriptions (m/f/d)",
+    "company": "1KOMMA5˚",
+    "location": "Berlin",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining the next era of technology - hyperscalers, AI labs, the AI hardware supply chain, data platform providers, and the broader AI ecosystem.&lt;/p&gt; &lt;p&gt;This type of work—work that changes the world—is what the tech industry was founded on. So, if you&#39;re ready to seize the endless opportunities and leave your mark, come join us.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;The Role&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The &lt;strong&gt;Territory Account Executive&lt;/strong&gt; (TAE) is a key growth role within Everpure (formerly Pure Storage) Germany&#39;s Go-To-Market organisation. This position focuses on driving growth across all accounts not currently managed by an Account Executive, including the full install base, dormant accounts, and new inbound opportunities. TAEs are responsible for expanding Pure’s footprint, reigniting customer relationships, and capturing new business through a combination of direct engagement and partner collaboration.&lt;br&gt;&lt;br&gt;As a Territory Account Executive (TAE), you’ll play a pivotal role in bringing this vision to life - helping customers unlock the power of their data, modernise their infrastructure, and accelerate transformation. You’ll &lt;strong&gt;join our Commercial team in Germany&lt;/strong&gt;, with the autonomy to own a dynamic territory, driving growth across a broad set of customers, from re-engaging dormant relationships to winning new logos.&lt;/p&gt; &lt;p&gt;At Pure, you’ll join a culture built on curiosity, innovation, and integrity. We celebrate diverse perspectives, challenge convention, and empower our people to think big, take bold action, and make a measurable impact. This is your opportunity to grow your career with one of the most innovative technology companies in the world and to do work that truly changes how businesses use data to compete and win.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;What You&#39;ll Do&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Drive Account Growth &amp;amp; Pipeline:&lt;/strong&gt; Execute sales activities to generate revenue, manage a high-volume pipeline, and contribute to closing deals on a quarterly basis.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Execute Outreach &amp;amp; Prospecting:&lt;/strong&gt; Perform consistent, high-activity prospecting to penetrate new accounts, reach decision-makers, and learn how to win new business effectively.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Support Partner Strategy:&lt;/strong&gt; Collaborate closely with Channel Partners and Partner Managers to align on customer engagement and utilise partner resources to advance opportunities.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Reactivate Customer Relationships:&lt;/strong&gt; Focus on re-engaging dormant or inactive customers by discovering new business use cases and identifying potential refresh and expansion opportunities.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Build Foundational Skills:&lt;/strong&gt; Develop and deliver proposals and business cases that clearly demonstrate the value of Pure&#39;s solutions, supported by internal experts.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Maintain Sales Discipline:&lt;/strong&gt; Diligently manage sales technology (Salesforce), deliver accurate forecasts, and maintain strong time management to thrive in a fast-paced, team environment.&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;&lt;strong&gt;What You Bring&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Proven Sales Experience:&lt;/strong&gt; Demonstrated success in direct, full-lifecycle B2B technology sales with a consistent record of meeting or exceeding sales metrics (KPIs).&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Sales Drive &amp;amp; Motivation:&lt;/strong&gt; A high degree of self-motivation, strong time management skills, demonstrates initiative and the drive to learn quickly and succeed across both transactional and early-stage strategic sales motions.&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Collaborative Mindset:&lt;/strong&gt; Demonstrated success working with both internal teams and channel partners to ensure seamless customer engagement and shared goal achievement.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Digital Proficiency:&lt;/strong&gt; Proficiency with core sales technologies, including Salesforce and G Suite, and an ability to use data to prioritise daily activities.&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Communication &amp;amp; Presence:&lt;/strong&gt; Strong verbal and written communication skills suitable for engaging with business leaders and maintaining professional business relationships.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Resilience &amp;amp; Focus:&lt;/strong&gt; A competitive, positive attitude combined with strong organisational and time management skills necessary to handle a dynamic, high-activity territory.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Language Skills: &lt;/strong&gt;Business Level, written and spoken, German and English language skills required.&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;&lt;strong&gt;Nice to Have&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Industry Knowledge:&lt;/strong&gt; Prior knowledge of the storage industry and familiarity with how data solutions drive business outcomes.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Channel Sales Expertise:&lt;/strong&gt; Understanding of channel-led sales motions and experience collaborating effectively within the broader partner ecosystem.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Sales Training:&lt;/strong&gt; Completion of a structured B2B sales methodology training (e.g., Business Value Selling or similar).&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Digital Tools:&lt;/strong&gt; Experience using digital prospecting and engagement tools (e.g., Outreach, LinkedIn Sales Navigator) to accelerate the sales cycle.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Join Everpure Germany team and be part of a team that&#39;s redefining data storage. Apply now and unleash your potential!&lt;/p&gt; &lt;p&gt;#LI-OFFICE&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;WHAT YOU CAN EXPECT FROM US:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Innovation&lt;/strong&gt;: We celebrate those who think critically, like a challenge, and aspire to be trailblazers.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Growth&lt;/strong&gt;: We give you the space and support to grow along with us and to contribute to something meaningful. We have been named Fortune&#39;s Best Workplaces in Technology™, Fortune&#39;s Best Workplaces in the Bay Area™, and certified as a Great Place to Work®!&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Team&lt;/strong&gt;: We build each other up and set aside ego for the greater good.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;And because we understand the value of bringing your full and best self to work, we offer a variety of perks to manage a healthy balance, including flexible time off, wellness resources, and company-sponsored team events. Check out &lt;a href=&quot;http://benefits.everpuredata.com/&quot;&gt;http://benefits.everpuredata.com/ &lt;/a&gt;for more information.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;ACCOMMODATIONS AND ACCESSIBILITY:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Candidates with disabilities may request accommodations for all aspects of our hiring process. For more on this, contact us at &lt;a ---------- if you’re invited to an interview.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;OUR COMMITMENT TO A STRONG AND INCLUSIVE TEAM:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We’re forging a future where everyone finds their rightful place and where every voice matters. Where uniqueness isn’t just accepted but embraced. That’s why we are committed to fostering the growth and development of every person, cultivating a sense of community through our Employee Resource Groups and advocating for inclusive leadership.&lt;/p&gt; &lt;p&gt;Everpure is proud to be an equal opportunity employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or any other characteristic legally protected by the laws of the jurisdiction in which you are being considered for hire.&lt;/p&gt; &lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Join us and bring your best.&lt;/strong&gt;&lt;/p&gt; &lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Bring your bold.&lt;/strong&gt;&lt;/p&gt; &lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Pure and simple.&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt; Find Jobs in Germany on Arbeitnow",
+    "description": "1KOMMA5° At 1KOMMA5° , we pursue a clear vision: Living on wind and sunlight forever for free . To make this a reality, we are building the energy system of the future with Heartbeat AI. Want to be part of it? We bring together regional craftsmanship and scalable software: We don't think of solar, batteries, heat pumps, and e-mobility as isolated components, but control them as an intelligent, integrated overall system in our virtual power plant. Directly connected to the electricity market – in real time, fully automated. This way, energy is used when it is available from renewables and particularly cost-effective. By 2030, our goal is to transition 1.5 million households to renewable energies. Over 3,000 people are working towards this every day, at more than 80 locations worldwide, from Finland to Australia. Want to take responsibility and build solutions that truly matter? Apply now and help us shape the energy world of tomorrow. Learn about our Product & Tech team! Deine Position We are looking for a Senior Product Manager (m/f/d) to build the subscription platform and the customer experience behind our recurring revenue. You own the journey from the first booking step to contract and activation, including everything customers see and use when they sign up, for subscriptions such as Heartbeat AI with Dynamic Pulse, service contracts for PV systems and batteries, and maintenance contracts for heat pumps. Your goal is to launch new products in new markets fast: a platform where offerings, prices and promotions are set up in minutes, and where every step from booking to activation converts. As a Senior Product Manager you will set the product strategy and roadmap for booking and subscriptions, and be accountable for growing recurring revenue improve conversion along the customer journey through discovery, customer insight and A/B tests make it fast and easy to launch new subscriptions, prices and promotions, in new markets shape the foundation of our subscription platform with the engineering team partner with Payments, Energy and CRM to make subscriptions work across the whole customer lifecycle Dein Profil Several years experience in product management, including a product you owned with measurable business impact Hands-on experience with subscription or recurring-revenue products: pricing, billing and contract lifecycle Experience with consumer-facing digital products such as booking or checkout flows Experience with international rollouts Using AI and no-code tools to prototype and speed up your daily PM work A data-driven approach: you tie your roadmap to KPIs and prove impact with experiments Fluent English and German, and the ability to align stakeholders across teams and countries Bonus points for: Technical depth: you discuss data models, APIs and system boundaries with engineers, and you have driven complex topics such as migrations Experience building products or platforms that let business teams launch offerings without engineering work Knowledge of payment systems and recurring billing Experience in renewable energy or a related industry Benefits You are part of an international, dynamic, and highly motivated team of people who have proven to make things happen With your work, you accelerate the \"energy transition\" and hence have a direct impact on our climate Work with and learn from other super-smart colleagues You will enjoy direct contact with core decision-makers You will enjoy the best chances of entering full-time in one of Europe’s most thriving scaleups You work remotely (Germany-wide), with offices in Hamburg, Berlin or Munich Create a healthy balance alongside your work and enjoy all the benefits of the EGYM Wellpass Benefits and discounts are yours with Futurebens Whether city bike or e-bike - be flexible with our job bike leasing and do something good for the environment at the same time Find more English Speaking Jobs in Germany on Arbeitnow",
     "required_skills": [
-      "sales"
+      "remote",
+      "marketing and communication"
     ],
     "requirements": [],
     "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/purestorage/remote-territory-account-executive-166841",
+    "url": "https://www.arbeitnow.com/jobs/companies/1komma50/senior-product-manager-arr-subscriptions-berlin-208929",
     "date_posted": null
   },
   {
-    "id": "arbeitnow-e18dbc7f379d",
-    "title": "SMB Account Executive (New Business)",
-    "company": "gitlab",
-    "location": "Remote",
+    "id": "arbeitnow-20ac778b125f",
+    "title": "Project Manager & Business Process Analyst as Freelancer (all genders)",
+    "company": "Vexcash AG",
+    "location": "Berlin",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt;*&lt;em&gt;Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;The SMB New Business Account Executive role is a critical role in building GitLab’s customer-base and continued long-term growth. The SMB New Business Account Executive will focus exclusively on acquiring new customers and generating new logos by executing on an inbound/outbound sales playbook.&lt;/p&gt; &lt;p&gt;In this role, you will own a territory and book of prospect accounts (including free GitLab users, trials, engaged leads and cold prospects). You will navigate it by leveraging data, developing a deep understanding of the product, the market, customer challenges and business needs. You will strategically build relationships with your accounts and lead a consultative sales cycle by painting the vision of DevSecOps with GitLab and helping them achieve business outcomes.&lt;/p&gt; &lt;p&gt;This is a high-impact role for someone who is competitive, self-starter and hungry, who is excited by forming new motions, thrives in a hunter environment and is energized by building relationships and business cases from scratch.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Drive selling into free users and base prospects within the SMB segment by articulating the value of GitLab. Engaging with inbound prospect and proactively reaching out to prospects showing potential and key signals&lt;/li&gt; &lt;li&gt;Build, co-create and consistently iterate on the outbound / new logo playbook and strategy to win new customers&lt;/li&gt; &lt;li&gt;Introduce and execute against new creative prospecting and campaign ideas&lt;/li&gt; &lt;li&gt;Take ownership of and act as the CEO for the book of business in your territory:&lt;/li&gt; &lt;ul&gt; &lt;li&gt;Document the buying criteria &amp;amp; process, next steps &amp;amp; owners&lt;/li&gt; &lt;li&gt;Develop and execute comprehensive prospecting strategies to build and maintain a healthy pipeline of new business opportunities&lt;/li&gt; &lt;li&gt;Work and collaborate with our Partner ecosystem to drive new business and value for our customers&lt;/li&gt; &lt;li&gt;Utilize business and industry knowledge to research accounts, identify key players, generate interest, create/identify compelling events, and develop accounts&lt;/li&gt; &lt;/ul&gt; &lt;li&gt;Manage the full sales cycle from initial contact to close by involving technical audience, multiple stakeholders and decision-makers, and articulating GitLab’s value proposition to across various industries&lt;/li&gt; &lt;li&gt;Master MEDPICC and Command of the Message on all opportunities&lt;/li&gt; &lt;li&gt;Collaborate with cross-functional teams including Sales Development, Solution Architecture and Digital Marketing to develop winning strategies in targeting accounts&lt;/li&gt; &lt;li&gt;Contribute to root cause analyses on wins/losses.&lt;/li&gt; &lt;ul&gt; &lt;li&gt;Communicate lessons learned to the team, including the marketing team, the technical team and product&lt;/li&gt; &lt;/ul&gt; &lt;li&gt;Feedback: Effectively communicate learnings, feedback and challenges to relevant teams (including Product Development, Sales, and Marketing) to drive continuous improvement, and be the voice of the prospect by contributing product ideas to our public issue tracker&lt;/li&gt; &lt;li&gt;Contribute to documenting improvements in our sales handbook&lt;/li&gt; &lt;li&gt;Market knowledge: Maintain a foundational understanding of technologies related to GitLab’s market focus&lt;/li&gt; &lt;li&gt;Training &amp;amp; Certifications: Acquire industry standard certifications to build up credibility as a technical expert&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;&lt;strong&gt;Performance Metrics&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Achieving monthly and quarterly new logo acquisition targets, for both new logo count and booked ARR&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;You share our values, and work in accordance with those values&lt;/li&gt; &lt;li&gt;A self-starter with a proven track record of resilience, motivation and results&lt;/li&gt; &lt;li&gt;Demonstrated track record of outbound sales activity, securing calls, meeting and winning business, with a creative ability to break into new accounts and build business cases&lt;/li&gt; &lt;li&gt;Effective communicator, strong interpersonal skills&lt;/li&gt; &lt;li&gt;Excellent discovery skills, ability to uncover and address customer pain points, negotiation, presentation and closing skills&lt;/li&gt; &lt;li&gt;Demonstrated progressive experience in sales, technical consulting, customer success, marketing, or customer service in the field of information technology&lt;/li&gt; &lt;li&gt;An understanding of B2B software, Open Source software, and the developer product space is preferred&lt;/li&gt; &lt;li&gt;Experience with modern sales tech stack including Salesforce, Clari, Outreach, ZoomInfo/Cognism, LinkedIn Sales Navigator, Gong, and 6sense&lt;/li&gt; &lt;li&gt;Basic understanding of application lifecycle management including the technology commonly used in application lifecycle management&lt;/li&gt; &lt;li&gt;Be ready to learn how to use GitLab and Git&lt;/li&gt; &lt;li&gt;Focuses on continuously improving your professional skills with a focus on personal mastery and team learning through activities such as training, reading and seeking mentorship from others&lt;/li&gt; &lt;li&gt;Proficiency in another language ie. French, German, Spanish, Dutch&lt;/li&gt; &lt;li&gt;Ability to travel if needed and comply with the company’s travel policy&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;#LI-CM1&lt;/p&gt; &lt;h2&gt;Compensation&lt;/h2&gt; &lt;p&gt;To view the full job description and its compensation calculator, view our handbook. The compensation calculator can be found towards the bottom of the page.&lt;/p&gt; &lt;p&gt;Additional details about our process can be found on our&lt;a href=&quot;https://about.gitlab.com/handbook/hiring/interviewing/&quot; target=&quot;_blank&quot;&gt;&amp;nbsp;hiring page&lt;/a&gt;.&lt;/p&gt; &lt;div class=&quot;c-message_actions__container c-message__actions&quot;&gt;&amp;nbsp;&lt;/div&gt; &lt;div&gt;&lt;span style=&quot;font-size: xx-small;&quot;&gt;&lt;span style=&quot;color: white;&quot;&gt;Remote-Global&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h4&gt;&lt;strong&gt;How GitLab Supports Full-Time Employees&lt;/strong&gt;&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/&quot;&gt;Benefits to support your health, finances, and well-being&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/people-group/time-off-and-absence/time-off-types/#flexible-paid-time-off-pto&quot;&gt;Flexible Paid Time Off&amp;nbsp;&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/company/culture/inclusion/tmrg-tmag/&quot;&gt;Team Member Resource Groups&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/total-rewards/stock-options/&quot;&gt;Equity Compensation &amp;amp; Employee Stock Purchase Plan&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/people-group/learning-and-development/growth-and-development/&quot;&gt;Growth and Development Fund&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave&quot;&gt;Parental Leave&lt;/a&gt;&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Please note that we welcome interest from candidates with varying levels of experience; many successful candidates do not meet every single requirement. Additionally, studies have shown that people from &lt;a href=&quot;https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups&quot;&gt;underrepresented groups&lt;/a&gt; are less likely to apply to a job unless they meet every single qualification. If you&#39;re excited about this role, please apply and allow our recruiters to assess your application.&lt;/p&gt; &lt;hr&gt; &lt;p&gt;&lt;strong&gt;Country Hiring Guidelines: &lt;/strong&gt;GitLab hires new team members in countries around the world. All of our roles are remote, however some roles may carry specific location-based eligibility requirements. Our Talent Acquisition team can help answer any questions about location after starting the recruiting process.&amp;nbsp;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Privacy Policy: &lt;/strong&gt;Please review our &lt;a href=&quot;https://handbook.gitlab.com/handbook/hiring/candidate-faq/recruitment-privacy-policy/&quot; target=&quot;_blank&quot;&gt;Recruitment Privacy Policy.&lt;/a&gt; Your privacy is important to us.&lt;/p&gt; &lt;p&gt;GitLab is proud to be an equal opportunity workplace and is an affirmative action employer. GitLab’s policies and practices relating to recruitment, employment, career development and advancement, promotion, and retirement are based solely on merit, regardless of race, color, religion, ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity, or gender expression), national origin, age, citizenship, marital status, mental or physical disability, genetic information (including family medical history), discharge status from the military, protected veteran status (which includes disabled veterans, recently separated veterans, active duty wartime or campaign badge veterans, and Armed Forces service medal veterans), or any other basis protected by law. GitLab will not tolerate discrimination or harassment based on any of these characteristics. See also&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/people-policies/inc-usa/#equal-employment-opportunity-policy&quot; target=&quot;_blank&quot;&gt;GitLab’s EEO Policy&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/labor-and-employment-notices/#eeoc-us-equal-employment-opportunity-commission-notices&quot; target=&quot;_blank&quot;&gt;EEO is the Law&lt;/a&gt;. If you have a disability or special need that requires&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation&quot; target=&quot;_blank&quot;&gt;accommodation&lt;/a&gt;, please let us know during the&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/hiring/interviewing/#adjustments-to-our-interview-process&quot; target=&quot;_blank&quot;&gt;recruiting process&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt; Find Jobs in Germany on Arbeitnow",
+    "description": "VEXCASH AG is Germany’s leading online provider of short-term loans. We offer our customers a quick and straightforward solution to bridge the gap until their next payday. More than 800,000 customers already rely on our service. Thanks to our innovative approach, they can secure financial liquidity without having to commit to a long-term agreement. Aufgaben We are modernizing how our teams work by introducing new IT systems, automating processes and increasingly embedding AI tools. We need someone who turns a business need into a mapped process, a clear requirement and a rolled-out solution that people actually use. What you'll work on Run several parallel organizational projects (typically 1–6 months, 2–4 people) that implement IT systems, automation and AI tools in business processes Map as-is and to-be processes together with process owners, using BPMN, flowcharts or whatever notation fits the audience Write business requirements for development, data and vendor teams: scope, user stories, acceptance criteria, edge cases Set up and keep the project governance: charter, RACI, plan, risk &#x26; issue log, change requests, status reporting to management Drive adoption after go-live: training, feedback loops, measuring whether the process really changed In your first 6 months you will Deliver at least one system or process change end to end, from as-is analysis to measured adoption Build a reusable project toolkit (templates, checklists) for further implementation projects Qualifikation Must have Freelancers must meet the requirements for working on a freelance basis and include their proposed monthly rate in their application. 3–6 years in project management or business analysis in a structured organization At least two cross-functional IT implementation, digitalization or automation projects taken from idea to adoption — and you can show the artifacts Solid process analysis and modeling skills in a standard notation (BPMN, EPC or similar) Experience writing business requirements that developers or vendors can build from A formal PM approach (PMBOK, PRINCE2, IPMA or similar) that you actually apply, not just know Fluent English (C1+) and Russian Everyday use of AI tools (ChatGPT, Claude or similar) in your own work Nice to have German PMP, PRINCE2, IPMA, CBAP or IREB certification Hands-on BPMN 2.0 Basic SQL; experience with Fibery, Jira, Confluence or similar Experience with vendor or SaaS selection and implementation Background in fintech or another regulated industry This role is probably not for you if You prefer moving fast over documenting decisions You see RACI, risk logs and change control as bureaucracy rather than tools You are looking for a portfolio or people-management role If you are motivated and excited about taking on this responsible role and becoming part of our success story, we encourage you to apply today! We look forward to hearing from you! Find more English Speaking Jobs in Germany on Arbeitnow",
     "required_skills": [
-      "global digital - emea"
+      "remote",
+      "private banking"
     ],
     "requirements": [],
     "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-smb-account-executive-new-business-485600",
+    "url": "https://www.arbeitnow.com/jobs/companies/vexcash-ag/project-manager-business-process-analyst-as-freelancer-all-genders-berlin-106524",
     "date_posted": null
   },
   {
-    "id": "arbeitnow-023716ab3ebe",
-    "title": "SMB Account Executive (Growth)",
-    "company": "gitlab",
-    "location": "Remote",
+    "id": "arbeitnow-b999d4879271",
+    "title": "Systems Analyst/ IT Project Manager as Freelancer (all genders)",
+    "company": "Vexcash AG",
+    "location": "Berlin",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt;*&lt;em&gt;Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;h1&gt;&lt;strong&gt;SMB Account Executive (Growth)&amp;nbsp;&lt;/strong&gt;&lt;/h1&gt; &lt;p&gt;The Growth Account Executive - SMB owns a book of business of existing SMB customers, where they are responsible for managing the customer relationship and drive revenue growth. This role focuses on driving customer adoption, understanding business pains and objectives, finding opportunities for growth and driving long-term account growth.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Meet or exceed expansion quota while deepening customer relationships and driving long-term account growth&lt;/li&gt; &lt;li&gt;Build strong understanding of customers’ business needs, organizational goals and GitLab utilization to assist them in achieving them and make recommendations / positioning products at each stage of the lifecycle - onboarding, adoption, renewal and expansion&lt;/li&gt; &lt;li&gt;Take ownership of and act as the CEO for your portfolio of SMB accounts:&lt;/li&gt; &lt;ul&gt; &lt;li&gt;Develop and execute strategic account plans to identify and capitalize on expansion opportunities within Tier 1 accounts&lt;/li&gt; &lt;li&gt;Conduct regular business reviews with customers to assess needs, demonstrate ROI, and uncover new use cases&lt;/li&gt; &lt;li&gt;Drive adoption of additional products and features, focusing on paid upgrades and add-ons including Duo products&lt;/li&gt; &lt;li&gt;Manage the renewal process for Tier 1 customers, focusing on minimizing churn and maximizing contract value at renewal&lt;/li&gt; &lt;li&gt;Build expansion pipeline through proactive outreach, leveraging growth signals and high-propensity indicators to source new opportunities&lt;/li&gt; &lt;li&gt;Engage in signal-based selling in Tier 2 accounts; expand and close inbound deals&amp;nbsp; and identify upgrade and cross-sell opportunities&lt;/li&gt; &lt;li&gt;Partner with Renewal Managers to close high-value renewals and ensure customer success&lt;/li&gt; &lt;li&gt;Create an accurate forecast for expansion and renewal revenue each quarter against your plan&lt;/li&gt; &lt;li&gt;Maintain strong ATR renewal rates and maximize gross booked ARR across your portfolio&lt;/li&gt; &lt;/ul&gt; &lt;li&gt;Contribute to root cause analyses on expansion wins/losses and churn events&lt;/li&gt; &lt;ul&gt; &lt;li&gt;Communicate lessons learned to the team, including Customer Success, Renewals, Sales Development, and Product teams&lt;/li&gt; &lt;/ul&gt; &lt;li&gt;Collaborate with cross-functional teams, such as Customer Success, Renewals, Product, and Sales Development to provide account leadership and ensure exceptional customer outcomes&lt;/li&gt; &lt;li&gt;Maintain accurate and up-to-date pipeline information in the CRM with detailed account notes and opportunity tracking&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Performance Metrics&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Achieving monthly and quarterly nARR targets&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;You share our values, and work in accordance with those values&lt;/li&gt; &lt;li&gt;Demonstrated progressive experience in account management or growth-focused sales, with a proven track record of exceeding expansion targets&lt;/li&gt; &lt;li&gt;Excellent discovery skills, ability to uncover and address customer pain points, negotiation, presentation and closing skills&lt;/li&gt; &lt;li&gt;Expertise in value-based selling, relationship building, and contract negotiation with existing customers. Strong analytical skills to identify account trends, usage patterns, and expansion opportunities&lt;/li&gt; &lt;li&gt;Effective communicator with strong interpersonal skills and ability to conduct executive-level business reviews&lt;/li&gt; &lt;li&gt;Experience with modern sales tech stack including Salesforce, Clari, Outreach, ZoomInfo/Cognism, LinkedIn Sales Navigator, Gong, and 6sense&lt;/li&gt; &lt;li&gt;Basic understanding of application lifecycle management including the technology commonly used in application lifecycle management&lt;/li&gt; &lt;li&gt;Be ready to learn how to use GitLab and Git&lt;/li&gt; &lt;li&gt;Focuses on continuously improving your professional skills with a focus on personal mastery and team learning through activities such as training, reading and seeking mentorship from others&lt;/li&gt; &lt;li&gt;Ability to travel if needed and comply with the company’s travel policy&lt;/li&gt; &lt;li&gt;Highly desirable skill would be an additional language ie. German, Spanish, Dutch, French&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;nbsp;#LI-CM1&lt;/p&gt; &lt;h2&gt;Compensation&lt;/h2&gt; &lt;p&gt;To view the full job description and its compensation calculator, view our handbook. The compensation calculator can be found towards the bottom of the page.&lt;/p&gt; &lt;p&gt;Additional details about our process can be found on our&lt;a href=&quot;https://about.gitlab.com/handbook/hiring/interviewing/&quot; target=&quot;_blank&quot;&gt;&amp;nbsp;hiring page&lt;/a&gt;.&lt;/p&gt; &lt;div class=&quot;c-message_actions__container c-message__actions&quot;&gt;&amp;nbsp;&lt;/div&gt; &lt;div&gt;&lt;span style=&quot;font-size: xx-small;&quot;&gt;&lt;span style=&quot;color: white;&quot;&gt;Remote-Global&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h4&gt;&lt;strong&gt;How GitLab Supports Full-Time Employees&lt;/strong&gt;&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/&quot;&gt;Benefits to support your health, finances, and well-being&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/people-group/time-off-and-absence/time-off-types/#flexible-paid-time-off-pto&quot;&gt;Flexible Paid Time Off&amp;nbsp;&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/company/culture/inclusion/tmrg-tmag/&quot;&gt;Team Member Resource Groups&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/total-rewards/stock-options/&quot;&gt;Equity Compensation &amp;amp; Employee Stock Purchase Plan&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/people-group/learning-and-development/growth-and-development/&quot;&gt;Growth and Development Fund&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave&quot;&gt;Parental Leave&lt;/a&gt;&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Please note that we welcome interest from candidates with varying levels of experience; many successful candidates do not meet every single requirement. Additionally, studies have shown that people from &lt;a href=&quot;https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups&quot;&gt;underrepresented groups&lt;/a&gt; are less likely to apply to a job unless they meet every single qualification. If you&#39;re excited about this role, please apply and allow our recruiters to assess your application.&lt;/p&gt; &lt;hr&gt; &lt;p&gt;&lt;strong&gt;Country Hiring Guidelines: &lt;/strong&gt;GitLab hires new team members in countries around the world. All of our roles are remote, however some roles may carry specific location-based eligibility requirements. Our Talent Acquisition team can help answer any questions about location after starting the recruiting process.&amp;nbsp;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Privacy Policy: &lt;/strong&gt;Please review our &lt;a href=&quot;https://handbook.gitlab.com/handbook/hiring/candidate-faq/recruitment-privacy-policy/&quot; target=&quot;_blank&quot;&gt;Recruitment Privacy Policy.&lt;/a&gt; Your privacy is important to us.&lt;/p&gt; &lt;p&gt;GitLab is proud to be an equal opportunity workplace and is an affirmative action employer. GitLab’s policies and practices relating to recruitment, employment, career development and advancement, promotion, and retirement are based solely on merit, regardless of race, color, religion, ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity, or gender expression), national origin, age, citizenship, marital status, mental or physical disability, genetic information (including family medical history), discharge status from the military, protected veteran status (which includes disabled veterans, recently separated veterans, active duty wartime or campaign badge veterans, and Armed Forces service medal veterans), or any other basis protected by law. GitLab will not tolerate discrimination or harassment based on any of these characteristics. See also&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/people-policies/inc-usa/#equal-employment-opportunity-policy&quot; target=&quot;_blank&quot;&gt;GitLab’s EEO Policy&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/labor-and-employment-notices/#eeoc-us-equal-employment-opportunity-commission-notices&quot; target=&quot;_blank&quot;&gt;EEO is the Law&lt;/a&gt;. If you have a disability or special need that requires&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation&quot; target=&quot;_blank&quot;&gt;accommodation&lt;/a&gt;, please let us know during the&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/hiring/interviewing/#adjustments-to-our-interview-process&quot; target=&quot;_blank&quot;&gt;recruiting process&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt; Find Jobs in Germany on Arbeitnow",
+    "description": "VEXCASH AG is Germany’s leading online provider of short-term loans. We offer our customers a quick and straightforward solution to tide them over until their next payday. More than 800,000 customers already trust our service. Thanks to our innovative approach, they can secure financial liquidity without having to commit to a long-term arrangement. Tasks We are looking for a IT Project Manager as freelancer to support the development and improvement of business applications and systems within a banking and financial services environment. You will work closely with business stakeholders, developers, product teams, and external providers to analyze requirements, document processes, and ensure that systems meet business needs. Key Responsibilities Gather and analyze business and system requirements. Translate business needs into clear functional specifications. Create and maintain process flows, workflows, user journeys, and system diagrams. Analyze data flows, APIs, system integrations, and dependencies. Work with developers and vendors to implement and improve solutions. Support system testing and User Acceptance Testing, including defect identification and resolution. Analyze and document business processes and identify opportunities for improvement. Maintain functional and technical documentation. Support integrations with banking, lending, credit, KYC/AML, and other financial systems. Act as a bridge between business and technical teams. Requirements Freelancers must meet the requirements for working on a freelance basis and include their proposed monthly rate in their application. 3+ years of experience as a Systems Analyst, Business Analyst, or similar role. Strong requirements gathering and process analysis skills. Experience with workflows, process mapping, and system documentation. Good understanding of web applications, APIs, integrations, and data flows. Experience with system testing and User Acceptance Testing. Strong analytical, organizational, and communication skills. Experience with tools such as Jira, Confluence, Visio, Miro, Lucidchart, or Draw.io is an advantage. Experience in banking, lending, fintech, or financial services is preferred. If you are motivated and excited about taking on this responsible role and becoming part of our success story, we encourage you to apply today! We look forward to hearing from you! Find Jobs in Germany on Arbeitnow",
     "required_skills": [
-      "global digital - emea"
+      "remote",
+      "private banking"
     ],
     "requirements": [],
     "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-smb-account-executive-growth-85352",
+    "url": "https://www.arbeitnow.com/jobs/companies/vexcash-ag/systems-analyst-it-project-manager-as-freelancer-all-genders-berlin-39312",
     "date_posted": null
   },
   {
-    "id": "arbeitnow-60e030167991",
-    "title": "Senior Engagement Manager - Germany",
-    "company": "gitlab",
-    "location": "Remote",
+    "id": "arbeitnow-d6bf56d8ee91",
+    "title": "(Senior) Online Marketing Manager Schwerpunkt SEA / SEA Manager (m/w/d)",
+    "company": "squadt GmbH",
+    "location": "Bielefeld",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt;*&lt;em&gt;Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;Senior Professional Services, Engagement Manager - - Germany&lt;/strong&gt;&lt;/h2&gt; &lt;h2&gt;&lt;strong&gt;An overview of this role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As a Senior Professional Services Engagement Manager focused on Germany, you will play a critical role in driving GitLab’s growth in the region by structuring services engagements that create true partnership and shared success with our customers. You will lead efforts to design, position, and close outcome-oriented professional services engagements that translate complex DevSecOps and digital transformation initiatives into clear, measurable mission-critical outcomes.&amp;nbsp;&lt;/p&gt; &lt;p&gt;Reporting to the Senior Manager of Engagement Management, EMEA, you will work at the intersection of technical solutioning and customer requirements, aligning each engagement to their unique needs and objectives.&amp;nbsp; In your first year, you will build trusted advisor relationships with technical leaders and partners to help integrate professional services into account strategies from early discovery through successful delivery. This is a unique opportunity to shape large-scale implementations that improve how customers plan, build, secure, and operate software using GitLab.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Some examples of our projects&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Designing and structuring outcome-based professional services engagements that align GitLab capabilities to customers needs&lt;/li&gt; &lt;li&gt;Partnering with account executives, solutions architects, and delivery leaders to turn complex DevSecOps transformations into clear, actionable implementation roadmaps and statements of work&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;What you&#39;ll do&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Build trusted advisor relationships with division chiefs, program managers, and technical leaders&amp;nbsp;&lt;/li&gt; &lt;li&gt;Conduct discovery sessions with with prospects and Systems Integrators to understand current-state capabilities, requirements and desired business outcomes&lt;/li&gt; &lt;li&gt;Design outcome-oriented services proposals that align GitLab capabilities with customer success metrics and objectives&lt;/li&gt; &lt;li&gt;Structure engagements and commercial proposals to clear outcomes maintaining flexibility for staff augmentation and packaged offerings when needed&lt;/li&gt; &lt;li&gt;Develop custom-scoped SOWs and staffing plans for complex implementations, engaging with technical architects and delivery leadership to ensure deliverability&lt;/li&gt; &lt;li&gt;Articulate GitLab&#39;s services value proposition, catalog offerings, and implementation methodologies in the context of customer requirements&amp;nbsp;&lt;/li&gt; &lt;li&gt;Gain agreement on scope and price while guiding customers through commercial terms, procurement processes, and contracting structures&lt;/li&gt; &lt;li&gt;Manage project- and account-level escalations, ensuring rapid resolution and maintaining customer confidence&lt;/li&gt; &lt;li&gt;Position consulting, training, success tiers, and additional solutions proactively to ensure successful outcomes and long-term customer retention&lt;/li&gt; &lt;li&gt;Facilitate solutioning sessions including implementation roadmapping, enterprise strategy discussions, and executive-level requirements gathering&lt;/li&gt; &lt;li&gt;Drive measurable outcomes by structuring services that support customer success metrics, accurately forecasting services bookings, and tracking key performance indicators related to bookings, margin, and attachment to strategic opportunities.&lt;/li&gt; &lt;li&gt;Own the engagement lifecycle from initial discovery and pre-sales solutioning through scoping, SOW development, staffing alignment, and transition to delivery, ensuring engagements are deliverable, clearly defined, and outcome-oriented.&lt;/li&gt; &lt;li&gt;Influence cross-functional teams by articulating GitLab’s professional services value proposition in the context of federal requirements and compliance frameworks, and by feeding customer insights back into sales, delivery, and practice management.&lt;/li&gt; &lt;li&gt;Partner with regional sales and engagement leadership to prioritize and manage services opportunities that support critical deals and strategic initiatives, providing clear recommendations on risk management, negotiation strategies, and commercial structures.&lt;/li&gt; &lt;li&gt;Foster a culture of enablement and continuous improvement by training field teams on how to position and sell professional services by sharing trends, feedback, and suggestions that improve go-to-market content and operational processes.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;What you&#39;ll bring&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Demonstrated progressive experience structuring, scoping, and selling professional services engagements in the region&lt;/li&gt; &lt;li&gt;Proven success operating in a pre-sales context, conducting discovery, designing outcome-oriented proposals, and developing custom statements of work (SOWs) and staffing plans for large, complex implementation projects.&lt;/li&gt; &lt;li&gt;Solid understanding of software development lifecycle (SDLC), DevOps practices, and cloud transformation initiatives, with the ability to connect technical solutions to mission objectives and measurable business outcomes.&lt;/li&gt; &lt;li&gt;Effective communication and interpersonal skills with executive presence, able to build trusted advisor relationships with division chiefs, program managers, contracting stakeholders, and senior technical leaders.&lt;/li&gt; &lt;li&gt;Highly developed facilitation, negotiation, and problem-solving skills, including the ability to guide customers through acquisition processes, commercial structures, and risk mitigation strategies.&lt;/li&gt; &lt;li&gt;Comfort working cross-functionally with sales, solutions architecture, delivery, and operations teams to align on deal strategy, staffing, and successful execution in a fast-paced environment.&lt;/li&gt; &lt;li&gt;Capacity to work autonomously and asynchronously in a fully remote setting, managing multiple complex opportunities while maintaining accurate forecasting and consistent alignment with GitLab values and goals.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;The Professional Services Engagement Management team at GitLab is dedicated to designing and structuring services engagements that set our customers up for successful, long-term adoption of our DevSecOps platform. We build and manage strategic relationships with customers to understand their goals, surface their services needs, and translate complex transformation initiatives into clear, outcome-oriented engagement plans. Composed of experienced services, consulting, and delivery professionals distributed across multiple regions, we operate asynchronously to support field teams, shape implementation strategies, and guide customers through their services journey. We focus on creating scalable engagement models, fostering open communication with internal stakeholders, and adapting our services offerings to the evolving needs of a rapidly maturing organization and its customers. For more on how our team works, see the&lt;a href=&quot;https://about.gitlab.com/handbook/&quot;&gt;&amp;nbsp;Professional Services Engagement Management handbook page&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h4&gt;&lt;strong&gt;How GitLab Supports Full-Time Employees&lt;/strong&gt;&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/&quot;&gt;Benefits to support your health, finances, and well-being&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/people-group/time-off-and-absence/time-off-types/#flexible-paid-time-off-pto&quot;&gt;Flexible Paid Time Off&amp;nbsp;&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/company/culture/inclusion/tmrg-tmag/&quot;&gt;Team Member Resource Groups&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/total-rewards/stock-options/&quot;&gt;Equity Compensation &amp;amp; Employee Stock Purchase Plan&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/people-group/learning-and-development/growth-and-development/&quot;&gt;Growth and Development Fund&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave&quot;&gt;Parental Leave&lt;/a&gt;&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Please note that we welcome interest from candidates with varying levels of experience; many successful candidates do not meet every single requirement. Additionally, studies have shown that people from &lt;a href=&quot;https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups&quot;&gt;underrepresented groups&lt;/a&gt; are less likely to apply to a job unless they meet every single qualification. If you&#39;re excited about this role, please apply and allow our recruiters to assess your application.&lt;/p&gt; &lt;hr&gt; &lt;p&gt;&lt;strong&gt;Country Hiring Guidelines: &lt;/strong&gt;GitLab hires new team members in countries around the world. All of our roles are remote, however some roles may carry specific location-based eligibility requirements. Our Talent Acquisition team can help answer any questions about location after starting the recruiting process.&amp;nbsp;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Privacy Policy: &lt;/strong&gt;Please review our &lt;a href=&quot;https://handbook.gitlab.com/handbook/hiring/candidate-faq/recruitment-privacy-policy/&quot; target=&quot;_blank&quot;&gt;Recruitment Privacy Policy.&lt;/a&gt; Your privacy is important to us.&lt;/p&gt; &lt;p&gt;GitLab is proud to be an equal opportunity workplace and is an affirmative action employer. GitLab’s policies and practices relating to recruitment, employment, career development and advancement, promotion, and retirement are based solely on merit, regardless of race, color, religion, ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity, or gender expression), national origin, age, citizenship, marital status, mental or physical disability, genetic information (including family medical history), discharge status from the military, protected veteran status (which includes disabled veterans, recently separated veterans, active duty wartime or campaign badge veterans, and Armed Forces service medal veterans), or any other basis protected by law. GitLab will not tolerate discrimination or harassment based on any of these characteristics. See also&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/people-policies/inc-usa/#equal-employment-opportunity-policy&quot; target=&quot;_blank&quot;&gt;GitLab’s EEO Policy&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/labor-and-employment-notices/#eeoc-us-equal-employment-opportunity-commission-notices&quot; target=&quot;_blank&quot;&gt;EEO is the Law&lt;/a&gt;. If you have a disability or special need that requires&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation&quot; target=&quot;_blank&quot;&gt;accommodation&lt;/a&gt;, please let us know during the&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/hiring/interviewing/#adjustments-to-our-interview-process&quot; target=&quot;_blank&quot;&gt;recruiting process&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt; Find more English Speaking Jobs in Germany on Arbeitnow",
+    "description": "Aus Gründen der besseren Lesbarkeit verwenden wir in unserer Stellenanzeige das generische Maskulinum. Weibliche und anderweitige Geschlechteridentitäten werden dabei ausdrücklich mitgemeint. Skaliere mit uns die Performance von morgen! 📈🚀 Du bist leidenschaftlicher Zahlen- und Daten-Stratege und fühlst dich in Google Ads, Microsoft Advertising &#x26; Co. Zuhause? Für dich besteht Suchmaschinenmarketing nicht aus purem Keyword-Stuffing, sondern aus fundierten Media-Budgets, strategischem Bidding, Conversion-Optimierung und messbarem Erfolg? Dann sollten wir uns unbedingt kennenlernen! Ab dem 1.1.2027 brauchen wir deine Unterstützung als Senior SEA Manager in Vollzeit für unser Paid-Search-Team. Aufgaben Bist du bereit für neue Herausforderungen? 🚀 Du übernimmst den gesamten Lifecycle deiner Google Ads &#x26; Microsoft Advertising Kampagnen – vom sauberen Setup über die tägliche Aussteuerung bis zur Skalierung. 🚀 Du drehst an den richtigen Stellschrauben (Bidding, Keywords, Audiences), um den CPL nachhaltig zu senken und den ROAS deiner Kunden-Accounts zu maximieren. 🚀 Du betreust deine Kunden-Accounts selbstständig, erkennst Wachstumschancen frühzeitig und setzt diese proaktiv um. 🚀 Du erstellst aussagekräftige Reports und leitest daraus klare, strategische Handlungsempfehlungen für deine Kunden ab. Qualifikation Klingt das ganz nach dir? ✌🏼Du hast mindestens 1–2 Jahre direkte, operative Erfahrung in der datengetriebenen Steuerung und Optimierung von Google Ads Kampagnen mit klarem Fokus auf Verkäufe oder Lead-Generierung. ✌🏼 Du optimierst Kampagnen zielsicher nach Cost per Lead (CPL) und Return on Ad Spend (ROAS / KUR) und triffst deine Entscheidungen auf Basis verlässlicher Daten statt Bauchgefühl. ✌🏼 Du hast Erfahrung in der eigenverantwortlichen Betreuung von Accounts mit relevanten Media-Budgets (vorzugsweise auf Agenturseite oder in einem E-Commerce-/B2B-Umfeld). ✌🏼 Du hast einen sicheren Umgang mit Smart Bidding-Strategien, Search-, Shopping- und Performance Max-Kampagnen sowie Grundverständnis für Conversion-Tracking und Attributionsmodelle. ✌🏼 Du besitzt optimaler Weise praktische Erfahrung mit Google Analytics 4 (GA4) sowie der Erstellung von übersichtlichen Performance-Dashboards (z. B. in Data Studio). ✌🏼 Zahlenaffinität und Performance-orientiertes Marketing gehören zu deinem Mindset. ✌🏼 Hohe Eigeninitiative und Organisationsfähigkeit sind für dich keine Buzz-Words. ✌🏼 Erfahrungen mit Amazon Ads sind ein Plus. Benefits Warum squadt? Work-Life-Balance wird bei uns groß geschrieben: Ein glückliches Team ist Gold wert ❤️ Damit du bei squadt zufrieden bist, gesund und motiviert bleibst, bieten wir dir eine Unternehmenskultur zum Verlieben und tolle Benefits: ⭐ Flache Hierarchien und ein familiäres Team ⭐ bKV und betriebliche Altersvorsorge ⭐ Mitarbeiterrabatte ⭐ Regelmäßige Team Events ⭐ Flexible Arbeitszeiten ⭐ Mobiles Arbeiten ⭐ Moderne technische Ausstattung Lust auf das nächste Level? 🚀 Wenn dir die Stelle zusagt: Melde dich oder bewirb dich direkt bei uns, wenn du denkst, dass deine Talente unsere Expertise erweitern und bereichern könnten. Schick uns einfach mal deine Unterlagen an Ronja und verrate uns, warum du unbedingt Teil unseres Teams werden möchtest. Gib dabei bitte deinen frühestmöglichen Eintrittstermin sowie deine Gehaltsvorstellungen an. Find Jobs in Germany on Arbeitnow",
     "required_skills": [
-      "practice management"
+      "remote",
+      "online marketing"
     ],
     "requirements": [],
     "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-senior-engagement-manager-germany-456442",
+    "url": "https://www.arbeitnow.com/jobs/companies/squadt-gmbh/senior-online-marketing-manager-schwerpunkt-sea-sea-manager-bielefeld-424592",
     "date_posted": null
   },
   {
-    "id": "arbeitnow-98416566bc3e",
-    "title": "Demo Architect, EMEA",
-    "company": "gitlab",
-    "location": "Remote",
+    "id": "arbeitnow-ab13d6e213e9",
+    "title": "AI Product Builder (m/w/d) - Product Design & AI Development",
+    "company": "ProviPanda GmbH",
+    "location": "Hamburg",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt;*&lt;em&gt;Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;An overview of this role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As a Demo Architect, you&#39;ll help GitLab teams and customers get hands-on with our platform faster and with less friction. This role reports to the Senior Director of our Solutions Architecture Center of Excellence, with day-to-day partnership from the current team lead. You&#39;ll build and improve the tools, applications, and infrastructure that support field team demos, workshops, trials, and internal test environments across the field.&amp;nbsp;&lt;/p&gt; &lt;p&gt;What makes this role unique is its mix of software engineering, infrastructure, and customer-facing collaboration. You&#39;ll work like an engineer for much of the role, while also partnering with Solutions Architects, Account Executives, Customer Success, and others to make sure what we build is practical, usable, and aligned to how the field sells.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you&#39;ll do&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Build and maintain tools, applications, and workflows that support demos, workshops, trials, and internal test environments.&lt;/li&gt; &lt;li&gt;Expand the Demo Architect Portal to improve automation, self-service, and scalability for field teams and partners.&lt;/li&gt; &lt;li&gt;Provision and support infrastructure that enables hands-on customer experiences across&lt;a href=&quot;https://gitlab.com&quot;&gt; GitLab.com&lt;/a&gt;, demo instances, and internal environments.&lt;/li&gt; &lt;li&gt;Collaborate with Solutions Architects, Account Executives, Customer Success, Marketing, Revenue Operations, UX, and Engineering to understand needs and deliver practical technical solutions.&lt;/li&gt; &lt;li&gt;Learn and document go-to-market workflows (e.g., how teams run demos/workshops/trials) and automate the steps that waste time.&lt;/li&gt; &lt;li&gt;Create technical workshop assets and enablement content that support pre-sales and technical selling for individual contributors.&lt;/li&gt; &lt;li&gt;Advise on sales opportunities when specialized technical demo support or custom solutions are needed.&lt;/li&gt; &lt;li&gt;Improve the presenter experience by reducing manual setup work and making demo workflows easier to use and repeat.&lt;/li&gt; &lt;li&gt;Support internal teams that rely on demo or test infrastructure, helping keep those environments available and useful.&lt;/li&gt; &lt;li&gt;Troubleshoot urgent demo/workshop environment issues under pressure and communicate status clearly to stakeholders.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;What you&#39;ll bring&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Experience building software, systems, or internal tools that support technical users or business teams.&lt;/li&gt; &lt;li&gt;Ability to deliver production-grade software and automation with attention to reliability, maintainability, and documentation.&lt;/li&gt; &lt;li&gt;Ability to work across application development and infrastructure, with comfort navigating provisioning, automation, and service workflows.&lt;/li&gt; &lt;li&gt;Familiarity with monitoring/observability tools to shorten investigation time when something breaks.&lt;/li&gt; &lt;li&gt;Comfort communicating and collaborating with technical and non-technical stakeholders across Sales, Solutions Architecture, Customer Success, Marketing, UX, and Engineering.&lt;/li&gt; &lt;li&gt;Understanding of how to design and iterate on solutions for usability and repeatability, not just technical correctness, with awareness that the end user may be a seller or Solutions Architect.&lt;/li&gt; &lt;li&gt;Ability to operate independently in a remote, asynchronous environment, with willingness to travel periodically for team offsites and occasional in-person planning/whiteboarding sessions.&lt;/li&gt; &lt;li&gt;Exposure to technical demos, workshops, trials, or enablement assets, and/or interest in learning the pre-sales context; transferable experience from software engineering, site reliability engineering, systems engineering, solutions architecture, or similar technical paths.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;On the Demo Architect team at GitLab, we support the field’s demo, workshop, and trial experiences by maintaining shared tooling and the infrastructure behind internal demo and test instances used across GitLab. We’re a small, globally distributed group that collaborates asynchronously across regions and adapts quickly to changing needs, with a current focus on scaling automation, enabling more self-service, extending support to partners, and maintaining reliable internal infrastructure.&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h4&gt;&lt;strong&gt;How GitLab Supports Full-Time Employees&lt;/strong&gt;&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/&quot;&gt;Benefits to support your health, finances, and well-being&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/people-group/time-off-and-absence/time-off-types/#flexible-paid-time-off-pto&quot;&gt;Flexible Paid Time Off&amp;nbsp;&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/company/culture/inclusion/tmrg-tmag/&quot;&gt;Team Member Resource Groups&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/total-rewards/stock-options/&quot;&gt;Equity Compensation &amp;amp; Employee Stock Purchase Plan&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/people-group/learning-and-development/growth-and-development/&quot;&gt;Growth and Development Fund&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave&quot;&gt;Parental Leave&lt;/a&gt;&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Please note that we welcome interest from candidates with varying levels of experience; many successful candidates do not meet every single requirement. Additionally, studies have shown that people from &lt;a href=&quot;https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups&quot;&gt;underrepresented groups&lt;/a&gt; are less likely to apply to a job unless they meet every single qualification. If you&#39;re excited about this role, please apply and allow our recruiters to assess your application.&lt;/p&gt; &lt;hr&gt; &lt;p&gt;&lt;strong&gt;Country Hiring Guidelines: &lt;/strong&gt;GitLab hires new team members in countries around the world. All of our roles are remote, however some roles may carry specific location-based eligibility requirements. Our Talent Acquisition team can help answer any questions about location after starting the recruiting process.&amp;nbsp;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Privacy Policy: &lt;/strong&gt;Please review our &lt;a href=&quot;https://handbook.gitlab.com/handbook/hiring/candidate-faq/recruitment-privacy-policy/&quot; target=&quot;_blank&quot;&gt;Recruitment Privacy Policy.&lt;/a&gt; Your privacy is important to us.&lt;/p&gt; &lt;p&gt;GitLab is proud to be an equal opportunity workplace and is an affirmative action employer. GitLab’s policies and practices relating to recruitment, employment, career development and advancement, promotion, and retirement are based solely on merit, regardless of race, color, religion, ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity, or gender expression), national origin, age, citizenship, marital status, mental or physical disability, genetic information (including family medical history), discharge status from the military, protected veteran status (which includes disabled veterans, recently separated veterans, active duty wartime or campaign badge veterans, and Armed Forces service medal veterans), or any other basis protected by law. GitLab will not tolerate discrimination or harassment based on any of these characteristics. See also&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/people-policies/inc-usa/#equal-employment-opportunity-policy&quot; target=&quot;_blank&quot;&gt;GitLab’s EEO Policy&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/labor-and-employment-notices/#eeoc-us-equal-employment-opportunity-commission-notices&quot; target=&quot;_blank&quot;&gt;EEO is the Law&lt;/a&gt;. If you have a disability or special need that requires&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation&quot; target=&quot;_blank&quot;&gt;accommodation&lt;/a&gt;, please let us know during the&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/hiring/interviewing/#adjustments-to-our-interview-process&quot; target=&quot;_blank&quot;&gt;recruiting process&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt; Find more English Speaking Jobs in Germany on Arbeitnow",
+    "description": "Wir bei der ProviPanda GmbH entwickeln eine der führenden Sales-Recruiting-Plattformen im deutschsprachigen Raum. Mit über 60.000 registrierten Vertrieblern verbinden wir Unternehmen mit passenden Sales-Talenten – schnell, unkompliziert und unterstützt durch intelligente Technologien. Unsere Plattform vereint KI-basiertes Matching, Bewerbermanagement, Active Sourcing und direkte Kommunikation in einer digitalen Lösung. Wir wachsen und entwickeln unser Produkt kontinuierlich weiter. Dabei legen wir besonderen Wert auf intuitive Benutzeroberflächen, durchdachte Funktionen und eine erstklassige User Experience. Dafür suchen wir einen AI Product Builder, der Produktverständnis, UX/UI Design und technisches Know-how verbindet und neue Features mithilfe moderner AI Coding Agents eigenständig konzipiert und umsetzt. Aufgaben Produkt- und Feature-Entwicklung: Du konzipierst neue Funktionen für unsere Sales-Recruiting-Plattform und entwickelst bestehende Bereiche kontinuierlich weiter. UX/UI Design: Du gestaltest intuitive, moderne und konsistente Benutzeroberflächen für Unternehmen und Vertriebler. AI-gestützte Softwareentwicklung: Du setzt Features und Verbesserungen eigenständig mithilfe moderner AI Coding Agents wie Claude Code, Cursor oder vergleichbaren Tools um. End-to-End-Verantwortung: Du begleitest Features von der ersten Idee über die Konzeption und Umsetzung bis zum fertigen, nutzbaren Ergebnis. Optimierung der User Experience: Du analysierst bestehende Nutzerflows, erkennst Schwachstellen und entwickelst Lösungen, die unsere Plattform einfacher, intuitiver und effizienter machen. Weiterentwicklung zentraler Produktbereiche: Du arbeitest unter anderem an Kandidatensuche, KI-Matching, Bewerbermanagement, Unternehmens-Dashboards und Kommunikationsfunktionen. Testing &#x26; Qualitätssicherung: Du überprüfst Funktionalität, Benutzerfreundlichkeit und Qualität deiner Lösungen und verbesserst diese eigenständig. Produktentscheidungen mitgestalten: Du bringst eigene Ideen ein, hinterfragst Anforderungen und entwickelst aktiv Vorschläge zur Weiterentwicklung unserer Plattform. Enge Zusammenarbeit im Team: Du kommunizierst regelmäßig mit unserem Team, stimmst Prioritäten ab und treibst deine Themen eigenverantwortlich voran. Qualifikation Du hast ein ausgeprägtes Gespür für gute digitale Produkte, intuitive Benutzeroberflächen und durchdachte User Experiences. Du bringst Erfahrung im Bereich Product Design, UX/UI Design, Digital Product Management oder einer vergleichbaren produktnahen Tätigkeit mit. Du kannst aus groben Ideen und Anforderungen eigenständig sinnvolle Funktionen, Nutzerflüsse und Benutzeroberflächen entwickeln. Du verstehst grundsätzlich, wie moderne Webanwendungen funktionieren, und hast ein technisches Grundverständnis für APIs, Datenbanken und Anwendungslogik. Du hast idealerweise bereits Erfahrung mit AI Coding Agents wie Claude Code, Cursor oder ähnlichen Tools gesammelt. Du kannst technische und gestalterische Ergebnisse selbstständig bewerten, Probleme erkennen und Lösungen iterativ verbessern. Du hast einen hohen Qualitätsanspruch an Funktionalität, Design und Benutzerfreundlichkeit. Du denkst unternehmerisch, arbeitest eigenverantwortlich und möchtest die Entwicklung eines digitalen Produkts aktiv mitgestalten. Du kommunizierst offen, zuverlässig und proaktiv und schätzt den täglichen Austausch im Team. Du verfügst über sehr gute Deutschkenntnisse. Was uns besonders wichtig ist: Wir suchen keine bestimmte Berufsbezeichnung, sondern die richtige Kombination aus Produktverständnis, Designkompetenz und technischem Interesse. Klassische Programmiererfahrung ist von Vorteil, aber keine zwingende Voraussetzung. Viel wichtiger ist uns, dass du technische Zusammenhänge verstehst, gute Produktentscheidungen treffen kannst und moderne AI-Tools nutzt, um deine Ideen eigenständig in funktionierende Software umzusetzen. Benefits 100 % Remote: Arbeite ortsunabhängig und eigenverantwortlich. Direkter Einfluss auf ein wachsendes SaaS-Produkt: Deine Ideen und Entscheidungen fließen unmittelbar in die Weiterentwicklung unserer Plattform ein. Echte Produktverantwortung: Begleite Features von der Konzeption bis zur Umsetzung und übernimm Verantwortung für deine Ergebnisse. Moderne Arbeitsweise: Nutze aktuelle KI-Technologien und AI Coding Agents als festen Bestandteil deiner täglichen Arbeit. Viel Gestaltungsspielraum: Entwickle eigene Ideen, hinterfrage bestehende Lösungen und gestalte die Zukunft unserer Plattform aktiv mit. Kurze Entscheidungswege: Direkter Austausch mit dem Team, schnelle Abstimmungen und wenig Bürokratie. Dynamisches Startup-Umfeld: Arbeite in einem ambitionierten Team mit klaren Zielen, hoher Eigenverantwortung und echtem Unternehmergeist. Persönliche Weiterentwicklung: Vertiefe deine Fähigkeiten in Product Design, UX/UI und KI-gestützter Softwareentwicklung. Langfristige Produktentwicklung: Arbeite kontinuierlich an einer Plattform, deren Entwicklung und Wachstum du aktiv mitgestalten kannst. Du hast ein gutes Gespür dafür, wie digitale Produkte funktionieren und aussehen sollten? Du denkst gerne in Lösungen statt in einzelnen Aufgaben und möchtest deine Ideen nicht nur konzipieren, sondern direkt in funktionierende Software verwandeln? Dann möchten wir dich kennenlernen! Bei ProviPanda hast du die Möglichkeit, eine bereits etablierte und wachsende Sales-Recruiting-Plattform aktiv mitzugestalten. Deine Ideen können unmittelbar dazu beitragen, wie Unternehmen passende Vertriebler finden und wie Sales-Talente neue berufliche Möglichkeiten entdecken. Dabei ist uns nicht entscheidend, ob dein bisheriger Schwerpunkt im Product Design, UX/UI Design oder in der Softwareentwicklung lag. Viel wichtiger sind uns deine Denkweise, dein Qualitätsanspruch und deine Begeisterung für digitale Produkte. Besonders wichtig ist uns eine offene, aktive und zuverlässige Kommunikation. Auch wenn wir remote arbeiten, legen wir großen Wert auf einen engen Austausch im Team. Wir wünschen uns jemanden, der sich täglich aktiv einbringt, Fortschritte transparent kommuniziert, Fragen frühzeitig anspricht und Verantwortung übernimmt. Besonders freuen wir uns, wenn du uns bereits umgesetzte Projekte, Designs oder eigene AI-gestützte Anwendungen zeigen kannst. Wir freuen uns auf deine Bewerbung! Dein Team der ProviPanda GmbH Find Jobs in Germany on Arbeitnow",
     "required_skills": [
-      "sa"
+      "remote",
+      "media",
+      "screen and web design"
     ],
     "requirements": [],
     "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-demo-architect-emea-362887",
+    "url": "https://www.arbeitnow.com/jobs/companies/provipanda-gmbh/ai-product-builder-product-design-ai-development-hamburg-38270",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-1723ac6f239e",
+    "title": "Senior Consultant (m/w/d) Finance | komplett remote",
+    "company": "ANGEHEUERT GmbH Personalberatung",
+    "location": "Nuremberg",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Unser Kunde ist ein spezialisierter Anbieter für Business Intelligence, Unternehmensplanung und Konzernkonsolidierung und begleitet seit vielen Jahren Unternehmen vom Mittelstand bis zum internationalen Konzern bei der Digitalisierung ihrer Finanzprozesse. Im Fokus stehen ganzheitliche Lösungen rund um Reporting, Planung, Forecasting und Konsolidierung auf Basis moderner BI Technologien. Gesucht wird ein Senior Consultant , der Finance Verständnis, Beratungskompetenz und analytisches Denken verbindet. In dieser Rolle begleitest du Kunden langfristig bei der Optimierung ihrer Finanz- und Controllingprozesse und entwickelst gemeinsam mit ihnen moderne BI- und Planungslösungen. Dich erwartet eine verantwortungsvolle Rolle mit viel Eigenverantwortung, direktem Kundenkontakt und langfristigen Entwicklungsmöglichkeiten in einem spezialisierten Consulting Umfeld. Aufgaben Beratung und Betreuung von Kunden im Bereich Business Intelligence, Unternehmensplanung und Konzernkonsolidierung Analyse fachlicher Anforderungen gemeinsam mit Finance, Controlling und Konzernrechnungswesen Entwicklung von Konzepten und Lösungsarchitekturen auf Basis von IBM Planning Analytics TM1 Übersetzung betriebswirtschaftlicher Anforderungen in technische Lösungen und Systemkonzepte Modellierung und Implementierung von OLAP Lösungen, Reports, Dashboards und Planungssystemen Entwicklung und Optimierung von Datenintegrationen aus ERP, Finanz- und Vorsystemen Begleitung von Kundenprojekten von der Konzeption bis zur Inbetriebnahme Durchführung von Workshops, Anwenderschulungen und Präsentationen beim Kunden Langfristige Betreuung und Weiterentwicklung bestehender Kundenlösungen Unterstützung bei Presales Aktivitäten , Lösungskonzepten und Kundenpräsentationen Qualifikation Abgeschlossenes Studium im Bereich BWL, Wirtschaftsinformatik, Finance, Controlling oder vergleichbare Studiengänge Mindestens 5 Jahre Berufserfahrung im Bereich Business Intelligence, Finanzplanung und Konzernkonsolidierung Fundierte Kenntnisse in Budgetierung, Forecasting sowie Reporting und Controlling Prozessen Praxis in der Analyse und Optimierung von Finance- und Controlling Prozessen Kommunikationsstärke sowie souveränes Auftreten im Austausch mit Kunden und Fachbereichen Analytische und strukturierte Arbeitsweise mit hoher Eigenverantwortung Interesse an datengetriebenen Lösungen sowie Verständnis für BI- und Planungssysteme Fließende Deutschkenntnisse für die optimale Kundenberatung und Kommunikation im Team Gelegentliche Reisebereitschaft für Kundentermine und Workshops (ca. 1x im Monat) Nice to Have: Erfahrung mit IBM Planning Analytics TM1 Benefits Je nach Qualifikation und Erfahrung erwartet dich ein attraktives Gesamtpaket Hoher Gestaltungsspielraum: Eigenverantwortliches Arbeiten mit direktem Einfluss auf Kundenprojekte und Unternehmensentwicklung Flexible Arbeitsgestaltung: Freie Zeiteinteilung orientiert am Kundenbedarf sowie 2-3 Tage Home Office Remote Möglichkeit: Auch deutschlandweite Remote Zusammenarbeit möglich, abhängig von Wohnort und Reisetätigkeit Langfristige Entwicklungsperspektive: Möglichkeit zur fachlichen Weiterentwicklung bis hin zur Teamführung oder strategischen Rolle im Unternehmen Spannende Kundenprojekte: Zusammenarbeit mit namhaften Unternehmen aus unterschiedlichen Branchen im Bereich BI, Planung und Konsolidierung Mentoring und Wissenstransfer: Enger Austausch im kleinen Team mit direkter Zusammenarbeit mit erfahrenen Spezialisten Modernes Arbeitsumfeld: Grünes Büro mit Terrasse, Küche und angenehmer Arbeitsatmosphäre Mobilitätsangebote: Firmenparkplatz, Bike Leasing sowie je nach Rolle Firmenwagen möglich Starkes Teamgefühl: Kleine Teams, kurze Entscheidungswege und regelmäßige gemeinsame Aktivitäten Du möchtest Unternehmen nicht nur beraten, sondern aktiv dabei unterstützen, moderne Finanz- und BI-Lösungen aufzubauen und weiterzuentwickeln? Dann bewirb dich jetzt als Senior Consultant BI & Konsolidierung ! Find more English Speaking Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "remote",
+      "business consulting"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh-personalberatung/senior-consultant-finance-komplett-remote-nuremberg-251268",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-a6538451ef43",
+    "title": "Online-Dozent (m/w/d) - Künstliche Intelligenz & digitale Anwendungen - Teilzeit möglich",
+    "company": "Winkler & Company",
+    "location": "Leipzig",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Du beschäftigst dich intensiv mit Künstlicher Intelligenz , probierst regelmäßig neue KI-Tools aus und weißt, wie sich ChatGPT &#x26; Co. im beruflichen Alltag sinnvoll einsetzen lassen? Vielleicht hast du dir dein Wissen selbst angeeignet, während des Studiums vertieft oder bereits erste eigene KI-Projekte umgesetzt? Dann nutze dein Know-how für den Einstieg in die digitale Weiterbildung! Für ein deutschlandweit tätiges Weiterbildungsunternehmen suchen wir Online-Dozenten (m/w/d) im Bereich Künstliche Intelligenz . Du vermittelst praxisnahes KI-Wissen, begleitest Teilnehmende bei ihren ersten Anwendungen und unterstützt sie dabei, moderne Technologien im Berufsalltag einzusetzen. Aufgaben Online-Schulungen: Vermittlung von Grundlagen und praktischen Anwendungen rund um Künstliche Intelligenz KI-Tools &#x26; Automatisierung: Erklärung und Demonstration von Tools wie ChatGPT und weiteren KI-Anwendungen im beruflichen Alltag Praxisnahe Wissensvermittlung: Vorstellung konkreter Anwendungsbeispiele aus Marketing, Büro, Kommunikation und digitalen Geschäftsprozessen Teilnehmerbetreuung: Beantwortung fachlicher Fragen und Unterstützung bei Übungen in Live-Sessions Weiterentwicklung: Mitwirkung bei der Erstellung und Aktualisierung von Schulungsinhalten zu neuen KI-Technologien Qualifikation Das solltest du mitbringen (Must-haves): Gute praktische Kenntnisse im Umgang mit generativer KI und gängigen KI-Tools Grundlegendes Verständnis dafür, wie KI im beruflichen Umfeld eingesetzt werden kann Fähigkeit, technische Zusammenhänge verständlich und nachvollziehbar zu erklären Begeisterung für neue Technologien und die Bereitschaft, dich kontinuierlich weiterzuentwickeln Selbstständige, strukturierte Arbeitsweise und Freude am Umgang mit Menschen Gut zu wissen: Ein abgeschlossenes Studium, langjährige Berufserfahrung oder eine pädagogische Ausbildung sind keine Voraussetzung. Entscheidend sind dein Wissen, deine praktischen Fähigkeiten und deine Motivation. Benefits Das bieten wir dir: 100 % Remote-Arbeit - deutschlandweit aus dem Home Office Einstiegschance für Young Professionals und Quereinsteiger mit fundierten KI-Kenntnissen Ein modernes Weiterbildungsumfeld mit abwechslungsreichen KI-Themen Möglichkeit, deine fachlichen und didaktischen Fähigkeiten weiterzuentwickeln Aktive Mitgestaltung von Schulungsinhalten und neuen Lernformaten Faire Vergütung , orientiert an deinen Kenntnissen und deiner Erfahrung Du musst kein langjähriger KI-Experte sein, um anderen den Einstieg in Künstliche Intelligenz zu erleichtern. Wenn du dich bereits intensiv mit KI beschäftigst, praktische Anwendungen kennst und dein Wissen gerne teilst, bringst du wichtige Voraussetzungen mit. Interesse? Dann freuen wir uns auf deine Bewerbung! Erzähl uns kurz, mit welchen KI-Tools du bereits arbeitest, welche Projekte du umgesetzt hast und warum du dein Wissen gerne weitergeben möchtest. Find more English Speaking Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "remote",
+      "marketing and communication"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/winkler-company/online-dozent-kunstliche-intelligenz-digitale-anwendungen-teilzeit-moglich-leipzig-191425",
     "date_posted": null
   }
 ]
