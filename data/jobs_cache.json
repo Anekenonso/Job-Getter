@@ -1,5 +1,141 @@
 [
   {
+    "id": "jobicy-2820b2a548d4",
+    "title": "Sr. Director, MaintainX AI",
+    "company": "MaintainX",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "MaintainX is a leading mobile-first work execution platform for industrial and frontline teams. More than 13,000 customers, including Duracell, McDonald's, Shell, DHL and Volvo, use MaintainX to cut unplanned downtime and run better operations, across 13.9 million managed assets and 79.5 million completed work orders. In August 2026 MaintainX became part of Autodesk, joining Autodesk&hellip;",
+    "required_skills": [
+      "data science & analytics"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155332-sr-director-maintainx-ai",
+    "date_posted": "2026-10-14"
+  },
+  {
+    "id": "jobicy-6fd5e7d19620",
+    "title": "Senior Applied Data Scientist, Fleet Intelligence",
+    "company": "Fleetio",
+    "location": "Canada,  Mexico,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "A little about us…Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations. Transportation technology is a hot market, and we’re leading the charge with raving fans and new customers signing up every day. We raised $450M in our Series D funding round in March of 2025 and are&hellip;",
+    "required_skills": [
+      "data science & analytics"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155336-senior-applied-data-scientist-fleet-intelligence",
+    "date_posted": "2026-10-14"
+  },
+  {
+    "id": "jobicy-01cffc8c9b17",
+    "title": "Senior Product Designer, AI",
+    "company": "MaintainX",
+    "location": "Canada",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "MaintainX is a leading mobile-first work execution platform for industrial and frontline teams. More than 13,000 customers, including Duracell, McDonald's, Shell, DHL and Volvo, use MaintainX to cut unplanned downtime and run better operations, across 13.9 million managed assets and 79.5 million completed work orders. In August 2026 MaintainX became part of Autodesk, joining Autodesk&hellip;",
+    "required_skills": [
+      "web, ui & ux design"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155335-senior-product-designer-ai",
+    "date_posted": "2026-10-14"
+  },
+  {
+    "id": "jobicy-1855a765672d",
+    "title": "Director, Enterprise Portfolio Management",
+    "company": "Clover Health",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Clover Health’s People Operations team is the strategic force behind our human capital management. We attract and recruit top talent, manage employee lifecycle processes, and foster career development and continuous learning. We’re proud of our data-driven approach to talent engagement and feel privileged to support our global workforce. We are seeking a Director, Enterprise Initiatives&hellip;",
+    "required_skills": [
+      "project & program management"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155334-director-enterprise-portfolio-management",
+    "date_posted": "2026-10-14"
+  },
+  {
+    "id": "jobicy-01c13aded170",
+    "title": "Clinical Field Scheduling & Logistics Specialist",
+    "company": "Clover Health",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "This role is remote, though we're prioritizing candidates based in New Jersey. The Clover Home Care team is responsible for ensuring patients have access to the right care at the right time, in the right setting. We are a group of caring and passionate professionals dedicated to improving the lives of our most vulnerable members&hellip;",
+    "required_skills": [
+      "healthcare & medical"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155331-clinical-field-scheduling-logistics-specialist",
+    "date_posted": "2026-10-14"
+  },
+  {
+    "id": "jobicy-d9af81978822",
+    "title": "Manager, Revenue Operations",
+    "company": "Fleetio",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "A little about us…Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations. Transportation technology is a hot market, and we’re leading the charge with raving fans and new customers signing up every day. We raised $450M in our Series D funding round in March of 2025 and are&hellip;",
+    "required_skills": [
+      "product & operations"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155330-manager-revenue-operations",
+    "date_posted": "2026-10-14"
+  },
+  {
+    "id": "jobicy-3c1467f5f86f",
+    "title": "Regional Sales Manager, Mid-Market",
+    "company": "Fleetio",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "A little about us…Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations. Transportation technology is a hot market, and we’re leading the charge with raving fans and new customers signing up every day. We raised $450M in our Series D funding round in March of 2025 and are&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155333-regional-sales-manager-mid-market",
+    "date_posted": "2026-10-14"
+  },
+  {
+    "id": "jobicy-26f195b372ef",
+    "title": "Chairman Programs Lead",
+    "company": "Clover Health",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Own the white space. Operate with autonomy. Drive the programs that move the company. We’re hiring a high-agency operator into the Office of the Chairman to drive Clover’s most important cross-functional initiatives from ambiguity to execution and results. This is a rare role designed for someone who thrives at the intersection of strategy, systems design,&hellip;",
+    "required_skills": [
+      "project & program management"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155328-chairman-programs-lead",
+    "date_posted": "2026-10-14"
+  },
+  {
     "id": "jobicy-34eec686a3a4",
     "title": "Senior Client Success Manager",
     "company": "TripActions",
@@ -714,142 +850,6 @@
     "date_posted": "2026-10-14"
   },
   {
-    "id": "jobicy-1164b0eac307",
-    "title": "North America Solutions & Services Leader",
-    "company": "Skillsoft",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At Skillsoft, we believe skills fuel growth. Our mission is to empower every organization and every learner to turn constant change into continuous growth. As part of the team, your skills will help organizations understand what skills they have, what they need next, and how to apply them in ways that drive real performance and&hellip;",
-    "required_skills": [
-      "product & operations"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155281-north-america-solutions-services-leader",
-    "date_posted": "2026-10-14"
-  },
-  {
-    "id": "jobicy-0e515f468032",
-    "title": "Engineering Manager - Observability | Sweden | Remote",
-    "company": "Grafana Labs",
-    "location": "Germany,  Ireland,  Spain,  Sweden,  UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155280-engineering-manager-observability-sweden-remote",
-    "date_posted": "2026-10-14"
-  },
-  {
-    "id": "jobicy-7bf49a3cd9dc",
-    "title": "Engineering Manager - Observability | Spain | Remote",
-    "company": "Grafana Labs",
-    "location": "Germany,  Ireland,  Spain,  Sweden,  UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155277-engineering-manager-observability-spain-remote",
-    "date_posted": "2026-10-14"
-  },
-  {
-    "id": "jobicy-4f2f86cfe9e0",
-    "title": "(US) Sales Development Representative",
-    "company": "PointClickCare",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At PointClickCare our mission is simple: to help providers deliver exceptional care. And that starts with our people. As a leading health tech company that’s founder-led and privately held, we empower our employees to push boundaries, innovate, and shape the future of healthcare. With the largest long-term and post-acute care dataset and a Marketplace of&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155279-us-sales-development-representative",
-    "date_posted": "2026-10-14"
-  },
-  {
-    "id": "jobicy-d5938972cfc4",
-    "title": "Equity Plan Administrator",
-    "company": "Skillsoft",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At Skillsoft, we believe skills fuel growth. Our mission is to empower every organization and every learner to turn constant change into continuous growth. As part of the team, your skills will help organizations understand what skills they have, what they need next, and how to apply them in ways that drive real performance and&hellip;",
-    "required_skills": [
-      "finance & accounting"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155278-equity-plan-administrator",
-    "date_posted": "2026-10-14"
-  },
-  {
-    "id": "jobicy-39478aea027c",
-    "title": "(US) Principal ML System Engineer",
-    "company": "PointClickCare",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At PointClickCare our mission is simple: to help providers deliver exceptional care. And that starts with our people. As a leading health tech company that’s founder-led and privately held, we empower our employees to push boundaries, innovate, and shape the future of healthcare. With the largest long-term and post-acute care dataset and a Marketplace of&hellip;",
-    "required_skills": [
-      "devops & infrastructure"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155276-us-principal-ml-system-engineer",
-    "date_posted": "2026-10-14"
-  },
-  {
-    "id": "jobicy-3f032a1a1c7d",
-    "title": "Director, Solutions Engineering | East | Remote",
-    "company": "Grafana Labs",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155271-director-solutions-engineering-east-remote",
-    "date_posted": "2026-10-14"
-  },
-  {
-    "id": "jobicy-0b5b4caee8f6",
-    "title": "Demand Generation Program Manager | United States | Remote",
-    "company": "Grafana Labs",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving&hellip;",
-    "required_skills": [
-      "marketing & sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155266-demand-generation-program-manager-united-states-remote",
-    "date_posted": "2026-10-14"
-  },
-  {
     "id": "remotive-3b763d0bbece",
     "title": "Remote Office Assistant",
     "company": "Coalition Technologies ",
@@ -1435,6 +1435,96 @@
     "date_posted": "2026-09-14"
   },
   {
+    "id": "arbeitnow-f5fc3234e23f",
+    "title": "Senior Account Executive DACH",
+    "company": "LEGALFLY",
+    "location": "Remote job",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Excited to lead AI-driven change across the fast-moving legal markets of the DACH region? We would love to hear from you. 🇩🇪&nbsp; Working remotely from Germany, you'll be LEGALFLY's sales executive responsible for driving growth across Germany, Austria and Switzerland (DACH), a region with some of the most sophisticated legal markets, where demand for AI-powered legal solutions is rapidly accelerating. You'll join an existing DACH sales team already active in the region. Join LEGALFLY! LEGALFLY is a pioneering legal AI platform offering an end-to-end solution that is transforming the legal industry: 🏆 Exceptional product-market fit: Our advanced and intuitive legal AI solutions have rapidly gained traction in the market. LEGALFLY is trusted by leading European Enterprises and law firms, and we have strategic partnerships with industry leaders like Microsoft. 🚀 Hyper-growth: Following our successful Series A funding round of 15 million EUR, LEGALFLY is experiencing rapid growth. Backed by top investors, including Tier 1 VC funds. 🥇 World-class team: LEGALFLY was founded by four tech veterans, bringing extensive knowledge and expertise to drive innovation. 🔒 Unmatched security: We are setting the global standard for responsible legal AI with unrivalled security measures. LEGALFLY ensures that sensitive client data never leaves the company's premises through on-premise anonymisation. 🌎 Global expansion: Our recent funding will support our expansion across the globe. We are extending our platform to key jurisdictions, including the United States, United Kingdom, France, Netherlands, Belgium, UAE and DACH region, driving the digital transformation of legal services globally. Join us at LEGALFLY and be a part of our mission to revolutionise the legal industry with cutting-edge AI technology. Key responsibilities: Generating revenue. With ambitious but realistic revenue goals, you’ll be playing a key part in our growth, repeatedly closing mid to large enterprise opportunities across the DACH region. Opening doors. Build and grow your own pipeline, taking a data-driven approach to prospecting and expanding our brand presence in Germany, Austria, and Switzerland. Communicating like an expert. Educating companies on the transformative value of enterprise AI. Companies will feel delighted and informed by your interactions, looking to you for your expertise in embedding AI into their business. Taking extreme ownership. Identify and actively address inefficiencies; we’re scaling - fast - and need to solve for any inefficiencies as we build. You might be a fit if you are: A top-performing AE with 5-10 years of B2B Enterprise level SaaS sales experience. Fluent in German and English , professional communication in both is required. Client-centric, customers you’ve worked with in the past should rave about working with you. Based in Germany and comfortable working remotely as part of a distributed team. Comfortable with regular travel within the DACH region for client meetings, events and in-market presence. Flexible and adaptive, with a history of leaving systems, processes and content better than you found them. An exceptional collaborator and have a “we-all-win-together” mentality. Relentlessly resourceful and resilient. Entrepreneurial spirit with a keen understanding of business goals and a drive to exceed them. Self-starter who can work independently as well as collaboratively in a fast-paced, dynamic environment. A student of sales, always learning and eager to continue to develop as a professional. Want to join a scale-up, take responsibility for the fate of the company, move fast, and transform your career trajectory? Your direct manager and team You will join the sales team led by our CEO.&nbsp; Our offer 🌟 A position with impact : Join a fast-growing tech scale-up with an innovative culture and tremendous market opportunity. 💰 A fully optimised &amp; competitive remuneration package&nbsp; 💻 Top-class equipment to thrive 🏥 Investment in your well-being : top-notch health, hospital &amp; dental insurance and a pension plan 🏡 Remote work policy &nbsp;🎉 Monthly team activities &amp; yearly team retreat. Have we sparked your interest? Let’s get in touch &amp; join the AI Revolution! 🚀 Find more English Speaking Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "sales",
+      "remote"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/legalfly/remote-senior-account-executive-dach-mannheim-268420",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-352c5e063944",
+    "title": "Senior Engineering Manager, Infrastructure (all genders)",
+    "company": "Distribusion Technologies",
+    "location": "Remote job",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About us Distribusion is the world’s leading ground transportation marketplace and gives travellers seamless access to ground transportation online, from search to ticket purchase. We have built a cutting-edge B2B technology platform that connects bus, rail and ferry operators in 70+ countries with the biggest online retailers including Google Maps and Booking.com . We are shaping the future of travel and building the largest global network of transport providers and retailers. We are one of the fastest-growing startups in travel, backed by leading venture capital investors including TQ Ventures, Lightrock, Creandum, and Northzone, and are headquartered in Berlin, Germany. Following our recent $80m Series C funding, we are ready to push beyond. The opportunity As the Engineering Manager for the Infrastructure domain , you will lead the teams responsible for the foundations that power Distribusion's products and operations. Covering Platform Engineering, IT, and Information Security, your mission is to build scalable, secure, and reliable systems that enable our engineering teams and the wider business to operate at their best. To prepare our technical foundation for 10x growth, we are looking for a highly strategic, business-oriented leader to transform how these critical functions operate. You will act as the crucial bridge between our infrastructure and the broader company by professionalising our tech stack, driving complex vendor negotiations, and building transparent roadmaps that clearly showcase your team's impact. What you will do You'll lead the teams that keep Distribusion running securely, reliably, and at scale. From cloud infrastructure and developer tooling to internal IT and information security, you'll be responsible for the platforms and processes that enable our teams to move fast with confidence. You'll grow and support a team spanning Platform Engineering, IT, and Security, helping define strategy, drive execution, and raise the bar for operational excellence across the company. Vendor management including negotiating conditions and overseeing detailed infrastructure and project cost tracking. Your work will directly impact the productivity of our engineers, the resilience of our systems, and the security of our business as we continue to scale globally. Workplace: We are a remote-first company with teams located around the Globe and a HQ in Berlin. Who you are 5+ years of experience leading and developing engineering teams in high-growth technology environments. Strong technical background in Platform Engineering, DevOps, Cloud Infrastructure, Site Reliability Engineering, Information Security, or related domains. Proven track record of building, scaling, and improving engineering teams, processes, and operational excellence. Experience managing multidisciplinary teams and balancing strategic initiatives with day-to-day operational priorities. Strong understanding of modern cloud-native architectures, infrastructure automation, observability, and security best practices. Experience driving reliability, availability, and security improvements in production environments at scale. Ability to partner effectively with Engineering, Product, and Business stakeholders and align technical initiatives with company goals. Excellent communication and stakeholder management skills, with the ability to influence decisions across all levels of the organisation. Demonstrated experience coaching, mentoring, and developing engineers and technical leaders. Data-driven mindset with a focus on measurable outcomes, continuous improvement, and operational efficiency. Comfortable operating in a fast-paced, evolving environment where priorities can change quickly. Fluent in English. Nice to have Experience leading teams across Platform Engineering, Internal IT, and Information Security functions. Experience with compliance and security frameworks such as ISO 27001, SOC 2, or GDPR-related initiatives. Experience supporting globally distributed engineering organisations. Previous experience in a high-growth B2B SaaS, marketplace, or travel technology company. What you can expect Make a global impact. Help shape how millions of people discover and book ground transportation worldwide. Own your work. Take responsibility from day one and see the direct impact of your contributions. Built with the best tools. We move fast, continuously evolve our tech stack, and invest in modern, efficient solutions. Work with industry leaders. Our partners include Booking.com , Google Maps, Amtrak, Deutsche Bahn, Renfe, and SNCF. Grow with exceptional people. Join an international team that will challenge, support, and inspire you every day. Work your way. Enjoy flexible and remote-friendly working options, relocation opportunities, and plenty of room to grow. Our hiring&nbsp;team for this role: Your Talent Partner (TP) and point of contact is Lorena Rebenciuc , and the Hiring Manager (HM) is Ilya Isakov . For any queries, contact your Talent Partner at ( Come join us! Find more English Speaking Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "technology",
+      "remote"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-senior-engineering-manager-infrastructure-all-genders-berlin-479471",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-d4cffc070c89",
+    "title": "Engagement Manager Data & AI Solutions (m/w/d)",
+    "company": "Rewire",
+    "location": "Remote job",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Make an impact. Be human. Stay curious. Who we are AI is transforming the world – and we’re just getting started. With data growing exponentially, the need for smart, impact-driven minds has never been greater. At Rewire, we don’t just follow trends in Data &amp; AI – we shape them. If you're passionate about solving real challenges and creating tangible outcomes, then this is the perfect opportunity for you! With your innovative mindset and expertise, you're perfectly poised to help shape the future of Rewire, leveraging data and AI to develop cutting-edge solutions. We're on a mission to grow Rewire's business by leaps and bounds, and we're looking for an Engagement Manager to help us reach our goals. You'll have the incredible opportunity to lead broader, strategic data and AI programs, coordinate cross-functional teams, and ensure impactful results for our valued clients. Your role is going to be amazing! You'll get to oversee the day-to-day execution of transformation projects, while also deepening your own expertise and contributing to Rewire's thought leadership in the industry. Join a dynamic team of data and AI talents who tackle meaningful challenges, build smart solutions, and have fun along the way. Wanna join the ride? Where you’ll make a difference Lead a broader, strategic data &amp; AI program for one of our clients – from vision to unlock value with AI – typically across 1–3 workstreams Drive analytical problem-solving, data &amp; AI solution integration, and output quality within your workstreams – leveraging both technology and business acumen to consistently connect business value with tech requirements through holistic thinking Collaborate closely with cross-functional teams – guide (Senior) Data Scientists and Engineers to deliver impactful solutions Coach &amp; mentor team members – creating opportunities for growth and learning within the team Be a trusted partner to our clients – manage the day-to-day relationship, ensure a steady pace of work, collaborate closely on-site to build strong relationships, and transform insights into high-impact presentations Shape the future of our data &amp; AI practice – by contributing to business development efforts, identifying new opportunities for our clients, supporting proposals and pitch presentations, and advancing our methodologies, thought leadership, and intellectual property through innovative approaches What makes us the right choice for you Be part of groundbreaking change as we scale a business in a fast-evolving industry with a dedicated international growth strategy, a team of deep industry experts, and the support of an experienced investor Step into a role where you shape direction, drive innovation, and make a tangible impact in transforming how organizations use data &amp; AI Deepen your expertise in key subfields of data &amp; AI and accelerate your professional growth in a future-facing environment Join a vibrant team that’s ambitious, collaborative, and just the right amount of nerdy – where learning and laughter go hand in hand Work with clients as true partners – building relationships based on trust, shared goals, and face-to-face collaboration whenever it matters most Thrive in a culture that values autonomy, curiosity, and bold thinking – where your voice matters, ideas turn into action, and your impact is genuinely recognized and rewarded What makes you shine You're a sharp thinker, a strong communicator, and a collaborative leader – with a passion for turning data into business value. You’ll thrive with us if you bring: 5+ years of relevant experience in consulting, strategy, or data/AI-driven environments – with a proven track record in data management, analytical value creation, or data-powered business transformation Confidence to lead client relationships and guide teams – with excellent communication and stakeholder management skills, from structured storylining to building trust across diverse, cross-functional setups Sharp analytical skills and a hands-on, change-oriented approach – you don’t just analyze, you make things happen Strategic and entrepreneurial mindset – you connect the dots, think in solutions, and turn ideas into action Driven by curiosity, collaboration, and growth – you proactively learn, empower others, and foster a culture of shared success A strong academic track record (STEM field preferred), fluency in both English and German (written and spoken), and willingness to travel regularly to client sites Where you’ll work Most projects require working onsite at client locations throughout Germany (and occasionally Europe) for several days per week. While our main office is located in Heidelberg, many of our team members are based across various cities in Germany. This reflects our flexible and distributed team structure and means that relocation is not a requirement. When not working onsite with clients, you're warmly welcome to work from our Heidelberg office or from home. In their own words “I really appreciate our work atmosphere and culture at Rewire. We are all curious people, driven by the desire to help our clients innovate and solve problems. At the same time, we bring diverse personalities and backgrounds. We see the world through different lenses, but we share our perspectives openly and honestly, collaborating to achieve great outcomes.” – Alfonso Chacon, Principal, formerly an Engagement Manager at Rewire Sound like your kind of team? Perfect! If you’re up for an exciting new challenge and want to make real impact with data &amp; AI, we’d love to hear from you. Apply now! And let’s see where this journey takes us. Questions? Feel free to ask them via &nbsp; Who you are matters to us! We welcome all applicants – regardless of gender, background, or LGBT+ identity – because diversity and inclusion are core values for us. We are convinced that a diverse and inclusive workplace fosters creativity, innovation, and success. Find more English Speaking Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "data science",
+      "remote"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/rewire/remote-engagement-manager-data-ai-solutions-heidelberg-388888",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-3fed58265b68",
+    "title": "Senior Medical Writer | Germany",
+    "company": "TransPerfect",
+    "location": "Remote job",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "We’re seeking&nbsp;an organized, motivated, and collaborative individual for our medical writing team.&nbsp; The&nbsp;senior&nbsp;medical writer will partner cross-functionally&nbsp;with client teams in&nbsp;Clinical Development, Clinical Operations,&nbsp;Biostatistics,&nbsp;Regulatory, and Program Management in&nbsp;leading the&nbsp;planning and preparation of high-quality clinical regulatory documents. The medical writer may produce&nbsp;protocols, publications, study reports, investigator brochures,&nbsp;narratives,&nbsp;and module documents, according to client&nbsp;and agency guidelines,&nbsp;to support drug development under&nbsp;brisk&nbsp;timelines.&nbsp; Responsibilities : Lead the&nbsp;execution of documents, including&nbsp;project management tasks such as&nbsp;creating,&nbsp;maintaining, and communicating&nbsp;timelines&nbsp; Coordinate cross-functional client contributors and stakeholders as well as internal resources (e.g., quality control [QC], publishing)&nbsp;to ensure&nbsp;timely&nbsp;completion of&nbsp;documents&nbsp; Ensure&nbsp;document development&nbsp;adheres&nbsp;to&nbsp;any&nbsp;relevant&nbsp;client processes, templates, and instructional&nbsp;documents&nbsp; Serve as an expert on client document management system and related tools, templates, and procedures to ensure efficient document&nbsp;development&nbsp;&nbsp; Lead document message development in collaboration with&nbsp;client&nbsp;&nbsp; Interpret data and create shell documents to support&nbsp;authoring&nbsp; Plan and lead kickoff&nbsp;meetings&nbsp;&nbsp; Facilitate resolution of review feedback including planning&nbsp;and leading&nbsp;comment resolution meetings&nbsp;(curate review comments to ensure&nbsp;meetings are&nbsp;efficient)&nbsp;&nbsp; Follow-up with individual team members as&nbsp;needed to resolve outstanding review&nbsp;feedback&nbsp; Ensure consistency among client programs in terms of messaging, formatting, and presentation of&nbsp;documents&nbsp;&nbsp; Conduct literature searches as&nbsp;needed&nbsp; Perform peer QC review as&nbsp;needed&nbsp;&nbsp; Contribute to medical writing operational initiatives (e.g., templates, style guides, reference management), if needed&nbsp; Experience (5+ years) as a medical writer in the CRO/biotech/pharmaceutical field&nbsp;&nbsp; Bachelor’s degree&nbsp;or higher&nbsp;in a relevant field&nbsp;&nbsp; Oncology, Infectious&nbsp;Disease, or Vaccine&nbsp;experience&nbsp;desired&nbsp; Experience&nbsp;desired&nbsp;in writing&nbsp;clinical study reports, protocols, protocol amendments, investigator brochures, module 2, and module 5&nbsp;documents&nbsp; Flexibility to&nbsp;work across multiple therapeutic areas, if needed&nbsp; Experience&nbsp;writing documents according to&nbsp;established processes and document&nbsp;templates&nbsp; Familiarity with lean authoring approaches&nbsp;and structured content management&nbsp; Familiarity with the requirements for preparation of key clinical and regulatory documents, including ICH and US regulatory requirements; working knowledge of ex-US regulatory requirements is&nbsp;desired&nbsp;&nbsp; Expertise&nbsp;with Microsoft Word and other Microsoft applications&nbsp;&nbsp; Experience&nbsp;developing documents&nbsp;using&nbsp;document management systems, collaborative authoring&nbsp;tools, and review&nbsp;tools&nbsp; Comfortable&nbsp;adapting&nbsp;to new&nbsp;tools and&nbsp;technologies, if needed&nbsp; Ability to work both independently and collaboratively in the face of competing&nbsp;priorities&nbsp;&nbsp; Service-oriented and proactive approach to project&nbsp;management&nbsp;&nbsp; Excellent conflict management and negotiation skills&nbsp;&nbsp; Comfortable providing suggestions based on&nbsp;previous&nbsp;experience&nbsp; Strong written and verbal communication skills&nbsp;in English TransPerfect provides equal employment opportunity to all individuals regardless of their race, color, creed, religion, gender, age, sexual orientation, national origin, disability, veteran status, or any other characteristic protected by state, federal, or local law &nbsp; For more information on the TransPerfect Family of Companies, please visit our website at www.transperfect.com . By applying, I confirm I have read and accept TransPerfect's Privacy Policy: https://www.transperfect.com/about/data-privacy-recruiting Find more English Speaking Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "medical writing",
+      "remote"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/transperfect/remote-senior-medical-writer-germany-berlin-333952",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-d5f193a15fca",
+    "title": "Customer Support (m/w/d) | Teilzeit oder Werkstudium | Digital Health | Remote",
+    "company": "Infinos GmbH",
+    "location": "Damme",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Bei Infinos begleiten wir Menschen bei der medizinisch betreuten Gewichtsreduktion. Unser Support hilft bei Fragen zum Programm, zu Check-ins und zu organisatorischen Anliegen. Du betreust unsere Teilnehmer:innen vor allem per WhatsApp und E-Mail. Wir suchen Unterstützung in Teilzeit oder als Werkstudent:in mit rund 20 Wochenstunden, perspektivisch sind auch 25 bis 30 Stunden möglich. Deine festen Dienste liegen montags, mittwochs und freitags vormittags ab 07:30 Uhr, dazu kommen zwei Abende von 20 bis 22 Uhr. Bei Urlaub oder anderen Abwesenheiten übernimmst du nach Absprache Vertretungen. Du arbeitest vollständig remote und kannst ab sofort starten. Aufgaben Du beantwortest Fragen unserer Teilnehmer:innen per WhatsApp und E-Mail. Dabei arbeitest du nach unseren Leitfäden und dokumentierst die nächsten Schritte. Du unterstützt bei Check-ins, pflegst Behandlungspläne nach klaren Vorlagen und kümmerst dich um organisatorische Anliegen, etwa Lieferstatus oder Adressänderungen. Du erkennst, wann eine Frage ärztlich geklärt werden muss und leitest sie nach unseren Vorgaben weiter. Medizinische Entscheidungen liegen beim ärztlichen Team. Du übernimmst feste Dienste montags, mittwochs und freitags vormittags ab 07:30 Uhr für jeweils etwa vier Stunden, dazu zwei Abenddienste von 20 bis 22 Uhr. Bei Urlaub oder anderen Abwesenheiten übernimmst du nach Absprache Vertretungen. Dafür können wir deine regulären Schichten innerhalb des vereinbarten Stundenumfangs verschieben. Du bringst wiederkehrende Fragen und Verbesserungsvorschläge ins Team ein. So hilfst du uns, Antworten und Abläufe zu verbessern. Qualifikation Du kannst montags, mittwochs und freitags ab 07:30 Uhr für etwa vier Stunden arbeiten und zusätzlich zwei Abende von 20 bis 22 Uhr übernehmen. Die konkreten Abende stimmen wir gemeinsam ab. Einzelne Wochenenddienste sind ein Plus. Für Vertretungen ist es hilfreich, wenn nach Absprache auch längere Tagesdienste von 08 bis 16 Uhr oder Nachmittagsdienste von 16 bis 20 Uhr möglich sind. Schreib uns, welche dieser Zeiten du abdecken kannst. Deine möglichen Arbeitstage und den genauen Wochenumfang stimmen wir gemeinsam ab. In Urlaubswochen können wir vereinbarte Schichten nach Absprache verschieben. Sag uns auch, mit welchem Vorlauf du bei kurzfristigen Ausfällen einspringen kannst. Du schreibst sehr gutes Deutsch und erklärst Dinge verständlich und freundlich. Du hast Erfahrung im Kundenkontakt oder Support und behältst auch bei mehreren offenen Anliegen den Überblick. Du hältst Absprachen ein, dokumentierst sorgfältig und fragst nach, wenn etwas unklar ist. Du gehst verantwortungsvoll mit Gesundheitsthemen um und kennst die Grenzen deiner Rolle. Medizinische oder ernährungsfachliche Vorerfahrung ist ein großes Plus, etwa aus Ernährungsberatung, Diätassistenz, Pflege, einer MFA-/PTA-Ausbildung oder einem Studium im Gesundheitsbereich. Erfahrung mit digitaler Patientenbetreuung, schriftlichem Support per Chat, GLP-1-Therapien oder Tools wie Superchat ist ebenfalls hilfreich. Benefits Ab 20 € pro Stunde und 100 % Remote-Arbeit. Gemeinsam abgestimmte Schichten, die zu deinem Studium oder deinen anderen Verpflichtungen passen. Direkter Kontakt mit Menschen, denen du bei konkreten Fragen im Alltag hilfst. Einblicke in medizinisch begleitete Gewichtsreduktion und die Abläufe eines digitalen Gesundheitsunternehmens. Klare Vorlagen für deine Arbeit und kurze Wege zu den zuständigen Personen im Team. Raum für eigene Verbesserungsvorschläge und Verantwortung in deinen Supportschichten. Schick uns deinen Lebenslauf und schreib kurz dazu, ob du als Werkstudent:in oder in Teilzeit suchst. Bitte nenne uns diese Angaben: Deine regelmäßigen Arbeitszeiten: ob du montags, mittwochs und freitags ab 07:30 Uhr kannst, welche Abende von 20 bis 22 Uhr für dich passen und wie es am Wochenende aussieht. Und ab wann du starten kannst. Deinen gewünschten Wochenumfang und mögliche Änderungen während des Semesters oder in Prüfungsphasen. Deine Möglichkeiten für Vertretungen: längere Tagesdienste von 08 bis 16 Uhr oder Nachmittagsdienste von 16 bis 20 Uhr und den nötigen Vorlauf für die Abstimmung. Du kannst diese Angaben im Lebenslauf oder in einer kurzen Notiz ergänzen. Ein ausführliches Anschreiben ist dafür nicht nötig. Find Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "remote",
+      "customer service"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/infinos-gmbh/customer-support-teilzeit-oder-werkstudium-digital-health-remote-damme-473282",
+    "date_posted": null
+  },
+  {
     "id": "arbeitnow-52101bcd4403",
     "title": "(Senior) Product Engineer",
     "company": "sustaind GmbH",
@@ -1442,7 +1532,7 @@
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Mit Sustaind schaffen wir die erste global harmonisierte Gesetzesdatenbank. Unsere B2B-Kunden nutzen diese Daten, um Compliance-Risiken zu minimieren und Rechtspflichten weltweit zu managen. Als einer der ersten Anbieter im Rechtskataster-Monitoring bieten wir dazu, gemeinsam mit der Great Lakes Insurance SE (Munich-Re-Gruppe), eine Leistungsgarantie an. Dafür verarbeiten wir sensible Kundendaten und Dokumente und müssen jederzeit belegen können, worauf unsere Ergebnisse beruhen. Bei uns baust Du Produkt-Features, die genau das für unsere Kunden sichtbar, nachvollziehbar und vertrauenswürdig machen. Deine Rolle Du trägst Verantwortung für Ergebnisse, nicht nur für Tickets. In unserem kleinen Team verantwortest Du komplette Vertical Slices, vom UI über die API bis zur KI-Integration, und treibst einzelne Feature-Stränge maßgeblich voran. Ownership wird bei uns großgeschrieben: Du verstehst das Problem unserer Kunden, entscheidest über die technische Umsetzung und bringst Deine Features selbst in Produktion. Vertical Slices umsetzen: Frontend mit React und TypeScript, Backend mit NestJS, Persistenz in Postgres Feature-Stränge von der Idee über das Release hinaus bis in den Live-Betrieb verantworten, dort warten und weiterentwickeln, und gemeinsam mit Kunden und Team priorisieren Asynchrone Verarbeitung und Hintergrundjobs mit BullMQ und Redis entwerfen, die auch bei hoher Last stabil laufen Die Oberfläche unserer SaaS-App mit Gespür für gute B2B-UI/UX gestalten Qualität sichern mit Tests, Code Reviews und Monitoring, damit unsere wöchentlichen Releases auf Production verlässlich bleiben Unsere Agent Runtime (Eve) und KI-gestützte Funktionen so gestalten, dass Ergebnisse überprüfbar sind und unter die Leistungsgarantie fallen können Was Du mitbringst Mehrjährige Erfahrung (+ 3 Jahre) als Fullstack- oder Product Engineer mit React und TypeScript Erfahrung mit Backend-Entwicklung in NestJS und Postgres Erfahrung mit Queues und asynchroner Verarbeitung, idealerweise BullMQ und Redis Die Fähigkeit, Features als Vertical Slice zu denken und eigenständig vom Problem bis zur Produktion zu liefern Produktdenken: Du fragst nach dem Warum und entscheidest pragmatisch + iterativ, was wirklich gebaut werden muss Gespür für gute B2B-UI/UX in einer SaaS-App: Du baust Oberflächen, die auch bei komplexen Inhalten klar und effizient bedienbar sind Erfahrung mit Agentic Coding und die Bereitschaft, solche Tools im Arbeitsalltag gezielt einzusetzen Gute Deutsch- und Englischkenntnisse Was Dich erwartet Du wirst Teil eines kleinen, schlagkräftigen Teams, in dem jeder Verantwortung übernimmt und Ergebnisse erzielt: Echte Ownership: Du verantwortest Vertical Slices und treibst einzelne Feature-Stränge maßgeblich voran Remote-first Engineering-Team, mit Büro in Bielefeld. Eine Infrastruktur, die schon heute als Code gepflegt wird, mit Audit-Logging und klar getrennten Rollen. Wöchentliche Releases auf Production Eine spannende Phase im Unternehmen: Du baust mit uns an einem System, das Agents das erste Mal mit einer Leistungsgarantie anbietet und gestaltest von Beginn an mit, wie Nachweisbarkeit und Vertrauen in einer neuen Produktkategorie technisch aussehen Namhafte Kunden vertrauen bereits auf unsere Plattform, darunter A.T.U, Thomann und TRIXIE Stabile Finanzierung aus Umsatz und starken Investoren Regelmäßige Offsites (bisher Lissabon, Porto, Fuerteventura) Find Jobs in Germany on Arbeitnow",
+    "description": "Mit Sustaind schaffen wir die erste global harmonisierte Gesetzesdatenbank. Unsere B2B-Kunden nutzen diese Daten, um Compliance-Risiken zu minimieren und Rechtspflichten weltweit zu managen. Als einer der ersten Anbieter im Rechtskataster-Monitoring bieten wir dazu, gemeinsam mit der Great Lakes Insurance SE (Munich-Re-Gruppe), eine Leistungsgarantie an. Dafür verarbeiten wir sensible Kundendaten und Dokumente und müssen jederzeit belegen können, worauf unsere Ergebnisse beruhen. Bei uns baust Du Produkt-Features, die genau das für unsere Kunden sichtbar, nachvollziehbar und vertrauenswürdig machen. Deine Rolle Du trägst Verantwortung für Ergebnisse, nicht nur für Tickets. In unserem kleinen Team verantwortest Du komplette Vertical Slices, vom UI über die API bis zur KI-Integration, und treibst einzelne Feature-Stränge maßgeblich voran. Ownership wird bei uns großgeschrieben: Du verstehst das Problem unserer Kunden, entscheidest über die technische Umsetzung und bringst Deine Features selbst in Produktion. Vertical Slices umsetzen: Frontend mit React und TypeScript, Backend mit NestJS, Persistenz in Postgres Feature-Stränge von der Idee über das Release hinaus bis in den Live-Betrieb verantworten, dort warten und weiterentwickeln, und gemeinsam mit Kunden und Team priorisieren Asynchrone Verarbeitung und Hintergrundjobs mit BullMQ und Redis entwerfen, die auch bei hoher Last stabil laufen Die Oberfläche unserer SaaS-App mit Gespür für gute B2B-UI/UX gestalten Qualität sichern mit Tests, Code Reviews und Monitoring, damit unsere wöchentlichen Releases auf Production verlässlich bleiben Unsere Agent Runtime (Eve) und KI-gestützte Funktionen so gestalten, dass Ergebnisse überprüfbar sind und unter die Leistungsgarantie fallen können Was Du mitbringst Mehrjährige Erfahrung (+ 3 Jahre) als Fullstack- oder Product Engineer mit React und TypeScript Erfahrung mit Backend-Entwicklung in NestJS und Postgres Erfahrung mit Queues und asynchroner Verarbeitung, idealerweise BullMQ und Redis Die Fähigkeit, Features als Vertical Slice zu denken und eigenständig vom Problem bis zur Produktion zu liefern Produktdenken: Du fragst nach dem Warum und entscheidest pragmatisch + iterativ, was wirklich gebaut werden muss Gespür für gute B2B-UI/UX in einer SaaS-App: Du baust Oberflächen, die auch bei komplexen Inhalten klar und effizient bedienbar sind Erfahrung mit Agentic Coding und die Bereitschaft, solche Tools im Arbeitsalltag gezielt einzusetzen DevOps- und Plattform-Erfahrung mit AWS, Terraform und Kubernetes sowie ISO-27001-Kenntnisse sind ein Plus aber kein Muss Gute Deutsch- und Englischkenntnisse Was Dich erwartet Du wirst Teil eines kleinen, schlagkräftigen Teams, in dem jeder Verantwortung übernimmt und Ergebnisse erzielt: Echte Ownership: Du verantwortest Vertical Slices und treibst einzelne Feature-Stränge maßgeblich voran Remote-first Engineering-Team, mit Büro in Bielefeld. Eine Infrastruktur, die schon heute als Code gepflegt wird, mit Audit-Logging und klar getrennten Rollen. Wöchentliche Releases auf Production Eine spannende Phase im Unternehmen: Du baust mit uns an einem System, das Agents das erste Mal mit einer Leistungsgarantie anbietet und gestaltest von Beginn an mit, wie Nachweisbarkeit und Vertrauen in einer neuen Produktkategorie technisch aussehen 70+ Kunden vertrauen bereits auf unser Produkt Stabile Finanzierung aus Umsatz und starken Investoren Regelmäßige Offsites (bisher Lissabon, Porto, Fuerteventura) Find Jobs in Germany on Arbeitnow",
     "required_skills": [
       "remote",
       "engineering"
@@ -1469,58 +1559,6 @@
     "requirements": [],
     "source": "Arbeitnow",
     "url": "https://www.arbeitnow.com/jobs/companies/neurawork-gmbh-co-kg/ki-engineer-beratung-implementation-ampfing-32627",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-153dca8343e9",
-    "title": "Product Owner (m/w/d) | Festanstellung oder Freelance | München / Remote",
-    "company": "KFS GROUP",
-    "location": "Munich",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Standort: München, remote innerhalb Deutschlands Art: Festanstellung in Vollzeit oder freiberufliche Zusammenarbeit, jeweils mit Perspektive auf eine langfristige Partnerschaft Warum diese Rolle Wir bauen Software, mit der echte Unternehmen arbeiten. Du wirst Teil eines kleinen, erfahrenen und schnellen Teams, in dem du als Product Owner die Produktvision und die Umsetzung von Anfang bis Ende verantwortest, statt ein Backlog abzuarbeiten, das jemand anderes vorgekaut hat. Du arbeitest eng mit erfahrenen Engineers zusammen, steuerst KI-gestützte Entwicklungsabläufe und bringst Features innerhalb weniger Wochen vom Konzept in die Produktion. Diese Rolle ist für jemanden, der in Systemen, Nutzen für die Anwender und operativer Klarheit denkt, nicht nur in Jira-Status. Ehrlich gesagt: KI im Jahr 2026 Wir entwickeln schnell mit modernen KI-Werkzeugen (Cursor, Claude, Copilot usw.). Als unser Product Owner musst du selbst keinen Produktivcode schreiben, aber du musst verstehen, wie KI-native Entwicklung Lieferzyklen, Aufwandsschätzung und Scoping verändert. Die KI-Werkzeuge können Code schreiben, aber sie wissen nicht, was unsere Kunden wirklich brauchen, wie Abläufe über Unternehmen hinweg zusammenhängen oder welche Kompromisse für unsere Architektur sinnvoll sind. Genau für dieses Urteilsvermögen suchen wir dich. Die Messlatte ist nicht „Kannst du eine User-Story-Vorlage ausfüllen?“. Die Messlatte ist: Kannst du eine unübersichtliche betriebliche Realität in glasklare Produktanforderungen übersetzen, konsequent priorisieren und Entwickler wie KI-Assistenten effizient dahin lenken, das Richtige zu bauen? Aufgaben Was du machst Du verantwortest Roadmap und Backlog: Du definierst, schneidest und priorisierst Features vom Konzept bis zur Produktion. Du übersetzt übergeordnete Geschäftsziele in präzise, umsetzbare Anforderungen und Datenmodelle, mit denen unser Engineering-Team und unsere KI-Werkzeuge arbeiten können. Du sorgst für reibungslose Kommunikation zwischen Stakeholdern, Entwicklern und Anwendern, auf Deutsch und Englisch. Du steuerst Sprints, räumst Hindernisse aus dem Weg und hältst das Tempo hoch, ohne unnötige Bürokratie. Du prüfst ausgelieferte Features gegen die Akzeptanzkriterien und achtest auf hohe Qualität, gute UX und echten geschäftlichen Nutzen. Du entwickelst unsere Produktprozesse mit unserem Wachstum weiter, hältst Feedbackschleifen kurz und die Developer Experience reibungslos. Unser Stack und unsere Arbeitsweise Methodik: agil, Lean Product Development, kurze Iterationen, wenig Bürokratie Technologie: TypeScript, Python, React, Next.js, Supabase, Postgres, Cloudflare KI-native Werkzeuge: Cursor, Copilot und Claude Code als fester Bestandteil unserer Entwicklung Kommunikation: verhandlungssicheres Deutsch und Englisch Du musst nicht programmieren, aber du sprichst fließend „Tech“ und verstehst, wie moderne Software unter der Haube gebaut wird. Anforderungen Was wir suchen Must-haves Nachweisbare Erfahrung als Product Owner, Technical Project Manager oder Product Lead in der Softwareentwicklung. Fließendes Deutsch (mindestens C1) in Wort und Schrift sowie sehr gutes Englisch (mindestens C1), unverzichtbar für die Abstimmung mit Kunden, Stakeholdern und dem Team. Ausgeprägtes technisches Verständnis: Du kennst moderne Web-Stacks, Datenbanken (Postgres) und APIs und weißt, wie Softwarearchitektur funktioniert. Vertrautheit mit KI-gestützter Softwareentwicklung und ihren Auswirkungen auf Produktplanung und Tempo. Leidenschaft für Klarheit: Du schreibst knappe Spezifikationen, Edge Cases und Akzeptanzkriterien, die keine Fragen offenlassen. Selbstständige, pragmatische und proaktive Arbeitsweise. Nice-to-haves Hintergrund in Softwareentwicklung oder Informatik. Erfahrung in Start-ups oder in schnellen, erfahrenen Produktteams. Praxis mit modernen Kollaborations- und Projektwerkzeugen (Linear, Notion, GitHub Projects). Uns sind dein Urteilsvermögen beim Strukturieren und dein Umsetzungstempo deutlich wichtiger als die Länge deines Lebenslaufs. Benefits So arbeiten wir Kleines, erfahrenes Team: direkte Zusammenarbeit mit erfahrenen Gründern und Engineers. Deine Entscheidungen zählen vom ersten Tag an. Flexibel: remote innerhalb Deutschlands, Standort München. Wichtig ist uns verlässliche Erreichbarkeit zu den üblichen Geschäftszeiten. Wenig Bürokratie: klare Verantwortlichkeiten, schnelles Feedback, keine endlosen Abstimmungsrunden. Was wir bieten Festanstellung in Vollzeit oder freiberufliche Zusammenarbeit, je nachdem, was besser zu dir passt. Eine Vergütung, die deiner Erfahrung entspricht, als Gehalt oder als Tages- bzw. Stundensatz. Die langfristige Perspektive, unseren Produktkern zu verantworten. Viel Eigenverantwortung und unmittelbare Wirkung auf ein echtes Produkt, das von aktiven Unternehmen genutzt wird. So bewirbst du dich Schick uns eine kurze Nachricht über dich, deinen Hintergrund und deine Verfügbarkeit, dazu deine Gehaltsvorstellung oder deinen Tagessatz sowie dein LinkedIn-Profil oder Portfolio. Erzähl uns von einem komplexen Produkt oder Projekt, das du erfolgreich vom Chaos zur Klarheit geführt hast. Kein Aufsatz nötig. Wir sehen uns jede Bewerbung an und antworten allen. Find Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "product management"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/kfs-group/product-owner-festanstellung-oder-freelance-munchen-remote-munich-113946",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-2e1b1fc3db5d",
-    "title": "Senior Customer Success Architect, CEUR",
-    "company": "gitlab",
-    "location": "Remote",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt;*&lt;em&gt;Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;The CSA role is a pivotal addition to our customer success team, focusing on building strong, consultative relationships with our key customers. Our CSAs will serve as trusted advisors, leveraging their deep understanding of DevSecOps best practices, industry trends and our software capabilities to help customers navigate complex challenges and achieve their desired outcomes.&lt;/p&gt; &lt;p&gt;Additionally, our team serves as liaisons between the customer and the GitLab ecosystem, streamlining collaboration with Product Management, Engineering, Sales, Professional Services, and others.&amp;nbsp;&lt;a href=&quot;https://handbook.gitlab.com/handbook/customer-success/csm/&quot;&gt;CSM handbook&lt;/a&gt;.&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What You’ll Do&lt;/strong&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Partner with our customers in taking what was established in the pre-sales command plan, and turning the customers desired positive business outcomes into actionable objectives&lt;/li&gt; &lt;li&gt;Know the GitLab platform, our more common best practices, and use cases in order to guide the customer&lt;/li&gt; &lt;li&gt;Understand the customer journey and be able to guide them on future adoption&lt;/li&gt; &lt;li&gt;Act as the GitLab liaison for GitLab questions, issues, or escalations. Work with GitLab Support, Product Management (i.e., roadmaps), or other teams as needed&lt;/li&gt; &lt;li&gt;Own a book of assigned customers, with a focus on increasing adoption, ensuring retention and growth, and overall customer satisfaction&lt;/li&gt; &lt;li&gt;Remain knowledgeable and up-to-date on GitLab releases&lt;/li&gt; &lt;li&gt;Provide immediate onboarding activities&lt;/li&gt; &lt;li&gt;Work with assigned customers to build Customer Success Plans, establishing critical goals, or other key performance indicators and aid the customer in achieving their goals&lt;/li&gt; &lt;li&gt;Program manage account escalations Provide insights with respect to the availability and applicability of new features in GitLab as relevant&lt;/li&gt; &lt;li&gt;Support GitLab Services in identifying and recommending training opportunities&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;What You’ll Bring&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Understanding of Git and typical branching strategies&lt;/li&gt; &lt;li&gt;Knowledge of software development lifecycle and development pipeline&lt;/li&gt; &lt;li&gt;Understanding of continuous integration, continuous deployment, DevSecOps&lt;/li&gt; &lt;li&gt;Prior experience in Customer Success or equivalent history of increasing satisfaction, adoption, and retention&lt;/li&gt; &lt;li&gt;Experience partnering with customers to define and achieve business outcomes&lt;/li&gt; &lt;li&gt;Familiarity working with customers of sizes relevant to the assigned segment&lt;/li&gt; &lt;li&gt;Exceptional verbal, written, organizational, presentation, and communications skills&lt;/li&gt; &lt;li&gt;Detailed oriented and analytical Strong team player but self-starter&lt;/li&gt; &lt;li&gt;Project management experience &amp;amp; skills&lt;/li&gt; &lt;li&gt;Strong technical, analytic, and problem-solving skills&lt;/li&gt; &lt;li&gt;Alignment with our values, and willingness to work in accordance with those values&lt;/li&gt; &lt;li&gt;Ability to travel if needed and comply with the company’s travel policy&lt;/li&gt; &lt;li&gt;Demonstrated progressive experience in a related function is required with direct customer advocacy and engagement experience in post-sales or professional services functions&lt;/li&gt; &lt;li&gt;Fluent German&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;The Customer Success Architect (CSA) team focuses on hands-on technical enablement, adoption, utilization and maturity - while maintaining strong customer relationships and business alignment.&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h4&gt;&lt;strong&gt;How GitLab Supports Full-Time Employees&lt;/strong&gt;&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/&quot;&gt;Benefits to support your health, finances, and well-being&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/people-group/time-off-and-absence/time-off-types/#flexible-paid-time-off-pto&quot;&gt;Flexible Paid Time Off&amp;nbsp;&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/company/culture/inclusion/tmrg-tmag/&quot;&gt;Team Member Resource Groups&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/total-rewards/stock-options/&quot;&gt;Equity Compensation &amp;amp; Employee Stock Purchase Plan&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/people-group/learning-and-development/growth-and-development/&quot;&gt;Growth and Development Fund&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave&quot;&gt;Parental Leave&lt;/a&gt;&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Please note that we welcome interest from candidates with varying levels of experience; many successful candidates do not meet every single requirement. Additionally, studies have shown that people from &lt;a href=&quot;https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups&quot;&gt;underrepresented groups&lt;/a&gt; are less likely to apply to a job unless they meet every single qualification. If you&#39;re excited about this role, please apply and allow our recruiters to assess your application.&lt;/p&gt; &lt;hr&gt; &lt;p&gt;&lt;strong&gt;Country Hiring Guidelines: &lt;/strong&gt;GitLab hires new team members in countries around the world. All of our roles are remote, however some roles may carry specific location-based eligibility requirements. Our Talent Acquisition team can help answer any questions about location after starting the recruiting process.&amp;nbsp;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Privacy Policy: &lt;/strong&gt;Please review our &lt;a href=&quot;https://handbook.gitlab.com/handbook/hiring/candidate-faq/recruitment-privacy-policy/&quot; target=&quot;_blank&quot;&gt;Recruitment Privacy Policy.&lt;/a&gt; Your privacy is important to us.&lt;/p&gt; &lt;p&gt;GitLab is proud to be an equal opportunity workplace and is an affirmative action employer. GitLab’s policies and practices relating to recruitment, employment, career development and advancement, promotion, and retirement are based solely on merit, regardless of race, color, religion, ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity, or gender expression), national origin, age, citizenship, marital status, mental or physical disability, genetic information (including family medical history), discharge status from the military, protected veteran status (which includes disabled veterans, recently separated veterans, active duty wartime or campaign badge veterans, and Armed Forces service medal veterans), or any other basis protected by law. GitLab will not tolerate discrimination or harassment based on any of these characteristics. See also&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/people-policies/inc-usa/#equal-employment-opportunity-policy&quot; target=&quot;_blank&quot;&gt;GitLab’s EEO Policy&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/labor-and-employment-notices/#eeoc-us-equal-employment-opportunity-commission-notices&quot; target=&quot;_blank&quot;&gt;EEO is the Law&lt;/a&gt;. If you have a disability or special need that requires&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation&quot; target=&quot;_blank&quot;&gt;accommodation&lt;/a&gt;, please let us know during the&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/hiring/interviewing/#adjustments-to-our-interview-process&quot; target=&quot;_blank&quot;&gt;recruiting process&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt; Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "customer success"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-senior-customer-success-architect-ceur-223027",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-8f114c54964c",
-    "title": "Senior C++ Engineer",
-    "company": "Duck Duck Go",
-    "location": "Remote",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Who We Are Hi, we're DuckDuckGo, the online protection company and remote-first team of 400+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, annual revenue now exceeds $100m USD and millions use our browser on Mac , Windows , iOS , and Android , our search engine , and the DuckDuckGo subscription . We also offer private, useful, and optional AI, including Duck.ai , which lets you chat privately with ChatGPT, Claude, and other AIs, all in one place. Our culture of trust, inclusivity, and empowered project management underpins everything we do, where each team member takes full ownership of their projects, from scoping and execution to postmortem. If you're seeking end-to-end ownership of your work, you've come to the right place! Your Team and Role Working on the C++ Functional Team, you'll build the high-performance code at the core of DuckDuckGo's browser using modern C++ and Chromium, and work on related projects. You can expect to work on projects like: Implement tracker blocking that stops hidden trackers on every site without slowing page loads. Bring VPN and Personal Information Removal into the browser through the DuckDuckGo subscription. Catch startup and responsiveness regressions automatically, so the browser stays fast as it grows. As a Senior C++/Chromium Engineer, you'll lead complex projects from proposal through post-mortem. You'll turn vague problems into clear plans, build them in a large modern C++ codebase, and use metrics to show they worked. Some days that means low-level systems work. Others, it means architecture decisions the whole team builds on. You'll collaborate with design and product, mostly asynchronously, to build features people use to protect their privacy. About You Ability to lead and collaborate on high-impact, complex projects from proposal through post-mortem Skills to wrangle vague problems, propose innovative solutions, and execute them with a strong focus on metrics 7+ years of software engineering experience Advanced modern C++ expertise (C++23 or newer), including memory management, concurrency, and performance profiling Experience driving technical work end-to-end on large-scale C++ codebases Comfort with large build systems, debuggers, and profilers Experience shipping software to a large consumer audience Solid computer science foundation (algorithms and data structures) Bonus: Windows development experience Bonus: experience with browsers (Chromium, WebKit, WebView), game engines, or large desktop applications Compensation $178,500 USD annually and stock options. Compensation is transparent across the organization, and all team members within the same professional level and global region receive the same compensation. Eligibility for company-sponsored health benefits is limited to team members based in the United States. This program does not extend to team members located in other countries, such as Canada or the UK. Our Team Member Support Guide explains how we prioritize your wellbeing including paid parental leave, office setup, and co-working allowances. Hiring Process Hiring works best when it's a two-way street. Learn how we help you get to know DuckDuckGo, envision your future role here, and find out more about how we hire . Diversity, Equity and Inclusion DuckDuckGo provides equal work opportunities to all team members and applicants , and it prohibits discrimination and harassment of any type on the basis of race, color, ethnicity, caste, religion, age, sex (including pregnancy), national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by our policies or federal, state, or local laws. We want to ensure that our hiring process is accessible. If you need reasonable accommodation for any part of the application process because of a medical condition or disability, please send an email to Please note that: You’ll be required to attend meetings on camera via video conferencing Expect to travel at least two times a year: once for our all-hands meetup and again for a team retreat (each around 4-5 days). While extenuating circumstances may impact attendance, everyone is strongly encouraged to attend. While we offer a flexible work arrangement with no core hours, expect an average full-time commitment of 40 hours per week. A successful candidate must pass a background check as a condition of joining the team. By applying for this role, you confirm that all information submitted is accurate and complete. You further acknowledge that providing false or fraudulent information during the application process is cause for denial of an offer, revocation of any existing offer, or other adverse action, up to and including termination after the start of your commencement of work. Disclosure Statement: Use of AI in Hiring Process As part of our commitment to enhancing our recruitment process, we utilize artificial intelligence (AI) technology to assist in reviewing and summarizing job applications and test projects, including those tools integrated into our recruitment vendor platforms. We use AI to flag potentially fraudulent applications, analyze and summarize applicants’ experience, interviews, and project performance, and help streamline our selection process. Key Principles: Data Privacy: All information provided in your application will be handled in accordance with our Recruiting Privacy Policy . We ensure that your personal information is protected and used solely for recruitment purposes. Human Oversight and Accountability: The AI technology is designed to support our hiring team by providing insights and summaries of applications and evaluations of test projects against scoring rubrics. All final evaluations and hiring decisions, however, will be made by our hiring team, who will consider the AI's input alongside other factors. Transparency: We believe in transparency regarding our hiring practices. If you have any questions about how AI is used in our recruitment process, please feel free to reach out to us. By submitting your application, you acknowledge and consent to the use of AI technology in our review process. If you would like to request an alternative selection process, please contact us as at Compensation: $178.5K • Offers Equity Annual Compensation • Annual Compensation $178.5K • Offers Equity Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "engineering"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-c-engineer-298192",
     "date_posted": null
   }
 ]
