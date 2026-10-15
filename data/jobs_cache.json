@@ -1,5 +1,685 @@
 [
   {
+    "id": "jobicy-698b668633b6",
+    "title": "Senior Technical Account Manager",
+    "company": "Recorded Future, Inc.",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "With 1,000+ intelligence professionals serving over 1,900 clients worldwide, Recorded Future is the world’s most advanced, and largest, intelligence company! Recorded Future is seeking a Technical Account Manager to own and drive success at our largest accounts. In this role, you will interact with all roles across your client portfolio to develop and deliver on&hellip;",
+    "required_skills": [
+      "customer support & success"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155392-senior-technical-account-manager-3",
+    "date_posted": "2026-10-15"
+  },
+  {
+    "id": "jobicy-0d452c01f977",
+    "title": "Site Reliability Engineer",
+    "company": "Supabase",
+    "location": "Anywhere",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role Supabase manages millions of Postgres instances and is growing. We have strong teams across&hellip;",
+    "required_skills": [
+      "devops & infrastructure"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155391-site-reliability-engineer-4",
+    "date_posted": "2026-10-15"
+  },
+  {
+    "id": "jobicy-9b65eef1854d",
+    "title": "Senior Manager, Sales Engineering - US Public Sector",
+    "company": "Recorded Future, Inc.",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "With 1,000+ intelligence professionals serving over 1,900 clients worldwide, Recorded Future is the world’s most advanced, and largest, intelligence company! Recorded Future is seeking a technically credible, hands-on leader for the Sales Engineering team supporting our US Public Sector business. This role is ideal for a builder with deep security expertise, proven PreSales leadership, and&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155390-senior-manager-sales-engineering-us-public-sector",
+    "date_posted": "2026-10-15"
+  },
+  {
+    "id": "jobicy-a53180752f40",
+    "title": "Senior Director, Regional Sales (West Coast)",
+    "company": "Recorded Future, Inc.",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "With 1,000+ intelligence professionals serving over 1,900 clients worldwide, Recorded Future is the world’s most advanced, and largest, intelligence company! As a Senior Director, Regional Sales at Recorded Future, you will be a strategic, people-focused leader responsible for driving revenue growth across your region. You will lead, coach, and develop a team of Account Directors&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155388-senior-director-regional-sales-west-coast",
+    "date_posted": "2026-10-15"
+  },
+  {
+    "id": "jobicy-468b143e1950",
+    "title": "Community Engagement Lead (BrightLife Kids - SF Bay Area)",
+    "company": "Brightline",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Welcome to Brightline! We are searching for a Community Engagement Lead to join our BrightLife Kids team and drive outreach across the entire San Francisco Bay Area. You have the exciting opportunity to be a critical part in advancing the mission of the partnership with Brightline and the Children and Youth Behavioral Initiative (CYBHI). The&hellip;",
+    "required_skills": [
+      "business development"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155384-community-engagement-lead-brightlife-kids-sf-bay-area",
+    "date_posted": "2026-10-15"
+  },
+  {
+    "id": "jobicy-7fcb40279aa1",
+    "title": "Executive Assistant to the CEO",
+    "company": "Supabase",
+    "location": "APAC",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We’re looking for an Executive Assistant to support our CEO as Supabase continues to&hellip;",
+    "required_skills": [
+      "admin & virtual assistance"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155393-executive-assistant-to-the-ceo-3",
+    "date_posted": "2026-10-15"
+  },
+  {
+    "id": "jobicy-d588dcc1d5c9",
+    "title": "Strategic Alliance Director",
+    "company": "Actian",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Actian is the leader in hybrid data management, cloud data warehouse, and data integration technology. We're experiencing exponential growth and expanding our go-to-market engine through strategic partnerships. We're seeking a Strategic Alliance Director to build and scale 6-8 NA consulting/SI partners as a primary revenue engine. Own the end-to-end partner lifecycle: selection, onboarding, GTM strategy,&hellip;",
+    "required_skills": [
+      "business development"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155387-strategic-alliance-director",
+    "date_posted": "2026-10-15"
+  },
+  {
+    "id": "jobicy-1cb2886a8dbe",
+    "title": "Platform Engineer, Managed Postgres",
+    "company": "Supabase",
+    "location": "Anywhere",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We are seeking a Platform Software Engineer with deep experience in distributed systems to&hellip;",
+    "required_skills": [
+      "devops & infrastructure"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155389-platform-engineer-managed-postgres",
+    "date_posted": "2026-10-15"
+  },
+  {
+    "id": "jobicy-e689d1ddf3c6",
+    "title": "Sales Development Representative",
+    "company": "Chili Piper",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Chili Piper Chili Piper is a B2B SaaS company that helps GTM teams turn inbound leads into qualified meetings - instantly. Our Demand Conversion Platform makes it easier for buyers and sellers to connect fast, without the usual friction in the funnel. We’re a fully remote, global team that loves building solutions that truly&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155386-sales-development-representative-8",
+    "date_posted": "2026-10-15"
+  },
+  {
+    "id": "jobicy-9591dfde8ec8",
+    "title": "AI Platform Engineer",
+    "company": "Supabase",
+    "location": "Anywhere",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We are hiring a AI Platform Engineer to build the execution layer for Supabase's&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155385-ai-platform-engineer",
+    "date_posted": "2026-10-15"
+  },
+  {
+    "id": "jobicy-b74945a3eb5d",
+    "title": "Principal GSI Partner Manager - Accenture (EMEA)",
+    "company": "Datadog",
+    "location": "UK",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "We are looking for an experienced Partner Sales Manager to ignite partnerships by identifying and recruiting new partners for long-term success and nurture ongoing relationships with key strategic Global Systems Integrator partners. Our ultimate goal is building channels and alliances that drive new customer adoption and revenue. This is a great opportunity for you to&hellip;",
+    "required_skills": [
+      "business development"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155382-principal-gsi-partner-manager-accenture-emea",
+    "date_posted": "2026-10-15"
+  },
+  {
+    "id": "jobicy-2cd4737da5ca",
+    "title": "Senior Software Engineer - Full Stack",
+    "company": "Tripadvisor",
+    "location": "Poland,  Portugal,  UK",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Senior Software Engineer About Tripadvisor The Tripadvisor Group connects people to experiences worth sharing, and aims to be the world’s most trusted source for travel and experiences. We leverage our brands, technology, and capabilities to connect our global audience with partners through rich content, travel guidance, and two-sided marketplaces for experiences, accommodations, restaurants, and other&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155381-senior-software-engineer-full-stack",
+    "date_posted": "2026-10-15"
+  },
+  {
+    "id": "jobicy-f0c0de733e86",
+    "title": "Trust & Safety Product Manager (Full Remote - Ireland)",
+    "company": "EverAI",
+    "location": "Ireland",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Our Vision &amp; Products EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI, we’re shaping what it means to connect with AI. With 50 million users&hellip;",
+    "required_skills": [
+      "product & operations"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155380-trust-safety-product-manager-full-remote-ireland",
+    "date_posted": "2026-10-15"
+  },
+  {
+    "id": "jobicy-4533e53481af",
+    "title": "Trust & Safety Product Manager (Full Remote - France)",
+    "company": "EverAI",
+    "location": "France",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Our Vision &amp; Products EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI, we’re shaping what it means to connect with AI. With 50 million users&hellip;",
+    "required_skills": [
+      "product & operations"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155378-trust-safety-product-manager-full-remote-france",
+    "date_posted": "2026-10-15"
+  },
+  {
+    "id": "jobicy-e0de0009f066",
+    "title": "Solutions Architect f/m/d",
+    "company": "Apaleo",
+    "location": "France",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Apaleo is the world’s most open, API-first property management platform powering the next generation of hospitality operations. Its modular, AI-powered infrastructure enables hoteliers to customise their tech stack, automate routine work, and deliver seamless, personalised guest experiences, powered by best-in-class apps and autonomous AI agents that adapt to every stay. Why this role You are&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155375-solutions-architect-f-m-d",
+    "date_posted": "2026-10-15"
+  },
+  {
+    "id": "jobicy-86e0f75271df",
+    "title": "Trust & Safety Product Manager (Full Remote - Germany)",
+    "company": "EverAI",
+    "location": "Germany",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Our Vision &amp; Products EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI, we’re shaping what it means to connect with AI. With 50 million users&hellip;",
+    "required_skills": [
+      "product & operations"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155374-trust-safety-product-manager-full-remote-germany",
+    "date_posted": "2026-10-15"
+  },
+  {
+    "id": "jobicy-5760a6313f5b",
+    "title": "Senior Software Engineer - Full Stack/Front-end focused",
+    "company": "Tripadvisor",
+    "location": "Poland,  Portugal,  UK",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Senior Software Engineer About Tripadvisor The Tripadvisor Group connects people to experiences worth sharing, and aims to be the world’s most trusted source for travel and experiences. We leverage our brands, technology, and capabilities to connect our global audience with partners through rich content, travel guidance, and two-sided marketplaces for experiences, accommodations, restaurants, and other&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155383-senior-software-engineer-full-stack-front-end-focused",
+    "date_posted": "2026-10-15"
+  },
+  {
+    "id": "jobicy-f04a7854686f",
+    "title": "Principal Software Engineer (Experiences)",
+    "company": "Tripadvisor",
+    "location": "Poland",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Tripadvisor The Tripadvisor Group connects people to experiences worth sharing, and aims to be the world’s most trusted source for travel and experiences. We leverage our brands, technology, and capabilities to connect our global audience with partners through rich content, travel guidance, and two-sided marketplaces for experiences, accommodations, restaurants, and other travel categories. The&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155377-principal-software-engineer-experiences-2",
+    "date_posted": "2026-10-15"
+  },
+  {
+    "id": "jobicy-b7dd84ad6070",
+    "title": "Senior People Solutions Analyst",
+    "company": "Collibra",
+    "location": "Poland",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Joining Collibra's People Solutions team This is a fixed-term contract role running through January 2028, covering a colleague's leave of absence, and you'll be stepping into meaningful ownership from day one You'll report to the Senior Manager, People Solutions, and own day-to-day configuration and support of core Workday HCM modules for our global workforce Values&hellip;",
+    "required_skills": [
+      "hr & recruiting"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155376-senior-people-solutions-analyst",
+    "date_posted": "2026-10-15"
+  },
+  {
+    "id": "jobicy-073d6c9ae3f5",
+    "title": "Senior Software Engineer (Android)",
+    "company": "Tripadvisor",
+    "location": "UK",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Tripadvisor The Tripadvisor Group connects people to experiences worth sharing, and aims to be the world’s most trusted source for travel and experiences. We leverage our brands, technology, and capabilities to connect our global audience with partners through rich content, travel guidance, and two-sided marketplaces for experiences, accommodations, restaurants, and other travel categories. The&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155379-senior-software-engineer-android",
+    "date_posted": "2026-10-15"
+  },
+  {
+    "id": "jobicy-de1f62de1d73",
+    "title": "Senior Counsel, EMEA Employment",
+    "company": "Veeam Software",
+    "location": "UK",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security,&hellip;",
+    "required_skills": [
+      "legal & compliance"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155370-senior-counsel-emea-employment",
+    "date_posted": "2026-10-15"
+  },
+  {
+    "id": "jobicy-70d9dbbff3f7",
+    "title": "Systems Engineer Belgium & Luxembourg",
+    "company": "Veeam Software",
+    "location": "Belgium",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security,&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155372-systems-engineer-belgium-luxembourg",
+    "date_posted": "2026-10-15"
+  },
+  {
+    "id": "jobicy-c6ed5d0b0ebd",
+    "title": "Customer Success Renewals Representative with German",
+    "company": "Veeam Software",
+    "location": "Poland",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security,&hellip;",
+    "required_skills": [
+      "customer support & success"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155367-customer-success-renewals-representative-with-german",
+    "date_posted": "2026-10-15"
+  },
+  {
+    "id": "jobicy-2057d332259e",
+    "title": "Senior Demand Generation Manager - International",
+    "company": "Tremendous",
+    "location": "Ireland,  Portugal,  UK",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Tremendous is the global platform built for businesses to send thousands of payouts to anyone, anywhere, for free. We're trusted by 20,000 organizations like Atlassian, MIT, and United Way to deliver gift cards and money to millions of recipients worldwide. Our customers (researchers, marketers, HR teams, nonprofits, and platform businesses) rave about how fast and&hellip;",
+    "required_skills": [
+      "marketing & sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155366-senior-demand-generation-manager-international",
+    "date_posted": "2026-10-15"
+  },
+  {
+    "id": "jobicy-a7eb98d60a8a",
+    "title": "Technical Account Manager",
+    "company": "Veeam Software",
+    "location": "France",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security,&hellip;",
+    "required_skills": [
+      "project & program management"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155373-technical-account-manager-6",
+    "date_posted": "2026-10-15"
+  },
+  {
+    "id": "jobicy-93a1e7df0548",
+    "title": "Solutions Engineer, Veeam Data Cloud Vault",
+    "company": "Veeam Software",
+    "location": "France",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security,&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155371-solutions-engineer-veeam-data-cloud-vault",
+    "date_posted": "2026-10-15"
+  },
+  {
+    "id": "jobicy-5897c61cd123",
+    "title": "Senior Account Executive, Enterprise (Private Accounts)",
+    "company": "Veeam Software",
+    "location": "Germany",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security,&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155369-senior-account-executive-enterprise-private-accounts",
+    "date_posted": "2026-10-15"
+  },
+  {
+    "id": "jobicy-91f4cbe290ab",
+    "title": "Customer Success Engineer",
+    "company": "Veeam Software",
+    "location": "Germany",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security,&hellip;",
+    "required_skills": [
+      "customer support & success"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155364-customer-success-engineer-6",
+    "date_posted": "2026-10-15"
+  },
+  {
+    "id": "jobicy-187a0c67e160",
+    "title": "Sales Engineer - Data & AI Security",
+    "company": "Veeam Software",
+    "location": "Spain",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security,&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155368-sales-engineer-data-ai-security",
+    "date_posted": "2026-10-15"
+  },
+  {
+    "id": "jobicy-fcb2ae620bcd",
+    "title": "Manager, Talent Partner (HR Business Partner)  - Belfast Remote",
+    "company": "Axiom",
+    "location": "Ireland,  UK",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Closing date: Wednesday, 21st of October *remote working role* Must be based within Northern Ireland. About Axiom: Axiom, a leading global marketplace for on-demand corporate legal talent, is leading the revolution of who does the work in the legal industry. The Axiom model disrupts the traditional allocation of work to law firms and in-house teams.&hellip;",
+    "required_skills": [
+      "hr & recruiting"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155365-manager-talent-partner-hr-business-partner-belfast-remote-2",
+    "date_posted": "2026-10-15"
+  },
+  {
+    "id": "jobicy-535067d3e913",
+    "title": "Senior Site Reliability Engineer for Fuse team",
+    "company": "Bloomreach",
+    "location": "Czechia,  Slovakia",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Bloomreach is building the world’s premier agentic platform for personalization.We’re revolutionizing how businesses connect with their customers, building and deploying AI agents to personalize the entire customer journey. We're taking autonomous search mainstream, making product discovery more intuitive and conversational for customers, and more profitable for businesses. We’re making conversational shopping a reality, connecting every&hellip;",
+    "required_skills": [
+      "devops & infrastructure"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155362-senior-site-reliability-engineer-for-fuse-team",
+    "date_posted": "2026-10-15"
+  },
+  {
+    "id": "jobicy-616509a366c9",
+    "title": "Senior Platform Engineer",
+    "company": "Fleetio",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "A little about us…Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations. Transportation technology is a hot market, and we’re leading the charge with raving fans and new customers signing up every day. We raised $450M in our Series D funding round in March of 2025 and are&hellip;",
+    "required_skills": [
+      "devops & infrastructure"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155361-senior-platform-engineer-5",
+    "date_posted": "2026-10-15"
+  },
+  {
+    "id": "jobicy-d62224c16532",
+    "title": "Senior Incident & Problem Manager",
+    "company": "Bloomreach",
+    "location": "Czechia,  Slovakia",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Bloomreach is building the world’s premier agentic platform for personalization.We’re revolutionizing how businesses connect with their customers, building and deploying AI agents to personalize the entire customer journey. We're taking autonomous search mainstream, making product discovery more intuitive and conversational for customers, and more profitable for businesses. We’re making conversational shopping a reality, connecting every&hellip;",
+    "required_skills": [
+      "product & operations"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155359-senior-incident-problem-manager",
+    "date_posted": "2026-10-15"
+  },
+  {
+    "id": "jobicy-b02dd52c2d6e",
+    "title": "Senior Lifecycle Marketing Manager",
+    "company": "Fleetio",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "A little about us…Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations. Transportation technology is a hot market, and we’re leading the charge with raving fans and new customers signing up every day. We raised $450M in our Series D funding round in March of 2025 and are&hellip;",
+    "required_skills": [
+      "marketing & sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155360-senior-lifecycle-marketing-manager-3",
+    "date_posted": "2026-10-15"
+  },
+  {
+    "id": "jobicy-fb424da77ffd",
+    "title": "Senior Revenue Operations Analyst",
+    "company": "Fleetio",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "A little about us…Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations. Transportation technology is a hot market, and we’re leading the charge with raving fans and new customers signing up every day. We raised $450M in our Series D funding round in March of 2025 and are&hellip;",
+    "required_skills": [
+      "product & operations"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155363-senior-revenue-operations-analyst-2",
+    "date_posted": "2026-10-15"
+  },
+  {
+    "id": "jobicy-5489f6adfc70",
+    "title": "Senior GTM Systems Administrator",
+    "company": "Fleetio",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "A little about us…Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations. Transportation technology is a hot market, and we’re leading the charge with raving fans and new customers signing up every day. We raised $450M in our Series D funding round in March of 2025 and are&hellip;",
+    "required_skills": [
+      "product & operations"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155358-senior-gtm-systems-administrator",
+    "date_posted": "2026-10-15"
+  },
+  {
+    "id": "jobicy-6046c02efbe6",
+    "title": "Senior Field Marketing Manager",
+    "company": "Fleetio",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "A little about us…Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations. Transportation technology is a hot market, and we’re leading the charge with raving fans and new customers signing up every day. We raised $450M in our Series D funding round in March of 2025 and are&hellip;",
+    "required_skills": [
+      "marketing & sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155356-senior-field-marketing-manager",
+    "date_posted": "2026-10-15"
+  },
+  {
+    "id": "jobicy-9a2de3151150",
+    "title": "Senior Director, Brand Marketing",
+    "company": "Fleetio",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "A little about us…Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations. Transportation technology is a hot market, and we’re leading the charge with raving fans and new customers signing up every day. We raised $450M in our Series D funding round in March of 2025 and are&hellip;",
+    "required_skills": [
+      "marketing & sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155355-senior-director-brand-marketing",
+    "date_posted": "2026-10-15"
+  },
+  {
+    "id": "jobicy-5e92ee97d4f8",
+    "title": "Partner Development Manager",
+    "company": "Fleetio",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "A little about us…Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations. Transportation technology is a hot market, and we’re leading the charge with raving fans and new customers signing up every day. We raised $450M in our Series D funding round in March of 2025 and are&hellip;",
+    "required_skills": [
+      "business development"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155354-partner-development-manager-2",
+    "date_posted": "2026-10-15"
+  },
+  {
+    "id": "jobicy-c25824cd9a53",
+    "title": "Senior Forward Deployed Engineer",
+    "company": "Fleetio",
+    "location": "Canada,  Mexico,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "A little about us…Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations. Transportation technology is a hot market, and we’re leading the charge with raving fans and new customers signing up every day. We raised $450M in our Series D funding round in March of 2025 and are&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155357-senior-forward-deployed-engineer-2",
+    "date_posted": "2026-10-15"
+  },
+  {
     "id": "jobicy-1eca41f89bcc",
     "title": "Software Engineer, AI/ML Infrastructure",
     "company": "Thumbtack",
@@ -167,686 +847,6 @@
     "requirements": [],
     "source": "Jobicy",
     "url": "https://jobicy.com/jobs/153258-analyst-ii-full-stack-revenue-analytics",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-7581e67d64e7",
-    "title": "Category Manager Asian & Tribal Arts",
-    "company": "Catawiki",
-    "location": "France,  Italy,  Netherlands",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At Catawiki, every day brings the extraordinary! Whether it’s Daniel Ricciardo’s Formula 1 Car, a Woolly Mammoth’s Skeleton, Lady Gaga's Jumpsuit or Usain Bolt’s running shoe, we encounter exceptional objects every day. We’re a one-of-a-kind marketplace for buying and selling special objects. Each week, more than 100,000 unique items are auctioned, all carefully curated by&hellip;",
-    "required_skills": [
-      "product & operations"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153255-category-manager-asian-tribal-arts",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-227bcf80c84d",
-    "title": "Campaigns & Activations Specialist - Category Marketing",
-    "company": "Catawiki",
-    "location": "Netherlands",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At Catawiki, every day brings the extraordinary! Whether it’s Daniel Ricciardo’s Formula 1 Car, a Woolly Mammoth’s Skeleton, Lady Gaga's Jumpsuit or Usain Bolt’s running shoe, we encounter exceptional objects every day. We’re a one-of-a-kind marketplace for buying and selling special objects. Each week, more than 100,000 unique items are auctioned, all carefully curated by&hellip;",
-    "required_skills": [
-      "marketing & sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153253-campaigns-activations-specialist-category-marketing",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-0490f117d618",
-    "title": "Tier 1 - Support Agent",
-    "company": "PadSplit",
-    "location": "Philippines",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Are you ready to dive into the world of a fast-paced tech startup? Are you ready to change the world? At PadSplit we're disrupting the affordable housing industry by creating safe, attractive, and respectable co-living environments. If you're motivated by the conviction that working people should have a decent place to live, and want to&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153280-tier-1-support-agent",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-4e5979b972fc",
-    "title": "Senior Billing Escalations Agent",
-    "company": "LevelUp",
-    "location": "Philippines",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Company Overview LevelUp is a specialist agency that provides outsourcing solutions to agencies, software vendors, and website owners. For over seven years, we have successfully collaborated with a variety of companies, providing valuable technical, operational, and back-office support. We have a large team of skilled and passionate professionals who are committed to delivering high-quality work&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153269-senior-billing-escalations-agent",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-225cc480cb82",
-    "title": "Executive Assistant, Marketing",
-    "company": "Deepgram",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Company Overview Deepgram is the leading platform underpinning the emerging trillion-dollar Voice AI economy, providing real-time APIs for speech-to-text (STT), text-to-speech (TTS), and building production-grade voice agents at scale. More than 200,000 developers and 1,300+ organizations build voice offerings that are ‘Powered by Deepgram’, including Twilio, Cloudflare, Sierra, Decagon, Vapi, Daily, Cresta, Granola, and Jack&hellip;",
-    "required_skills": [
-      "admin & virtual assistance"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153296-executive-assistant-marketing",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-b64743713a54",
-    "title": "Administrative Assistant IV",
-    "company": "Affirm",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. We are looking for a resourceful, proactive, and detail-oriented Administrative Assistant to support two Senior Executives on our Engineering Teams. From calendar management and&hellip;",
-    "required_skills": [
-      "admin & virtual assistance"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153293-administrative-assistant-iv",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-035de5de5a33",
-    "title": "Executive Assistant, Founders Office",
-    "company": "Solace",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Solace Healthcare in the U.S. is fundamentally broken. The system is so complex that 88% of U.S. adults do not have the health literacy necessary to navigate it without help. Solace cuts through the red tape of healthcare by pairing patients with expert advocates and giving them the tools to make better decisions—and get&hellip;",
-    "required_skills": [
-      "admin & virtual assistance"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153290-executive-assistant-founders-office",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-5849c3d4738f",
-    "title": "Contract Executive Assistant",
-    "company": "Cobalt",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Job Description Cobalt is looking for a seasoned Executive Assistant to support our CEO, Sonali Shah, along with key members of the Executive Leadership Team (ELT). You are a highly organized team player who is comfortable interacting with all levels of an organization. You are self-motivated, thrive in a fast-paced tech environment, and excel at&hellip;",
-    "required_skills": [
-      "admin & virtual assistance"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153288-contract-executive-assistant",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-eeb36f5def57",
-    "title": "Senior AI Creative Innovator (Paid Ads)",
-    "company": "OKX",
-    "location": "APAC",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Who We Are At OKX, we believe that the future will be reshaped by crypto, and ultimately contribute to every individual's freedom. OKX is a leading crypto exchange, and the developer of OKX Wallet, giving millions of access to crypto trading and decentralized crypto applications (dApps). OKX is also a trusted brand by hundreds of&hellip;",
-    "required_skills": [
-      "creative & design"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153286-senior-ai-creative-innovator-paid-ads",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-dcb5ed649d6e",
-    "title": "Institutional Relationship Management",
-    "company": "OKX",
-    "location": "APAC",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Who We Are At OKX, we believe that the future will be reshaped by crypto, and ultimately contribute to every individual's freedom. OKX is a leading crypto exchange, and the developer of OKX Wallet, giving millions access to crypto trading and decentralized crypto applications (dApps). OKX is also a trusted brand by hundreds of large&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153279-institutional-relationship-management",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-e2d2db76ccab",
-    "title": "Chief Information Security Officer",
-    "company": "UpGuard",
-    "location": "Australia",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Who are we? At UpGuard, we are replacing manual security bottlenecks with AI-driven precision. Fresh off a US$75M Series C, we are scaling our infrastructure to process 100 billion risk signals daily. This isn’t just growth; it’s a total reimagining of how the world manages cyber risk. We build the Cyber Risk Posture Management (CRPM)&hellip;",
-    "required_skills": [
-      "cybersecurity"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153270-chief-information-security-officer-2",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-792978d87b6b",
-    "title": "Analytics Engineer II",
-    "company": "Affirm",
-    "location": "Poland",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. Financial Systems owns the data and reporting foundation for Accounting, and the operational reliability of the pipelines that power reporting, reconciliations, and automation. We&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153263-analytics-engineer-ii",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-1cc0c67e4704",
-    "title": "Enterprise Sales Leader - Technology and Telecommunications",
-    "company": "Qualtrics",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At Qualtrics, we create software the world’s best brands use to deliver exceptional frontline experiences, build high-performing teams, and design products people love. But we are more than a platform—we are the creators and stewards of the Experience Management category serving over 18K clients globally. Building a category takes grit, determination, and a disdain for&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153218-enterprise-sales-leader-technology-and-telecommunications",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-41dfa0124797",
-    "title": "Analytics Lead, Full Stack",
-    "company": "Affirm",
-    "location": "UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. We are seeking a highly motivated and analytical individual to join our Growth Analytics International team. This team plays a crucial role in conducting&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153266-analytics-lead-full-stack",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-ed47a9765670",
-    "title": "Senior Product Designer (Full Remote - France)",
-    "company": "EverAI",
-    "location": "France",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Our Vision &amp; Products EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI, we’re shaping what it means to connect with AI. With 50 million users&hellip;",
-    "required_skills": [
-      "web, ui & ux design"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153267-senior-product-designer-full-remote-france",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-504dd4442c8e",
-    "title": "Account Executive, EMEA",
-    "company": "Socket",
-    "location": "Europe",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Us Socket helps devs and security teams ship faster by cutting out security busywork. Thousands of orgs use Socket to safely find, audit, and manage open source code. Our customers - from Anthropic to xAI, and Figma to Vercel - love Socket (just check out their tweets to see for yourself!) Founded by Feross&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153265-account-executive-emea-3",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-109d2c2bf38a",
-    "title": "Senior Backend Engineer (Boosters)",
-    "company": "Playson",
-    "location": "Europe",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About the Role Our promotional features team is seeking a Senior Backend Engineer. This role is focused on developing and optimising promotional features for our gaming platforms, where performance, scalability, and cutting-edge solutions are paramount.If you’re a product-passionate person, your mind is keen to solve deep tech engineering problems, and you have a fast \"PoC&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153227-senior-backend-engineer-boosters",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-621f10e91657",
-    "title": "Head of Product, Conversations",
-    "company": "Help Scout",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Who we are Help Scout started in 2011 with a simple premise: support software should treat customers like people, not tickets. 3+ billion conversations later, more than 10,000 companies use Help Scout to grow relationships with customers of all types, from clients to patients and beyond. Now we’re in a new chapter: not only building&hellip;",
-    "required_skills": [
-      "product & operations"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153221-head-of-product-conversations",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-dfdef99c3ba2",
-    "title": "Enterprise Account Executive - Public Sector",
-    "company": "Databricks",
-    "location": "UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "SLSQ127R39 Location: Northern Ireland or Scotland, with regular UK&amp;I team collaborationReports to: Head of Public Sector Enterprise, UK&amp;I Do you want to help solve the public sector’s toughest challenges with Data and AI? That is what we do every day at Databricks. Databricks is looking for a senior-level Enterprise Account Executive to own and grow&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153219-enterprise-account-executive-public-sector",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-421425a381c0",
-    "title": "Bilingual Print Customer Success Specialist (Contract)",
-    "company": "Staples",
-    "location": "Canada",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Some of what you will do:As the Digital Print Account Specialist, your role will be divided into two main areas of responsibility. For new ePrint business opportunities, your primary responsibilities will involve prospecting potential ePrint clients, understanding their needs, and presenting our ePrint solutions to address those needs, and preparing business cases and building requests to the Digital Print Application Team. You will serve as a&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/150338-bilingual-print-customer-success-specialist-contract",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-7e8c301dccf9",
-    "title": "Customer Solutions Consultant, Ada Accelerate",
-    "company": "Ada",
-    "location": "UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Us Ada is an AI customer service company whose mission is to make customer service extraordinary for everyone. We're driven to raise a new standard of quality customer service at scale, enabling enterprise companies to deliver experiences that people love–instant, proactive, personalized, and effortless. Ada is an AI transformation platform and partner—combining strategic expertise&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153248-customer-solutions-consultant-ada-accelerate",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-9a76272d931f",
-    "title": "Marketing Event Manager - EMEA",
-    "company": "Dandy",
-    "location": "Europe",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Dandy is transforming the massive and antiquated dental industry—an industry worth over $400B. Backed by some of the world’s leading venture capital firms, we’re on an ambitious mission to simplify and modernize every function of the dental practice through technology. As we expand our reach globally, Dandy is building the operating system for dental offices&hellip;",
-    "required_skills": [
-      "marketing & sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153247-marketing-event-manager-emea",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-68baa16c68ea",
-    "title": "Sr Manager Sales Acceleration",
-    "company": "1Password",
-    "location": "UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for a safe, productive digital future. Our mission is&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153244-sr-manager-sales-acceleration",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-509fd17eb42c",
-    "title": "Principal ML Platform Engineer",
-    "company": "Synthesia",
-    "location": "Europe",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Synthesia is the world’s leading AI video platform for business, used by over 90% of the Fortune 100. Founded in 2017, the company is headquartered in London, with offices and teams across Europe and the US. As AI continues to shape the way we live and work, Synthesia develops products to enhance visual communication and&hellip;",
-    "required_skills": [
-      "devops & infrastructure"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153242-principal-ml-platform-engineer",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-ffe8bdbd07ec",
-    "title": "Member of Technical Staff (Robotics)",
-    "company": "Reka",
-    "location": "UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "We are an AI research lab building foundational intelligence for the physical world. Our models are designed to solve complex real-world challenges, powering everything from intelligent robots to next-generation wearables and media. We work at the intersection of world models, video generation, and robotics, building systems that represent complex environments, reason about objects and dynamics,&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153241-member-of-technical-staff-robotics",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-bbce07dd4919",
-    "title": "Commercial Account Executive UKI",
-    "company": "1Password",
-    "location": "Ireland,  UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for a safe, productive digital future. Our mission is&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153239-commercial-account-executive-uki",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-42d9824658f2",
-    "title": "Commercial Account Executive SMB",
-    "company": "Dandy",
-    "location": "Italy",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Dandy is transforming the massive and antiquated dental industry—an industry worth over $400B. Backed by some of the world’s leading venture capital firms, we’re on an ambitious mission to simplify and modernize every function of the dental practice through technology. As we expand our reach globally, Dandy is building the operating system for dental offices&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153238-commercial-account-executive-smb",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-32048080bd85",
-    "title": "Senior Integration Engineer",
-    "company": "Playson",
-    "location": "Europe",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About the Role We’re looking for a Senior Integration Engineer to take full ownership of partner integrations - from initial onboarding through to go-live and beyond. This is a delivery-focused, highly technical role where you’ll act as the key bridge between partners, commercial teams, and engineering. You won’t just coordinate - you’ll drive integrations forward,&hellip;",
-    "required_skills": [
-      "technical support"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153232-senior-integration-engineer",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-0bfa323a6cae",
-    "title": "Senior Legal Counsel",
-    "company": "Playson",
-    "location": "Europe",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About the Role We’re looking for a proactive and commercially minded Senior Legal Counsel with solid B2B iGaming experience to join Playson’s Legal Team. This is a high-ownership role with broad exposure across the business. You’ll work closely with senior leadership and cross-functional teams, supporting commercial activity, regulatory matters, governance, and day-to-day legal decision-making across&hellip;",
-    "required_skills": [
-      "legal & compliance"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153231-senior-legal-counsel-3",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-31d3a8a481aa",
-    "title": "Marketing Designer",
-    "company": "Playson",
-    "location": "Europe",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About the Role Playson is a leading online gaming supplier with worldwide recognition which was founded in 2012. We offer complete gaming solutions based on the latest technologies and detailed market analysis for the leading iGaming operators. We’re looking for a Marketing Graphic Designer to help shape the way we promote our games and present&hellip;",
-    "required_skills": [
-      "creative & design"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153230-marketing-designer",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-7ebdaebe649e",
-    "title": "Senior Game Mathematician",
-    "company": "Playson",
-    "location": "Europe",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About the Role Playson is a leading online gaming supplier with worldwide recognition which was founded in 2012. We offer complete gaming solutions based on the latest technologies and detailed market analysis for the leading iGaming operators. Operating with growth and scalability, we are excited to invite experienced Mathematicians to apply for the opening in&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153229-senior-game-mathematician",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-b08c35f88942",
-    "title": "Senior+ Backend Software Engineer - Asia",
-    "company": "Palmstreet",
-    "location": "China",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Palmstreet: Palmstreet is the #1 live shopping platform for rare plants, handmade crafts, &amp; unique goods. Founded in 2020 by Instagram and Apple veterans, Palmstreet began as a plant identification app and quickly evolved into a trailblazer in live shopping, beginning with plant sellers. Fueled by a passionate, plant-loving community, we rapidly expanded into&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153195-senior-backend-software-engineer-asia",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-453c2d752fe4",
-    "title": "Senior System Engineer (Virtual Private Cloud Team)",
-    "company": "Nebius",
-    "location": "Europe,  Netherlands",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From&hellip;",
-    "required_skills": [
-      "devops & infrastructure"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/150590-senior-system-engineer-virtual-private-cloud-team",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-92747503538d",
-    "title": "Head of Engineering",
-    "company": "saas.group",
-    "location": "Europe",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "This role is part of our Seobility team, one of our growing brands at saas.group.Seobility joined saas.group in 2022. The Seobility all-in-one SEO suite empowers businesses and marketers around the world to boost their website visibility with professional SEO tools. Starting in 2013 with a commitment to usability and actionable advice to make professional-grade SEO&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/150588-head-of-engineering",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-e3b14cf0d718",
-    "title": "Delivery Solutions Architect - Digital Native Business",
-    "company": "Databricks",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At Databricks, we are on a mission to empower our customers to solve the world's toughest data problems by utilizing the the Databricks Data Intelligence Platform. As a Delivery Solutions Architect (DSA), you will play an important role during this journey. You will collaborate with our sales and field engineering teams to accelerate the adoption&hellip;",
-    "required_skills": [
-      "project & program management"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153197-delivery-solutions-architect-digital-native-business",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-6978696811a4",
-    "title": "Cost Accounting Manager",
-    "company": "Canonical",
-    "location": "EMEA,  UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
-    "required_skills": [
-      "finance & accounting"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/146030-cost-accounting-manager",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-062f4adba7f6",
-    "title": "Enterprise Account Executive - TMT",
-    "company": "Qualtrics",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At Qualtrics, we create software the world’s best brands use to deliver exceptional frontline experiences, build high-performing teams, and design products people love. But we are more than a platform—we are the creators and stewards of the Experience Management category serving over 18K clients globally. Building a category takes grit, determination, and a disdain for&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/153201-enterprise-account-executive-tmt",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-393b661c5019",
-    "title": "Sales Enablement Professional",
-    "company": "Canonical",
-    "location": "EMEA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
-    "required_skills": [
-      "marketing & sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/146029-sales-enablement-professional",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-60ea24d0b11a",
-    "title": "Group Financial Controller",
-    "company": "Canonical",
-    "location": "EMEA,  UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
-    "required_skills": [
-      "finance & accounting"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/146021-group-financial-controller",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-3f3482305c12",
-    "title": "Relationship Manager",
-    "company": "OKX",
-    "location": "APAC",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Who We Are At OKX, we believe that the future will be reshaped by crypto, and ultimately contribute to every individual's freedom. OKX is a leading crypto exchange, and the developer of OKX Wallet, giving millions access to crypto trading and decentralized crypto applications (dApps). OKX is also a trusted brand by hundreds of&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/145992-relationship-manager-2",
     "date_posted": "2026-10-15"
   },
   {
@@ -1395,59 +1395,57 @@
     "date_posted": "2026-09-16"
   },
   {
-    "id": "arbeitnow-0355a1792fc0",
-    "title": "Founding Engineer (Tech Lead) · Full-Stack, AI-native (m/w/d)",
-    "company": "Infinos GmbH",
+    "id": "arbeitnow-66b7130718b0",
+    "title": "Customer Support Manager:in (m/w/d)",
+    "company": "heycare",
     "location": "Berlin",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Remote in Deutschland · Vollzeit · €85.000–100.000 + 1,0–1,5 % Anteile Warum es diese Stelle gibt Infinos ist eine der größten Telemedizin-Plattformen für medizinische Abnehmtherapie in Deutschland. Wir machen einen mittleren 7-stelligen Jahresumsatz, sind profitabel und haben bis heute kein Investorengeld genommen. Zwei Gründer, ein Team von rund 8 Leuten, tausende Patienten, die wir jeden Monat behandeln. Jetzt bereiten wir unsere Seed-Runde vor. Ich bin Jan, der technische Gründer, und bis heute der einzige Vollzeit-Entwickler. Ich suche die Person, die diesen Job von mir übernimmt: den Stack verantworten, Features bauen und deployen, das Team koordinieren und später mit mir das Engineering-Team aufbauen. Was du machst Unseren Stack verantworten: ein TypeScript-Monorepo mit 11 Apps und 32 Packages. Next.js, tRPC, Prisma mit Postgres, Trigger.dev für Hintergrundjobs, eine Expo-App für iOS und Android Features von der Idee bis zum Deploy bauen, meistens mehrere pro Tag. Ein Großteil des Codes entsteht bei uns mit AI Coding Tools Pull Requests reviewen, auch die, die Agenten geschrieben haben. In Produktionsdaten nachschauen, wenn etwas nicht stimmt, und mit KI-Hilfe die Ursache finden. Deployment und Infrastruktur: GitHub Actions, Docker, Kubernetes, Postgres, Secrets, Monitoring. Unsere Arbeit mit Agenten weiterentwickeln, zum Beispiel Agenten in der CI oder automatisierte Reviews. Deine ersten 90 Tage Woche 1: erster eigener Deploy in Produktion. Monat 1: du reviewst alle PRs und kennst das Monorepo. Monat 3: du bist für die Infrastruktur verantwortlich, hast bereits mehrere größere Features allein geshippt und sagst uns, was wir als Nächstes bauen sollten. Wen wir suchen Mindestens 5 Jahre Erfahrung mit produktionsreifer Software, ein guter Teil davon in TypeScript. Du hast schon Verantwortung für Deployments und Infrastruktur getragen. Du arbeitest täglich mit KI-Coding-Agenten und kannst zeigen, was du damit gebaut hast. Das fragen wir im ersten Gespräch ab. Docker, CI, Cloud oder Kubernetes hast du schon betrieben. Infra-Spezialist musst du nicht sein. Du willst Entscheidungen treffen und dafür geradestehen. Deutsch oder Englisch fließend. Hilfreich, aber nicht nötig: Expo, Vercel AI SDK Was wir bieten €85.000–100.000 Fixgehalt, je nach Erfahrung. 1,0–1,5 % virtuelle Unternehmensanteile (VSOP). Im ersten Gespräch rechnen wir dir vor, was das bei verschiedenen Exits wert ist. KI-Tooling ohne Budgetgrenze: Claude Code, Cursor, Codex, Frontier-Modelle. Remote in Deutschland, regelmäßige Teamtreffen. Direkte Zusammenarbeit mit beiden Gründern. Wenn das Team wächst, wirst du Head of Engineering. 30 Tage Urlaub, Hardware nach Wahl. So bewirbst du dich Kein Anschreiben. Schick uns hier über join: einen Link zu etwas, das du gebaut hast, ein paar Sätze, warum diese Rolle, und wie du KI in deinem Arbeitsalltag nutzt. Wir antworten innerhalb von 3-5 Tagen. Dann: 30 Minuten Videocall mit mir. Ich erzähle dir, was wir bauen, wie die Zahlen aussehen und warum es diese Stelle gibt. Du erzählst mir, was du zuletzt gebaut hast und was du suchst. Danach wissen wir beide, ob es Sinn ergibt weiterzumachen. 60 Minuten technisches Gespräch. In der ersten Hälfte führst du mich durch ein Projekt, das du gebaut hast: Architektur, Entscheidungen, was du heute anders machen würdest. In der zweiten Hälfte öffne ich unser Monorepo, zeige dir, wie wir arbeiten und deployen, und du stellst Fragen. Kein Live-Coding, kein Algorithmen-Quiz. Ein bezahlter Probetag. Du bekommst ein echtes Ticket aus unserem Backlog und eine Entwicklungsumgebung mit Testdaten. Du arbeitest mit deinen eigenen Tools, so wie du es sonst auch tust, und am Ende reviewen wir deinen PR gemeinsam. Den Tag bezahlen wir als Freelance-Auftrag. 30 Minuten mit der Geschäftsführung über die Erwartungen beider Seiten: was wir in den ersten Monaten von dir brauchen, was du von uns brauchst, und wie wir zusammenarbeiten wollen. Schriftliches Angebot - vom ersten Gespräch bis hierhin peilen wir unter zwei Wochen an. Find more English Speaking Jobs in Germany on Arbeitnow",
+    "description": "heycare ist ein all-in-one Corporate Benefit, das Mitarbeitenden Unterstützung und Entlastung in den Bereichen mentale Gesundheit, Kinderbetreuung, Pflege von Angehörigen und Haustierbetreuung bietet: Mit Beratungsangeboten, einer umfangreichen Mediathek, bedarfsgerechten Betreuungslösungen und vielem mehr. heycare hilft Unternehmen damit, Fehlzeiten zu reduzieren, das Wohlbefinden und die mentale Stärke der Mitarbeitenden zu steigern und sich als attraktive, familienfreundliche Arbeitgeber zu positionieren. Zur Verstärkung unseres Teams suchen wir eine/n engagierten Customer Support Manager:in, die mit Empathie, Organisationstalent und Eigenverantwortung überzeugt. Aufgaben Du bist im Customer Support der. 1. Touchpoint für unsere User (Mitarbeitende unserer Firmenkunden) und Betreuer:innen - stets freundlich, lösungsorientiert und verbindlich. User-Support: Ansprechpartner:in bei operativen Fragen via Mail, In-App Chat, Whatsapp oder per Telefon Unterstützung bei der Suche nach Betreuungsmöglichkeiten (z.B Kinderbetreuung, Pflege oder Haustiere) Unterstützung bei der Suche nach Facharztterminen und Psychotherapieplätzen Unterstützung bei jeglichen operativen, technischen oder inhaltlichen Fragen der User Hilfe bei der Suche nach passenden Angeboten für den speziellen User Betreuer:innen-Support: Qualitative Verifizierung unserer Betreuer:innen Ansprechpartner:in bei operativen Fragen via Mail, In-App Chat, Whatsapp oder per Telefon Recruiting neuer Betreuer:innen Organisation von kleineren Events: Planung von Kinderbetreuungen und Ferienangeboten für Firmenkunden Analyse & stetige Weiterentwicklung: Auswertung von User-Feedback und Ableitung konkreter Optimierungsvorschläge für unser Produkt-Team Optimierung unserer Prozesse Weiterentwicklung des Customer Supports in unseren DACH-Märkten und darüber hinaus Qualifikation Langjährige Berufserfahrung im Customer Support Hands-on-Mentalität, Organisationsgeschick und ein gutes Auge fürs Detail Ausgeprägte Kommunikationsstärke und Empathie – schriftlich wie mündlich Selbstständige, strukturierte und lösungsorientierte Arbeitsweise - gerade, wenn es mal etwas hektischer zugeht Sicherer Umgang mit digitalen Tools und Supportsystemen Nachweisliche Erfahrungen in einem dynamischen, agilen Umfeld (z.B. Start-up) Deutsch auf muttersprachlichem Niveau, gute Englischkenntnisse, Französisch und/oder weitere Sprachen von Vorteil Benefits Nutze selbst unsere heycare App (z.B. unsere umfangreichen Angebote im Bereich mentale Gesundheit) Arbeite entweder in München in unserem Büro im Werksviertel oder komplett remote aus Deutschland (FYI: das Customer Happiness-Team ist remote tätig) Nutze Wellpass Drei Teamevents pro Jahr - für echten Teamspirit Nutze unser Weiterbildungsbudget , um Dich sinnvoll weiterzubilden Echter Impact! Mach gemeinsam mit uns die Welt etwas besser und sorge dafür, dass die Vereinbarkeit von Work & Life einfacher und zur Selbstverständlichkeit wird. Melde Dich gerne, wenn Du Fragen hast. Du erfüllst nicht alle Anforderungen, aber brennst für die Aufgaben? Dann bewirb Dich trotzdem und wir klären gemeinsam im Gespräch, ob es passt. Wir freuen uns auf Dich! Find more English Speaking Jobs in Germany on Arbeitnow",
     "required_skills": [
       "remote",
-      "software development"
+      "customer service"
     ],
     "requirements": [],
     "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/infinos-gmbh/founding-engineer-tech-lead-full-stack-ai-native-berlin-106809",
+    "url": "https://www.arbeitnow.com/jobs/companies/heycare/customer-support-managerin-berlin-279105",
     "date_posted": null
   },
   {
-    "id": "arbeitnow-f5176a688c3d",
-    "title": "Sales Manager - Tech & Data (all genders)",
-    "company": "MAI Group",
+    "id": "arbeitnow-3839326a6c93",
+    "title": "Junior Operations Assistant (m/w/d) – HealthTech",
+    "company": "Veni Solutions",
     "location": "Berlin",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Dein Platz in der MAI Group Du gehst offen auf Menschen zu, knüpfst gerne neue Kontakte und hast richtig Lust auf Vertrieb? Du bist sales-driven, liebst den persönlichen Austausch und möchtest Kund:innen für digitale und technologische Lösungen begeistern? Dann werde Teil unseres Teams als Sales Manager (all genders) in der Business Unit Technology & Data. Unser Schwerpunkt liegt auf der Entwicklung und Umsetzung digitaler, technologischer und datengetriebener Lösungen. Dabei unterstützen wir Unternehmen unter anderem bei ihrer digitalen Transformation, der Weiterentwicklung ihrer Geschäftsmodelle und der Optimierung ihrer Prozesse. Für unser weiteres Wachstum suchen wir eine extrovertierte und kommunikationsstarke Persönlichkeit mit ausgeprägtem Vertriebsfokus. Du bist gerne auf Messen, Konferenzen und Veranstaltungen unterwegs, gehst proaktiv auf Kund:innen zu und fühlst dich ebenso wohl im persönlichen Gespräch wie am Telefon oder im Videocall. MAI ist eine starke Gruppe mit acht Agenturen verteilt auf die Standorte Hamburg, Berlin, Paderborn, Köln, Augsburg, München, Wien – verbunden durch gemeinsame Ziele, gegenseitigen Austausch und die Zusammenarbeit über Standortgrenzen hinweg. Wo Du auch bei uns startest: Du wirst Teil Deines Teams vor Ort und gleichzeitig Teil von MAI. Was Du bei uns bewegst Du gewinnst aktiv neue Kund:innen, entwickelst nachhaltige Geschäftsbeziehungen und erkennst Cross- und Upselling-Potenziale. Du identifizierst relevante Unternehmen, Ansprechpartner:innen und konkrete Vertriebschancen und entwickelst diese zu konkreten Verkaufschancen weiter. Du gehst proaktiv auf potenzielle Kund:innen zu – auf Messen, Konferenzen, Veranstaltungen, in persönlichen Terminen, am Telefon und in Videocalls. Du führst Erst- und Bedarfsgespräche, verstehst die strategischen Herausforderungen unserer Kund:innen und arbeitest den konkreten geschäftlichen Nutzen unserer Leistungen heraus. Du agierst beratend und lösungsorientiert, entwickelst bereits in frühen Phasen passende Lösungsansätze und kannst auf Kundenanforderungen flexibel reagieren sowie ad hoc geeignete Lösungsideen aus unserem breiten Portfolio ableiten. Du präsentierst unser Leistungsportfolio überzeugend und vermittelst komplexe technologische Themen verständlich und nutzenorientiert. Du arbeitest eng mit unseren Expert:innen aus Technologie, Data, Beratung und Delivery zusammen, bindest sie gezielt in den Vertriebsprozess ein und koordinierst die Entwicklung individueller Lösungen. Du begleitest Kund:innen vom Erstkontakt bis zum Vertragsabschluss, führst Verhandlungen, erstellst beziehungsweise koordinierst Angebote und wirkst an Pitches und Ausschreibungen mit. Du pflegst deine Kontakte, Aktivitäten und Opportunities im CRM, entwickelst den Sales Funnel konsequent weiter und beobachtest Märkte, Unternehmen und Mitbewerber, um daraus neue Vertriebsansätze abzuleiten. Du repräsentierst die Business Unit Technology & Data sowie die MAI Group auf relevanten Messen, Konferenzen und Events und arbeitest eng mit dem Director Strategie & Sales sowie den Account Manager:innen zusammen und unterstützt bei ausgewählten Marketing- und Vertriebsinitiativen. Was Dich ausmacht Du verfügst über 3–5 Jahre konkrete Erfahrung im B2B-Sales, idealerweise im Umfeld von IT, Technologie, Digitalisierung, Data, Beratung oder vergleichbaren Dienstleistungen. Du hast große Freude am Verkaufen, möchtest aktiv Kund:innen gewinnen sowie Abschlüsse erzielen, bist sales-driven, zielorientiert und verfolgst deine Vertriebsziele konsequent. Du bist extrovertiert, kontaktfreudig und gehst selbstbewusst sowie authentisch auf neue Menschen zu. Du bist ein:e überzeugende:r Netzwerker:in und bewegst dich gerne auf Messen, Konferenzen, Veranstaltungen und in relevanten Business-Netzwerken. Falls du schon Erfahrung in Kalt-Akquise gemacht hast, ist das von Vorteil, da du dann schon gezeigt hast, dass du für Sales brennst. Du kommunizierst sicher und überzeugend – persönlich, am Telefon, per Videocall und schriftlich und hast ein ausgeprägtes Gespür für Menschen, Situationen und geschäftliche Potenziale. Du verstehst strategische Kundenanforderungen, kannst den konkreten Kundennutzen unserer Leistungen herausarbeiten, denkst beratend und lösungsorientiert und verkaufst nicht einfach Einzelleistungen, sondern passende Lösungen für die Herausforderungen unserer Kund:innen. Du kannst dich schnell in neue Themen und unser Leistungsportfolio einarbeiten, bereits in frühen Gesprächsphasen erste Lösungsansätze formulieren, passende Lösungsideen ableiten und die richtigen Expert:innen einbinden. Du verfügst über ein breites Verständnis für Technologie, Data, Digitalisierung und IT oder hast eine starke Motivation, dir dieses Wissen anzueignen. Du musst kein:e technische:r Spezialist:in sein, bringst aber das Interesse und Selbstvertrauen mit, unsere Leistungen überzeugend zu verkaufen. Du kannst komplexe Leistungen verständlich erklären und ihren strategischen sowie wirtschaftlichen Mehrwert vermitteln. Du arbeitest eigenständig, verbindlich, strukturiert und mit hoher Umsetzungsstärke, bist hartnäckig im positiven Sinne und bleibst auch bei längeren Sales Cycles am Ball. Du hast Erfahrung im Umgang mit CRM-Systemen, idealerweise Hubspot, entwickelst deine Vertriebsaktivitäten datenbasiert weiter und der sichere Umgang mit PowerPoint und Excel ist für dich selbstverständlich. Du beherrschst Deutsch auf sehr hohem Niveau und kannst dich auch auf Englisch sicher im beruflichen Kontext verständigen. Was wir Dir bieten Eine verantwortungsvolle Sales-Position mit klarem Fokus auf Neukundengewinnung, Geschäftsentwicklung und nachhaltigem Wachstum Die Möglichkeit, den Vertrieb in der Business Unit Technology & Data aktiv mitzugestalten Ein spannendes Leistungsportfolio an der Schnittstelle von Technology, Data, Digitalisierung, E-Commerce, Marketing und Vertrieb Das erwartet Dich: Hybrides Arbeiten an unseren MAI Standorten mit vielen weiteren kreativen Menschen Angenehme Kund: innen, die ihren Dienstleistern auf Augenhöhe begegnen Flexible Arbeitszeiten, mobiles Arbeiten und Workation Quartalsmeetings, Workshops, Abendessen oder auch mal Partys. Wir sorgen dafür, dass das breit aufgestellte Team regelmäßig zusammenkommt und wir uns eine gute Zeit machen Freie Gerätewahl (Mac / Windows / Linux – auch privat nutzbar) JobRad, WorkLifePortal und Corporate Benefits 20 % Arbeitgeberzuschuss zur betrieblichen Altersvorsorge Heiligabend & Silvester frei Find Jobs in Germany on Arbeitnow",
+    "description": "About Veni Solutions: Veni Solutions is an early-stage Berlin HealthTech startup developing VeniCare—an ambient, privacy-first sensor and AI ecosystem that helps seniors live safely and independently at home. The Opportunity: Looking to break into tech or discover where your skills can take you? We are looking for an organised, curious Junior Operations Assistant (m/f/d) on an initial part-time basis (~10–20 hours/week). No prior professional experience or specific background is required. Whether you are a student, in a gap year, exploring a new direction, or simply looking for the right door into the tech industry. If you are reliable, eager to learn, and take pride in doing good work, we want to hear from you. Career Growth & Real Opportunity: This is not a dead end admin gig. For someone who brings energy, reliability, and structured thinking, this position can rapidly evolve into a full-time role with fast career advancement and growing responsibility as our company expands. You will work directly with the founder and gain practical, hands-on experience in how a tech startup is built from the ground up. What You Will Do: • Learn how early-stage startup operations and administration work in the real world. • Draft clear, professional German correspondence to partners, banks, and official authorities. • Translate short notes, summaries, and correspondence between German and English. • Keep administrative checklists and trackers organised (deadlines, documents, next steps). • Support the founder with operational research, paperwork, and organising workflows. What We Are Looking For: • Fluent German language skills with confident, clean written German. • English (internal coordination with the founder is in English). • Structured mindset: you are dependable, neat with details, and keep track of tasks. • Curiosity and a positive attitude—you want to learn how business works. • No degrees or corporate experience required—your attitude and willingness to learn are what count. What We Offer: • Fast Career Advancement: A genuine, direct path to transition into a full-time role as we scale. • Direct Founder Mentorship: Work closely alongside an experienced tech founder and learn practical business operations. • Flexible & Remote: Work remotely with flexible hours (~10–20 hrs/week) that fit easily around your life and schedule. • Fair Hourly Pay: Competitive compensation with room for quick reviews as you take on more. How to Apply: Apply with your CV or any link about yourself and 2–3 sentences about yourself and why you'd like to work with us. Find Jobs in Germany on Arbeitnow",
     "required_skills": [
       "remote",
-      "management",
-      "team leader"
+      "business operations"
     ],
     "requirements": [],
     "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/mai-group/sales-manager-tech-data-all-genders-berlin-336004",
+    "url": "https://www.arbeitnow.com/jobs/companies/veni-solutions/junior-operations-assistant-healthtech-berlin-77476",
     "date_posted": null
   },
   {
-    "id": "arbeitnow-15ad21caa892",
-    "title": "Sales Manager (w/m/d) Retail | DACH",
-    "company": "INDIE Solutions GmbH",
-    "location": "Berlin",
+    "id": "arbeitnow-bdb72828ce85",
+    "title": "Senior Scientific Data Engineer",
+    "company": "Tetrascience",
+    "location": "Germany",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Unser Partner, ein mittelständisches Technologieunternehmen im Retail Umfeld, sucht einen erfahrenen Sales Manager (w/m/d) , der den internationalen Vertrieb innovativer Plattform-Lösungen bei Handelsunternehmen im DACH-Raum und auf ausgewählten europäischen Märkten vorantreibt. Das Unternehmen entwickelt und betreibt eine leistungsstarke Retail-Plattform, die Checkout-, Kassen- und Paymentprozesse großer Handelspartner vereint. Die Lösungen reichen von maßgeschneiderter Softwareentwicklung bis zu skalierbaren SaaS- und Lizenzmodellen – immer mit dem Ziel, komplexe Handelsprozesse effizienter und zukunftsfähiger zu gestalten. Aufgaben Aufbau und strategische Weiterentwicklung von Vertriebsaktivitäten bei großen Retail-Unternehmen in der DACH-Region und Europa Identifikation, Qualifizierung und Entwicklung von Enterprise-Accounts mit Fokus auf nachhaltige, partnerschaftliche Kundenbeziehungen Steuerung des gesamten Sales Cycles – vom Erstkontakt über Angebotserstellung (inkl. RFI/RFP) bis hin zum Vertragsabschluss Enge Zusammenarbeit mit Management, PreSales, Architektur-, Delivery- und Produktteams zur Entwicklung individueller Lösungskonzepte Durchführung von Pitches, Präsentationen und Workshops auf C-Level-Ebene Mitwirkung an der Weiterentwicklung von Vertriebsstrategie, Marktpositionierung und Partnernetzwerk Nutzung und Pflege von CRM-Systemen zur Steuerung von Pipeline, Forecast und Account-Strategien Qualifikation Mehrjährige Erfahrung im Vertrieb komplexer IT- oder Softwarelösungen an Großkunden (ideal im Retail- oder Omnichannel-Umfeld) Fundiertes Verständnis von Retail-Prozessen (POS, Checkout, Payment, Loyalty, ERP-Anbindung, Omnichannel) Erfahrung mit Ausschreibungsprozessen (RFI/RFP) und Entscheidungsstrukturen im Enterprise-Segment Kommunikations- und Verhandlungsgeschick auf Deutsch und Englisch – souverän auf C-Level Hohe Eigenmotivation, Abschlussstärke und strategisches Denken Reisebereitschaft innerhalb Europas Technisches Verständnis sowie idealerweise ein Studium in (Wirtschafts-)Informatik oder einem vergleichbaren Bereich Kenntnisse in Solution Selling, Value Selling oder Strategic Account Management von Vorteil Bestehende Kontakte in der Retail-Branche (z. B. Lebensmittel, Fashion, DIY, Consumer Electronics) sind ein Plus Zusammengefasst wäre ideal, wenn du Vertriebserfahrung im Retail-Umfeld, ein Netzwerk im DACH-Raum sowie technisches Verständnis mitbringst, um auf C-Level Niveau kommunizieren zu können. Benefits Du spielst eine Schlüsselrolle im internationalen Vertrieb eines mittelständischen, inhabergeführten Technologieunternehmens Du erhälst ein attraktives Vergütungspaket mit Fixgehalt, variablem Anteil und Firmenwagen Hybrides Arbeiten, flexible Arbeitszeiten und 30 Urlaubstage Du hast viel Gestaltungsspielraum und direkter Einfluss auf Go-to-Market-Strategien Flache Hierarchien, kurze Entscheidungswege und kollegiales Miteinander Dich erwartet eine Unternehmenskultur, die auf Vertrauen, Wertschätzung und Verlässlichkeit basiert Vielfältige Weiterbildungsmöglichkeiten über interne Akademien, Fach-Communities und externe Konferenzen Regelmäßige Firmen- und Teamevents, inklusive mehrtägiger Sommerkonferenz mit Familie Lass uns entspannt über weitere Details verständigen! Find more English Speaking Jobs in Germany on Arbeitnow",
+    "description": "About TetraScience TetraScience is the Scientific Data and AI Company building Tetra OS, the operating system for scientific intelligence. We help the world’s leading life sciences firms turn fragmented scientific data into AI-native assets and scientific workflows that accelerate discovery, development, and manufacturing. TetraScience’s growing ecosystem of strategic partners includes NVIDIA, Databricks, Thermo Fisher Scientific, Snowflake, Google, and Microsoft. In connection with your candidacy, you will be asked to carefully review “The Tetra Way,” authored by our CEO, Patrick Grady; it is impossible to overstate the importance of this document, and you should take it literally as you decide whether our mission, culture, and expectations are right for you. What You Will Do You will join TetraScience's forward deployed teams as a senior, hands-on engineer. In this role, you will work directly with biotech, pharmaceutical, and scientific companies, bringing advanced data and AI technologies into the labs that research, develop, and manufacture medicines. You will work alongside customer scientific, engineering, and IT teams to design, build, and ship integrations and data products on Tetra OS that serve scientific teams across the globe. You will also mentor other scientific data engineers, lead internal design sessions, and partner with Product Managers and Solution Architects to turn customer, product, and engineering objectives into commercialized solutions. Act as a forward deployed engineer for a portfolio of biotech, pharmaceutical, and scientific customers. Own the technical relationship, understand their scientific workflows, and deliver solutions that move their programs forward. Drive AI agents to design and build bidirectional integrations between Tetra OS and customer systems such as ELN, LIMS, MES, and process historians, including serverless push and pull pipelines, stateful connectors, and full stack data applications in Python and TypeScript. Drive AI agents to design and build comprehensive data schemas and parsers for scientific data from R&amp;D lab instruments, manufacturing, CRO, CDMO, ELN, and LIMS sources, across formats such as .xlsx, .pdf, .txt, .raw, .fid, and many other vendor binaries. Deploy and test solutions in customer environments, including cloud, on-premises, and hybrid networks, and troubleshoot across the full stack when something breaks. Work with product managers, solution architects, business analysts, data architects, and ML engineers to understand business requirements, recommend outcomes, and build best-in-class data products based on consensus. Create and enforce designs with quality backed by comprehensive test automation to prove expected behaviors. Lead process and technology improvements supporting product quality, developer experience, and platform capabilities. Rally the team to finish Agile sprint commitments. Actively surface team inefficiencies and resolve them. Drive results. Bring pragmatic urgency to resolving blockers and unclear requirements, and make things happen. Provide mentorship to junior scientific data engineers and show leadership on every front. Requirements Proficiency in building data products as a Data Engineer or in a similar field. Proficiency working in Python and SQL with a focus on data, integrations, and scientific applications. Expertise in Python and working knowledge of JavaScript, TypeScript, Node, and React. History leading customer-facing implementation projects across cross-functional teams, managing requirements, timelines, and delivery milestones. Experience working with non-clinical data and lab scientists. Familiarity with the biotech and pharmaceutical industry and regulated environments such as GxP. Familiarity with networking, CI/CD, and full stack development. Familiarity with cloud engineering on AWS, including core services such as S3, Lambda, ECS, SQS, SNS, EC2, and CloudWatch. Excellent communication skills, attention to detail, and the confidence to take control of project delivery. Ability to quickly understand a highly technical product and communicate effectively with customers, product management, engineering leadership Benefits Competitive Salary and equity in a fast-growing company. Generous paid time off (PTO). We are not currently providing visa sponsorship for this position Find more English Speaking Jobs in Germany on Arbeitnow",
     "required_skills": [
-      "remote",
-      "management",
-      "team leader"
+      "computer software",
+      "remote"
     ],
     "requirements": [],
     "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/indie-solutions-gmbh/sales-manager-retail-dach-berlin-217493",
+    "url": "https://www.arbeitnow.com/jobs/companies/tetrascience/remote-senior-scientific-data-engineer-germany-163831",
     "date_posted": null
   }
 ]
