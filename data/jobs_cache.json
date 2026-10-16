@@ -1,853 +1,893 @@
 [
   {
-    "id": "jobicy-42e457213d25",
-    "title": "SVP, Partners",
-    "company": "Vonage",
+    "id": "jobicy-9c6d61c5b3dd",
+    "title": "Security Software Engineer, IAM",
+    "company": "Vercel",
     "location": "USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Join Vonage and help us innovate cloud communications for businesses worldwide! Why this role matters: Vonage is doubling down on partnerships as a primary growth engine — and this is the role that owns it all. As SVP, Partners, you will be the single executive accountable for Vonage's entire global partner strategy across both BU&hellip;",
-    "required_skills": [
-      "business development"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155402-svp-partners",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-987f757aae43",
-    "title": "Head of Data Science",
-    "company": "Paddle",
-    "location": "Ireland,  Portugal,  UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "What do we do? Paddle offers digital product companies a completely different approach to their payment infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we’re a Merchant of Record for our customers. That means we take away 100% of the pain of payment fragmentation. It’s faster, safer, cheaper, and,&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155403-head-of-data-science-2",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-bfff069b1048",
-    "title": "Senior Product Security Engineer (USA Only, 100% Remote)",
-    "company": "Close",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About UsSince 2013, we’ve been building a CRM that gets out of your way and helps your team sell more, faster. Now we’re building AI into every part of it, so Close does the busywork and your team does the selling. No manual data entry, no 10-click workflows. Just communication-first, AI-powered sales software designed to&hellip;",
+    "description": "About Vercel: Vercel is the agentic infrastructure company. We free people and agents to ship what’s next. For more than a decade, Vercel has shaped how the web is built. As the team behind Next.js, v0, and AI SDK, we create products that help builders move from idea to production with speed, security, and exceptional&hellip;",
     "required_skills": [
       "cybersecurity"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155398-senior-product-security-engineer-usa-only-100-remote",
-    "date_posted": "2026-10-15"
+    "url": "https://jobicy.com/jobs/147750-security-software-engineer-iam",
+    "date_posted": "2026-10-16"
   },
   {
-    "id": "jobicy-790a2bc3f274",
-    "title": "Senior Account Executive",
-    "company": "Paddle",
-    "location": "USA",
+    "id": "jobicy-98f81861fc00",
+    "title": "Major Gifts Officer",
+    "company": "Mozilla",
+    "location": "Canada,  Germany,  UK,  USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "What do we do? Paddle offers digital product companies a completely different approach to their payment infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we’re a Merchant of Record for our customers. That means we take away 100% of the pain of payment fragmentation. It’s faster, safer, cheaper, and,&hellip;",
+    "description": "Mozilla Foundation is a non-profit building a better technology future — powered by people, open by design, fueled by imagination. We deliver people-first alternatives to today’s extractive systems. We build side by side with developers, innovators and advocates, united in the belief that a better technology future is not only possible — it’s ours to&hellip;",
     "required_skills": [
-      "sales"
+      "business development"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155400-senior-account-executive-6",
-    "date_posted": "2026-10-15"
+    "url": "https://jobicy.com/jobs/153330-major-gifts-officer",
+    "date_posted": "2026-10-16"
   },
   {
-    "id": "jobicy-7a97b8ba395f",
-    "title": "Mid-Market Account Executive, New Business (API/CPaaS)",
-    "company": "Vonage",
-    "location": "USA",
+    "id": "jobicy-f18f602bc267",
+    "title": "Postgres Engineer",
+    "company": "Supabase",
+    "location": "Anywhere",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Join Vonage and help us innovate cloud communications for businesses worldwide! Vonage Communications APIs: As an emerging leader in the $10B+ communications API market, we empower global brands to connect better with their customers, employees, and partners through transformative communications experiences. For example, Vonage API solutions empower organizations to build their custom omnichannel communications structure.&hellip;",
+    "description": "Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We’re looking for a Senior Postgres Engineer to join our Postgres Team and help maintain and&hellip;",
     "required_skills": [
-      "sales"
+      "software engineering"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155399-mid-market-account-executive-new-business-api-cpaas",
-    "date_posted": "2026-10-15"
+    "url": "https://jobicy.com/jobs/153321-postgres-engineer",
+    "date_posted": "2026-10-16"
   },
   {
-    "id": "jobicy-6d742b5a58c3",
-    "title": "Enterprise Account Director, New Business (API/CPaaS)",
-    "company": "Vonage",
+    "id": "jobicy-5fbae8554e57",
+    "title": "Marketplace Operations Manager II",
+    "company": "Wheel",
     "location": "USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Join Vonage and help us innovate cloud communications for businesses worldwide! Vonage Communications APIs: As an emerging leader in the $10B+ communications API market, we empower global brands to connect better with their customers, employees, and partners through transformative communications experiences. For example, Vonage API solutions empower organizations to build their custom omnichannel communications structure.&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155396-enterprise-account-director-new-business-api-cpaas",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-48cc5e375de8",
-    "title": "Business Operations Manager",
-    "company": "Motive",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Who we are: Motive empowers the people who run physical operations with tools to make their work safer, more productive, and more profitable. For the first time ever, safety, operations and finance teams can manage their drivers, vehicles, equipment, and fleet related spend in a single system. Combined with industry leading AI, the Motive platform&hellip;",
+    "description": "Job Title: Marketplace Operations Manager II Job Location (Remote): Remote, USA About the Company Wheel is evolving the traditional care ecosystem by equipping the nation's most innovative companies with a premier platform to deliver high-quality virtual care at scale. We offer proven strategies and cutting-edge technologies to foster consumer engagement, build brand loyalty, and maximize&hellip;",
     "required_skills": [
       "product & operations"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155401-business-operations-manager",
-    "date_posted": "2026-10-15"
+    "url": "https://jobicy.com/jobs/153335-marketplace-operations-manager-ii",
+    "date_posted": "2026-10-16"
   },
   {
-    "id": "jobicy-be0f71b66a8f",
-    "title": "Technical Account Manager (TAM)- US",
-    "company": "Nivoda",
+    "id": "jobicy-dc8e54002988",
+    "title": "ANALYST DIGITAL MARKETING IV (Remote) IV",
+    "company": "TE Connectivity",
     "location": "USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "About Nivoda Nivoda is a rapidly scaling global B2B diamond and gemstone marketplace connecting jewellery retailers with competitive, high-quality suppliers worldwide. Processing $300M+ in annual transactions and operating across multiple regions, Nivoda is transforming a $350B industry that has historically been slow to modernise. Our platform gives businesses of all sizes, from independent jewellers&hellip;",
+    "description": "Job Posting Title: ANALYST DIGITAL MARKETING IV (Remote) IV Job ID: 155456 Job Code: 30004700 Business Unit: [[businessUnit]] Building: Non-TE facility (902) Band/Level: 5 Hiring Manager: YAN LIZZIE WANG Recruiter: Pete RoosendaalRelocation: No Travel: Less than 10% Employee Referral Amount: $1,000.00 Education Experience: Bachelors Degree (High School +4 years) Employment Experience: 7-10 years At TE, you will unleash&hellip;",
     "required_skills": [
-      "technical support"
+      "marketing & sales"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155395-technical-account-manager-tam-us",
-    "date_posted": "2026-10-15"
+    "url": "https://jobicy.com/jobs/150674-analyst-digital-marketing-iv-remote-iv",
+    "date_posted": "2026-10-16"
   },
   {
-    "id": "jobicy-f0e148608218",
-    "title": "Account Executive, Enterprise - Mountain",
-    "company": "Motive",
+    "id": "jobicy-43309b849c10",
+    "title": "Account Manager IV (Remote in Bay Area, CA)",
+    "company": "TE Connectivity",
     "location": "USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Who we are: Motive empowers the people who run physical operations with tools to make their work safer, more productive, and more profitable. For the first time ever, safety, operations and finance teams can manage their drivers, vehicles, equipment, and fleet related spend in a single system. Combined with industry leading AI, the Motive platform&hellip;",
+    "description": "At TE, you will unleash your potential working with people from diverse backgrounds and industries to create a safer, sustainable and more connected world. ​Job Overview At TE, you will unleash your potential by collaborating with people from diverse backgrounds and industries to create a safer, more sustainable, and connected world. TE’s Data and&hellip;",
     "required_skills": [
       "sales"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155394-account-executive-enterprise-mountain",
-    "date_posted": "2026-10-15"
+    "url": "https://jobicy.com/jobs/150672-account-manager-iv-remote-in-bay-area-ca",
+    "date_posted": "2026-10-16"
   },
   {
-    "id": "jobicy-7d5b1801bfd4",
-    "title": "Senior Analytics Engineer",
-    "company": "Paddle",
-    "location": "Ireland,  Portugal,  UK",
+    "id": "jobicy-6844cfc7647d",
+    "title": "Sales Engineer, Enterprise",
+    "company": "Socket",
+    "location": "USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "What do we do? Paddle offers digital product companies a completely different approach to their payment infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we’re a Merchant of Record for our customers. That means we take away 100% of the pain of payment fragmentation. It’s faster, safer, cheaper, and,&hellip;",
+    "description": "About Us Socket helps devs and security teams ship faster by cutting out security busywork. Thousands of orgs use Socket to safely find, audit, and manage open source code. Our customers - from Anthropic to xAI, and Figma to Vercel - love Socket (just check out their tweets to see for yourself!) Founded by Feross&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153337-sales-engineer-enterprise-2",
+    "date_posted": "2026-10-16"
+  },
+  {
+    "id": "jobicy-dc7416acc0b3",
+    "title": "Principal, User Research",
+    "company": "Mural",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "ABOUT THE TEAM At Mural, we believe great collaboration starts with deep understanding. Our mission is to help teams think and work together better. The Design and Research team uncovers the truths that power that mission, guiding product, design, and strategy through rigorous, human-centered inquiry. We combine behavioral science, market insight, and creative exploration to&hellip;",
+    "required_skills": [
+      "web, ui & ux design"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153336-principal-user-research",
+    "date_posted": "2026-10-16"
+  },
+  {
+    "id": "jobicy-18082a4637f5",
+    "title": "Solutions Engineer - US",
+    "company": "Quantum Metric",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Our Culture Quantum Metric's number one objective is happy people, diverse and inclusive culture. We’re passionate about empowering our people to become the best version of themselves, offering coaching and training programs designed to accelerate their career in whatever direction they choose. As a remote-first company, we understand the importance of building an engaged,&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153333-solutions-engineer-us",
+    "date_posted": "2026-10-16"
+  },
+  {
+    "id": "jobicy-30444be66fc4",
+    "title": "Partner Success Manager - In Market, Southern CA",
+    "company": "Side",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "As a Partner Success Manager, you will act as both the account owner and strategic relationship lead for our Real Estate partners—playing a key role in expanding our footprint across the region. In this dual role, you will be responsible not only for managing and nurturing relationships with existing high-impact partners, but also for identifying,&hellip;",
+    "required_skills": [
+      "customer support & success"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150807-partner-success-manager-in-market-southern-ca",
+    "date_posted": "2026-10-16"
+  },
+  {
+    "id": "jobicy-40a89528d66c",
+    "title": "SVP, Product",
+    "company": "Toptal",
+    "location": "Canada,  Europe",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Toptal Toptal is a global network of top talent in business, design, and technology that enables companies to scale their teams, on-demand. With $200+ million in annual revenue and team members based around the globe, Toptal is the world’s largest fully remote workforce. We take the best elements of virtual teams and combine them&hellip;",
+    "required_skills": [
+      "product & operations"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153312-svp-product",
+    "date_posted": "2026-10-16"
+  },
+  {
+    "id": "jobicy-b6ca96425272",
+    "title": "Chief Technology Officer",
+    "company": "Toptal",
+    "location": "LATAM,  Canada,  Europe",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Toptal Toptal is a global network of top talent in business, design, and technology that enables companies to scale their teams, on-demand. With $200+ million in annual revenue and team members based around the globe, Toptal is the world’s largest fully remote workforce. We take the best elements of virtual teams and combine them&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153308-chief-technology-officer-3",
+    "date_posted": "2026-10-16"
+  },
+  {
+    "id": "jobicy-a45cbdcaebe4",
+    "title": "Associate (CPA/SMMM)",
+    "company": "Manay CPA Inc.",
+    "location": "Türkiye",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Are you ready to expand your expertise in U.S. accounting and tax practices while working with a diverse client base across multiple industries? We’re looking for motivated professionals who enjoy variety in their work and are eager to build hands-on experience with U.S. GAAP, tax codes, and business operations. Who We Are Manay CPA is&hellip;",
+    "required_skills": [
+      "finance & accounting"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150821-associate-cpa-smmm",
+    "date_posted": "2026-10-16"
+  },
+  {
+    "id": "jobicy-6dbd159ec7ef",
+    "title": "Accounting Associate (Remote, USA-Based)",
+    "company": "Manay CPA Inc.",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Are you ready to expand your expertise in U.S. accounting and tax practices while working with a diverse client base across multiple industries? We’re looking for motivated professionals who enjoy variety in their work and are eager to build hands-on experience with U.S. GAAP, tax codes, and business operations. Who We Are Manay CPA is&hellip;",
+    "required_skills": [
+      "finance & accounting"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150819-accounting-associate-remote-usa-based",
+    "date_posted": "2026-10-16"
+  },
+  {
+    "id": "jobicy-78dda0e1adf1",
+    "title": "AI Technical Mentor - Independent Contractor (US Canada, Europe, MENA, APAC)",
+    "company": "Udacity",
+    "location": "APAC,  EMEA,  Canada,  Europe,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Us Udacity is now an Accenture company, and exciting things are happening! We are on a mission of forging futures in tech through radical talent transformation in digital technologies. We offer a unique and immersive online learning platform, powering corporate technical training in fields such as Artificial Intelligence, Machine Learning, Data Science, Autonomous&hellip;",
+    "required_skills": [
+      "education & e-learning"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150767-ai-technical-mentor-independent-contractor-us-canada-europe-mena-india-apac-timezones",
+    "date_posted": "2026-10-16"
+  },
+  {
+    "id": "jobicy-9d3fd2d1db89",
+    "title": "Agentic AI Technical Mentor - Independent Contractor (US Canada, Europe, MENA, APAC)",
+    "company": "Udacity",
+    "location": "APAC,  Canada,  Europe,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Us Udacity is now an Accenture company, and exciting things are happening! We are on a mission of forging futures in tech through radical talent transformation in digital technologies. We offer a unique and immersive online learning platform, powering corporate technical training in fields such as Artificial Intelligence, Machine Learning, Data Science, Autonomous&hellip;",
+    "required_skills": [
+      "education & e-learning"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150763-agentic-ai-technical-mentor-independent-contractor-us-canada-europe-mena-india-apac-timezones",
+    "date_posted": "2026-10-16"
+  },
+  {
+    "id": "jobicy-293a56d23ead",
+    "title": "Sales Engineer, Commercial",
+    "company": "Socket",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Us Socket helps devs and security teams ship faster by cutting out security busywork. Thousands of orgs use Socket to safely find, audit, and manage open source code. Our customers - from Anthropic to xAI, and Figma to Vercel - love Socket (just check out their tweets to see for yourself!) Founded by Feross&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153342-sales-engineer-commercial",
+    "date_posted": "2026-10-16"
+  },
+  {
+    "id": "jobicy-ac6347c66c80",
+    "title": "Forward Deployed Engineer, Python",
+    "company": "Socket",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Us Socket helps devs and security teams ship faster by cutting out security busywork. Thousands of orgs use Socket to safely find, audit, and manage open source code. Our customers - from Anthropic to xAI, and Figma to Vercel - love Socket (just check out their tweets to see for yourself!) Founded by Feross&hellip;",
+    "required_skills": [
+      "cybersecurity"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153341-forward-deployed-engineer-python",
+    "date_posted": "2026-10-16"
+  },
+  {
+    "id": "jobicy-aebca6182944",
+    "title": "Staff Software Engineer, AI-Native Systems",
+    "company": "Wheel",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Staff Software Engineer, AI-Native Systems (Tech Lead) Location: Remote (US) We are Virtual care only works if the infrastructure behind it does. Wheel builds that infrastructure — the systems that let telehealth run at scale for the patients, clinicians, and companies depending on it. We're not bolting AI onto old workflows; we're rebuilding them from&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153338-staff-software-engineer-ai-native-systems",
+    "date_posted": "2026-10-16"
+  },
+  {
+    "id": "jobicy-00dd2b7f2115",
+    "title": "Multigres Deployment Engineer",
+    "company": "Supabase",
+    "location": "Anywhere",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. We're looking for an engineer to own the deployment and operational infrastructure of Multigres, our distributed Postgres platform. You'll&hellip;",
+    "required_skills": [
+      "devops & infrastructure"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153326-multigres-deployment-engineer",
+    "date_posted": "2026-10-16"
+  },
+  {
+    "id": "jobicy-9b988112ebc7",
+    "title": "Territory Manager (North East, Nebraska)",
+    "company": "Halter",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Halter At Halter, we’re on a mission to enable farmers and graziers to run the most productive and sustainable operations. Our customers are using Halter to break free from the time-intensive constraints of conventional practices. Imagine watching 500 cattle stand up and walk calmly towards their next break? No quad bikes, no dogs, no&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153325-territory-manager-north-east-nebraska",
+    "date_posted": "2026-10-16"
+  },
+  {
+    "id": "jobicy-0fe57cc8b499",
+    "title": "Director, Portfolio Management (Mozilla.org)",
+    "company": "Mozilla",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Mozilla.org Mozilla is a mission-driven portfolio of companies and organizations working together to shape an internet that serves people and the public good. Currently, this portfolio includes: the Mozilla Foundation, which champions our mission through philanthropic risk capital; Mozilla Corporation, which makes Firefox; MZLA, which makes Thunderbird; Mozilla Ventures, which invests in responsible tech&hellip;",
+    "required_skills": [
+      "finance & accounting"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153322-director-portfolio-management-mozilla-org",
+    "date_posted": "2026-10-16"
+  },
+  {
+    "id": "jobicy-82b604d55aea",
+    "title": "Director, Platform and AI Sales",
+    "company": "League",
+    "location": "Canada",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About League League is one of the fastest-growing technology companies in Canada and the leading healthcare experience platform. Getting healthcare is often the easy part — finishing it is where things fall apart: people book the appointment and skip the follow-up, fill the prescription and stop taking it, get the referral and never make the&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150820-director-platform-and-ai-sales",
+    "date_posted": "2026-10-16"
+  },
+  {
+    "id": "jobicy-54b6d741b48d",
+    "title": "Director, Growth Marketing",
+    "company": "League",
+    "location": "Canada",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About League League is one of the fastest-growing technology companies in Canada and the leading healthcare experience platform. Getting healthcare is often the easy part — finishing it is where things fall apart: people book the appointment and skip the follow-up, fill the prescription and stop taking it, get the referral and never make the&hellip;",
+    "required_skills": [
+      "marketing & sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150818-director-growth-marketing",
+    "date_posted": "2026-10-16"
+  },
+  {
+    "id": "jobicy-1ac134cc7e1d",
+    "title": "Account Executive, SMB",
+    "company": "Fleetio",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "A little about us…Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations. Transportation technology is a hot market, and we’re leading the charge with raving fans and new customers signing up every day. We raised $450M in our Series D funding round in March of 2025 and are&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150770-account-executive-smb",
+    "date_posted": "2026-10-16"
+  },
+  {
+    "id": "jobicy-5ec5a6cc1d7c",
+    "title": "Account Executive, Mid-Market",
+    "company": "Fleetio",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "A little about us…Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations. Transportation technology is a hot market, and we’re leading the charge with raving fans and new customers signing up every day. We raised $450M in our Series D funding round in March of 2025 and are&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150768-account-executive-mid-market",
+    "date_posted": "2026-10-16"
+  },
+  {
+    "id": "jobicy-e57921c5927c",
+    "title": "Enterprise Account Director",
+    "company": "dscout",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "At Dscout, we’re building the most flexible and powerful UX research platform on the market—trusted by the world’s top brands in finance (JP Morgan Chase, Intuit, Charles Schwab, PayPal), healthcare (Aya, Headspace), consumer goods (Keen, Verizon, Target, Northface), and tech (Google, Amazon, Facebook, Meta, Spotify, AirBnB). Our tools help teams deeply understand the humans behind&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150766-enterprise-account-director",
+    "date_posted": "2026-10-16"
+  },
+  {
+    "id": "jobicy-4ea0b2b1faaa",
+    "title": "AI Mentor (Independent Contractor) - Business Leader Programs",
+    "company": "Udacity",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Us Udacity is now an Accenture company, and exciting things are happening! We are on a mission of forging futures in tech through radical talent transformation in digital technologies. We offer a unique and immersive online learning platform, powering corporate technical training in fields such as Artificial Intelligence, Machine Learning, Data Science, Autonomous&hellip;",
+    "required_skills": [
+      "education & e-learning"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150765-ai-mentor-independent-contractor-business-leader-programs",
+    "date_posted": "2026-10-16"
+  },
+  {
+    "id": "jobicy-ec9cc2d6fc72",
+    "title": "IT Administrator",
+    "company": "Kalshi",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Kalshi is defining a new category Kalshi has defined a new category: prediction markets. Kalshi allows people to trade on the outcome of any events and turn any question about the future into a financial asset. Kalshi fought for years and legalized prediction markets in the US for the first time in history. Kalshi is&hellip;",
+    "required_skills": [
+      "devops & infrastructure"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150748-it-administrator",
+    "date_posted": "2026-10-16"
+  },
+  {
+    "id": "jobicy-fc0ffc81354a",
+    "title": "Customer Solutions Engineer – Payments",
+    "company": "Zuora",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About ZuoraAt Zuora, we help businesses grow smarter and adapt faster. Our platform powers modern business models — from subscriptions and usage-based pricing to AI-driven and outcome-based offerings — helping companies launch new products, automate complex billing, and unlock predictable, recurring revenue.We’ve led the Subscription Economy for more than a decade. Now we’re evolving again&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/149199-customer-solutions-engineer-payments",
+    "date_posted": "2026-10-16"
+  },
+  {
+    "id": "jobicy-47660924c672",
+    "title": "Digital Designer",
+    "company": "Who Gives A Crap",
+    "location": "Philippines",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Digital Designer PH location / Remote first Want to challenge yourself at a purpose-led scale up AND make a difference in the world? Come join the revolootion! Funny name, serious business We make eco-friendly products and donate 50% of our profits to provide clean water and help build toilets for the billions of people who&hellip;",
+    "required_skills": [
+      "web, ui & ux design"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153327-digital-designer",
+    "date_posted": "2026-10-16"
+  },
+  {
+    "id": "jobicy-639e418d04ee",
+    "title": "(Senior) Product Director, Local Growth",
+    "company": "OKX",
+    "location": "LATAM",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Who We Are At OKX, we believe that the future will be reshaped by crypto, and ultimately contribute to every individual's freedom. OKX is a leading crypto exchange, and the developer of OKX Wallet, giving millions access to crypto trading and decentralized crypto applications (dApps). OKX is also a trusted brand by hundreds of large&hellip;",
+    "required_skills": [
+      "product & operations"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150798-senior-product-director-local-growth",
+    "date_posted": "2026-10-16"
+  },
+  {
+    "id": "jobicy-f4b88011e9c9",
+    "title": "Math Content Teacher - Mandarin Speaking Required",
+    "company": "Think Academy US",
+    "location": "Canada",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Role: Math Teacher Job type: Part-Time (12 - 20 hours per week) Location: Remote Intended Start Date: ASAP Who we are: Think Academy US (www.TheThinkAcademy.com), a 100% owned subsidiary of TAL Education Group(NYSE: TAL), is recently established education technology (Ed-Tech) company to provide K-12 extra-curricular learning services through science and technology. At Think Academy, we&hellip;",
+    "required_skills": [
+      "content & editorial"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150786-math-content-teacher-mandarin-speaking-required",
+    "date_posted": "2026-10-16"
+  },
+  {
+    "id": "jobicy-97b392b67ff7",
+    "title": "Product Designer – Content Solutions",
+    "company": "Fueled",
+    "location": "LATAM",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Location: Remote — Americas Team (Open to applicants located in North &amp; South America, with the ability to primarily work within US business hours/time zones) Fueled is a leading digital strategy, design, and engineering agency. We are a 300+ person team that has designed and built hundreds of digital products and experiences for brands like&hellip;",
+    "required_skills": [
+      "content & editorial"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150781-product-designer-content-solutions",
+    "date_posted": "2026-10-16"
+  },
+  {
+    "id": "jobicy-4f3b9f2c10bd",
+    "title": "Contract Senior Content Designer",
+    "company": "Fueled",
+    "location": "LATAM,  Canada,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Location: Remote – Americas (Open to applicants located in North American aligned time zones) Fueled is a leading digital strategy, design, and engineering agency. We are a 300+ person team that has designed and built hundreds of digital products and experiences for brands like Google, Apple, The New York Times, ESPN, Victoria’s Secret, MGM Resorts,&hellip;",
+    "required_skills": [
+      "content & editorial"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150779-contract-senior-content-designer",
+    "date_posted": "2026-10-16"
+  },
+  {
+    "id": "jobicy-bcbf731c911a",
+    "title": "Business Development Manager",
+    "company": "Thoughtworks",
+    "location": "Singapore",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Thoughtworks is seeking industry- and market-relevant business development professionals to join and lead a sector of our client growth in the Singapore region. Business Development Managers at Thoughtworks are responsible for developing and securing a pipeline of new opportunities and building relationships with both new clients and in new areas of existing client organizations. As&hellip;",
+    "required_skills": [
+      "business development"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150754-business-development-manager",
+    "date_posted": "2026-10-16"
+  },
+  {
+    "id": "jobicy-2f7eb7b5a29d",
+    "title": "Engineering Manager - EU",
+    "company": "Ashby",
+    "location": "Europe",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Hi I’m Colin, Director of Engineering, Europe. How do you feel about software engineers writing product specs, making product decisions, and not breaking down projects into individual tickets? If that sounds exciting (even if a bit scary), read on because I’m looking for an engineering manager to help us build a different type of&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150687-engineering-manager-eu",
+    "date_posted": "2026-10-16"
+  },
+  {
+    "id": "jobicy-68cbac893b11",
+    "title": "Data Scientist, Product Analytics",
+    "company": "Meta",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "As a Data Scientist at Meta, you will shape the future of people-facing and business-facing products we build across our entire family of applications (Facebook, Instagram, Messenger, WhatsApp, Oculus). By applying your technical skills, analytical mindset, and product intuition to one of the richest data sets in the world, you will help define the experiences&hellip;",
     "required_skills": [
       "data science & analytics"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155397-senior-analytics-engineer-3",
-    "date_posted": "2026-10-15"
+    "url": "https://jobicy.com/jobs/150667-data-scientist-product-analytics",
+    "date_posted": "2026-10-16"
   },
   {
-    "id": "jobicy-698b668633b6",
-    "title": "Senior Technical Account Manager",
-    "company": "Recorded Future, Inc.",
+    "id": "jobicy-0e8fdb4cb3c8",
+    "title": "Data Engineer, Product Analytics",
+    "company": "Meta",
     "location": "USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "With 1,000+ intelligence professionals serving over 1,900 clients worldwide, Recorded Future is the world’s most advanced, and largest, intelligence company! Recorded Future is seeking a Technical Account Manager to own and drive success at our largest accounts. In this role, you will interact with all roles across your client portfolio to develop and deliver on&hellip;",
+    "description": "As a Data Engineer at Meta, you will shape the future of people-facing and business-facing products we build across our entire family of applications (Facebook, Instagram, Messenger, WhatsApp, Reality Labs, Threads). Your technical skills and analytical mindset will be utilized designing and building some of the world's most extensive data sets, helping to craft experiences&hellip;",
     "required_skills": [
-      "customer support & success"
+      "data science & analytics"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155392-senior-technical-account-manager-3",
-    "date_posted": "2026-10-15"
+    "url": "https://jobicy.com/jobs/150666-data-engineer-product-analytics",
+    "date_posted": "2026-10-16"
   },
   {
-    "id": "jobicy-0d452c01f977",
-    "title": "Site Reliability Engineer",
-    "company": "Supabase",
-    "location": "Anywhere",
+    "id": "jobicy-36e370d9957c",
+    "title": "Critical Facility Engineer",
+    "company": "Meta",
+    "location": "USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role Supabase manages millions of Postgres instances and is growing. We have strong teams across&hellip;",
+    "description": "Meta is seeking a data center Critical Facility Engineer to join our Data Center Facility Operations team. Our data centers serve as the foundation upon which our software operates to meet the demands of our customers. The Critical Facility Engineer will be a part of the Facility Operations team responsible for operating and maintaining critical&hellip;",
     "required_skills": [
       "devops & infrastructure"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155391-site-reliability-engineer-4",
-    "date_posted": "2026-10-15"
+    "url": "https://jobicy.com/jobs/150664-critical-facility-engineer",
+    "date_posted": "2026-10-16"
   },
   {
-    "id": "jobicy-9b65eef1854d",
-    "title": "Senior Manager, Sales Engineering - US Public Sector",
-    "company": "Recorded Future, Inc.",
+    "id": "jobicy-91dae92a1253",
+    "title": "Software Engineer (Technical Leadership)",
+    "company": "Meta",
     "location": "USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "With 1,000+ intelligence professionals serving over 1,900 clients worldwide, Recorded Future is the world’s most advanced, and largest, intelligence company! Recorded Future is seeking a technically credible, hands-on leader for the Sales Engineering team supporting our US Public Sector business. This role is ideal for a builder with deep security expertise, proven PreSales leadership, and&hellip;",
+    "description": "Meta is seeking a Software Engineer to join our engineering team. The ideal candidate will have industry experience working on a range of classification and optimization problems like payment fraud, click-through rate prediction, click-fraud detection, search ranking, text/sentiment classification, collaborative filtering/recommendation, or spam detection. The position will involve taking these skills and applying them to&hellip;",
     "required_skills": [
-      "sales"
+      "software engineering"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155390-senior-manager-sales-engineering-us-public-sector",
-    "date_posted": "2026-10-15"
+    "url": "https://jobicy.com/jobs/150665-software-engineer-technical-leadership",
+    "date_posted": "2026-10-16"
   },
   {
-    "id": "jobicy-a53180752f40",
-    "title": "Senior Director, Regional Sales (West Coast)",
-    "company": "Recorded Future, Inc.",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "With 1,000+ intelligence professionals serving over 1,900 clients worldwide, Recorded Future is the world’s most advanced, and largest, intelligence company! As a Senior Director, Regional Sales at Recorded Future, you will be a strategic, people-focused leader responsible for driving revenue growth across your region. You will lead, coach, and develop a team of Account Directors&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155388-senior-director-regional-sales-west-coast",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-468b143e1950",
-    "title": "Community Engagement Lead (BrightLife Kids - SF Bay Area)",
-    "company": "Brightline",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Welcome to Brightline! We are searching for a Community Engagement Lead to join our BrightLife Kids team and drive outreach across the entire San Francisco Bay Area. You have the exciting opportunity to be a critical part in advancing the mission of the partnership with Brightline and the Children and Youth Behavioral Initiative (CYBHI). The&hellip;",
-    "required_skills": [
-      "business development"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155384-community-engagement-lead-brightlife-kids-sf-bay-area",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-7fcb40279aa1",
-    "title": "Executive Assistant to the CEO",
+    "id": "jobicy-f9ac1ef9e375",
+    "title": "Customer Solution Architect, Team Lead",
     "company": "Supabase",
-    "location": "APAC",
+    "location": "LATAM,  Canada,  USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We’re looking for an Executive Assistant to support our CEO as Supabase continues to&hellip;",
+    "description": "Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. We’re seeking a Customer Solution Architect Team Lead to captain a high-performing team of Customer Solutions Architects and help&hellip;",
+    "required_skills": [
+      "customer support & success"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/153329-customer-solution-architect-team-lead",
+    "date_posted": "2026-10-16"
+  },
+  {
+    "id": "jobicy-ea374c1a2374",
+    "title": "Partnership Director",
+    "company": "Nabla",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Nabla We are a team of entrepreneurs, clinicians and engineers committed to bringing back joy to the practice of medicine. Together with a community of clinician innovators, we’ve harnessed the best of machine learning science to develop Nabla: the leading AI assistant that’s restoring the human connection at the heart of healthcare. By streamlining&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150755-partnership-director",
+    "date_posted": "2026-10-16"
+  },
+  {
+    "id": "jobicy-0a0b22c40479",
+    "title": "Mid-Market Account Executive",
+    "company": "Nabla",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Nabla We are a team of entrepreneurs, clinicians and engineers committed to bringing back joy to the practice of medicine. Together with a community of clinician innovators, we’ve harnessed the best of machine learning science to develop Nabla: the leading AI assistant that’s restoring the human connection at the heart of healthcare. By streamlining&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150752-mid-market-account-executive",
+    "date_posted": "2026-10-16"
+  },
+  {
+    "id": "jobicy-72d7d93a4b9a",
+    "title": "Senior Product Designer",
+    "company": "Ashby",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Hi! I'm Chris, head of Product Design at Ashby.We're looking for a versatile, intrinsically motivated designer who is excited to contribute to rethinking how modern software is designed. At Ashby, you'll be part designer, part product manager, part consultant, and part design system manager (or some combination of the 4!). We do design differently&hellip;",
+    "required_skills": [
+      "creative & design"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150689-senior-product-designer",
+    "date_posted": "2026-10-16"
+  },
+  {
+    "id": "jobicy-be16095c8369",
+    "title": "Mid Market Account Executive - EMEA (French Speaking)",
+    "company": "Ashby",
+    "location": "Europe",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About AshbyWe’re building the next generation of enterprise software, starting with products that help talent leaders, recruiters, and managers unlock hiring excellenceSeries D raised in 2025, and growing ARR &gt;100% YoYHave thousands of amazing customers including OpenAI, Deliveroo, Lemonade &amp; AlanMultiple products to win both land-and-expand and material new business dealsRapidly moving up-market with no&hellip;",
+    "required_skills": [
+      "marketing & sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150688-mid-market-account-executive-emea-french-speaking",
+    "date_posted": "2026-10-16"
+  },
+  {
+    "id": "jobicy-c2cc218680d8",
+    "title": "Finance Operations",
+    "company": "Kalshi",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "What We're Up To Kalshi has defined a new category: prediction markets. Kalshi allows people to trade on the outcome of any events and turn any question about the future into a financial asset. Kalshi fought for years and legalized prediction markets in the US for the first time in history. Kalshi is currently the&hellip;",
+    "required_skills": [
+      "finance & accounting"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150744-finance-operations",
+    "date_posted": "2026-10-16"
+  },
+  {
+    "id": "jobicy-54bf5ac2769a",
+    "title": "Account Executive, New Business (Mid-Market)",
+    "company": "Apollo.io",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Apollo.io is the leading go-to-market solution for revenue teams, trusted by over 500,000 companies and millions of users globally, from rapidly growing startups to some of the world's largest enterprises. Founded in 2015, the company is one of the fastest growing companies in SaaS, raising approximately $250 million to date and valued at $1.6 billion.&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150713-account-executive-new-business-mid-market",
+    "date_posted": "2026-10-16"
+  },
+  {
+    "id": "jobicy-0eb4d213e889",
+    "title": "Part-Time Virtual Travel Assistant & Affiliate Recruiter Management (A)",
+    "company": "The Flex",
+    "location": "Europe",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "We seek a detail-oriented and proactive Virtual Assistant &amp; Affiliate Recruiter to manage reviews across various Online Travel Agencies (OTAs) and our market exposure. Responsibilities:1. Travel Booking &amp; Management:Book accommodations, flights, and other travel-related services on platforms like Airbnb, Booking.com, Expedia, and others.Ensure all bookings align with client preferences, budgets, and schedules.Manage reservations, modifications, and&hellip;",
     "required_skills": [
       "admin & virtual assistance"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155393-executive-assistant-to-the-ceo-3",
-    "date_posted": "2026-10-15"
+    "url": "https://jobicy.com/jobs/150697-part-time-virtual-travel-assistant-affiliate-recruiter-management-a",
+    "date_posted": "2026-10-16"
   },
   {
-    "id": "jobicy-d588dcc1d5c9",
-    "title": "Strategic Alliance Director",
-    "company": "Actian",
+    "id": "jobicy-c05482e4a804",
+    "title": "Account Executive - Essex/Middlesex, MA Region (Entry Level)",
+    "company": "Quadient",
     "location": "USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Actian is the leader in hybrid data management, cloud data warehouse, and data integration technology. We're experiencing exponential growth and expanding our go-to-market engine through strategic partnerships. We're seeking a Strategic Alliance Director to build and scale 6-8 NA consulting/SI partners as a primary revenue engine. Own the end-to-end partner lifecycle: selection, onboarding, GTM strategy,&hellip;",
-    "required_skills": [
-      "business development"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155387-strategic-alliance-director",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-1cb2886a8dbe",
-    "title": "Platform Engineer, Managed Postgres",
-    "company": "Supabase",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We are seeking a Platform Software Engineer with deep experience in distributed systems to&hellip;",
-    "required_skills": [
-      "devops & infrastructure"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155389-platform-engineer-managed-postgres",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-e689d1ddf3c6",
-    "title": "Sales Development Representative",
-    "company": "Chili Piper",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Chili Piper Chili Piper is a B2B SaaS company that helps GTM teams turn inbound leads into qualified meetings - instantly. Our Demand Conversion Platform makes it easier for buyers and sellers to connect fast, without the usual friction in the funnel. We’re a fully remote, global team that loves building solutions that truly&hellip;",
+    "description": "Company DescriptionAt Quadient, we support businesses of all sizes in their digital transformation and growth journey, unlocking operational efficiency with reliable, secure, and sustainable automation processes.Our success in delivering innovation and business growth is inspired by the connections our diverse teams create every day, with our clients and each other.It’s these connections that make Quadient&hellip;",
     "required_skills": [
       "sales"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155386-sales-development-representative-8",
-    "date_posted": "2026-10-15"
+    "url": "https://jobicy.com/jobs/150671-account-executive-essex-middlesex-ma-region-entry-level",
+    "date_posted": "2026-10-16"
   },
   {
-    "id": "jobicy-9591dfde8ec8",
-    "title": "AI Platform Engineer",
-    "company": "Supabase",
-    "location": "Anywhere",
+    "id": "remotive-d66213cd8bc0",
+    "title": "Tech Lead Full-Stack Rails Engineer",
+    "company": "Mitre Media",
+    "location": "USA, Canada, USA timezones",
     "remote": true,
     "location_restriction": null,
-    "salary": null,
-    "description": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We are hiring a AI Platform Engineer to build the execution layer for Supabase's&hellip;",
+    "salary": "$170k - $200k",
+    "description": "About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we’ve served individual investors, financial advisors, and top asset managers like BlackRock and Vanguard through our premium data, tools, and advertising solutions. Join our lean, entrepreneurial team to shape the future of AI-powered investing from your location ±3 hours from Eastern Time. Our users are deeply engaged, spending over 5 minutes per visit with a bounce rate below 10%, researching investments across hundreds of different categories. With 40 million brokerage accounts in the U.S., we take pride in building tools that make a real impact, fostering a culture of trust, innovation, and dynamism. If you’re passionate about financial technology and AI, we’d love to connect! About the Role As a Full-Stack Rails Tech Lead, you’ll architect and implement LLM-powered web applications within our microservices-based Rails 8 platform. Reporting directly to our CTO, you’ll collaborate with a small, high-impact team to deliver user experiences across Dividend.com, MutualFunds.com and other brands within our portfolio. This role combines expert Ruby on Rails skills with AI integration expertise, requiring you to leverage LLMs in your development workflow, state management and user interactions. You’ll work in a remote-first hybrid environment, which encourages in person collaboration, using ShapeUp to manage projects that trade-off on-time delivery for de-scoped outcomes. As a technical leader, you'll have a seat at the table shaping system architecture, implementing core features all while embracing an entrepreneurial mindset and a “get things done” mentality. Responsibilities Architect and maintain Rails applications (Rails 8) Integrate LLMs into our microservices architecture for state management and real-time user experiences. Enhance front-end experiences with Hotwire, StimulusJS, or React, ensuring seamless AI-driven interactions. Optimize LLM inference for low latency and cost, using caching and asynchronous processing. Required Technical Skills Back-End Ruby (5+ years, expert-level) Ruby on Rails (Rails 6-8 preferred) PostgreSQL (or MySQL) Elasticsearch Redis Docker Front-End StimulusJS or JavaScript ES6 Tailwind CSS HTML HTTP AI Integration Experience integrating AI/ML models (e.g., LLMs, NLP) with web applications Familiarity with LLM frameworks (e.g., LangChain, Hugging Face) or APIs (e.g., xAI, Anthropic) Nice-to-Have Technical Skills Kubernetes for microservices orchestration React for advanced front-end components Graph databases for complex financial data Contributions to open-source RoR or AI projects Required Soft Skills Entrepreneurial mindset with a passion for AI and FinTech Natural leader who mentors and inspires teammates Problem-solver with a “get things done” mentality Excellent communication, thriving in remote and cross-team collaboration Attention to detail, ensuring clean, maintainable code Team player comfortable as an individual contributor Why Join Us? Impactful Work : Build AI-powered tools that help millions of investors make informed decisions from data-driven insights. Cutting-Edge Tech : Work with Rails 8, LLMs, and modern tools like Hotwire, Databricks, and xAI’s API in a microservices architecture. Autonomy and Influence : Collaborate directly with our CEO and CTO to shape our AI-driven platform, with freedom to innovate. Competitive Compensation : $160,000–$200,000 CAD/USD (based on experience) and benefits. Remote Flexibility : Remote-first (±3 hours from ET) with hybrid in office collaboration in Toronto or NYC Growth Opportunities : Budget for AI and Rails conferences (e.g., NeurIPS, RailsConf), plus access to cutting-edge AI tools for experimentation. Dynamic Culture : Join a small, no-ego team passionate about trust, innovation, and making a difference in FinTech. About Mitre Media’s AI-Driven Platform Mitre Media powers premium financial brands like Dividend.com and MutualFunds.com with the Mitre Platform. This platform integrates traditional content management, financial data, first-party data, ad revenue, and subscription tools, all enhanced by LLMs for rich, user-focused experiences. Our data-derived insights delight users, while our advertising solutions deliver unmatched performance for partners like BlackRock and Vanguard, leveraging advanced targeting and first-party data. How to Apply Submit your resume, GitHub profile, and a brief note on why you’re excited about building AI-driven FinTech to jobs@mitremedia.com.",
     "required_skills": [
-      "software engineering"
+      "api",
+      "css",
+      "docker",
+      "elasticsearch",
+      "fullstack",
+      "html",
+      "javascript",
+      "kubernetes",
+      "postgresql",
+      "react",
+      "ror",
+      "ruby/rails",
+      "ai/ml",
+      "cad",
+      "advertising",
+      "redis",
+      "es6",
+      "web applications",
+      "mysql",
+      "nlp",
+      "fintech",
+      "micro services",
+      "github",
+      "system architecture"
     ],
     "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155385-ai-platform-engineer",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-b74945a3eb5d",
-    "title": "Principal GSI Partner Manager - Accenture (EMEA)",
-    "company": "Datadog",
-    "location": "UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "We are looking for an experienced Partner Sales Manager to ignite partnerships by identifying and recruiting new partners for long-term success and nurture ongoing relationships with key strategic Global Systems Integrator partners. Our ultimate goal is building channels and alliances that drive new customer adoption and revenue. This is a great opportunity for you to&hellip;",
-    "required_skills": [
-      "business development"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155382-principal-gsi-partner-manager-accenture-emea",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-2cd4737da5ca",
-    "title": "Senior Software Engineer - Full Stack",
-    "company": "Tripadvisor",
-    "location": "Poland,  Portugal,  UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Senior Software Engineer About Tripadvisor The Tripadvisor Group connects people to experiences worth sharing, and aims to be the world’s most trusted source for travel and experiences. We leverage our brands, technology, and capabilities to connect our global audience with partners through rich content, travel guidance, and two-sided marketplaces for experiences, accommodations, restaurants, and other&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155381-senior-software-engineer-full-stack",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-f0c0de733e86",
-    "title": "Trust & Safety Product Manager (Full Remote - Ireland)",
-    "company": "EverAI",
-    "location": "Ireland",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Our Vision &amp; Products EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI, we’re shaping what it means to connect with AI. With 50 million users&hellip;",
-    "required_skills": [
-      "product & operations"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155380-trust-safety-product-manager-full-remote-ireland",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-4533e53481af",
-    "title": "Trust & Safety Product Manager (Full Remote - France)",
-    "company": "EverAI",
-    "location": "France",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Our Vision &amp; Products EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI, we’re shaping what it means to connect with AI. With 50 million users&hellip;",
-    "required_skills": [
-      "product & operations"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155378-trust-safety-product-manager-full-remote-france",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-e0de0009f066",
-    "title": "Solutions Architect f/m/d",
-    "company": "Apaleo",
-    "location": "France",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Apaleo is the world’s most open, API-first property management platform powering the next generation of hospitality operations. Its modular, AI-powered infrastructure enables hoteliers to customise their tech stack, automate routine work, and deliver seamless, personalised guest experiences, powered by best-in-class apps and autonomous AI agents that adapt to every stay. Why this role You are&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155375-solutions-architect-f-m-d",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-86e0f75271df",
-    "title": "Trust & Safety Product Manager (Full Remote - Germany)",
-    "company": "EverAI",
-    "location": "Germany",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Our Vision &amp; Products EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI, we’re shaping what it means to connect with AI. With 50 million users&hellip;",
-    "required_skills": [
-      "product & operations"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155374-trust-safety-product-manager-full-remote-germany",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-5760a6313f5b",
-    "title": "Senior Software Engineer - Full Stack/Front-end focused",
-    "company": "Tripadvisor",
-    "location": "Poland,  Portugal,  UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Senior Software Engineer About Tripadvisor The Tripadvisor Group connects people to experiences worth sharing, and aims to be the world’s most trusted source for travel and experiences. We leverage our brands, technology, and capabilities to connect our global audience with partners through rich content, travel guidance, and two-sided marketplaces for experiences, accommodations, restaurants, and other&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155383-senior-software-engineer-full-stack-front-end-focused",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-f04a7854686f",
-    "title": "Principal Software Engineer (Experiences)",
-    "company": "Tripadvisor",
-    "location": "Poland",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Tripadvisor The Tripadvisor Group connects people to experiences worth sharing, and aims to be the world’s most trusted source for travel and experiences. We leverage our brands, technology, and capabilities to connect our global audience with partners through rich content, travel guidance, and two-sided marketplaces for experiences, accommodations, restaurants, and other travel categories. The&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155377-principal-software-engineer-experiences-2",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-b7dd84ad6070",
-    "title": "Senior People Solutions Analyst",
-    "company": "Collibra",
-    "location": "Poland",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Joining Collibra's People Solutions team This is a fixed-term contract role running through January 2028, covering a colleague's leave of absence, and you'll be stepping into meaningful ownership from day one You'll report to the Senior Manager, People Solutions, and own day-to-day configuration and support of core Workday HCM modules for our global workforce Values&hellip;",
-    "required_skills": [
-      "hr & recruiting"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155376-senior-people-solutions-analyst",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-073d6c9ae3f5",
-    "title": "Senior Software Engineer (Android)",
-    "company": "Tripadvisor",
-    "location": "UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Tripadvisor The Tripadvisor Group connects people to experiences worth sharing, and aims to be the world’s most trusted source for travel and experiences. We leverage our brands, technology, and capabilities to connect our global audience with partners through rich content, travel guidance, and two-sided marketplaces for experiences, accommodations, restaurants, and other travel categories. The&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155379-senior-software-engineer-android",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-de1f62de1d73",
-    "title": "Senior Counsel, EMEA Employment",
-    "company": "Veeam Software",
-    "location": "UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security,&hellip;",
-    "required_skills": [
-      "legal & compliance"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155370-senior-counsel-emea-employment",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-70d9dbbff3f7",
-    "title": "Systems Engineer Belgium & Luxembourg",
-    "company": "Veeam Software",
-    "location": "Belgium",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security,&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155372-systems-engineer-belgium-luxembourg",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-c6ed5d0b0ebd",
-    "title": "Customer Success Renewals Representative with German",
-    "company": "Veeam Software",
-    "location": "Poland",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security,&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155367-customer-success-renewals-representative-with-german",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-2057d332259e",
-    "title": "Senior Demand Generation Manager - International",
-    "company": "Tremendous",
-    "location": "Ireland,  Portugal,  UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Tremendous is the global platform built for businesses to send thousands of payouts to anyone, anywhere, for free. We're trusted by 20,000 organizations like Atlassian, MIT, and United Way to deliver gift cards and money to millions of recipients worldwide. Our customers (researchers, marketers, HR teams, nonprofits, and platform businesses) rave about how fast and&hellip;",
-    "required_skills": [
-      "marketing & sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155366-senior-demand-generation-manager-international",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-a7eb98d60a8a",
-    "title": "Technical Account Manager",
-    "company": "Veeam Software",
-    "location": "France",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security,&hellip;",
-    "required_skills": [
-      "project & program management"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155373-technical-account-manager-6",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-93a1e7df0548",
-    "title": "Solutions Engineer, Veeam Data Cloud Vault",
-    "company": "Veeam Software",
-    "location": "France",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security,&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155371-solutions-engineer-veeam-data-cloud-vault",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-5897c61cd123",
-    "title": "Senior Account Executive, Enterprise (Private Accounts)",
-    "company": "Veeam Software",
-    "location": "Germany",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security,&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155369-senior-account-executive-enterprise-private-accounts",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-91f4cbe290ab",
-    "title": "Customer Success Engineer",
-    "company": "Veeam Software",
-    "location": "Germany",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security,&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155364-customer-success-engineer-6",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-187a0c67e160",
-    "title": "Sales Engineer - Data & AI Security",
-    "company": "Veeam Software",
-    "location": "Spain",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security,&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155368-sales-engineer-data-ai-security",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-fcb2ae620bcd",
-    "title": "Manager, Talent Partner (HR Business Partner)  - Belfast Remote",
-    "company": "Axiom",
-    "location": "Ireland,  UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Closing date: Wednesday, 21st of October *remote working role* Must be based within Northern Ireland. About Axiom: Axiom, a leading global marketplace for on-demand corporate legal talent, is leading the revolution of who does the work in the legal industry. The Axiom model disrupts the traditional allocation of work to law firms and in-house teams.&hellip;",
-    "required_skills": [
-      "hr & recruiting"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155365-manager-talent-partner-hr-business-partner-belfast-remote-2",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-535067d3e913",
-    "title": "Senior Site Reliability Engineer for Fuse team",
-    "company": "Bloomreach",
-    "location": "Czechia,  Slovakia",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Bloomreach is building the world’s premier agentic platform for personalization.We’re revolutionizing how businesses connect with their customers, building and deploying AI agents to personalize the entire customer journey. We're taking autonomous search mainstream, making product discovery more intuitive and conversational for customers, and more profitable for businesses. We’re making conversational shopping a reality, connecting every&hellip;",
-    "required_skills": [
-      "devops & infrastructure"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155362-senior-site-reliability-engineer-for-fuse-team",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-616509a366c9",
-    "title": "Senior Platform Engineer",
-    "company": "Fleetio",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "A little about us…Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations. Transportation technology is a hot market, and we’re leading the charge with raving fans and new customers signing up every day. We raised $450M in our Series D funding round in March of 2025 and are&hellip;",
-    "required_skills": [
-      "devops & infrastructure"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155361-senior-platform-engineer-5",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-d62224c16532",
-    "title": "Senior Incident & Problem Manager",
-    "company": "Bloomreach",
-    "location": "Czechia,  Slovakia",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Bloomreach is building the world’s premier agentic platform for personalization.We’re revolutionizing how businesses connect with their customers, building and deploying AI agents to personalize the entire customer journey. We're taking autonomous search mainstream, making product discovery more intuitive and conversational for customers, and more profitable for businesses. We’re making conversational shopping a reality, connecting every&hellip;",
-    "required_skills": [
-      "product & operations"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155359-senior-incident-problem-manager",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-b02dd52c2d6e",
-    "title": "Senior Lifecycle Marketing Manager",
-    "company": "Fleetio",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "A little about us…Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations. Transportation technology is a hot market, and we’re leading the charge with raving fans and new customers signing up every day. We raised $450M in our Series D funding round in March of 2025 and are&hellip;",
-    "required_skills": [
-      "marketing & sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155360-senior-lifecycle-marketing-manager-3",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-fb424da77ffd",
-    "title": "Senior Revenue Operations Analyst",
-    "company": "Fleetio",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "A little about us…Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations. Transportation technology is a hot market, and we’re leading the charge with raving fans and new customers signing up every day. We raised $450M in our Series D funding round in March of 2025 and are&hellip;",
-    "required_skills": [
-      "product & operations"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155363-senior-revenue-operations-analyst-2",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-5489f6adfc70",
-    "title": "Senior GTM Systems Administrator",
-    "company": "Fleetio",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "A little about us…Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations. Transportation technology is a hot market, and we’re leading the charge with raving fans and new customers signing up every day. We raised $450M in our Series D funding round in March of 2025 and are&hellip;",
-    "required_skills": [
-      "product & operations"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155358-senior-gtm-systems-administrator",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-6046c02efbe6",
-    "title": "Senior Field Marketing Manager",
-    "company": "Fleetio",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "A little about us…Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations. Transportation technology is a hot market, and we’re leading the charge with raving fans and new customers signing up every day. We raised $450M in our Series D funding round in March of 2025 and are&hellip;",
-    "required_skills": [
-      "marketing & sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155356-senior-field-marketing-manager",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-9a2de3151150",
-    "title": "Senior Director, Brand Marketing",
-    "company": "Fleetio",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "A little about us…Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations. Transportation technology is a hot market, and we’re leading the charge with raving fans and new customers signing up every day. We raised $450M in our Series D funding round in March of 2025 and are&hellip;",
-    "required_skills": [
-      "marketing & sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155355-senior-director-brand-marketing",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-5e92ee97d4f8",
-    "title": "Partner Development Manager",
-    "company": "Fleetio",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "A little about us…Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations. Transportation technology is a hot market, and we’re leading the charge with raving fans and new customers signing up every day. We raised $450M in our Series D funding round in March of 2025 and are&hellip;",
-    "required_skills": [
-      "business development"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155354-partner-development-manager-2",
-    "date_posted": "2026-10-15"
-  },
-  {
-    "id": "jobicy-c25824cd9a53",
-    "title": "Senior Forward Deployed Engineer",
-    "company": "Fleetio",
-    "location": "Canada,  Mexico,  USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "A little about us…Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations. Transportation technology is a hot market, and we’re leading the charge with raving fans and new customers signing up every day. We raised $450M in our Series D funding round in March of 2025 and are&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155357-senior-forward-deployed-engineer-2",
-    "date_posted": "2026-10-15"
+    "source": "Remotive",
+    "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+    "date_posted": "2026-10-14"
   },
   {
     "id": "remotive-3b763d0bbece",
@@ -1395,218 +1435,130 @@
     "date_posted": "2026-09-16"
   },
   {
-    "id": "arbeitnow-5da8f5e97729",
-    "title": "Senior Engagement Manager",
-    "company": "Clickup",
-    "location": "Remote",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring process. Join us and help redefine what's possible. 🚀 Engagement Management is a new and fast-growing practice at ClickUp, and it's quickly becoming central to how we serve our enterprise customers. Our EMs bring program leadership, service delivery and change management together in one role. As a ClickUp Senior Engagement Manager you will lead the formation and orchestration of post-sale strategy and execution for the company’s largest and most strategic clients. We're looking for someone hungry, who excels in building, and who takes genuine pride in the quality of their work. Here, Engagement Managers are the single point of accountability for outcomes. You own everything between the contract being signed and the client seeing measurable results: what was sold gets delivered, on time and on margin, and we can prove it worked. You'll lead enterprise SaaS implementations across the full engagement lifecycle, from shaping scope in pre-sales, mobilizing the team and delivery, go-live, stabilization and a clean handover to the account team. You'll run work-stream programs with Paid TAMs, AI specialists, Product and Engineering, and the client's own project team, and you'll be the trusted advisor to the client's executive sponsor. Simply put: you are the single point of accountability for delivery, the client's partner in getting value from ClickUp, and a thought leader for how we deliver. Your role Stakeholder Management Serve as the primary client contact for delivery Build strong relationships with stakeholders while ensuring delivery remains aligned to client objectives and contractual commitments. Build trusted relationships with client executive sponsors and program leads at VP and C-level, acting as their primary point of contact for delivery. Navigate complex enterprise stakeholder environments and competing priorities across client functions (IT, PMO, business sponsors, procurement) and broker alignment when they conflict. Project Delivery Oversight Deliver engagements against agreed scope, schedule, hours budget and quality, using rigorous change control to protect timelines and delivery margin. Translate customer business requirements into internal deliverables and milestones Own engagement governance, including kickoffs, weekly working sessions, sponsor check-ins and SteerCos, and provide clear, concise status reporting to clients and internal stakeholders. Lead and coordinate multidisciplinary teams, fostering a collaborative, accountable and high-performing delivery culture while providing coaching, direction and support. Proactively manage risks, issues and dependencies through the RAID log, and act as the primary escalation point. Manage engagement financials, including hours burn, forecasting, utilisation and margin, flagging overrun risk early and agreeing recovery plans. Drive AI adoption Guide clients from manual workflows to AI-assisted and agent-driven operations, and own post-go-live adoption outcomes. Drive Value and Business Outcomes Identify expansion opportunities through delivery and co-sell with Account Executives, bringing the delivery credibility that secures follow-on work. Establish a value baseline before configuration begins, track benefits through go-live, and produce the value assessment that underpins renewal and expansion. Governance Design and run governance mechanisms Track delivery efficacy, timelines, value realization and customer experience Create continuous-improvement mechanisms Change Management &amp; Communication Own communications around delivery status, risks and outcomes Manage escalation and communication across customer/internal teams Assess change readiness and resistance across impacted teams; build sponsor and champion networks to carry the rollout. Design the communications and enablement plan with the client, and sequence go-live to match the organization's capacity for change. Role Development Contribute to building the Engagement Management practice by iterating on templates, playbooks and AI workflows that make every engagement faster and more consistent. Your skills and experience 5+ years of software and/or services delivery experience, with at least 2 years as the accountable project, program or engagement lead. Proven track record taking enterprise SaaS deployments from kickoff through go-live and into adoption, ideally in work management, PSA, CRM, ITSM or collaboration platforms. Strong grasp of SaaS implementation fundamentals: workspace and data architecture, permissions and SSO, integrations, data migration, change management and enablement. No coding required, but you can challenge an unrealistic technical scope. Comfortable with Agile, Waterfall and hybrid delivery, and knowing which one the client actually needs. Commercial acumen: you've managed engagement budgets, SoWs, change requests and margin, and you know when to push for expansion vs when to stabilize. Executive presence: you can run a SteerCo, deliver bad news early with a recovery plan, and hold a line on scope with a CIO in the room. Experience leading cross-functional and distributed teams you don't directly manage, across client, partner and internal resources. Strategic judgment to separate genuine product gaps from client process or training gaps. Hands-on with AI: you already use AI to work faster, and you can credibly advise clients on where agents and automation fit. Excellent written and verbal communication. Status reports people actually read. Nice to have: Experience in work management or SaaS software, professional services firms, agencies or regulated industries. PMP Certification. What you'll love about working here Impact: Lead high-visibility enterprise engagements with global brands, and see the result in their day-to-day work. Build something: Engagement Management is a new function. You'll help define the methodology, tooling and AI workflows that become the standard. AI at the centre: Work on the frontier of AI-driven work management, with ClickUp Brain and Super Agents in your own delivery toolkit. Career growth: A clear path from Engagement Manager to Senior or Principal Engagement Manager. Community: Learn alongside Paid TAMs, AI specialists and delivery leaders across EMEA and NA. Equal Opportunity Employer ClickUp is an Equal Opportunity Employer, and qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin. Privacy Notice ClickUp collects and processes personal data in accordance with applicable data protection laws. You can find further details by viewing our Global Candidate Privacy Notice. If you are a Philippine Job Applicant, please also see our Philippine Data Privacy Notice for further details. Visa Sponsorship Please note we are unable to sponsor or take over sponsorship of an employment visa for roles outside of engineering and product at this time. Sponsorship for engineering and product roles is not guaranteed, but is instead based on the business needs for that specific role at that time. Please reach out to the recruiter with any questions. Fraud Alert ClickUp Talent Acquisition will only initiate contact via an @ clickup.com email or through our official careers portal on clickup.com . We will never request fees, payments, or sensitive personal information. Please disregard any offers received outside these channels and report them to ----- style=\"min-height:1.5em\"> AI Processing Notice ClickUp may use artificial intelligence and machine learning technologies to help review and screen candidates' employment applications against role-related criteria. These tools support, but do not replace, human decision‑making. If you have questions or need an accommodation in the recruitment process, please contact us at ----- $110K – $150K • $110K – $150K Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "customer experience"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/clickup/remote-senior-engagement-manager-214193",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-bcf702838190",
-    "title": "Bankkaufmann/-frau - als Kreditspezialist im Homeoffice (m/w/d)",
-    "company": "Smava GmbH",
+    "id": "arbeitnow-e1b022f6abea",
+    "title": "Founding Engineer (Remote - EEA/UK)",
+    "company": "Tarebase",
     "location": "Berlin",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Hey hey Bankkaufleute! Bankausbildung abgeschlossen, aber keine Lust mehr auf nur eine Bank, Anzugpflicht oder Krawatte? Dann komm zu smava und wähle für deine Kund*innen die Bank aus, die am besten zu ihnen passt und trage dabei jederzeit dein Lieblingsoutfit! Ob Urlaub, Auto oder neue Möbel - smava hilft bei der Finanzierung vieler Wünsche und vermittelt als Online - Vergleichsportal Kredite zwischen Kund*in und Partnerbank. Wir machen Kredite transparent, fair und günstig. Unsere Kund*innen freuen sich auf deine telefonische Beratung zu ihren individuellen Kreditwünschen. Dich erwartet eine lockere und offene Arbeitsatmosphäre mit flachen Hierarchien und guten Verdienstmöglichkeiten. Zur Verstärkung unseres Vertriebsteams mit knapp 100 Finanzprofis suchen wir dich ab sofort in Vollzeit als: Bankkaufmann/-frau - als Kreditspezialist im Homeoffice (m/w/d) Das machst du bei uns Du bist die erste Ansprechperson für unsere Kund*innen und berätst diese telefonisch und schriftlich beim Kreditvergleich Du betreust unsere Kund*innen vom Erstkontakt bis hin zum Vertragsabschluss und supportest sie dabei in allen Phasen Mit deinem Gespür und einer guten Bedarfsanalyse findest du heraus, was dein*e Kund*innen wirklich brauchen und verhilfst zum optimalen Kreditangebot Unterstütze unsere Kund*innen dabei, ihre Wünsche zu erfüllen, und das ganz ohne Kaltakquise, denn all unsere Kund*innen haben ihre Daten aktiv bei uns hinterlassen. Mit unseren modernen Kommunikationstools und den digitalen Abschlussmöglichkeiten unserer Partner steht einem effizienten Arbeitsalltag nichts entgegen. Das bist du Du konntest bereits erste Erfahrungen im Vertrieb oder im Kundenkontakt sammeln (z.B. Vertrieb, Sales, Telesales oder Verkauf) Du bist ein Kommunikationstalent und überzeugst durch deine offene und professionelle Art am Telefon Du zeichnest dich durch eine hohe Zuverlässigkeit und eine engagierte Arbeitsweise aus Du hast Lust dich weiterzuentwickeln , bringst viel Motivation mit und möchtest gemeinsam mit uns durchstarten Du verfügst idealerweise über eine abgeschlossene kaufmännische Ausbildung Dein Einstieg im Vertrieb bei smava Du hast Lust, mit uns durchzustarten und dich beruflich weiterzuentwickeln? Wir fördern dein Potenzial und unterstützen dich bei der Entwicklung zum Vertriebsprofi bei smava Durch unsere umfassende Einarbeitung erwirbst du alle nötigen Kenntnisse im Bereich Kreditberatung & Vertrieb Unser erfahrenes Team unterstützt dich von Beginn an durch umfangreiches Coaching und hilft dir dabei dich im Vertrieb selbst zu verwirklichen Das bieten wir dir “smava sorgt dafür, dass wir uns rundum wohl fühlen“ - Marcel M. (Kreditspezialist) Deine Motivation wird bei uns belohnt: Profitiere von unserem Gehaltsmodell mit ungedeckelter Provision! Interne Karriereprogramme, Weiterbildungsmöglichkeiten und Coaching Angebote unterstützen dich bei deiner beruflichen Entwicklung Work-Life-Balance: Genieße die Flexibilität, zu 100% deutschlandweit im Homeoffice zu arbeiten. Du wohnst in Berlin oder Hamburg? Auch für dich haben wir drei Tage Homeoffice: Mit einem Hybridmodell schaffen wir die perfekte Balance zwischen Fokuszeit und Team-Spirit in unseren modernen Büros vor Ort. Deine Einarbeitung erfolgt vollständig digital , und wir kümmern uns um die unkomplizierte Zusendung des benötigten Equipments vor Jobbeginn. Für deine Erholung gibt es 30 Tage Urlaub, Eltern profitieren von 10-Kind Krank Tagen zusätzlich zum gesetzlichen Anspruch Für deine körperliche und mentale Gesundheit gibt es Kooperationen mit Sportanbietern Wir setzen uns für ein diverses und inklusives Umfeld ein. Gemeinsam als ein Team aus über 50 Nationen mit unseren verschiedenen Fähigkeiten, Ideen und Erfahrungen arbeiten wir aktiv daran, Vielfalt im Unternehmen zu repräsentieren. Worauf wartest du noch? Du findest uns super und bewirbst dich deswegen in nur 2 Minuten! Lade hierzu einfach deinen Lebenslauf hoch (vorzugsweise als PDF-Datei) und wir melden uns innerhalb von wenigen Tagen zurück. Bewerbungen werden ausschließlich über das Bewerbungsformular angenommen. Ich freue mich auf deine Bewerbung! ☺️ Anne Stoye Bei smava stehen wir für Vielfalt und schaffen ein Umfeld, das eine Vielzahl von Perspektiven, Fähigkeiten und Backgrounds repräsentiert. Wir setzen uns für gleiche Beschäftigungs- und Entwicklungschancen ein, unabhängig vom Geschlecht oder der Geschlechtsidentität, Religion, Alter, sexueller Orientierung, Hautfarbe, Beeinträchtigung, Kultur oder Herkunftsland. Find Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "credit analysis"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/smava-gmbh/bankkaufmann-frau-als-kreditspezialist-im-homeoffice-berlin-57091",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-b7268a6e5626",
-    "title": "Call Center Agent - Kreditabsicherung im Homeoffice (w/m/d) ",
-    "company": "Smava GmbH",
-    "location": "Berlin",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Hey hey Kommunikationsprofi – wir suchen dich! Ob Urlaub, Auto oder neue Möbel - smava hilft bei der Finanzierung vieler Wünsche und vermittelt als Online - Vergleichsportal Kredite zwischen Kund*in und Partnerbank. Wir machen Kredite transparent, fair und günstig. Auch du willst aktiv zur Erfüllung der Kund*innenwünsche beitragen? Unsere Kund*innen freuen sich auf deine telefonische Beratung zum Einkommensschutz. Dich erwartet eigenverantwortliches Arbeiten in einer lockeren und familiäre Arbeitsatmosphäre mit flachen Hierarchien. Zur Verstärkung unseres Vertriebsteams mit knapp 40 Vertriebler*innen aus den verschiedensten Bereichen suchen wir dich in Vollzeit als: Call Center Agent - Kreditabsicherung im Homeoffice (w/m/d) So sieht dein Team aus: Gemeinsam mit deinen zukünftigen Kolleg*innen berätst du unsere Kund*innen rund um das Thema Kreditabsicherung nach Kreditabschluss. Dabei berücksichtigst du die individuellen Wünsche unserer Kund*innen und ermöglicht eine hohe Kundenzufriedenheit durch eine hohe Serviceorientierung. Bei uns erwartet dich eine offene Kultur mit flachen Hierarchien, ein starkes Team und genügend Raum, um dich selbst mit einbringen zu können. Das machst du bei uns Wenn es um die Absicherung der vermittelten Ratenkredite geht, bist du Expert*in für unsere Kund*innen und berätst diese telefonisch zu den entsprechenden Versicherungsprodukten Du ermittelst den individuellen Bedarf deiner Kund*innen und unterstützt sie mit maßgeschneiderten Lösungen mit Hilfe unserer internen Systeme Dabei berücksichtigst du die individuellen Wünsche unserer Kund*innen und ermöglichst eine hohe Kundenzufriedenheit durch eine hohe Serviceorientierung Hier handelt es sich um keine Kaltakquise - alle deine Kund*innen freuen sich auf deine telefonische Beratung Mit unserer modernen Kommunikationstools und den digitalen Abschlussmöglichkeiten unserer Partner steht einem effizienten Arbeitsalltag nichts entgegen Das bringst du mit Du konntest bereits erste Erfahrungen im Vertrieb oder im Kundenkontakt sammeln (z.B. Vertrieb, Sales oder Telesales) Du bist serviceorientiert und bringst eine große Leidenschaft für Kredite mit Du bist ein Kommunikationstalent und überzeugst durch deine offene und professionelle Art am Telefon Du zeichnest dich durch eine hohe Zuverlässigkeit und eine engagierte Arbeitsweise aus Du hast Lust dich weiterzuentwickeln , bringst viel Motivation mit und möchtest gemeinsam mit uns durchstarten Du verfügst idealerweise über eine abgeschlossene kaufmännische Ausbildung Dein Einstieg im Vertrieb bei smava Du hast Lust, mit uns durchzustarten und dich beruflich weiterzuentwickeln? Wir fördern dein Potenzial und unterstützen dich bei der Entwicklung zum Vertriebsprofi bei smava Durch unsere umfassende Einarbeitung erwirbst du alle nötigen Kenntnisse im Bereich Vertrieb Unser erfahrenes Team unterstützt dich von Beginn an und hilft dir dabei dich selbst zu verwirklichen Das bieten wir dir Deine Motivation wird bei uns belohnt: Profitiere von unserem Gehaltsmodell mit ungedeckelter Provision! Interne Karriereprogramme, Weiterbildungsmöglichkeiten und Coaching Angebote unterstützen dich bei deiner beruflichen Entwicklung Work-Life-Balance: Genieße die Flexibilität, zu 100% deutschlandweit im Homeoffice zu arbeiten. Deine Einarbeitung erfolgt vollständig digital , und wir kümmern uns um die unkomplizierte Zusendung des benötigten Equipments vor Jobbeginn. Für deine Erholung gibt es 30 Tage Urlaub, Eltern profitieren von 10-Kind Krank Tagen zusätzlich zum gesetzlichen Anspruch Für deine körperliche und mentale Gesundheit gibt es Kooperationen mit Sportanbietern Wir setzen uns für ein diverses und inklusives Umfeld ein. Gemeinsam als ein Team aus über 50 Nationen mit unseren verschiedenen Fähigkeiten, Ideen und Erfahrungen arbeiten wir aktiv daran, Vielfalt im Unternehmen zu repräsentieren. Worauf wartest du noch? Bewirb dich jetzt in nur 2 Minuten und unser Team meldet sich innerhalb von 72 Stunden bei dir! Bei Fragen erreichst du mich und dein Talent Acquisition Team jederzeit unter 030 – 617 48 00 142. Ich freue mich auf deine Bewerbung! ☺️ Elena Fuldner Bei smava stehen wir für Vielfalt und schaffen ein Umfeld, das eine Vielzahl von Perspektiven, Fähigkeiten und Backgrounds repräsentiert. Wir setzen uns für gleiche Beschäftigungs- und Entwicklungschancen ein, unabhängig vom Geschlecht oder der Geschlechtsidentität, Religion, Alter, sexueller Orientierung, Hautfarbe, Beeinträchtigung, Kultur oder Herkunftsland. Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "it"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/smava-gmbh/call-center-agent-kreditabsicherung-im-homeoffice-berlin-139231",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-31381a85e238",
-    "title": "Kundenberater - Kreditabsicherung im Homeoffice (w/m/d)",
-    "company": "Smava GmbH",
-    "location": "Berlin",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Hey hey Kommunikationsprofi – wir suchen dich! Ob Urlaub, Auto oder neue Möbel - smava hilft bei der Finanzierung vieler Wünsche und vermittelt als Online - Vergleichsportal Kredite zwischen Kund*in und Partnerbank. Wir machen Kredite transparent, fair und günstig. Auch du willst aktiv zur Erfüllung der Kund*innenwünsche beitragen? Unsere Kund*innen freuen sich auf deine telefonische Beratung zum Einkommensschutz. Dich erwartet eigenverantwortliches Arbeiten in einer lockeren und familiäre Arbeitsatmosphäre mit flachen Hierarchien. Zur Verstärkung unseres Vertriebsteams mit knapp 40 Vertriebler*innen aus den verschiedensten Bereichen suchen wir dich in Vollzeit als: Kundenberater - Kreditabsicherung im Homeoffice (w/m/d) So sieht dein Team aus: Gemeinsam mit deinen zukünftigen Kolleg*innen berätst du unsere Kund*innen rund um das Thema Kreditabsicherung nach Kreditabschluss. Dabei berücksichtigst du die individuellen Wünsche unserer Kund*innen und ermöglicht eine hohe Kundenzufriedenheit durch eine hohe Serviceorientierung. Bei uns erwartet dich eine offene Kultur mit flachen Hierarchien, ein starkes Team und genügend Raum, um dich selbst mit einbringen zu können. Das machst du bei uns Wenn es um die Absicherung der vermittelten Ratenkredite geht, bist du Expert*in für unsere Kund*innen und berätst diese telefonisch zu den entsprechenden Versicherungsprodukten Du ermittelst den individuellen Bedarf deiner Kund*innen und unterstützt sie mit maßgeschneiderten Lösungen mit Hilfe unserer internen Systeme Dabei berücksichtigst du die individuellen Wünsche unserer Kund*innen und ermöglichst eine hohe Kundenzufriedenheit durch eine hohe Serviceorientierung Hier handelt es sich um keine Kaltakquise - alle deine Kund*innen freuen sich auf deine telefonische Beratung Mit unserer modernen Kommunikationstools und den digitalen Abschlussmöglichkeiten unserer Partner steht einem effizienten Arbeitsalltag nichts entgegen Das bringst du mit Du konntest bereits erste Erfahrungen im Vertrieb oder im Kundenkontakt sammeln (z.B.Vertrieb, Sales oder Telesales) Du bist serviceorientiert und bringst eine große Leidenschaft für Kredite mit Du bist ein Kommunikationstalent und überzeugst durch deine offene und professionelle Art am Telefon Du zeichnest dich durch eine hohe Zuverlässigkeit und eine engagierte Arbeitsweise aus Du hast Lust dich weiterzuentwickeln , bringst viel Motivation mit und möchtest gemeinsam mit uns durchstarten Du verfügst idealerweise über eine abgeschlossene kaufmännische Ausbildung Dein Einstieg im Vertrieb bei smava Du hast Lust, mit uns durchzustarten und dich beruflich weiterzuentwickeln? Wir fördern dein Potenzial und unterstützen dich bei der Entwicklung zum Vertriebsprofi bei smava Durch unsere umfassende Einarbeitung erwirbst du alle nötigen Kenntnisse im Bereich Vertrieb Unser erfahrenes Team unterstützt dich von Beginn an und hilft dir dabei dich selbst zu verwirklichen Das bieten wir dir Deine Motivation wird bei uns belohnt: Profitiere von unserem Gehaltsmodell mit ungedeckelter Provision! Interne Karriereprogramme, Weiterbildungsmöglichkeiten und Coaching Angebote unterstützen dich bei deiner beruflichen Entwicklung Work-Life-Balance: Genieße die Flexibilität, zu 100% deutschlandweit im Homeoffice zu arbeiten. Deine Einarbeitung erfolgt vollständig digital , und wir kümmern uns um die unkomplizierte Zusendung des benötigten Equipments vor Jobbeginn. Für deine Erholung gibt es 30 Tage Urlaub, Eltern profitieren von 10-Kind Krank Tagen zusätzlich zum gesetzlichen Anspruch Für deine körperliche und mentale Gesundheit gibt es Kooperationen mit Sportanbietern Wir setzen uns für ein diverses und inklusives Umfeld ein. Gemeinsam als ein Team aus über 50 Nationen mit unseren verschiedenen Fähigkeiten, Ideen und Erfahrungen arbeiten wir aktiv daran, Vielfalt im Unternehmen zu repräsentieren. Worauf wartest du noch? Bewirb dich jetzt in nur 2 Minuten und unser Team meldet sich innerhalb von 72 Stunden bei dir! Bei Fragen erreichst du mich und dein Talent Acquisition Team jederzeit unter 030 – 617 48 00 142. Ich freue mich auf deine Bewerbung! ☺️ Elena Fuldner Bei smava stehen wir für Vielfalt und schaffen ein Umfeld, das eine Vielzahl von Perspektiven, Fähigkeiten und Backgrounds repräsentiert. Wir setzen uns für gleiche Beschäftigungs- und Entwicklungschancen ein, unabhängig vom Geschlecht oder der Geschlechtsidentität, Religion, Alter, sexueller Orientierung, Hautfarbe, Beeinträchtigung, Kultur oder Herkunftsland. #smavaPP Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "it"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/smava-gmbh/kundenberater-kreditabsicherung-im-homeoffice-berlin-80174",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-1f629495bb4a",
-    "title": "Vertriebsmitarbeiter Kreditvermittlung im Homeoffice (w/m/d)",
-    "company": "FFG FINANZCHECK Finanzportale GmbH",
-    "location": "Berlin",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Wir sind Finanzcheck – der Online-Kreditvergleich und Go-To-Place für Kredite in Deutschland. Wir gestalten den digitalen Kreditmarkt der Zukunft und wurden 2022 als Kununu Top Arbeitgeber ausgezeichnet. Werde jetzt Teil unserer Erfolgsgeschichte! Zur Verstärkung unseres Vertriebsteams mit knapp 100 Finanzprofis suchen wir dich ab sofort in Vollzeit als: Vertriebsmitarbeiter Kredit im Innendienst im Homeoffice (w/m/d) So sieht dein Team aus: Gemeinsam mit deinen zukünftigen Kolleg*innen berätst du unsere Kund*innen rund um das Thema Konsumentenkredite und erfüllst tagtäglich ihre größten Wünsche. Bei uns erwartet dich eine offene Kultur mit flachen Hierarchien, starken Teams und genügend Raum, um dich selbst mit einbringen zu können. Wir von FINANZCHECK.de sorgen dafür, dass all unsere Mitarbeiter*innen den für sich richtigen Platz finden, denn bei uns steht der Mensch im Mittelpunkt. Deine Rolle bei uns Du bist die erste Ansprechperson für unsere Kund*innen und berätst diese telefonisch und schriftlich beim Kreditvergleich Du begleitest deine Kund*innen vom Erstkontakt bis hin zum Vertragsabschluss und unterstützt sie dabei in allen Phasen Mit einer gründlichen Bedarfsanalyse findest du heraus, was unsere Kund*innen wirklich benötigen und hilfst ihnen, das optimale Kreditangebot zu finden Du unterstützt unsere Kunden dabei, ihre Wünsche zu erfüllen, und das ganz ohne Kaltakquise, da alle unsere Kunden aktiv ihre Daten bei uns hinterlassen haben Dank unserer modernen Kommunikationstools und den digitalen Abschlussmöglichkeiten unserer Partner steht einem effizienten Arbeitsalltag nichts im Wege Das bringst du mit Du konntest bereits erste Erfahrung im Kund*innenkontakt sammeln (z.B. Vertrieb, Sales, Telesales oder Verkauf) Du bist ein Kommunikationstalent und überzeugst durch deine offene und professionelle Art am Telefon Du zeichnest dich durch eine hohe Zuverlässigkeit und eine engagierte Arbeitsweise aus Du hast Lust dich weiterzuentwickeln , bringst viel Motivation mit und möchtest gemeinsam mit uns durchstarten Deutsch beherrschst du fließend in Wort und Schrift Du verfügst idealerweise über eine abgeschlossene kaufmännische Ausbildung Dein Einstieg im Vertrieb bei Finanzcheck Du hast Lust, mit uns durchzustarten und dich beruflich weiterzuentwickeln? Wir fördern dein Potenzial und unterstützen dich bei der Entwicklung zum Vertriebsprofi bei Finanzcheck Durch unsere umfassende Einarbeitung erwirbst du alle nötigen Kenntnisse im Bereich Kreditberatung & Vertrieb Unser erfahrenes Team unterstützt dich von Beginn an durch umfangreiches Coaching und hilft dir dabei dich im Vertrieb selbst zu verwirklichen Das bieten wir dir Deine Motivation wird bei uns belohnt: Profitiere von unserem Gehaltsmodell mit ungedeckelter Provision! Interne Karriereprogramme, Weiterbildungsmöglichkeiten und Coaching Angebote unterstützen dich bei deiner beruflichen Entwicklung Work-Life-Balance: Genieße die Flexibilität, zu 100% deutschlandweit im Homeoffice zu arbeiten. Du wohnst in Berlin oder Hamburg? Auch für dich haben wir drei Tage Homeoffice: Mit einem Hybridmodell schaffen wir die perfekte Balance zwischen Fokuszeit und Team-Spirit in unseren modernen Büros vor Ort. Deine Einarbeitung erfolgt vollständig digital , und wir kümmern uns um die unkomplizierte Zusendung des benötigten Equipments vor Jobbeginn. Für deine Erholung gibt es 30 Tage Urlaub, Eltern profitieren von 10-Kind Krank Tagen zusätzlich zum gesetzlichen Anspruch Für deine körperliche und mentale Gesundheit gibt es Kooperationen mit Sportanbietern Wir setzen uns für ein diverses und inklusives Umfeld ein. Gemeinsam als ein Team aus über 50 Nationen mit unseren verschiedenen Fähigkeiten, Ideen und Erfahrungen arbeiten wir aktiv daran, Vielfalt im Unternehmen zu repräsentieren. Bei Finanzcheck.de stehen wir für Vielfalt und schaffen ein Umfeld, das eine Vielzahl von Perspektiven, Fähigkeiten und Backgrounds repräsentiert. Wir setzen uns für gleiche Beschäftigungs- und Entwicklungschancen ein, unabhängig vom Geschlecht oder der Geschlechtsidentität, Religion, Alter, sexueller Orientierung, Hautfarbe, Beeinträchtigung, Kultur oder Herkunftsland. Kannst du dich mit unserer Kultur identifizieren? Dann werde Teil von uns! #bestesTeam Vor deinem ersten Arbeitstag bei uns, wird dir unser People Operations Team natürlich alle wichtigen Informationen bezüglich deiner Einarbeitung zukommen lassen. Deine Ansprechpartnerin: FFG FINANZCHECK Finanzportale GmbH | Admiralitätstraße 60 | D-20459 Hamburg Fatin Hamedani, Team Lead - Sales Talent Acquisition | Bewirb dich mit deinem Lebenslauf oder per „one-click“ in nur 2 Minuten über den “Jetzt bewerben“ Button. Lade hierzu einfach deinen Lebenslauf hoch (vorzugsweise als PDF-Datei) und wir melden uns innerhalb von wenigen Tagen zurück. Bewerbungen werden ausschließlich über das Bewerbungsformular angenommen. Find Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "credit analysis"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/ffg-finanzcheck-finanzportale-gmbh/vertriebsmitarbeiter-kreditvermittlung-im-homeoffice-berlin-62870",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-9947b3738c07",
-    "title": "Quereinsteiger im Vertrieb im Homeoffice (w/m/d)",
-    "company": "FFG FINANZCHECK Finanzportale GmbH",
-    "location": "Berlin",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Wir sind Finanzcheck – der Online-Kreditvergleich und Go-To-Place für Kredite in Deutschland. Wir gestalten den digitalen Kreditmarkt der Zukunft und wurden 2022 als Kununu Top Arbeitgeber ausgezeichnet. Werde jetzt Teil unserer Erfolgsgeschichte! Zur Verstärkung unseres Vertriebsteams mit knapp 100 Finanzprofis suchen wir dich ab sofort in Vollzeit als: Quereinsteiger im Vertrieb im Homeoffice (w/m/d) So sieht dein Team aus: Gemeinsam mit deinen zukünftigen Kolleg*innen berätst du unsere Kund*innen rund um das Thema Konsumentenkredite und erfüllst tagtäglich ihre größten Wünsche. Bei uns erwartet dich eine offene Kultur mit flachen Hierarchien, starken Teams und genügend Raum, um dich selbst mit einbringen zu können. Wir von FINANZCHECK.de sorgen dafür, dass all unsere Mitarbeiter*innen den für sich richtigen Platz finden, denn bei uns steht der Mensch im Mittelpunkt. Deine Rolle bei uns Du bist die erste Ansprechperson für unsere Kund*innen und berätst diese telefonisch und schriftlich beim Kreditvergleich Du begleitest deine Kund*innen vom Erstkontakt bis hin zum Vertragsabschluss und unterstützt sie dabei in allen Phasen Mit einer gründlichen Bedarfsanalyse findest du heraus, was unsere Kund*innen wirklich benötigen und hilfst ihnen, das optimale Kreditangebot zu finden Du unterstützt unsere Kunden dabei, ihre Wünsche zu erfüllen, und das ganz ohne Kaltakquise, da alle unsere Kunden aktiv ihre Daten bei uns hinterlassen haben Dank unserer modernen Kommunikationstools und den digitalen Abschlussmöglichkeiten unserer Partner steht einem effizienten Arbeitsalltag nichts im Wege Das bringst du mit Du konntest bereits erste Erfahrung im Kund*innenkontakt sammeln (z.B. Vertrieb, Sales, Telesales oder Verkauf) Du bist ein Kommunikationstalent und überzeugst durch deine offene und professionelle Art am Telefon Du zeichnest dich durch eine hohe Zuverlässigkeit und eine engagierte Arbeitsweise aus Du hast Lust dich weiterzuentwickeln , bringst viel Motivation mit und möchtest gemeinsam mit uns durchstarten Deutsch beherrschst du fließend in Wort und Schrift Du verfügst idealerweise über eine abgeschlossene kaufmännische Ausbildung Dein Einstieg im Vertrieb bei Finanzcheck Du bist neu im Vertrieb, aber motiviert, mit uns gemeinsam durchzustarten und beruflich zu wachsen? Wir fördern dein Potenzial und begleiten dich bei der Entwicklung vom Quereinsteiger zum Vertriebsprofi Mit unserer gründlichen Einarbeitung eignest du dir alle erforderlichen Fähigkeiten im Bereich Kreditberatung und Vertrieb an Deine Vorteile bei FINANZCHECK.de Deine Motivation wird bei uns belohnt: Profitiere von unserem Gehaltsmodell mit ungedeckelter Provision! Interne Karriereprogramme, Weiterbildungsmöglichkeiten und Coaching Angebote unterstützen dich bei deiner beruflichen Entwicklung Work-Life-Balance: Genieße die Flexibilität, zu 100% deutschlandweit im Homeoffice zu arbeiten. Du wohnst in Berlin oder Hamburg? Auch für dich haben wir drei Tage Homeoffice: Mit einem Hybridmodell schaffen wir die perfekte Balance zwischen Fokuszeit und Team-Spirit in unseren modernen Büros vor Ort. Deine Einarbeitung erfolgt vollständig digital , und wir kümmern uns um die unkomplizierte Zusendung des benötigten Equipments vor Jobbeginn. Für deine Erholung gibt es 30 Tage Urlaub, Eltern profitieren von 10-Kind Krank Tagen zusätzlich zum gesetzlichen Anspruch Für deine körperliche und mentale Gesundheit gibt es Kooperationen mit Sportanbietern Wir setzen uns für ein diverses und inklusives Umfeld ein. Gemeinsam als ein Team aus über 50 Nationen mit unseren verschiedenen Fähigkeiten, Ideen und Erfahrungen arbeiten wir aktiv daran, Vielfalt im Unternehmen zu repräsentieren. Wir setzen uns für ein diverses und inklusives Umfeld ein. Gemeinsam als ein Team aus über 50 Nationen mit unseren verschiedenen Fähigkeiten, Ideen und Erfahrungen arbeiten wir aktiv daran, Vielfalt im Unternehmen zu repräsentieren Bei Finanzcheck.de stehen wir für Vielfalt und schaffen ein Umfeld, das eine Vielzahl von Perspektiven, Fähigkeiten und Backgrounds repräsentiert. Wir setzen uns für gleiche Beschäftigungs- und Entwicklungschancen ein, unabhängig vom Geschlecht oder der Geschlechtsidentität, Religion, Alter, sexueller Orientierung, Hautfarbe, Beeinträchtigung, Kultur oder Herkunftsland. Kannst du dich mit unserer Kultur identifizieren? Dann werde Teil von uns! #bestesTeam Vor deinem ersten Arbeitstag bei uns, wird dir unser People Operations Team natürlich alle wichtigen Informationen bezüglich deiner Einarbeitung zukommen lassen. Deine Ansprechpartnerin: FFG FINANZCHECK Finanzportale GmbH | Admiralitätstraße 60 | D-20459 Hamburg Fatin Hamedani, Team Lead - Sales Talent Acquisition | Bewirb dich mit deinem Lebenslauf oder per „one-click“ in nur 2 Minuten über den “Jetzt bewerben“ Button. Lade hierzu einfach deinen Lebenslauf hoch (vorzugsweise als PDF-Datei) und wir melden uns innerhalb von wenigen Tagen zurück. Bewerbungen werden ausschließlich über das Bewerbungsformular angenommen. Find Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "credit analysis"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/ffg-finanzcheck-finanzportale-gmbh/quereinsteiger-im-vertrieb-im-homeoffice-berlin-205963",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-b1ecfbbb6c27",
-    "title": "Quereinsteiger im Vertrieb im Homeoffice (w/m/d)",
-    "company": "Smava GmbH",
-    "location": "Berlin",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Hey hey Kommunikationsprofi! Ob Urlaub, Auto oder neue Möbel - smava hilft bei der Finanzierung vieler Wünsche und vermittelt als Online - Vergleichsportal Kredite zwischen Kund*in und Partnerbank. Wir machen Kredite transparent, fair und günstig. Unsere Kund*innen freuen sich auf deine telefonische Beratung zu ihren individuellen Kreditwünschen. Dich erwartet eine lockere und offene Arbeitsatmosphäre mit flachen Hierarchien und guten Verdienstmöglichkeiten. Zur Verstärkung unseres Vertriebsteams mit knapp 100 Vertriebler*innen suchen wir dich ab sofort in Vollzeit als: Quereinsteiger im Vertrieb Homeoffice (w/m/d) Das machst du bei uns Du bist die erste Ansprechperson für unsere Kund*innen und berätst diese telefonisch und schriftlich beim Kreditvergleich Du betreust unsere Kund*innen vom Erstkontakt bis hin zum Vertragsabschluss und supportest sie dabei in allen Phasen Mit deinem Gespür und einer guten Bedarfsanalyse findest du heraus, was dein*e Kund*innen wirklich brauchen und verhilfst zum optimalen Kreditangebot Unterstütze unsere Kund*innen dabei, ihre Wünsche zu erfüllen, und das ganz ohne Kaltakquise, denn all unsere Kund*innen haben ihre Daten aktiv bei uns hinterlassen. Mit unseren modernen Kommunikationstools und den digitalen Abschlussmöglichkeiten unserer Partner steht einem effizienten Arbeitsalltag nichts entgegen. Das bist du Du konntest bereits erste Erfahrungen im Vertrieb oder im Kundenkontakt sammeln (z.B. Vertrieb, Sales, Telesales oder Verkauf) Du bist ein Kommunikationstalent und überzeugst durch deine offene und professionelle Art am Telefon Du zeichnest dich durch eine hohe Zuverlässigkeit und eine engagierte Arbeitsweise aus Du hast Lust dich weiterzuentwickeln , bringst viel Motivation mit und möchtest gemeinsam mit uns durchstarten Du verfügst idealerweise über eine abgeschlossene kaufmännische Ausbildung Dein Einstieg im Vertrieb bei smava Du bist neu im Vertrieb, aber motiviert, mit uns gemeinsam durchzustarten und beruflich zu wachsen? Wir fördern dein Potenzial und begleiten dich bei der Entwicklung vom Quereinsteiger zum Vertriebsprofi Mit unserer gründlichen Einarbeitung eignest du dir alle erforderlichen Fähigkeiten im Bereich Kreditberatung und Vertrieb an Das bieten wir dir “smava sorgt dafür, dass wir uns rundum wohl fühlen“ - Marcel M. (Kreditspezialist) Deine Motivation wird bei uns belohnt: Profitiere von unserem Gehaltsmodell mit ungedeckelter Provision! Interne Karriereprogramme, Weiterbildungsmöglichkeiten und Coaching Angebote unterstützen dich bei deiner beruflichen Entwicklung Work-Life-Balance: Genieße die Flexibilität, zu 100% deutschlandweit im Homeoffice zu arbeiten. Du wohnst in Berlin oder Hamburg? Auch für dich haben wir drei Tage Homeoffice: Mit einem Hybridmodell schaffen wir die perfekte Balance zwischen Fokuszeit und Team-Spirit in unseren modernen Büros vor Ort. Deine Einarbeitung erfolgt vollständig digital , und wir kümmern uns um die unkomplizierte Zusendung des benötigten Equipments vor Jobbeginn. Für deine Erholung gibt es 30 Tage Urlaub, Eltern profitieren von 10-Kind Krank Tagen zusätzlich zum gesetzlichen Anspruch Für deine körperliche und mentale Gesundheit gibt es Kooperationen mit Sportanbietern Wir setzen uns für ein diverses und inklusives Umfeld ein. Gemeinsam als ein Team aus über 50 Nationen mit unseren verschiedenen Fähigkeiten, Ideen und Erfahrungen arbeiten wir aktiv daran, Vielfalt im Unternehmen zu repräsentieren. Worauf wartest du noch? Du findest uns super und bewirbst dich deswegen in nur 2 Minuten! Lade hierzu einfach deinen Lebenslauf hoch (vorzugsweise als PDF-Datei) und wir melden uns innerhalb von wenigen Tagen zurück. Bewerbungen werden ausschließlich über das Bewerbungsformular angenommen. Ich freue mich auf deine Bewerbung! ☺️ Anne Stoye Bei smava stehen wir für Vielfalt und schaffen ein Umfeld, das eine Vielzahl von Perspektiven, Fähigkeiten und Backgrounds repräsentiert. Wir setzen uns für gleiche Beschäftigungs- und Entwicklungschancen ein, unabhängig vom Geschlecht oder der Geschlechtsidentität, Religion, Alter, sexueller Orientierung, Hautfarbe, Beeinträchtigung, Kultur oder Herkunftsland. Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "credit analysis"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/smava-gmbh/quereinsteiger-im-vertrieb-im-homeoffice-berlin-301391",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-e77a41fc31d8",
-    "title": "Absicherungsspezialist - Kredit im Homeoffice (w/m/d)",
-    "company": "Smava GmbH",
-    "location": "Berlin",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Hey hey Kommunikationsprofi – wir suchen dich! Ob Urlaub, Auto oder neue Möbel - smava hilft bei der Finanzierung vieler Wünsche und vermittelt als Online - Vergleichsportal Kredite zwischen Kund*in und Partnerbank. Wir machen Kredite transparent, fair und günstig. Auch du willst aktiv zur Erfüllung der Kund*innenwünsche beitragen? Unsere Kund*innen freuen sich auf deine telefonische Beratung zum Einkommensschutz. Dich erwartet eigenverantwortliches Arbeiten in einer lockeren und familiäre Arbeitsatmosphäre mit flachen Hierarchien. Zur Verstärkung unseres Vertriebsteams mit knapp 40 Vertriebler*innen aus den verschiedensten Bereichen suchen wir dich in Vollzeit als: Absicherungsspezialist - Kredit im Homeoffice (w/m/d) So sieht dein Team aus: Gemeinsam mit deinen zukünftigen Kolleg*innen berätst du unsere Kund*innen rund um das Thema Kreditabsicherung nach Kreditabschluss. Dabei berücksichtigst du die individuellen Wünsche unserer Kund*innen und ermöglicht eine hohe Kundenzufriedenheit durch eine hohe Serviceorientierung. Bei uns erwartet dich eine offene Kultur mit flachen Hierarchien, ein starkes Team und genügend Raum, um dich selbst mit einbringen zu können. Das machst du bei uns Wenn es um die Absicherung der vermittelten Ratenkredite geht, bist du Expert*in für unsere Kund*innen und berätst diese telefonisch zu den entsprechenden Versicherungsprodukten Du ermittelst den individuellen Bedarf deiner Kund*innen und unterstützt sie mit maßgeschneiderten Lösungen mit Hilfe unserer internen Systeme Dabei berücksichtigst du die individuellen Wünsche unserer Kund*innen und ermöglichst eine hohe Kundenzufriedenheit durch eine hohe Serviceorientierung Hier handelt es sich um keine Kaltakquise - alle deine Kund*innen freuen sich auf deine telefonische Beratung Mit unserer modernen Kommunikationstools und den digitalen Abschlussmöglichkeiten unserer Partner steht einem effizienten Arbeitsalltag nichts entgegen Das bringst du mit Du konntest bereits erste Erfahrungen im Vertrieb oder im Kundenkontakt sammeln (z.B. Vertrieb, Sales oder Telesales) Du bist serviceorientiert und bringst eine große Leidenschaft für Kredite mit Du bist ein Kommunikationstalent und überzeugst durch deine offene und professionelle Art am Telefon Du zeichnest dich durch eine hohe Zuverlässigkeit und eine engagierte Arbeitsweise aus Du hast Lust dich weiterzuentwickeln , bringst viel Motivation mit und möchtest gemeinsam mit uns durchstarten Du verfügst idealerweise über eine abgeschlossene kaufmännische Ausbildung Dein Einstieg im Vertrieb bei smava Du hast Lust, mit uns durchzustarten und dich beruflich weiterzuentwickeln? Wir fördern dein Potenzial und unterstützen dich bei der Entwicklung zum Vertriebsprofi bei smava Durch unsere umfassende Einarbeitung erwirbst du alle nötigen Kenntnisse im Bereich Vertrieb Unser erfahrenes Team unterstützt dich von Beginn an und hilft dir dabei dich selbst zu verwirklichen Das bieten wir dir Deine Motivation wird bei uns belohnt: Profitiere von unserem Gehaltsmodell mit ungedeckelter Provision! Interne Karriereprogramme, Weiterbildungsmöglichkeiten und Coaching Angebote unterstützen dich bei deiner beruflichen Entwicklung Work-Life-Balance: Genieße die Flexibilität, zu 100% deutschlandweit im Homeoffice zu arbeiten. Deine Einarbeitung erfolgt vollständig digital , und wir kümmern uns um die unkomplizierte Zusendung des benötigten Equipments vor Jobbeginn. Für deine Erholung gibt es 30 Tage Urlaub, Eltern profitieren von 10-Kind Krank Tagen zusätzlich zum gesetzlichen Anspruch Für deine körperliche und mentale Gesundheit gibt es Kooperationen mit Sportanbietern Wir setzen uns für ein diverses und inklusives Umfeld ein. Gemeinsam als ein Team aus über 50 Nationen mit unseren verschiedenen Fähigkeiten, Ideen und Erfahrungen arbeiten wir aktiv daran, Vielfalt im Unternehmen zu repräsentieren. Worauf wartest du noch? Bewirb dich jetzt in nur 2 Minuten und unser Team meldet sich innerhalb von 72 Stunden bei dir! Bei Fragen erreichst du mich und dein Talent Acquisition Team jederzeit unter 030 – 617 48 00 142. Ich freue mich auf deine Bewerbung! ☺️ Elena Fuldner Bei smava stehen wir für Vielfalt und schaffen ein Umfeld, das eine Vielzahl von Perspektiven, Fähigkeiten und Backgrounds repräsentiert. Wir setzen uns für gleiche Beschäftigungs- und Entwicklungschancen ein, unabhängig vom Geschlecht oder der Geschlechtsidentität, Religion, Alter, sexueller Orientierung, Hautfarbe, Beeinträchtigung, Kultur oder Herkunftsland. Find Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "it"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/smava-gmbh/absicherungsspezialist-kredit-im-homeoffice-berlin-273796",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-f0f15b659e15",
-    "title": "Bankkaufmann/-frau - als Kreditspezialist im Homeoffice (w/m/d)",
-    "company": "FFG FINANZCHECK Finanzportale GmbH",
-    "location": "Berlin",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Wir sind Finanzcheck – der Online-Kreditvergleich und Go-To-Place für Kredite in Deutschland. Wir gestalten den digitalen Kreditmarkt der Zukunft und wurden 2022 als Kununu Top Arbeitgeber ausgezeichnet. Werde jetzt Teil unserer Erfolgsgeschichte! Zur Verstärkung unseres Vertriebsteams mit knapp 100 Finanzprofis suchen wir dich ab sofort in Vollzeit als: Bankkaufmann/-frau - als Kreditspezialist im Homeoffice (w/m/d) So sieht dein Team aus: Gemeinsam mit deinen zukünftigen Kolleg*innen berätst du unsere Kund*innen rund um das Thema Konsumentenkredite und erfüllst tagtäglich ihre größten Wünsche. Bei uns erwartet dich eine offene Kultur mit flachen Hierarchien, starken Teams und genügend Raum, um dich selbst mit einbringen zu können. Wir von FINANZCHECK.de sorgen dafür, dass all unsere Mitarbeiter*innen den für sich richtigen Platz finden, denn bei uns steht der Mensch im Mittelpunkt. Deine Rolle bei uns Du bist die erste Ansprechperson für unsere Kund*innen und berätst diese telefonisch und schriftlich beim Kreditvergleich Du begleitest deine Kund*innen vom Erstkontakt bis hin zum Vertragsabschluss und unterstützt sie dabei in allen Phasen Mit einer gründlichen Bedarfsanalyse findest du heraus, was unsere Kund*innen wirklich benötigen und hilfst ihnen, das optimale Kreditangebot zu finden Du unterstützt unsere Kunden dabei, ihre Wünsche zu erfüllen, und das ganz ohne Kaltakquise, da alle unsere Kunden aktiv ihre Daten bei uns hinterlassen haben Dank unserer modernen Kommunikationstools und den digitalen Abschlussmöglichkeiten unserer Partner steht einem effizienten Arbeitsalltag nichts im Wege Das bringst du mit Du konntest bereits erste Erfahrung im Kund*innenkontakt sammeln (z.B. Vertrieb, Sales, Telesales oder Verkauf) Du bist ein Kommunikationstalent und überzeugst durch deine offene und professionelle Art am Telefon Du zeichnest dich durch eine hohe Zuverlässigkeit und eine engagierte Arbeitsweise aus Du hast Lust dich weiterzuentwickeln , bringst viel Motivation mit und möchtest gemeinsam mit uns durchstarten Deutsch beherrschst du fließend in Wort und Schrift Du verfügst idealerweise über eine abgeschlossene kaufmännische Ausbildung Dein Einstieg im Vertrieb bei Finanzcheck Du hast Lust, mit uns durchzustarten und dich beruflich weiterzuentwickeln? Wir fördern dein Potenzial und unterstützen dich bei der Entwicklung zum Vertriebsprofi bei Finanzcheck Durch unsere umfassende Einarbeitung erwirbst du alle nötigen Kenntnisse im Bereich Kreditberatung & Vertrieb Unser erfahrenes Team unterstützt dich von Beginn an durch umfangreiches Coaching und hilft dir dabei dich im Vertrieb selbst zu verwirklichen Das bieten wir dir Deine Motivation wird bei uns belohnt: Profitiere von unserem Gehaltsmodell mit ungedeckelter Provision! Interne Karriereprogramme, Weiterbildungsmöglichkeiten und Coaching Angebote unterstützen dich bei deiner beruflichen Entwicklung Work-Life-Balance: Genieße die Flexibilität, zu 100% deutschlandweit im Homeoffice zu arbeiten. Du wohnst in Berlin oder Hamburg? Auch für dich haben wir drei Tage Homeoffice: Mit einem Hybridmodell schaffen wir die perfekte Balance zwischen Fokuszeit und Team-Spirit in unseren modernen Büros vor Ort. Deine Einarbeitung erfolgt vollständig digital , und wir kümmern uns um die unkomplizierte Zusendung des benötigten Equipments vor Jobbeginn. Für deine Erholung gibt es 30 Tage Urlaub, Eltern profitieren von 10-Kind Krank Tagen zusätzlich zum gesetzlichen Anspruch Für deine körperliche und mentale Gesundheit gibt es Kooperationen mit Sportanbietern Wir setzen uns für ein diverses und inklusives Umfeld ein. Gemeinsam als ein Team aus über 50 Nationen mit unseren verschiedenen Fähigkeiten, Ideen und Erfahrungen arbeiten wir aktiv daran, Vielfalt im Unternehmen zu repräsentieren. Bei Finanzcheck.de stehen wir für Vielfalt und schaffen ein Umfeld, das eine Vielzahl von Perspektiven, Fähigkeiten und Backgrounds repräsentiert. Wir setzen uns für gleiche Beschäftigungs- und Entwicklungschancen ein, unabhängig vom Geschlecht oder der Geschlechtsidentität, Religion, Alter, sexueller Orientierung, Hautfarbe, Beeinträchtigung, Kultur oder Herkunftsland. Kannst du dich mit unserer Kultur identifizieren? Dann werde Teil von uns! #bestesTeam Vor deinem ersten Arbeitstag bei uns, wird dir unser People Operations Team natürlich alle wichtigen Informationen bezüglich deiner Einarbeitung zukommen lassen. Deine Ansprechpartnerin: FFG FINANZCHECK Finanzportale GmbH | Admiralitätstraße 60 | D-20459 Hamburg Fatin Hamedani, Team Lead - Sales Talent Acquisition | Bewirb dich mit deinem Lebenslauf oder per „one-click“ in nur 2 Minuten über den “Jetzt bewerben“ Button. Lade hierzu einfach deinen Lebenslauf hoch (vorzugsweise als PDF-Datei) und wir melden uns innerhalb von wenigen Tagen zurück. Bewerbungen werden ausschließlich über das Bewerbungsformular angenommen. Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "credit analysis"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/ffg-finanzcheck-finanzportale-gmbh/bankkaufmann-frau-als-kreditspezialist-im-homeoffice-berlin-133178",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-ba86a425d862",
-    "title": "Objektbesichtiger (m/w/d) auf freiberuflicher Basis",
-    "company": "CERTA",
-    "location": "Berlin",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Ihre Aufgaben Sie sind bereits in der Immobilienbranche tätig, zum Beispiel als Makler/in, Darlehensvermittler/in oder Sachverständige/r und möchten sich eine flexible, zusätzlich vergütete Tätigkeit auf freiberuflicher Basis sichern? Dann werden Sie Teil unseres bundesweiten Netzwerks an Objektbesichtigern! Sie erhalten klar definierte Aufträge , arbeiten eigenständig vor Ort und bestimmen selbst, wann und wie viele Einsätze Sie übernehmen möchten. Durchführung von standardisierten Objektbesichtigungen für Immobilienbewertungen (Innen- und Außenbesichtigungen) Erhebung relevanter Daten und Zustandsmerkmale vor Ort (Außenansicht, Umgebung, Zugänglichkeit, Ausstattung, Fotodokumentation etc.) Eigenständige Dokumentation und Erstellung von Besichtigungsprotokollen per App - keine Gutachtenerstellung Verlässliche Rückmeldung nach Durchführung der Besichtigung Ihr Profil Immobilienhintergrund - Erfahrung oder Ausbildung im Bereich Immobilien, Bauwesen o.Ä. : z. B. Immobilienmakler:in, Immobilienfinanzierer:in, Bauingenieur:in, Gutachter:in o. Ä. Freiberuflicher Status / Gewerbeanmeldung PKW-Führerschein & regionale Mobilität Zuverlässige, eigenständige und qualitätsbewusste Arbeitsweise Sicherer Umgang mit Smartphone oder Tablet & App Anwendungen zur digitalen Erfassung Freundliches Auftreten & Kommunikationsstärke Kenntnisse im Miet-, Kauf- oder Baurecht? Super, aber kein Muss! Warum wir? Vergütung pro Auftrag: Faire Objektpauschalen je nach Aufwand. Ihr Pensum bestimmen Sie selbst Maximale Flexibilität: Sie arbeiten selbstbestimmt und ohne feste Zeiten Keine Akquise notwendig: Wir stellen Ihnen die Aufträge zur Verfügung Klare Prozesse & transparente Kommunikation: Damit Sie sich voll auf Ihre Arbeit konzentrieren können Einsätze bundesweit: Wir suchen Objektbesichtiger in allen Regionen Deutschlands Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "finance"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/certa/objektbesichtiger-auf-freiberuflicher-basis-berlin-241545",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-86f55e88b153",
-    "title": "Initiative application (m/f/x)",
-    "company": "Nitrado (marbis GmbH)",
-    "location": "Berlin",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Einleitung There is no vacant position suitable for you at the moment? We are always looking for motivated and creative people who are passionate about their job. Does this apply to you? Then send us an initiative application! Your mission You can expect exciting and varied tasks where responsibility and team spirit are important. You support your team in the areas of software development, business intelligence, marketing, controlling or customer support. You are responsible for working on various topics. You actively work on different projects. Your profile You have a university degree in a relevant field or comparable education. You find yourself in one of these areas: graphic design/front-end, back-end, business intelligence, marketing, controlling or customer support and have correspondingly profound expertise. You are open to new technologies that bring us forward. You are a gamer yourself or know what gamers want and feel comfortable in this environment. You have self-initiative and work result-oriented. You are communicative, a team player and enjoy what you do. You have good communication skills in German and English. Your benefits Gaming at Heart: We provide free Nitrado Game Servers for gamers and a welcoming community for anyone who wants to feel at home, even if you're not a gamer. Discover how Nitrado is more than just gaming - an open community for technology and creativity. Flexible working hours: Tailor your work hours to your personal needs for a better work-life balance. Remote work: Our agile teams collaborate seamlessly from their preferred location, whether in our modern offices in Karlsruhe or Berlin or fully remote. Work from Abroad: Extend your workspace beyond national borders with our support for remote work from abroad, enabling you to work from your favorite international destinations while staying connected with your team. Mental Health: We support your mental well-being with our annual Mental Health Day. Physical Health: Our office infrastructure provides state-of-the-art workspaces with ergonomic design to enhance your health and productivity, while staying fit on your commute with your JobRad . Additionally, employees receive a generous subsidy for ergonomic home office furniture, ensuring optimal work conditions even when working remotely. Professional Development: Utilize training opportunities to develop and stay current with your skills. Company Pension Plan: We support your financial security for the future with an attractive contribution. Working Environment: You'll experience a respectful and friendly workplace culture, characterized by transparency and a family-like corporate culture. Vacation and Paid Time Off: Enjoy 30 days of vacation and additional paid leave for special occasions. International Collaboration: As an international company, we successfully overcome time zones and language barriers, providing you an international work atmosphere. Social Activities: Strengthen your commitment and team cohesion through team-building events, participating in sports events and social activities. Long-Term Stability: With over two decades of experience, we are a reliable employer for our employees. Get together: Work hard, play hard - We regularly come together for our company celebrations, strengthening our team bonds. Corporate Culture and Values: You become part of a positive corporate culture that embraces values such as diversity and inclusion. Find Jobs in Germany on Arbeitnow",
+    "description": "Founding Engineer Role can be based remotely in the EEA or hybrid in our London or Munich offices. Fixed software is the wrong shape for logistics, because every team runs its processes differently. Tare is our solution. Combining agentic AI with deterministic logic means Tare fits to any customer but runs the same way every single time. We have just closed our pre-seed funding round with a top European VC and we are now looking for a founding engineer to build Tare with us. About Tarebase We're Dom and Felix, the two co-founders of Tarebase. Dom is a former SVP at a global unicorn, overseeing tens of millions in global carrier spend, with deep logistics domain experience from Amazon, Nestle and EY. Felix was a founding engineer at Raycast and has spent more than two decades building software systems. We've raised pre-seed funding from a top-tier European VC and are building our MVP together with early design partners, who will become our first customers. As our first employee, you'd have a real say in both the product and the engineering decisions behind it. Logistics is difficult to run well, and experienced people are hard to hire. Smaller businesses often pay too much for shipping, struggle to give customers a good delivery experience, and can't match larger competitors' technology or hiring budgets. The software available to them is often expensive, dated or too cumbersome. We want to make logistics less of a burden so these businesses can spend more time selling their products.They're the customers we want to build for: Europe alone has around 26 million SMEs, employing more than 100 million people. Just putting a chat interface and GPT-wrapper on top of the problem is not what we're building. We're combining extraction and analysis, workflow automation, agentic and compiled AI with deterministic, verifiable logic. Recent advances in AI make more of this possible, but building a system that does it reliably is still hard. We're looking for someone who wants to advance the state of the art in this area with us. About you The description below is an ideal, not a checklist. If you don't tick every box but feel ready for the challenges of being the first engineer at an early-stage startup, we'd still like to hear from you. What matters most to us is that you're motivated, committed, willing to stick with hard problems, and someone we can count on. You have a strong technical background and a track record of building and shipping software systems, whether that's cloud backends, web applications, AI-supported systems or a mix of these. You enjoy working across engineering and product. You think like a product engineer: you care about UX/UI, and you want direct contact with customers and the people who use what you build. You'll work mostly in Rust and TypeScript, across the full stack: data engineering, AI, backend, frontend, infrastructure and deployment. We especially value experience with either language from before AI coding tools and a solid understanding of its ecosystem so you can make considered choices. We also value experience operating distributed systems and data-intensive systems in the cloud, including multi-tenant environments and the scaling and security challenges they bring, databases, and durable execution runtimes. You use coding agents effectively, but stay close to the code. You know their limitations in a large codebase, review and challenge their work, and take testing, debugging, refactoring and documentation seriously. You can design useful tests and evaluations, manage complexity, and tell when something is genuinely ready to ship. You also enjoy digging into challenging problems. You keep up with what current models, agent harnesses and research make possible, and you can judge what actually works for a given use case. You know how to build agents and AI workflows into a product and use evaluations, validation and deterministic logic to make what they produce consistent and verifiable. You're comfortable extracting structure from messy documents and care a lot about data quality. You experiment, measure the results, question your assumptions, and keep going until you've found a solution that really holds up. You can turn that work into shipped software, taking a product idea or technical direction through design and implementation without waiting for someone to assign you a ticket. We work remotely, so clear communication and follow-through matter a lot to us. We value people who manage their own work, can be counted on, and raise important issues early. How to apply Apply with the button on this page. Please ensure to use a hand-written CV. We read every application ourselves. It's fine to use tools for spelling or translation, but we want to hear your voice. Our process The process should take a few weeks from start to finish depending on your availability. Application review. If we love your resume we will send over some short questions. Intro call with Dom and Felix. An informal conversation about the role, the technology and what you're looking for. Technical deep dive with Felix. We talk briefly about a system you’ve worked on (no need to share anything confidential), then work through a system design problem together. Half a day with us in Munich or London. We cover your travel, hotel if needed, and meals. You spend about two hours on a made-up task similar to the problems we work on, using your usual tools and coding agents. Then we have lunch, go through your work together, and talk through a customer scenario. References and offer. We speak with 1-2 people you've worked with (only with your agreement) and aim to decide within 48 hours. If we don't move forward after the technical conversation or later, we'll share some feedback with you. Compensation : €100.000–120.000 base salary plus 0.75–1% equity Setup: A MacBook Pro and whatever else you need to work well. If you'd rather not work from home, we'll pay for a coworking space near you. Location : Munich or London, or remote within Europe (GMT-1 to GMT+3) with regular meet-ups. Find Jobs in Germany on Arbeitnow",
     "required_skills": [
       "remote",
       "software development"
     ],
     "requirements": [],
     "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/nitrado-marbis-gmbh/initiative-application-berlin-76265",
+    "url": "https://www.arbeitnow.com/jobs/companies/tarebase/founding-engineer-remote-eea-uk-berlin-162955",
     "date_posted": null
   },
   {
-    "id": "arbeitnow-a35d28ec791a",
-    "title": "Initiativbewerbung",
-    "company": "Leafworks GmbH",
+    "id": "arbeitnow-3d916ad8ffeb",
+    "title": "Werkstudent (m/w/d) Marketing & E-Commerce (Remote)",
+    "company": "AYLASHES",
+    "location": "Pleidelsheim",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Bist du bereit, Teil einer der größten Lash-Brands Europas zu werden? Bei AYLASHES, gegründet von Aylin, die aus ihrem Schlafzimmer eine Beauty-Revolution startete, suchen wir nach einem Werkstudenten (m/w/d) im Bereich Marketing & E-Commerce. Unser Team in Stuttgart freut sich auf jemanden, der unsere Leidenschaft für hochwertige DIY-Wimpern teilt. Wir stehen für Qualität, Spaß und Flexibilität – denn wir wissen, wie wertvoll deine Zeit ist. Wenn du offen für Herausforderungen bist und Lust auf ein dynamisches Umfeld hast, dann bist du bei uns genau richtig. B ei AYLASHES geht es um mehr als nur Wimpern – es geht darum, Frauen zu empowern und ihnen den Studioaufwand zu ersparen. Mit Werten wie Ehrlichkeit, Teamwork und Eigenverantwortung arbeiten wir daran, unseren Kunden ein WOW-Erlebnis zu bieten. Werde Teil unserer Mission und bringe frischen Wind in die Welt der DIY-Beauty! Aufgaben Unterstützung unseres Marketing- und E-Commerce-Teams im Tagesgeschäft Operative Aufgaben rund um Shopify, TikTok Shop und weitere Vertriebskanäle Pflege und Aktualisierung von Produktdaten Erstellung und Aufbereitung von Auswertungen und Reports Unterstützung bei Marketingkampagnen und Produktlaunches Recherche zu Trends, Wettbewerbern und neuen Ideen Unterstützung bei organisatorischen Projekten und internen Prozessen Zusammenarbeit mit unserem Social-Media-, Influencer- und Performance-Marketing-Team Übernahme eigener kleiner Projekte mit wachsender Verantwortung Qualifikation Eingeschriebener Student (m/w/d) im Bereich Betriebswirtschaft, Marketing, E-Commerce oder einem vergleichbaren Studiengang. Grundlegende Kenntnisse in den Bereichen Social Media, Online-Marketing und E-Commerce. Hervorragende Kommunikationsfähigkeiten in Deutsch, sowohl schriftlich als auch mündlich. Selbstständige, strukturierte und lösungsorientierte Arbeitsweise mit hoher Eigenmotivation. Gute organisatorische Fähigkeiten und die Fähigkeit, mehrere Aufgaben gleichzeitig zu bewältigen. Benefits 100 % Remote-Arbeit Flexible Arbeitszeiten neben deinem Studium Direkte Zusammenarbeit mit einem kleinen, motivierten Team Einblicke in E-Commerce, Performance Marketing, Influencer Marketing und Social Media Moderne Arbeitsweise mit AI-Tools und digitalen Prozessen Flache Hierarchien und kurze Entscheidungswege Möglichkeit, dich fachlich und persönlich weiterzuentwickeln Bei uns zählt nicht, wie viele Praktika du bereits gemacht hast oder wie perfekt dein Lebenslauf aussieht. Uns ist wichtiger, dass du motiviert bist, schnell lernst und Lust hast, Verantwortung zu übernehmen. Wenn du Teil unseres Teams werden möchtest, freuen wir uns auf deine Bewerbung. Find Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "remote",
+      "marketing and communication"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/aylashes/werkstudent-marketing-e-commerce-remote-pleidelsheim-187011",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-0c05690bd37a",
+    "title": "Karriereberater:in / Admission für Bootcamps (m/w/d)",
+    "company": "Digitale Leute School",
     "location": "Berlin",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "WER WIR SIND Wir sind ein junges, schnell wachsendes IT-Consulting Unternehmen. Für unsere Kunden sind wir Problemlöser in den Bereichen Customer Service, CRM und BI. Dies erreichen wir mit viel Kreativität, Transparenz und Ehrgeiz, was uns bei Kunden von Start-ups bis hin zu Konzernen zu bewährten Partnern macht. LEAVE YOUR FOOTPRINT Durch deine Stärken, Kreativität, Ehrgeiz und Fleiß erreichst Du bei uns Großes und bringst damit LW stetig auf den nächsten Level voran. Bei uns wirst Du als die Person wahrgenommen, die Du bist. Everyone counts! Everyone makes a difference! DEIN TALENT Egal ob Du ein Studium oder eine Ausbildung abgeschlossen hast, wie alt Du bist, wo Du wohnst, wo Du herkommst, wie Dein Lebenslauf aussieht, ob Du in Vollzeit, Teilzeit, als Praktikant oder als Werkstudent bei uns einsteigen möchtest, wir halten jederzeit Ausschau nach Talenten aus den folgenden Bereichen: IT - Entwicklung Consulting Sales Projektmanagement HR Wenn Du also Teil unseres Team werden und Dich gemeinsam mit uns interessanten und herausfordernden Aufgaben in einem sehr dynamischen Arbeitsalltag stellen möchtest, dann lass uns gerne eine Initiativbewerbung zukommen - Wir freuen uns von Dir zu hören! HAVE AN IMPACT Aktuell ist nicht die passende Stelle für Dich dabei? Kein Problem! WARUM LEAFWORKS Wir sind ein internationales, bunt gemischtes, ähnlich tickendes Team. Wir schauen erst aufs Menschliche und danach auf die Skills, in dieser Reihenfolge. Egal welche Ausbildung Du hast, wie alt Du bist, wo Du wohnst, wo Du herkommst oder wie dein Lebenslauf aussieht. “Come as you are, be yourself and join the LW family”. „Mikro-Management“ ist nicht dein Stil! : unserer auch nicht! Du kannst dir deine Arbeitszeit selbst einteilen. Wir arbeiten 100 % Remote. Ab und zu mal Lust auf ein Co-Working mit LWees in deiner Nähe?. Jederzeit gerne Das Ergebnis zählt : wie Du arbeitest, entscheidest Du. Vertrauensbasis : Vertrauen ist alles. Punkt! Remote is where the magic happens : Was Du zum Arbeiten an Equipment brauchst, bekommst Du. Get to the Next level : Weiterbildungen, Trainings oder Schulungen? Sprich uns direkt an, auch das gehört dazu. Stay connected : Durch regelmäßigen Austausch und Feedback Talks leben wir Transparenz und Offenheit. Prepare for challenges : Langweilige Projekte wirst Du bei uns nicht finden!. Sei bereit, aus deiner Komfort-zone raus zukommen. Here to stay : Wir bauen auf langfristige Zusammenarbeit. Befristete Arbeitsverträge haben wir nicht. Dresscode : Nein Danke!. Das WIR zählt : Durch die zahlreichen Co-Workings und Teamevents in Deutschland und im Ausland stärken wir unseren Zusammenhalt und unsere ganz besondere LW Kultur. Starte direkt durch : Ein Onboarding, was dich ankommen lässt, dein Onboarding Buddy steht dir ab dem ersten Tag zur Seite. Hört sich cool an? Super, dann schick uns doch einfach deinen Lebenslauf. Ein Anschreiben brauchen wir nicht! Find more English Speaking Jobs in Germany on Arbeitnow",
+    "description": "Bootcamp Admission Team Remote · Vollzeit · Digitale Leute School (DL Education GmbH) Hilf Menschen dabei, ihre Karriere neu zu starten – und begleite sie bis zum Ja. Jeden Tag melden sich Menschen bei uns, die etwas verändern wollen: rein in Product Management, Product Design oder AI Software Engineering. Du bist die Person, die sie durch diese Entscheidung führt von der ersten Frage bis zur Anmeldung ins passende Bootcamp. Das ist Beratung mit viel Gesprächsvolumen. Du telefonierst und videocallst den ganzen Tag und für die richtigen Menschen ist genau das das Schönste am Job. Aufgaben Was du machst Du führst persönliche Beratungsgespräche und verstehst, was jemand wirklich braucht. Du empfiehlst das passende Bootcamp und begleitest sicher bis zur verbindlichen Anmeldung. Du hilfst bei der Förderung über die Agentur für Arbeit (Bildungsgutschein) – bis zur Rechnung. Du bleibst dran: Du betreust deine Interessenten verlässlich über den gesamten Weg. Du pflegst alles sauber im CRM und teilst deine Insights mit Marketing & Programmleitung. Qualifikation Was du mitbringst Erfahrung in Beratung, Vertrieb oder Kundenbetreuung – gern aus Bildung, Coaching oder IT. Du gehst gern und oft ins Gespräch und bleibst auch bei vielen Kontakten am Tag verbindlich. Empathie plus Klarheit: Du kannst zuhören und zu einer Entscheidung führen. Strukturierte, eigenverantwortliche Arbeitsweise. Sehr gutes Deutsch (C1), Englisch von Vorteil. Sicher mit digitalen Tools (CRM, Notion, Google Workspace, Slack). Benefits Was wir bieten Sinnvolle Arbeit: Du siehst direkt, wie Menschen durch dich ihren Weg finden. Komplett remote, flexible Zeiten, moderne Ausstattung. Ein Produkt mit echtem Ergebnis: 1.000+ Alumni, 50+ Hiring-Partner, 98 % Abschlussquote. Eigenverantwortung und ein Team, das dich unterstützt und wachsen lässt. Zugang zum Digitale-Leute-Ökosystem (Summit, Magazin, Community). Klingt nach dir? Dann bewirb dich – wir freuen uns auf dich. Find Jobs in Germany on Arbeitnow",
     "required_skills": [
       "remote",
-      "software development"
+      "recruitment and selection"
     ],
     "requirements": [],
     "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/leafworks-gmbh/initiativbewerbung-berlin-491648",
+    "url": "https://www.arbeitnow.com/jobs/companies/digitale-leute-school/karriereberaterin-admission-fur-bootcamps-berlin-33116",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-fc5460caa0f8",
+    "title": "System Engineer im Service Desk (w/m/d) | Heilbronn & Remote",
+    "company": "perinova IT-Management GmbH",
+    "location": "Stuttgart",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Deine Aufgaben Das macht Deinen Job spannend und interessant – Deine Aufgaben! 1st und 2nd Level Support im Client-Management (O365, M365, AzureAD,…) Administration, Support von Clients und Anwender Direkter Kontakt mit Endanwendern am Service Desk an den Kunden-Standorten in Süddeutschland Umgang mit einem Ticketsystem und Dokumentation Deiner Tätigkeiten im Ticketsystem Installation und Konfiguration von Hardware- und Softwarekomponenten Analyse und Behebung von Störungen Dein Profil Das zeichnet Dich aus – Dein Profil! Du verfügst über eine erfolgreich abgeschlossene Ausbildung zum Fachinformatiker (w/m/d) oder bist Quereinsteiger (w/m/d) mit entsprechender Erfahrung und Motivation Du besitzt Praxiserfahrung im IT Support (First- und Second Level), Kundensupport, Telefonsupport bzw. User Helpdesk Auch hast Du Lust – so wie wir - auf den Modern Workplace und Themen wie Office 365, Microsoft 365, Teams, Azure etc. Du kannst Dich sicher im Handling und der Dokumentation von Ticketsystemen, wie Jira, ServiceNow, Helpline bewegen Wenn es um Incident und Requests geht, hast Du immer den Überblick, denn Du behältst immer einen kühlen Kopf Gute Deutschkenntnisse in Wort und Schrift, bestenfalls runden gute Englischkenntnisse Dein Profil ab Durch Dein offenes und freundliches Auftreten fühlen sich unsere Kunden immer Wohl und freuen sich, Deine Hilfe zu bekommen Deine Arbeitsweise ist durch Deine guten technischen und analytischen Fähigkeiten geprägt Du bist ein kommunikationsstarker Teamplayer und stellst Dich gerne neuen Herausforderungen Auch selbstständiges Arbeiten ist für Dich kein Problem Und Du bist gerne unterwegs Du hast einen Führerschein Klasse B und bist mobil. Warum wir? Darauf kannst Du Dich freuen! – Deine Benefits Wir bieten Dir eine unbefristete Anstellung in einer zukunftssicheren Branche. Neben der betrieblichen Altersvorsorge kannst Du mit der perinova Entgeldumwandlung PLUS vorsorgen Unser Consulting und Managed Services sind eng verzahnt, auch die Kollegen untereinander. Zum Beispiel bietet das Consulting Schnupperkurse an, in dem Mitarbeiter*innen des Managed Service die Kolleg*innen bei einem Projekt begleiten Fahre mit dem Fahrrad oder E-Bike zur Arbeit und nutze das attraktive Firmen Rad-Leasing (JobRad). Zudem gibt es bei uns Mitarbeiterrabatte für privates Online-Shopping (Corporate Benefits) Mit unserem Firmenfitnessprogramm (EGYM Wellpass) hast Du Zugriff auf über 6.000 Sportstudios, Schwimmbäder, Kletterhallen und Co. Zudem steht Dir ein großes Onlineprogramm mit Live- oder Streamingkursen zur Verfügung. Flache Hierarchien und ein offenes Arbeitsklima in dem wir Wert auf Deine Meinung legen. Die Chefs sind nur einen Teams-Chat entfernt. Haben wir Dein Interesse geweckt? Dann bewirb Dich jetzt über – wir freuen uns auf Deine Bewerbung. Find Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "remote",
+      "customer service"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/perinova-it-management-gmbh/system-engineer-im-service-desk-heilbronn-remote-stuttgart-254512",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-9e7bc32c8377",
+    "title": "Sales Trainer:in (m/w/d) für das Gebiet Mitteldeutschland",
+    "company": "JEAN D'ARCEL Cosmétique GmbH & Co. KG",
+    "location": "Berlin",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Die JDA Cosmetic Group ist ein international tätiger Hersteller von High-End-Wirkstoffkosmetik. Wir vereinen Tradition, Innovation und Leidenschaft für hochwertige Produkte. Zur Unternehmensgruppe gehören die renommierte Marke JEAN D‘ARCEL Cosmétique GmbH & Co. KG sowie der erfahrene Lohnhersteller CARECOS Kosmetik GmbH. Die Marke JEAN D‘ARCEL zählt zu den führenden Marken in der professionellen Institutskosmetik und wird international in mehr als 40 Ländern vertrieben. Ihre Produkt- und Behandlungskonzepte genießen in der Branche einen exzellenten Ruf und stehen für Qualität, Innovation und Expertise. Gemeinsam stehen wir für höchste Qualität, Innovationskraft und nachhaltige Partnerschaften in der Kosmetikbranche. Du liebst Kosmetik, begeisterst Menschen und hast Spaß an Verkauf und Schulung? Dann bist Du bei uns genau richtig! Wir suchen eine Sales Trainer:in (m/w/d) in Vollzeit für das Gebiet Mitteldeutschland, die unsere Kunden mit Begeisterung für unsere Produkte, Behandlungskonzepte und Technologien gewinnt. Als Sales Trainer:in im Außendienst schulst, berätst und begeisterst Du unsere Kunden direkt vor Ort und sorgst dafür, dass unsere Produkte und Konzepte erfolgreich eingesetzt und verkauft werden. Aufgaben Du verantwortest die Schulungen in Deinem Gebiet und bist für die entsprechende Qualifizierung Deiner Kunden zuständig. Du führst regelmäßig Neukundenschulungen sowie Regal- und Kurzschulungen durch. Du hältst Schulungen in Hotels und führst Deine Teilnehmer sicher und kompetent durch die Inhalte. Du bist Ansprechpartner für Deine Kunden und stehst ihnen bei Fragen und Anliegen beratend zur Seite. Du präsentierst und schulst neue Produkte und schaffst es, andere Menschen mit Deiner Begeisterung anzustecken. Du kennst Dich mit Behandlungen und Gerätetechnologien im Institut aus, kannst diese sicher vorführen und Deine Kunden umfassend beraten. Du organisierst Deine Einsätze und Touren selbstständig, effizient und zielgerichtet. Du stehst im regelmäßigen Austausch mit Deinen Kolleginnen und Kollegen in der Akademie. Du berichtest direkt an die Akademieleitung. Du übernimmst Aufgaben im Bereich Merchandising und Category Management. Du bist verantwortlich für den Einverkauf unseres Produktsortiments und setzt Verkaufsaktionen gezielt um. Du führst Online-Seminare sowie Vor-Ort-Seminare in Kehl durch. Qualifikation Du begeisterst Dich für Kosmetikprodukte, innovative Wirkstoffe und moderne Behandlungskonzepte und hast bereits relevante Erfahrung in der Kosmetik- oder Beautybranche gesammelt. Idealerweise hast Du bereits 1–2 Jahre Berufserfahrung als Sales Trainer im Außendienst und bringst Freude an Schulung und Verkauf mit. Du hast eine Ausbildung als Kosmetiker:in erfolgreich abgeschlossen. Du denkst und handelst selbstständig, lösungsorientiert und eigenverantwortlich. Du bist engagiert, aufgeschlossen und kontaktfreudig und gehst offen auf Menschen zu. Du trittst souverän und überzeugend auf und legst Wert auf ein gepflegtes und professionelles Erscheinungsbild. Du bist gerne unterwegs, hast Freude an abwechslungsreichen Einsätzen und für Dich sind auch Hotelübernachtungen kein Problem. Du hast Freude am Verkaufen, überzeugst mit Deinem Auftreten und verstehst es, Kunden für Produkte und Konzepte zu begeistern. Du besitzt einen gültigen Führerschein der Klasse B und bist mobil. Du verfügst über sehr gute Deutschkenntnisse in Wort und Schrift. Benefits Du arbeitest 38,5 Stunden pro Woche und hast 30 Tage Urlaub. Du profitierst von flexiblen Arbeitszeiten und mobilem Arbeiten. Du erhältst ein 13. Gehalt, eine betriebliche Altersvorsorge und vermögenswirksame Leistungen. Du profitierst von einer leistungsorientierten Prämie, Mitarbeiterrabatten und weiteren Benefits. Du erhältst einen Dienstwagen und kannst von einem attraktiven Leasing-Fahrrad profitieren. Du bekommst eine strukturierte Einarbeitung und persönliche Begleitung. Du arbeitest unter modernen Bedingungen und profitierst von kurzen Entscheidungswegen. Dich erwartet ein offenes, kollegiales Umfeld in einem familiengeführten Unternehmen. Klingt nach deiner nächsten Herausforderung? Dann sende uns deine Bewerbungsunterlagen mit deiner Gehaltsvorstellung und deinem frühestmöglichen Eintrittstermin. Wir freuen uns darauf, dich kennenzulernen! Find Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "remote",
+      "training",
+      "development"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/jean-darcel-cosmetique-gmbh-co-kg/sales-trainerin-fur-das-gebiet-mitteldeutschland-berlin-396568",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-0e57a62c94e0",
+    "title": "ML Engineer (Computer Vision & ML Ops)",
+    "company": "StellDirVor GmbH",
+    "location": "Berlin",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "StellDirVor is an independent consulting, trade and technology company specializing in immersive technologies for healthcare. We support organizations in implementing digital innovations — Virtual, Augmented and Mixed Reality as well as AI — particularly for learning, training and real-time assistance in clinical and care environments. By combining technology and healthcare, we help optimize processes, improve knowledge transfer and enhance quality of care. Supported by a Germany (ZIM) and Taiwanese (GIPIP) partnership grant, we are currently developing ARAIAS — an AR- and AI-based hands-free training and assistance system for chronic wound care. Using AR smart glasses, the system enables 3D capture, AI-supported analysis, and standardized remote expertise and documentation directly at the point of care. As our ML Engineer (Computer Vision & ML Ops), you will build the AI capabilities at the core of ARAIAS: evaluating and fine-tuning computer vision models on smart glasses data, running the ML operations behind them, and applying generative AI to create synthetic medical images for education. We're at an early stage — moving from concept to working prototype — so the near-term focus is on validating models and building toward a proof of concept we can test in real education and clinical settings. As part of a small team, you will own the full data lifecycle end to end — from sourcing, consent and annotation to preparation — alongside model development and deployment. We welcome candidates at different experience levels. What matters most is a solid ML foundation and genuine awareness of the medical imaging domain. Notes: Due to the nature of the project, we can only consider candidates who are already residing in Germany. Tasks Select and benchmark pre-trained models and/or validated architectures for medical image analysis and adapt them to domain-specific data, ensuring robust performance under real-world conditions Identify and adapt suitable generative AI models to create realistic synthetic medical images for education and training Evaluate and fine-tune small language models (SLMs) for voice interaction — speech-to-text, intent understanding and text-to-speech — optimized for low-latency or on-device use with smart glasses Research and assess state-of-the-art ML models and emerging trends, including Explainable AI (XAI), cybersecurity for ML, and deployment and distribution modes (edge vs. cloud, federated learning, model compression) Plan and execute the ML operations pipeline — data gathering, annotation, preparation, training, testing and deployment Propose a data collection strategy — research suitable public and clinical data sources, recommend patient consent and other administrative requirements for ML training (e.g., data protection agreements, ethics approval), and define collection and annotation protocols with clinical experts, including labeling guidelines and quality checks Identify and validate factors that affect model performance — image conditions, dataset bias, patient diversity, data privacy and regulatory requirements Define test strategies and metrics, and validate model outputs against clinician assessments Perform build vs. buy analyses for models, tools and services, including cost comparison Estimate compute and training costs and propose budgets for model training and deployment Choose and set up training environments flexibly — local hardware or cloud — based on cost, data privacy and performance Make pragmatic technical decisions appropriate for the current prototyping stage and document results clearly Maintain clear, traceable documentation of data sources, models, experiments and design decisions to support audits and quality reviews Evaluate and integrate additional sensors where feasible (e.g., depth, LiDAR, thermal, multispectral) and fuse them with RGB input Requirements Must-Have Degree in Computer Science, Data Science, Biomedical Engineering, Mathematics or a related field — or equivalent practical background Strong Python skills and hands-on use of PyTorch, OpenCV or TensorFlow Solid understanding of computer vision — classification, object detection and image segmentation, 3D Reconstruction and Multi-View Geometry Hands-on knowledge of transfer learning — adapting pre-trained models and fine-tuning them on custom datasets Working knowledge of the full ML lifecycle — data preparation, training, evaluation and deployment Basic knowledge of generative models (diffusion models or GANs) and common open-source libraries Comfortable training models both locally (GPU workstation) and on cloud platforms Able to estimate ML compute costs and compare build vs. buy options to support budget decisions Awareness of medical imaging challenges — limited data, label variability between clinicians and class imbalance Awareness of healthcare data privacy and ethics (e.g., GDPR, patient consent, anonymization) and why explainability and bias matter in clinical AI Able to read research papers and apply them pragmatically Self-directed and pragmatic — able to take initiative and own problems end-to-end in a lean team Fluent in English — German is a bonus Strong Plus Projects or coursework in medical imaging or clinical AI Familiarity with semi-supervised learning — leveraging limited or partially labeled data Experience with 3D data processing — depth maps, point clouds or mesh reconstruction Exposure to multi-modal learning — combining RGB and depth or LiDAR data Edge AI or wearable deployment (e.g., TensorFlow Lite, ONNX, model quantization) Knowledge of explainability methods (e.g., Grad-CAM, SHAP) or adversarial robustness Familiarity with MLOps tools (e.g., MLflow, Weights & Biases, DVC, Docker) Awareness of medical device regulation for AI software (e.g., EU MDR, IEC 62304) Familiarity with small language models (SLMs) and speech pipelines (e.g., Whisper, on-device speech recognition and text-to-speech) Benefits Meaningful work — You help shape how technology redefines education and training in healthcare, with real impact on clinical outcomes Ownership and creative freedom — You work autonomously, contribute your ideas directly, and have a genuine say in how the system is built A learning culture — We support personal and professional growth through knowledge sharing, access to innovative tools and methods, and a dedicated learning budget Flexible working — Remote-friendly setup with the option to work from our Munich office Flat hierarchies and team spirit — A small, open, and trust-based team where communication is direct and everyone's voice matters International collaboration — Work alongside a Taiwan-based partner covering technology, hardware and research Applications are accepted only through our application form. Applications sent by email or through other channels will not be considered. We are only able to respond to candidates selected for further consideration. If you have not heard from us within four weeks of applying, please consider your application unsuccessful at this time. Find more English Speaking Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "remote",
+      "engineering"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/stelldirvor-gmbh/ml-engineer-computer-vision-ml-ops-berlin-240466",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-62c5210c6834",
+    "title": "Marketplace Manager (m/w/d)",
+    "company": "Neolymp",
+    "location": "Berlin",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Über Neolymp NEOLYMP ist eine Fitnessmarke aus Berlin, die 2018 gegründet wurde und hochwertige Fitnessprodukte entwickelt – von Klimmzugstangen über Fitnessbänder bis hin zu Walking-Pads. Im DACH-Raum sind wir auf den großen Marktplätzen stark vertreten: Amazon ist unser wichtigster Kanal, dazu kommen Otto, Decathlon und unser eigener Onlineshop. Unser Ziel ist klar: 100 % Wachstum pro Jahr bei starker Profitabilität. In den nächsten drei Jahren wollen wir auf 100 Mio. € Umsatz wachsen, und das Marketplace-Team wächst mit. Du verantwortest den Erfolg unserer Produkte auf Amazon, Otto und Decathlon im Tagesgeschäft. Du berichtest an unseren Head of Marketplaces und arbeitest eng mit Content, Design und Logistik zusammen. Deine Aufgaben Du steuerst das Tagesgeschäft auf Amazon (Seller Central), Otto und Decathlon: Sortiment, Preise, Bestände, Buy Box und Account Health. Du planst und optimierst Werbekampagnen (Sponsored Products, Brands, Display) mit klarem Blick auf ACoS, TACoS und Profitabilität. Du recherchierst Keywords, wertest Wettbewerber aus und gibst dem Listing- und Content-Team klare Briefings, was auf welchem Listing verbessert werden soll. Du analysierst Umsatz, Marge und Rankings, erkennst Chancen früh und leitest konkrete Maßnahmen ab. Du stimmst Bestandsplanung und Nachschub mit unserer Logistik ab, damit Bestseller lieferfähig bleiben. Du baust neue Marktplätze und Länder mit auf, von der Anbindung bis zum laufenden Betrieb. Dein Profil 2–3 Jahre Erfahrung im Marketplace Management, davon nachweislich auf Amazon (Seller Central). Sicherer Umgang mit Amazon Advertising und den gängigen Kennzahlen. Du kennst Otto und Decathlon als Marktplätze, idealerweise hast du bereits mit ihnen gearbeitet. Analytisches Denken und sicherer Umgang mit Excel bzw. Google Sheets; Tools wie Helium 10, Sellerboard kennst du oder lernst sie schnell. Erfahrung aus einem E-Commerce-Startup oder einer wachsenden Marke ist ein Plus. Du arbeitest selbstständig, strukturiert und kommunizierst klar, auch remote. Sehr gutes Deutsch und gutes Englisch. Das bieten wir dir Wachstum zum Mitgestalten: Du arbeitest an einer Marke auf dem Weg zu 100 Mio. € und siehst die Wirkung deiner Arbeit direkt im Umsatz. Flexibles Arbeiten: Du arbeitest vollständig remote und gestaltest dein Arbeiten eigenverantwortlich. Zusatzleistungen: moderne Hardware, Zugang zu Corporate Benefits, eine Spenditcard mit monatlich 50 € steuerfreiem Sachbezug und ein persönliches Educational Budget. Startup-Umfeld: kurze Entscheidungswege und regelmäßige Team-Events in einer schnell wachsenden E-Commerce-Marke. Wenn wir damit dein Interesse geweckt haben, freuen wir uns auf deine Bewerbung. Wir sind gespannt darauf, dich kennenzulernen! Find Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "remote",
+      "business development"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/neolymp/marketplace-manager-berlin-272866",
     "date_posted": null
   }
 ]
