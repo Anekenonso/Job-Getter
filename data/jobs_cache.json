@@ -1,5 +1,532 @@
 [
   {
+    "id": "jobicy-fbe8f8bf2563",
+    "title": "Director of Security Operations and Engineering",
+    "company": "EDB",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "A Little About Us EDB provides a data and AI platform that enables organizations to harness the full power of Postgres for transactional, analytical, and AI workloads across any cloud, anywhere. EDB empowers enterprises to control risk, manage costs and scale efficiently for a data and AI led world. Serving more than 1,500 customers globally&hellip;",
+    "required_skills": [
+      "cybersecurity"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155742-director-of-security-operations-and-engineering",
+    "date_posted": "2026-10-18"
+  },
+  {
+    "id": "jobicy-13a511e80a03",
+    "title": "Machine Learning Engineer (Governance ML Platform)",
+    "company": "EDB",
+    "location": "EMEA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "A Little About Us EDB provides a data and AI platform that enables organizations to harness the full power of Postgres for transactional, analytical, and AI workloads across any cloud, anywhere. EDB empowers enterprises to control risk, manage costs and scale efficiently for a data and AI led world. Serving more than 1,500 customers globally&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155746-machine-learning-engineer-governance-ml-platform",
+    "date_posted": "2026-10-18"
+  },
+  {
+    "id": "jobicy-b63a63193c3d",
+    "title": "Account Executive, Enterprise - Southern CA",
+    "company": "Zscaler",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 200+ public data centers globally and thousands of private sites at the&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155745-account-executive-enterprise-southern-ca",
+    "date_posted": "2026-10-18"
+  },
+  {
+    "id": "jobicy-feb36e0a674a",
+    "title": "Account Development Representative II",
+    "company": "Samsara",
+    "location": "Canada",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155743-account-development-representative-ii",
+    "date_posted": "2026-10-18"
+  },
+  {
+    "id": "jobicy-58dab964d742",
+    "title": "AE/Sr AE, Sales",
+    "company": "EDB",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "A Little About Us EDB provides a data and AI platform that enables organizations to harness the full power of Postgres for transactional, analytical, and AI workloads across any cloud, anywhere. EDB empowers enterprises to control risk, manage costs and scale efficiently for a data and AI led world. Serving more than 1,500 customers globally&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155740-ae-sr-ae-sales",
+    "date_posted": "2026-10-18"
+  },
+  {
+    "id": "jobicy-597d912e43aa",
+    "title": "Account Executive, Commercial - Kansas City",
+    "company": "Zscaler",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 200+ public data centers globally and thousands of private sites at the&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155738-account-executive-commercial-kansas-city",
+    "date_posted": "2026-10-18"
+  },
+  {
+    "id": "jobicy-d8e8c17e676d",
+    "title": "Consultant Relations Senior Manager",
+    "company": "BetterHelp",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Who are we and why should you join us? BetterHelp is on a mission to remove the traditional barriers to therapy and make mental health care more accessible to everyone. Founded in 2013, we are now the world’s largest online therapy service, providing affordable and convenient therapy across the globe. Our network of over 30,000&hellip;",
+    "required_skills": [
+      "business development"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155737-consultant-relations-senior-manager",
+    "date_posted": "2026-10-18"
+  },
+  {
+    "id": "jobicy-d8075536c097",
+    "title": "Full Stack Software Engineer",
+    "company": "BetterHelp",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Who are we and why should you join us? BetterHelp is on a mission to champion the well-being in all of us. We’re working to make mental healthcare more accessible, so more people can get the support they need, when they need it. As the world’s largest online therapy service, we’ve connected millions of people&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155744-full-stack-software-engineer-2",
+    "date_posted": "2026-10-18"
+  },
+  {
+    "id": "jobicy-b45a77a3d611",
+    "title": "Credentialing Specialist",
+    "company": "BetterHelp",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Who are we and why should you join us? BetterHelp is on a mission to champion the well-being in all of us. We’re working to make mental healthcare more accessible, so more people can get the support they need, when they need it. As the world’s largest online therapy service, we’ve connected millions of people&hellip;",
+    "required_skills": [
+      "healthcare & medical"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155741-credentialing-specialist",
+    "date_posted": "2026-10-18"
+  },
+  {
+    "id": "jobicy-05211fb9e787",
+    "title": "Customer Success Manager",
+    "company": "Hubstaff",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Customer Success Manager Remote | North America About Hubstaff Hubstaff helps organizations around the world optimize productivity and workforce operations. Trusted by 20,000+ businesses, our platform powers time tracking, team management, project insights, and payroll automation. We’ve been a remote-first company for over a decade — and we’re on a mission to help distributed teams&hellip;",
+    "required_skills": [
+      "customer support & success"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155739-customer-success-manager-52",
+    "date_posted": "2026-10-18"
+  },
+  {
+    "id": "jobicy-35b7203c2366",
+    "title": "Senior Software Engineer, Data Pipeline",
+    "company": "Bloomreach",
+    "location": "Europe",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Bloomreach is building the world’s premier agentic platform for personalization.We’re revolutionizing how businesses connect with their customers, building and deploying AI agents to personalize the entire customer journey. We're taking autonomous search mainstream, making product discovery more intuitive and conversational for customers, and more profitable for businesses. We’re making conversational shopping a reality, connecting every&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155730-senior-software-engineer-data-pipeline",
+    "date_posted": "2026-10-18"
+  },
+  {
+    "id": "jobicy-e54333d93255",
+    "title": "Staff Software Engineer - Python, Java / Spring or Go",
+    "company": "Bloomreach",
+    "location": "Europe",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Bloomreach is building the world’s premier agentic platform for personalization.We’re revolutionizing how businesses connect with their customers, building and deploying AI agents to personalize the entire customer journey. We're taking autonomous search mainstream, making product discovery more intuitive and conversational for customers, and more profitable for businesses. We’re making conversational shopping a reality, connecting every&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155731-staff-software-engineer-python-java-spring-or-go",
+    "date_posted": "2026-10-18"
+  },
+  {
+    "id": "jobicy-6e359a86b72a",
+    "title": "Principal Production Designer, Print & Packaging",
+    "company": "hims &#038; hers",
+    "location": "Europe",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Hims &amp; Hers is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are redefining healthcare by putting the customer first and delivering access to care that is affordable, accessible, and personal, from diagnosis to treatment to delivery. No two people are&hellip;",
+    "required_skills": [
+      "creative & design"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155728-principal-production-designer-print-packaging",
+    "date_posted": "2026-10-18"
+  },
+  {
+    "id": "jobicy-2d9472e1d698",
+    "title": "Manager, Engineering (Remote Eligible in Bulgaria)",
+    "company": "Smartsheet",
+    "location": "Bulgaria",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155726-manager-engineering-remote-eligible-in-bulgaria",
+    "date_posted": "2026-10-18"
+  },
+  {
+    "id": "jobicy-f2fd951d2b7b",
+    "title": "Tax Manager",
+    "company": "Bloomreach",
+    "location": "Czechia,  Slovakia",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Bloomreach is building the world’s premier agentic platform for personalization.We’re revolutionizing how businesses connect with their customers, building and deploying AI agents to personalize the entire customer journey. We're taking autonomous search mainstream, making product discovery more intuitive and conversational for customers, and more profitable for businesses. We’re making conversational shopping a reality, connecting every&hellip;",
+    "required_skills": [
+      "finance & accounting"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155732-tax-manager",
+    "date_posted": "2026-10-18"
+  },
+  {
+    "id": "jobicy-21311babaf1a",
+    "title": "Sr. Manager, Data Science",
+    "company": "hims &#038; hers",
+    "location": "UK",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Hims &amp; Hers is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are redefining healthcare by putting the customer first and delivering access to care that is affordable, accessible, and personal, from diagnosis to treatment to delivery. No two people are&hellip;",
+    "required_skills": [
+      "data science & analytics"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155725-sr-manager-data-science",
+    "date_posted": "2026-10-18"
+  },
+  {
+    "id": "jobicy-4587a4a39375",
+    "title": "Sr. Technical Program Manager I (Remote Eligible in Bulgaria)",
+    "company": "Smartsheet",
+    "location": "Bulgaria",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on&hellip;",
+    "required_skills": [
+      "project & program management"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155729-sr-technical-program-manager-i-remote-eligible-in-bulgaria",
+    "date_posted": "2026-10-18"
+  },
+  {
+    "id": "jobicy-7d5952f86850",
+    "title": "Senior Full-Stack Software Engineer (Remote in Europe)",
+    "company": "Skedda",
+    "location": "Europe",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "FULL-TIME / 100% Remote / Within Europe (Central European Time Zone (CET)) Compensation: $75,000 to $85,000 USD per year (Depending on experience and qualifications) This role is designed for candidates currently based in the CET/EET/WET timezones to support collaboration with our distributed engineering team - candidates outside of that region will not be considered. We&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155727-senior-full-stack-software-engineer-remote-in-europe-2",
+    "date_posted": "2026-10-18"
+  },
+  {
+    "id": "jobicy-dbd3a996e8c0",
+    "title": "Staff Software Engineer, Audit (Full Stack)",
+    "company": "Fieldguide",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Us: Fieldguide is establishing a new state of trust for global commerce and capital markets through automating and streamlining the work of assurance and audit practitioners specifically within cybersecurity, privacy, and ESG (Environmental, Social, Governance). Put simply, we build software for the people who enable trust between businesses. We’re based in San Francisco, CA&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155723-staff-software-engineer-audit-full-stack",
+    "date_posted": "2026-10-18"
+  },
+  {
+    "id": "jobicy-e63b3481f91e",
+    "title": "Chief Executive Officer",
+    "company": "Banyan Software",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Banyan Software is the best permanent home for software businesses that serve specialized industries, their employees, and their customers. With a buy-grow-and-hold-for-life approach and a permanent capital base, Banyan acquires and grows companies worldwide, honoring founder legacies and helping portfolio companies modernize through shared AI expertise and operational discipline. Founded in 2016, Banyan operates more&hellip;",
+    "required_skills": [
+      "product & operations"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155715-chief-executive-officer-4",
+    "date_posted": "2026-10-18"
+  },
+  {
+    "id": "jobicy-d04265ffb2aa",
+    "title": "Business Development Manager",
+    "company": "Goodleap",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About GoodLeap: GoodLeap is a technology company delivering best-in-class financing and software products for sustainable solutions, from solar panels and batteries to energy-efficient HVAC, heat pumps, roofing, windows, and more. Over 1 million homeowners have benefited from our simple, fast, and frictionless technology that makes the adoption of these products more affordable, accessible, and easier&hellip;",
+    "required_skills": [
+      "business development"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155722-business-development-manager-5",
+    "date_posted": "2026-10-18"
+  },
+  {
+    "id": "jobicy-767d8d152244",
+    "title": "Senior Software Engineer, Audit (Full Stack)",
+    "company": "Fieldguide",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Us: Fieldguide is establishing a new state of trust for global commerce and capital markets through automating and streamlining the work of assurance and audit practitioners specifically within cybersecurity, privacy, and ESG (Environmental, Social, Governance). Put simply, we build software for the people who enable trust between businesses. We’re based in San Francisco, CA&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155720-senior-software-engineer-audit-full-stack",
+    "date_posted": "2026-10-18"
+  },
+  {
+    "id": "jobicy-02e64956f984",
+    "title": "Technical Solutions Consultant",
+    "company": "Banyan Software",
+    "location": "Canada",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Banyan Software is the best permanent home for software businesses that serve specialized industries, their employees, and their customers. With a buy-grow-and-hold-for-life approach and a permanent capital base, Banyan acquires and grows companies worldwide, honoring founder legacies and helping portfolio companies modernize through shared AI expertise and operational discipline. Founded in 2016, Banyan operates more&hellip;",
+    "required_skills": [
+      "technical support"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155719-technical-solutions-consultant",
+    "date_posted": "2026-10-18"
+  },
+  {
+    "id": "jobicy-3ab4ca0e75a9",
+    "title": "Pre-Sales Engineer – West Coast",
+    "company": "Semperis",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "At Semperis, our mission is to be a Force for Good. Starting with being a great place to work. We believe that when people feel valued, supported, and empowered, they do their best work. That’s why we focus on creating an employee experience rooted in purpose, growth, and balance. Semperis has been recognized as one&hellip;",
+    "required_skills": [
+      "cybersecurity"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155718-pre-sales-engineer-west-coast",
+    "date_posted": "2026-10-18"
+  },
+  {
+    "id": "jobicy-ac704bd35af6",
+    "title": "Assistant General Counsel, Servicing",
+    "company": "Goodleap",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About GoodLeap: GoodLeap is a technology company delivering best-in-class financing and software products for sustainable solutions, from solar panels and batteries to energy-efficient HVAC, heat pumps, roofing, windows, and more. Over 1 million homeowners have benefited from our simple, fast, and frictionless technology that makes the adoption of these products more affordable, accessible, and easier&hellip;",
+    "required_skills": [
+      "legal & compliance"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155716-assistant-general-counsel-servicing",
+    "date_posted": "2026-10-18"
+  },
+  {
+    "id": "jobicy-b0ddb732cf7e",
+    "title": "1-on-1 Math Tutor for Grades 9-12",
+    "company": "Think Academy US",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": "US only",
+    "salary": null,
+    "description": "Job type: Part-Time (less than 20hrs/week) Location: Remote within the United States (US-Based, Fully Remote) Intended Start Date: As soon as possible Pay Range: $20–25/hr Who we are: Think Academy US (www.TheThinkAcademy.com), a 100% owned subsidiary of TAL Education Group(NYSE: TAL), is recently established education technology (Ed-Tech) company to provide K-12 extra-curricular learning services through&hellip;",
+    "required_skills": [
+      "education & e-learning"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155724-1-on-1-math-tutor-for-grades-9-12",
+    "date_posted": "2026-10-18"
+  },
+  {
+    "id": "jobicy-255c83fb9e8e",
+    "title": "1-on-1 Math Tutor for Grades 5-8",
+    "company": "Think Academy US",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Job type: Part-Time (less than 20hrs/week) Location: Remote in US Intended Start Date: As soon as possible Pay Range: $20–25/hr Who we are: Think Academy US (www.TheThinkAcademy.com), a 100% owned subsidiary of TAL Education Group(NYSE: TAL), is recently established education technology (Ed-Tech) company to provide K-12 extra-curricular learning services through science and technology. At Think&hellip;",
+    "required_skills": [
+      "education & e-learning"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155721-1-on-1-math-tutor-for-grades-5-8",
+    "date_posted": "2026-10-18"
+  },
+  {
+    "id": "jobicy-e2bd765d799c",
+    "title": "1 on 1 High School Math Tutor",
+    "company": "Think Academy US",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": "US only",
+    "salary": null,
+    "description": "Job type: Part-Time (less than 20hrs/week) Location: Remote within the United States (US-Based, Fully Remote) Intended Start Date: As soon as possible Pay Range: $20–25/hr Who we are: Think Academy US (www.TheThinkAcademy.com), a 100% owned subsidiary of TAL Education Group(NYSE: TAL), is recently established education technology (Ed-Tech) company to provide K-12 extra-curricular learning services through&hellip;",
+    "required_skills": [
+      "education & e-learning"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155717-1-on-1-high-school-math-tutor-3",
+    "date_posted": "2026-10-18"
+  },
+  {
+    "id": "jobicy-5c718a5b3c06",
+    "title": "Hebrew Freelance Translator & Copy Editor (Product, Marketing & UI Content)",
+    "company": "Welo Global",
+    "location": "Anywhere",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Welo Global Welo Global is a leader in multilingual AI, technology, and content solutions serving over 2,000 clients in 300 languages. The company combines globally scaled multilingual infrastructure, including a network of over 500,000 linguists and domain experts, with advanced NLP, computational linguistics, and best-in-class compliance backed by seven ISO certifications. Welo Global’s five&hellip;",
+    "required_skills": [
+      "content & editorial"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155709-hebrew-freelance-translator-copy-editor-product-marketing-ui-content",
+    "date_posted": "2026-10-18"
+  },
+  {
+    "id": "jobicy-9c2bd7fa8026",
+    "title": "English to Burmese (Myanmar) Linguist & Copy Editor for Product, Marketing & UI Content",
+    "company": "Welo Global",
+    "location": "Anywhere",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Welo Global Welo Global is a leader in multilingual AI, technology, and content solutions serving over 2,000 clients in 300 languages. The company combines globally scaled multilingual infrastructure, including a network of over 500,000 linguists and domain experts, with advanced NLP, computational linguistics, and best-in-class compliance backed by seven ISO certifications. Welo Global’s five&hellip;",
+    "required_skills": [
+      "content & editorial"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155708-english-to-burmese-myanmar-linguist-copy-editor-for-product-marketing-ui-content",
+    "date_posted": "2026-10-18"
+  },
+  {
+    "id": "jobicy-74419620450f",
+    "title": "Copywriter II",
+    "company": "Affirm",
+    "location": "Canada",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. About the Team This role is based on the Creative Content Team, which is part of the larger Content Design Team at Affirm. We’re&hellip;",
+    "required_skills": [
+      "content & editorial"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/155707-copywriter-ii",
+    "date_posted": "2026-10-18"
+  },
+  {
     "id": "jobicy-7629933f0f69",
     "title": "Enterprise Customer Success Manager",
     "company": "Canonical",
@@ -320,533 +847,6 @@
     "requirements": [],
     "source": "Jobicy",
     "url": "https://jobicy.com/jobs/155686-feasibility-manager",
-    "date_posted": "2026-10-18"
-  },
-  {
-    "id": "jobicy-bad2eedb1516",
-    "title": "Senior Customer Success Engineer",
-    "company": "Cribl",
-    "location": "UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Join the company that’s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world’s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telemetry, we give customers the choice,&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155685-senior-customer-success-engineer-2",
-    "date_posted": "2026-10-18"
-  },
-  {
-    "id": "jobicy-9d1a78f35562",
-    "title": "Product Sales Specialist, EMEA",
-    "company": "Cribl",
-    "location": "Germany,  Netherlands,  Spain,  UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Join the company that’s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world’s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telemetry, we give customers the choice,&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155679-product-sales-specialist-emea",
-    "date_posted": "2026-10-18"
-  },
-  {
-    "id": "jobicy-cec2056100b1",
-    "title": "Sales Engineer, UK",
-    "company": "Cribl",
-    "location": "UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Join the company that’s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world’s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telemetry, we give customers the choice,&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155684-sales-engineer-uk-2",
-    "date_posted": "2026-10-18"
-  },
-  {
-    "id": "jobicy-4508f374939c",
-    "title": "Clinical Research Associate II",
-    "company": "Precision Medicine Group",
-    "location": "Netherlands",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Precision for Medicine is not your typical CRO. At Precision for Medicine we have brought together new technologies, expertise and operational scale to help the life sciences improve the speed, cost and success rate of bringing life-changing therapies to patients. What sets us apart is the way we integrate clinical trial execution with deep scientific&hellip;",
-    "required_skills": [
-      "healthcare & medical"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155683-clinical-research-associate-ii",
-    "date_posted": "2026-10-18"
-  },
-  {
-    "id": "jobicy-2f7d88180ca0",
-    "title": "Regional Sales Manager, United Kingdom (Public Sector)",
-    "company": "Cribl",
-    "location": "UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Join the company that’s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world’s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telemetry, we give customers the choice,&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155682-regional-sales-manager-united-kingdom-public-sector",
-    "date_posted": "2026-10-18"
-  },
-  {
-    "id": "jobicy-9945078e5898",
-    "title": "Clinical Research Associate I/ Clinical Research Associate II",
-    "company": "Precision Medicine Group",
-    "location": "France",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Precision for Medicine is not your typical CRO. At Precision for Medicine we have brought together new technologies, expertise and operational scale to help the life sciences improve the speed, cost and success rate of bringing life-changing therapies to patients. What sets us apart is the way we integrate clinical trial execution with deep scientific&hellip;",
-    "required_skills": [
-      "healthcare & medical"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155681-clinical-research-associate-i-clinical-research-associate-ii",
-    "date_posted": "2026-10-18"
-  },
-  {
-    "id": "jobicy-6777969666f3",
-    "title": "Collections Specialist 12 Month Contract",
-    "company": "Kaseya",
-    "location": "Ireland",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Kaseya Kaseya is the leading provider of AI-powered IT management and cybersecurity software, serving Managed Service Providers (MSPs) and internal IT organizations worldwide. Our comprehensive platform helps organizations efficiently manage, secure, and automate their IT environments, driving operational efficiency and long-term business success. Backed by Insight Partners, a leading global software investor, Kaseya has&hellip;",
-    "required_skills": [
-      "finance & accounting"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155677-collections-specialist-12-month-contract",
-    "date_posted": "2026-10-18"
-  },
-  {
-    "id": "jobicy-bfc5db0474e1",
-    "title": "Software Engineer II - Poland",
-    "company": "Housecall Pro",
-    "location": "Poland",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Why Housecall Pro? Help us build solutions that build better lives. At Housecall Pro, we show up to work every day to make a difference for real people: the home service professionals that support America’s 100 million homes. We’re all about the Pro, and dedicate our days to helping them streamline operations, scale their businesses,&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155678-software-engineer-ii-poland",
-    "date_posted": "2026-10-18"
-  },
-  {
-    "id": "jobicy-29eb2d650873",
-    "title": "Catalog & Content Lead",
-    "company": "Fresh Prints",
-    "location": "Philippines",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About the job Fresh Prints is about to go through the biggest catalog shift in company history. We've always sold custom apparel to groups - chapters, teams, clubs. That's changing: we're building a catalog where every product and design has its own shoppable page, so anyone can browse and buy directly, the way you'd shop&hellip;",
-    "required_skills": [
-      "product & operations"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155675-catalog-content-lead",
-    "date_posted": "2026-10-18"
-  },
-  {
-    "id": "jobicy-35198037bb05",
-    "title": "AI Automation & Ops Lead",
-    "company": "Fresh Prints",
-    "location": "Philippines",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "AI Automation &amp; Operations Lead Company: Nucleus NetworkLocation: RemoteEmployment type: Full-timeWorking hours: To be confirmed based on required US time-zone overlap About Nucleus Network Nucleus Network is built around a simple mission: introducing great people to great people. The business operates across three core areas: Nucleus Advisory: A warm-introductions-as-a-service business that has made and tracked&hellip;",
-    "required_skills": [
-      "product & operations"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155673-ai-automation-ops-lead",
-    "date_posted": "2026-10-18"
-  },
-  {
-    "id": "jobicy-134fe8c114c6",
-    "title": "Software Engineer - Applied AI",
-    "company": "DevRev",
-    "location": "Philippines",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About DevRev At DevRev, we're building the future of work with Computer – your AI teammate. Unlike traditional tools, Computer unifies all your data sources, tools, and workflows into a single AI-ready platform, giving employees real-time insights, proactive suggestions, and powerful agentic actions. It extends your existing software with AI-native apps and agents that work&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155671-software-engineer-applied-ai",
-    "date_posted": "2026-10-18"
-  },
-  {
-    "id": "jobicy-f434b529dc9c",
-    "title": "Clinical Trial Manager",
-    "company": "Precision Medicine Group",
-    "location": "China",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Precision for Medicine is not your typical CRO. At Precision for Medicine we have brought together new technologies, expertise and operational scale to help the life sciences improve the speed, cost and success rate of bringing life-changing therapies to patients. What sets us apart is the way we integrate clinical trial execution with deep scientific&hellip;",
-    "required_skills": [
-      "healthcare & medical"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155670-clinical-trial-manager-2",
-    "date_posted": "2026-10-18"
-  },
-  {
-    "id": "jobicy-d5d3e0c922db",
-    "title": "Technical Support Engineer, APAC",
-    "company": "Socket",
-    "location": "Australia",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Us Socket helps devs and security teams ship faster by cutting out security busywork. Thousands of orgs use Socket to safely find, audit, and manage open source code. Our customers - from Anthropic to xAI, and Figma to Vercel - love Socket (just check out their tweets to see for yourself!) Founded by Feross&hellip;",
-    "required_skills": [
-      "technical support"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155669-technical-support-engineer-apac",
-    "date_posted": "2026-10-18"
-  },
-  {
-    "id": "jobicy-9397a5fe1337",
-    "title": "Automation Specialist, Customer Success",
-    "company": "Instructure",
-    "location": "Philippines",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At Instructure, we believe in the power of people to grow and succeed throughout their lives. Our goal is to amplify that power by creating intuitive products that simplify learning and personal development, facilitate meaningful relationships, and inspire people to go further in their education and careers.We do this by giving smart, creative, passionate people&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155667-automation-specialist-customer-success",
-    "date_posted": "2026-10-18"
-  },
-  {
-    "id": "jobicy-45a71439479f",
-    "title": "Senior Technical Recruiter (Contract)",
-    "company": "TRM Labs",
-    "location": "Brazil",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Build a Safer World. TRM Labs provides AI-powered intelligence solutions that help public and private sector agencies investigate and disrupt crime. TRM's platforms enable investigators to trace illicit activity, build cases, and construct operating pictures of threat networks. Leading agencies and businesses worldwide rely on TRM to make the world safer and more secure. At&hellip;",
-    "required_skills": [
-      "hr & recruiting"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155666-senior-technical-recruiter-contract",
-    "date_posted": "2026-10-18"
-  },
-  {
-    "id": "jobicy-0e0d0332cecb",
-    "title": "Strategic Sourcing Lead – Fulfillment - Brazil",
-    "company": "Appen",
-    "location": "Brazil,  Philippines",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About the Role As a Strategic Sourcing Lead, you’ll lead a new global sourcing hub focused on finding the right contributors for complex AI projects that require specialized or hard-to-reach talent across a wide range of domains, from translation and localization to legal, medical, scientific, and technical fields. This is a strategic, hands-on role within&hellip;",
-    "required_skills": [
-      "hr & recruiting"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155664-strategic-sourcing-lead-fulfillment-brazil",
-    "date_posted": "2026-10-18"
-  },
-  {
-    "id": "jobicy-74d4ebdde5c1",
-    "title": "Public Sector Strategic Account Executive - Brazil",
-    "company": "GitLab",
-    "location": "Brazil",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155663-public-sector-strategic-account-executive-brazil",
-    "date_posted": "2026-10-18"
-  },
-  {
-    "id": "jobicy-1eee5e0311ba",
-    "title": "Software Engineer",
-    "company": "Flex",
-    "location": "Brazil",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Flex is building the AI-native private bank for business owners. We’re re-architecting the entire financial system for entrepreneurs—from the first dollar a business earns to how that value compounds, moves, and is ultimately spent in real life. Banking, credit, payments, personal finance, and financial operations—rebuilt from the ground up as a single, intelligent system. Flex&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155660-software-engineer-12",
-    "date_posted": "2026-10-18"
-  },
-  {
-    "id": "jobicy-6e7bef240f0a",
-    "title": "Senior Data Scientist, Full Stack (Brazil)",
-    "company": "TRM Labs",
-    "location": "Brazil",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Build a Safer World. TRM Labs provides AI-powered intelligence solutions that help public and private sector agencies investigate and disrupt crime. TRM's platforms enable investigators to trace illicit activity, build cases, and construct operating pictures of threat networks. Leading agencies and businesses worldwide rely on TRM to make the world safer and more secure. TRM&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155658-senior-data-scientist-full-stack-brazil",
-    "date_posted": "2026-10-18"
-  },
-  {
-    "id": "jobicy-7d53ba9c4b7a",
-    "title": "Senior Software Engineer - SRE",
-    "company": "Salesloft",
-    "location": "Mexico",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Job Title: Senior Software Engineer - SRE Location:Mexico, Remote This is a fully remote opportunity and can be worked from any location in Mexico. Candidates must be based in Mexico and be able to travel to the office in Guadalajara as needed. ABOUT THE COMPANY: Salesloft is building the next era of enterprise revenue —&hellip;",
-    "required_skills": [
-      "devops & infrastructure"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155657-senior-software-engineer-sre",
-    "date_posted": "2026-10-18"
-  },
-  {
-    "id": "jobicy-2c65fcfc43a0",
-    "title": "Full Stack Developer (Frontend-Focused) - Mexico",
-    "company": "Brafton",
-    "location": "Mexico",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Brafton is one of the world's leading content marketing firms, with offices in Boston, London, Toronto and Sydney. We aspire to continually raise the bar on what people consider \"marketing content.\" We create result-focused strategies and content to drive SEO, social engagement and leads for our clients. Our teams continuously build expertise across new media&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155665-full-stack-developer-frontend-focused-mexico",
-    "date_posted": "2026-10-18"
-  },
-  {
-    "id": "jobicy-906d4cbaa35a",
-    "title": "Senior Software Engineer, AI Engineer (Brazil)",
-    "company": "TRM Labs",
-    "location": "Brazil",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Build a Safer World. TRM Labs provides AI-powered intelligence solutions that help public and private sector agencies investigate and disrupt crime. TRM's platforms enable investigators to trace illicit activity, build cases, and construct operating pictures of threat networks. Leading agencies and businesses worldwide rely on TRM to make the world safer and more secure. TRM's&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155662-senior-software-engineer-ai-engineer-brazil",
-    "date_posted": "2026-10-18"
-  },
-  {
-    "id": "jobicy-5b5fb3790647",
-    "title": "Strategic Sourcing Lead – Fulfillment - Argentina",
-    "company": "Appen",
-    "location": "Argentina,  Brazil,  Mexico,  Philippines",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About the Role As a Strategic Sourcing Lead, you’ll lead a new global sourcing hub focused on finding the right contributors for complex AI projects that require specialized or hard-to-reach talent across a wide range of domains, from translation and localization to legal, medical, scientific, and technical fields. This is a strategic, hands-on role within&hellip;",
-    "required_skills": [
-      "hr & recruiting"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155659-strategic-sourcing-lead-fulfillment-argentina",
-    "date_posted": "2026-10-18"
-  },
-  {
-    "id": "jobicy-3d61882fa41a",
-    "title": "Full Stack Developer (Frontend-Focused) - Brazil",
-    "company": "Brafton",
-    "location": "Brazil",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Brafton is one of the world's leading content marketing firms, with offices in Boston, London, Toronto and Sydney. We aspire to continually raise the bar on what people consider \"marketing content.\" We create result-focused strategies and content to drive SEO, social engagement and leads for our clients. Our teams continuously build expertise across new media&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155661-full-stack-developer-frontend-focused-brazil",
-    "date_posted": "2026-10-18"
-  },
-  {
-    "id": "jobicy-a8cdbecaeb32",
-    "title": "Consultant Psychiatrist PAYE",
-    "company": "Montu UK",
-    "location": "UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "An opportunity to help patients who have run out of options For many people living with chronic pain, the journey has been long. They have tried multiple medications, procedures and therapies, yet their pain continues to impact every aspect of daily life. By the time they reach us, many are looking for another option where&hellip;",
-    "required_skills": [
-      "healthcare & medical"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155650-consultant-psychiatrist-paye",
-    "date_posted": "2026-10-18"
-  },
-  {
-    "id": "jobicy-03f52d9e385c",
-    "title": "Senior C++/iOS Engineer - User Platform",
-    "company": "Spotify",
-    "location": "Sweden,  UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "We’re looking for a Senior C++/iOS Engineer to join the Baldur squad within User Platform (UP). Baldur owns Spotify’s Session Management and Delegated Authorization domains—the systems that enable applications to securely obtain, use, and manage access tokens for hundreds of millions of users. In this role, you’ll help shape the technology that powers secure access&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155651-senior-c-ios-engineer-user-platform",
-    "date_posted": "2026-10-18"
-  },
-  {
-    "id": "jobicy-7bc99bcc1e93",
-    "title": "Ads Quality Rater - Slovak (Slovakia)",
-    "company": "Welo Global",
-    "location": "Slovakia",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Welo Data is an award-winning localization and data transformation company. We run one of the world’s largest Ads Rating Programs and we want you to join! As an Ads Quality Rater, you will review and grade internet advertisements to help shape how ads are delivered to the end users. In other words, you’ll tell the&hellip;",
-    "required_skills": [
-      "qa & testing"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155656-ads-quality-rater-slovak-slovakia",
-    "date_posted": "2026-10-18"
-  },
-  {
-    "id": "jobicy-4cab127bc129",
-    "title": "Machine Learning Engineer",
-    "company": "StackAdapt",
-    "location": "Germany,  Ireland,  UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to drive measurable results across the entire customer journey. The most forward-thinking marketers choose StackAdapt to orchestrate high-impact campaigns across&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155653-machine-learning-engineer-4",
-    "date_posted": "2026-10-18"
-  },
-  {
-    "id": "jobicy-f6dc1a448c82",
-    "title": "Senior Fullstack Engineer",
-    "company": "Spotify",
-    "location": "Sweden,  UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "The Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work, creating the infrastructure, tooling, frameworks, and capabilities needed to welcome a billion customers. Our team builds Groove, a&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155655-senior-fullstack-engineer-3",
-    "date_posted": "2026-10-18"
-  },
-  {
-    "id": "jobicy-11f546986131",
-    "title": "Ads Quality Rater - Lithuanian (Lithuania)",
-    "company": "Welo Global",
-    "location": "Lithuania",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Welo Data is an award-winning localization and data transformation company. We run one of the world’s largest Ads Rating Programs and we want you to join! As an Ads Quality Rater, you will review and grade internet advertisements to help shape how ads are delivered to the end users. In other words, you’ll tell the&hellip;",
-    "required_skills": [
-      "qa & testing"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155649-ads-quality-rater-lithuanian-lithuania",
-    "date_posted": "2026-10-18"
-  },
-  {
-    "id": "jobicy-88fb38e11d93",
-    "title": "Senior Applied Research Scientist - Personalization",
-    "company": "Spotify",
-    "location": "Sweden,  UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "The Personalization team makes deciding what to play next easier and more enjoyable for every listener. From Blend to Discover Weekly, we're behind some of Spotify's most-loved features. We built them by understanding the world of music and podcasts better than anyone else. Join us and you'll keep millions of users listening by making great&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/155648-senior-applied-research-scientist-personalization",
     "date_posted": "2026-10-18"
   },
   {
@@ -1331,267 +1331,91 @@
     "date_posted": "2026-09-17"
   },
   {
-    "id": "arbeitnow-c22b05f74f19",
-    "title": "Senior Strategic Customer Success Manager – Growth & Expansion (m/w/d)",
-    "company": "epilot GmbH",
-    "location": "Remote job",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Du willst nicht nur betreuen, sondern echte Wirkung erzielen? In dieser Rolle begleitest du unsere Kunden nicht durch Tickets, sondern durch Wachstumsphasen: Du hilfst dabei, unsere SaaS-Plattform strategisch in Bestandsaccounts zu verankern, neue Use Cases zu aktivieren und Accounts systematisch auszubauen. Wenn du Lust hast, Impact im Customer Success wirklich messbar zu machen, freuen wir uns auf dich. epilot digitalisiert die Energiewirtschaft mit einer einzigartigen Cloud-Software. Wir sind ein wachsendes Scale-Up im Herzen von Köln. Unsere Mission: epilot revolutioniert die Zusammenarbeit von allen Marktpartnern, die in der Energiewelt zur Erbringung von Produkten und Dienstleistungen zusammenarbeiten. Wir bieten innerhalb der Cloudwelt ein großes Netzwerk aus Partnern, welches durch die Community ständig erweitert wird. Das erwartet dich Als Teil unseres strategischen Customer Success Teams arbeitest du mit Bestandskunden daran, das volle Potenzial unserer Plattform auszuschöpfen – mit einem klaren Fokus auf Wachstum und nachhaltiger Aktivierung. Du entwickelst datenbasierte Strategien zur Steigerung der Adoption , unterstützt Kundenteams bei der Identifikation relevanter Use Cases und trägst aktiv dazu bei, den Mehrwert unseres Produkts für verschiedene Zielgruppen kontinuierlich auszubauen. Die Segmentierung von Accounts nach Nutzungsverhalten und Reifegrad liegt in deiner Hand – ebenso wie die Identifikation von Power Usern und internen Champions zur Skalierung unserer Lösung. Du nutzt KPIs wie beispielsweise Login-Frequenz und Feature-Nutzung zur Ableitung von Maßnahmen – und gestaltest den Aufbau unseres CS-KPI-Systems aktiv mit. Du trägst dazu bei, Customer Success bei epilot von einer betreuenden Rolle hin zu einer strategischen Wachstumsfunktion zu entwickeln. Optional : Wenn du bereits Erfahrung in Partner-Trainings, Zertifizierungen oder Enablement-Formaten mitbringst – perfekt. Hier gibt es Wachstumsmöglichkeiten ins Partner-Management. Das bringst du mit Erfahrung im strategischen Customer Success Management im B2B SaaS Umfeld, mit Fokus auf Adoption, Expansion oder Reaktivierung. Du hast mit modularen, konfigurierbaren SaaS-Lösungen gearbeitet und weißt, wie wichtig Stakeholder-Alignment und Power User sind. Du denkst in Segmenten, Erfolgslogiken und KPI-Systemen , nicht in Tickets. Du bringst technisches Verständnis für Plattformlogik (idealerweise Low-/No-Code Tools) mit und kannst zwischen Use Case und Feature argumentieren. Du hast Freude daran, interne Prozesse zu strukturieren, dir neue Methoden zu erarbeiten und bestehende Accounts strategisch auszubauen . Du kommunizierst sicher mit Business-Stakeholdern wie mit IT-nahen Nutzern – und kannst Mehrwerte in beiden Welten vermitteln. Bonus : Erfahrung mit Enablement-Trainings für Partner, Zertifizierungsmodellen oder systematischen Schulungskonzepten. Das bieten wir dir Die Möglichkeit, die erfolgreichste SaaS-Plattform auf dem Energiemarkt mit aufzubauen. Start-up-Mentalität: dynamische Atmosphäre und großartiger Teamspirit. Ein stark wachsendes Unternehmen mit offener Kommunikationskultur, motivierten Kolleg:innen, und internationaler Unternehmenskultur Exponentielle Lernkurve – epilot wächst rasant, selbiges erwarten wir von dir Einen zentralen und modernen Standort im Herzen von Köln mit coolen Cafés direkt um die Ecke Transparenz – Wir pflegen eine sehr flache und offene Unternehmenskultur, alles ist einsehbar und steht zur Diskussion. Regelmäßige Teamevents wie bspw. zu Karneval, das Sommerfest, Weihnachtsfeier, Company breakfast und noch viel mehr Gelegenheiten deine epilot:innen auch außerhalb der Arbeitszeiten kennenzulernen Die Möglichkeit für mobiles, flexibles Arbeiten, Sportangebote (u.a. Urban Sports Club) u.v.m. Immer noch nicht überzeugt? Hier unser Versprechen an alle zukünftigen epilot:innen: promise.epilot.cloud P.S.: Falls du dir nicht sicher bist, ob diese Stelle noch offen sein sollte, dann schau einfach unter https://epilot.cloud/karriere/ (dort findest du natürlich auch alle weiteren offenen Positionen). Wenn sie dort noch online ist, dann suchen wir auch noch. Also: worauf wartest du noch? Wir freuen uns über Bewerbungen von Menschen aller Herkunft, unabhängig von Geschlecht, ethnischer Zugehörigkeit, Alter, Behinderung oder sexueller Orientierung! Find Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "customer success",
-      "remote"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/epilot-gmbh/remote-senior-strategic-customer-success-manager-growth-expansion-koln-274029",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-fcefc5523337",
-    "title": "Panel Manager (f/m/d) - Freelancer / Contractor; 100% remote possible",
-    "company": "PlaytestCloud GmbH",
-    "location": "Remote job",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Panel Manager (f/m/d) 📍 Location: Remote (No Relocation) 💼 Employment Type: Contractor / Freelance ; 3 to 6 months contract About PlaytestCloud PlaytestCloud’s Player Insights Platform™ helps game studios improve their games through feedback from real players. Over 60% of the top-grossing game studios have tested their games with PlaytestCloud. 🏆 Premier provider for games. We help game studios worldwide make the best games they possibly can.&nbsp; 🏆 Built for player insight. We build technology that enables secure, high-quality remote game testing.&nbsp; 🏆 Independent and established. We are bootstrapped and profitable, with more than 400 paying game studios and over one million playtesters. Our player community PlaytestCloud runs one of the largest proprietary player panels in games: a large, growing, global community of players who take part because they care about making the games they play better.&nbsp; This isn't a role where you're building a panel from scratch. You'll be advising a mature Research Operations team that's already investing in the long-term health, quality, and strategic development of that community.&nbsp; Our goal is simple: help game studios make better decisions through real player insight. You'll play a central role in keeping that community trusted, representative, engaged, and ready for what game developers need next. About the role We're hiring an experienced, analytical Panel Manager (f/m/d) to shape the next stage of PlaytestCloud's proprietary player panel. Your job: figure out what makes a panel strong and scalable, then turn that understanding into measurable action. You'll identify the metrics that matter most, find opportunities to improve panel quality and availability, and build a practical framework that helps us serve studios better as we grow. This is a freelance contract (3–6 months) with a clear mission: build a stronger foundation for how we measure, manage, and grow our player panel. Key Responsibilities: Panel strategy and ownership. Take ownership of the health and growth of PlaytestCloud's global player panel. Metrics and insight. Define and track the metrics that connect panel performance, player experience, studio needs, and business growth. Opportunity identification. Analyze panel data to find the highest-impact opportunities, constraints, and risks. Actionable improvements. Turn insight into practical recommendations, and work with the right teams to implement and measure them. Cross-functional collaboration. Partner closely with Research Operations, Product, and GTM to make sure the panel supports great outcomes for our studios. Sustainable foundations. Set up a reporting rhythm, performance framework, and roadmap the team can keep using after the contract ends. Your profile Must-have: Panel experience. Recent hands-on experience managing, running, growing, or optimizing a large participant panel, research-participant community, or gaming community — including participant supply, retention, quality, segmentation, and/or incentive strategy.&nbsp; Commercial and analytical mindset. You know how to find the few metrics that actually matter, connect them to customer and business outcomes, and use data to make good calls.&nbsp; Tool competency. Comfortable querying databases in SQL, and familiar with agentic AI tools like Claude or Codex.&nbsp; Ownership. You're a self-starter who likes taking on an ambiguous challenge, building structure around it, and driving it forward on your own.&nbsp; Practical problem-solving. You turn analysis into clear priorities and action, not insight for its own sake.&nbsp; Strong communication. You can explain complex findings clearly to technical and non-technical people alike.&nbsp; Strong English. Comfortable communicating in written and spoken English on a remote, international team. Great to have: Qualitative research experience. Experience supporting or working closely with qualitative user research, including participant recruitment, study operations, interviews, usability testing, or research synthesis. Games and player research. Interest in games, player research, or the gaming industry. Direct games-recruitment experience is not required. Get in touch with us Questions about the role or our hiring process? Email our Talent team at talent[at] playtestcloud.com . Find Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "research operations",
-      "remote"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/playtestcloud-gmbh/panel-manager-freelancer-contractor-100-remote-possible-berlin-465438",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-45002e0acc0b",
-    "title": "(Senior) SAP IS-U / SAP S/4HANA Utilities Consultant (m/w/d)",
-    "company": "Natuvion GmbH",
-    "location": "Remote job",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Fühlst du dich in der Energiewirtschaft zu Hause und willst weiter an ihrer Digitalisierung arbeiten? Du hast in den letzten Jahren bereits viel Erfahrung als Berater gesammelt, hast aber jetzt Lust auf neue Projekte und Kunden ? Dann passt du perfekt in unser Team!&nbsp; Die Umsetzung verschiedenster Themen in der Energiewirtschaft gehört seit der Gründung von Natuvion&nbsp;zu unseren wesentlichen Kernkompetenzen . Unser Team verfügt über jahrelange Erfahrung in den Kernprozessen der Energiewirtschaft und kombiniert komplexes Prozesswissen mit tiefgreifendem technologischem Verständnis. Als Special Expertise Partner von SAP kennen wir uns bestens mit der neuesten Softwaregeneration SAP S/4HANA Utilities aus. Und bei zahlreichen Energieversorgern gehören Natuvion Add-ons zum bewährten Standard der SAP for Utilities Lösung (IS-U), die die Flexibilität und Leistungsfähigkeit in vielen Bereichen erhöhen - von&nbsp;Lastgangverwaltung&nbsp;bis zur Abrechnung des Messstellenbetriebs. Als (Senior) SAP IS-U / SAP S/4HANA Utilities Consultant (m/w/d) bist du für unsere Kunden ein zuverlässiger Berater in allen Fragen rund um SAP IS-U und SAP S/4HANA Utilities und arbeitest mit uns an verschiedenen Projekten,&nbsp;sei es die Optimierung laufender Systeme oder spannende Transformationsprojekte - und das alles, ohne auf den Komfort deines Homeoffice verzichten zu müssen. Deine Aufgaben: Du bist Ansprechpartner und Berater für unsere deutschen und europäischen Kunden im Energiesektor bei allen Fragen rund um SAP Utilities und übernimmst als Teil- oder Gesamtprojektleiter die Verantwortung für die Umsetzung ihrer Anforderungen. Du unterstützt unsere Kunden bei der Standardisierung, Analyse und Weiterentwicklung ihrer Prozesse sowie bei Umzug vom SAP IS-U-System auf die S/4HANA Utilities -Plattform. Dabei wirst du Anforderungskonzepte erstellen, Lösungen entwerfen, deren Umsetzung leiten und Kundenworkshops/Schulungen organisieren. Du übernimmst Verantwortung für Fachthemen und betreust deine Kollegen als Mentor . Dein&nbsp;Profil: Du hast dein Studium oder deine Ausbildung in einem kaufmännischen oder technischen Umfeld erfolgreich abgeschlossen. Durch deine Tätigkeit im Energiesektor bist du mit den Prozessen von Energieversorgern vertraut. In den letzten 3-4 Jahren hast du bereits Erfahrung und Fachwissen in der Konfiguration, Implementierung und Weiterentwicklung von SAP IS-U&nbsp; Systemen gesammelt. Idealerweise hast du bereits Erfahrung im IT-Projektmanagement sowie Kenntnisse in einer objektorientierten Programmiersprache wie ABAP oder Java. Du sprichst Deutsch auf hohem oder muttersprachlichem Niveau sowie fließend Englisch und kannst daher sicher mit unseren Kunden interagieren. Falls du denkst, dass du nicht alle Anforderungen erfüllst: Bei uns sind deiner Entwicklung „keine Grenzen gesetzt“! Geh mit uns gemeinsam deinen Weg – Wir unterstützen dich dabei! Zeige uns einfach wer du bist. Was dich bei uns erwartet: Ein Umfeld, das jederzeit offen für Veränderungen und Optimierungen ist. Ein „das war schon immer so“ gibt es bei uns nicht. Du hast die Chance, dein Wissen einzubringen, Prozesse zu gestalten, vorhandene Themen zu standardisieren oder Abläufe zu optimieren. Sei Impulsgeber und bringe uns mit deiner Expertise noch weiter nach vorne! Wir schaffen Rahmenbedingungen, in denen du dich wohlfühlst: Home-Office Verträge &amp; absolute Flexibilität durch freie Gestaltung der Arbeitszeit&nbsp; Unbefristete Festanstellung und 30 Tage Urlaub&nbsp; FlexWork: Bis zu 3 Monate pro Jahr remote aus dem europäischen Ausland arbeiten&nbsp; Monatliches Budget für individuell wählbare Benefits aus über 50 möglichen Angeboten über emplu, verschiedene Angebote über Corporate Benefits, sowie Fahrrad- und Autoleasing per Gehaltsumwandlung Mental Health Benefit 'Nilo' – 10 kostenlose Sessions mit Psycholog:innen jährlich sowie Zugang zu Meditationen und Kursen&nbsp; Wir unterstützen dich gezielt bei deiner fachlichen und persönlichen Entwicklung bei Natuvion&nbsp; Mentorenprogramm für eine strukturierte und persönliche Einarbeitung&nbsp; Werde Teil des #teamgreen - Bei Natuvion arbeitest du an innovativen Projekten als Teil eines Teams, das füreinander einsteht. Wir setzen auf Zusammenarbeit, Offenheit und Vertrauen&nbsp; Modernes Equipment und zentrale Büros in Walldorf, Berlin, München und Leipzig &nbsp; Uns ist deine langfristige Perspektive wichtig, deshalb bezuschussen wir deine betriebliche Altersvorsorge sowie vermögenswirksame Leistungen &nbsp; Join #teamgreen - Natuvion ist ein digitales Umzugsunternehmen. Unser Team bewegt keine Tische, Aktenschränke oder Stühle. Natuvion transportiert geschäftskritische Daten und Prozesse von einer Technologieplattform auf eine andere. Typische Natuvion „Umzugsdienstleistungen“ umfassen Datenmigration, Datentransformation, Datenintegration, Datenschutz, Datensicherheit und Datenqualität. Unsere&nbsp;&gt;400 BeraterInnen und EntwicklerInnen in Deutschland, Österreich, Slowakei, USA und Australien verfügen über weitreichendes Knowhow bei (SAP®-)Projekten und ein profundes Prozessverständnis über Branchengrenzen hinweg. Mit viel Erfahrung, Engagement und Einsatz begleiten sie unsere Kunden mit Beratung, Dienstleistung und eigener Softwaretechnologie. So ermöglichen wir Unternehmen, ihre Daten und Prozesse immer auf den modernsten und innovativsten Plattformen zu nutzen. Du bist interessiert? Wir freuen uns auf deine Bewerbung und darauf, dich kennenzulernen! Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "utilities",
-      "remote"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-sap-is-u-sap-s-4hana-utilities-consultant-walldorf-369814",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-f644de823942",
-    "title": "Senior SAP FI/CO - Consultant (m/w/d)",
-    "company": "Natuvion GmbH",
-    "location": "Remote job",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Möchtest du die Zukunft eines neuen Fachbereichs aktiv mitgestalten? Dann bist du&nbsp;bei uns genau richtig! Wir suchen einen Senior SAP FI/CO - Consultant&nbsp;(m/w/d) , der uns entweder in unserer Transformationssäule bei Projekten im Automotive Umfeld oder im Public Business Bereich unterstützt. &nbsp; Freue Dich&nbsp;auf ein dynamisches Team und die Möglichkeit, an unterschiedlichsten Projekten zu arbeiten. Bei uns erwarten Dich&nbsp;immer neue Themen und Herausforderungen, eine hohe Dynamik und maximaler Gestaltungsspielraum. Werde Teil unserer Erfolgsgeschichte und bring deine&nbsp;Expertise ein! Deine Aufgaben: Umsetzung von spannenden Transformationsprojekten und aktive Mitgestaltung von neuen Strukturen&nbsp; Mitarbeit in spannenden Projekten und Begleitung unserer Kunden bei Fragen zu FI/CO Durchführung von Workshops sowie Beratung mit Blick auf Prozessoptimierung und digitale Transformation&nbsp; Mitarbeit an strategischen und technischen Themen und Entwicklung praxisnaher Lösungsansätze&nbsp; Teilnahme an Presales-Terminen und Mitwirkung bei der Präsentation unserer Expertise&nbsp; Dein Profil: Dir sind die Grundlagen der (Wirtschafts-)Informatik gut bekannt – du musst nicht unbedingt einen Bachelor oder Masterabschluss haben, hast aber einen technisch - analytischen Hintergrund. Ein relevantes Bachelor und/oder Master Studium ist dennoch gern gesehen. Mindestens 5 Jahre Erfahrung in den Modulen FI/CO oder FI-CA im Beratungsumfeld oder dem Fach-/Anwendungsbereich Idealerweise Erfahrung in der Industrie oder dem öffentlichen Dienst Tiefes technisches Verständnis für SAP,&nbsp;ABAP-Kenntnisse sind wünschenswert, aber kein Muss Langjährige Beratungs- sowie Projekterfahrung Deutsch auf Muttersprachenniveau, vorzugsweise&nbsp;Englischkenntnisse Falls du denkst, dass du nicht alle Anforderungen erfüllst: Bei uns sind deiner Entwicklung „keine Grenzen gesetzt“! Geh mit uns gemeinsam deinen Weg – Wir unterstützen dich dabei! Zeige uns einfach wer du bist. Was dich bei uns erwartet: Ein Umfeld, dass jederzeit offen für Veränderungen und Optimierungen ist. Ein „das war schon immer so“ gibt es bei uns nicht. Du hast die Chance dein Wissen einzubringen, Prozesse zu gestalten, vorhandenen Themen zu standardisieren oder Abläufe zu optimieren. Sei Impulsgeber und bringe uns mit deiner Expertise noch weiter nach vorne! Wir schaffen Rahmenbedingungen, in denen du dich wohlfühlst: Home-Office Verträge &amp; absolute Flexibilität durch freie Gestaltung der Arbeitszeit&nbsp; Unbefristete Festanstellung und 30 Tage Urlaub&nbsp; FlexWork: Bis zu 3 Monate pro Jahr remote aus dem europäischen Ausland arbeiten&nbsp; Monatliches Budget für individuell wählbare Benefits aus über 50 möglichen Angeboten über emplu, verschiedene Angebote über Corporate Benefits, sowie Fahrrad- und Autoleasing per Gehaltsumwandlung Mental Health Benefit 'Nilo' – 10 kostenlose Sessions mit Psycholog:innen jährlich sowie Zugang zu Meditationen und Kursen&nbsp; Wir unterstützen dich gezielt bei deiner fachlichen und persönlichen Entwicklung bei Natuvion&nbsp; Mentorenprogramm für eine strukturierte und persönliche Einarbeitung&nbsp; Werde Teil des #teamgreen - Bei Natuvion arbeitest du an innovativen Projekten als Teil eines Teams, das füreinander einsteht. Wir setzen auf Zusammenarbeit, Offenheit und Vertrauen&nbsp; Modernes Equipment und zentrale Büros in Walldorf, Berlin, München und Leipzig &nbsp; Uns ist deine langfristige Perspektive wichtig, deshalb bezuschussen wir deine betriebliche Altersvorsorge sowie vermögenswirksame Leistungen &nbsp; Join #teamgreen - Natuvion ist ein digitales Umzugsunternehmen. Unser Team bewegt keine Tische, Aktenschränke oder Stühle. Natuvion transportiert geschäftskritische Daten und Prozesse von einer Technologieplattform auf eine andere. Typische Natuvion „Umzugsdienstleistungen“ umfassen Datenmigration, Datentransformation, Datenintegration, Datenschutz, Datensicherheit und Datenqualität. Unsere &gt;400 BeraterInnen und EntwicklerInnen in Deutschland, Österreich, Slowakei, USA und Australien verfügen über weitreichendes Knowhow bei (SAP®-)Projekten und ein profundes Prozessverständnis über Branchengrenzen hinweg. Mit viel Erfahrung, Engagement und Einsatz begleiten sie unsere Kunden mit Beratung, Dienstleistung und eigener Softwaretechnologie. So ermöglichen wir Unternehmen, ihre Daten und Prozesse immer auf den modernsten und innovativsten Plattformen zu nutzen. Du bist interessiert? Wir freuen uns auf deine Bewerbung und darauf, dich kennenzulernen! Find Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "public business",
-      "remote"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-sap-fi-co-consultant-berlin-365101",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-7a4cc791e25a",
-    "title": "(Senior) Data Migration Architect (m/w/d)",
-    "company": "Natuvion GmbH",
-    "location": "Remote job",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Als Data Migration Architect&nbsp;(m/w/d) &nbsp; Public Business übernimmst du die technische Konzeptionierung&nbsp;großer SAP&nbsp;Transformations-Projekte für Flughäfen, Krankenhäuser, Verbände, Länder,&nbsp;Kommunen &amp; Städte. Du fungierst als zentrale Schnittstelle zwischen Entwicklern,&nbsp;Projektmanagement und der Projektleitung und du bringst dein umfangreiches Wissen aus dem SAP-Kosmos mit ein. Dabei hast du keine Berührungsängste, hands-on operativ tätig zu sein. Wenn du dich darin wiedererkennst, dann werde Teil unseres neuen Public Business Teams! Deine Aufgaben: Analyse, Konzeption und Durchführung von S/4 HANA Migrations- und Konvertierungsprojekten im Public Business Umfeld. Konfiguration und Weiterentwicklung von SAP Standardmigrationswerkzeugen sowie der firmeneigenen Natuvion Migrationssuite. Begleitung von Kundenprojekten von der Anforderungsaufnahme über die Datenauswertung bis zur Implementierung. Durchführung und Leitung von Workshops und Schulungen für unsere Kunden. Unterstützung des Sales Teams im Pre-Sales durch Erstellung von Aufwandsschätzungen und Angeboten. Dein Profil: Abgeschlossenes Studium in (Wirtschafts-) Informatik, Wirtschaftswissenschaften oder eine vergleichbare Ausbildung. Programmierkenntnisse in ABAP OO und ein sehr gutes technisches Verständnis. Gute Kenntnisse im Bereich SAP-Datenstruktur und Geschäftsprozesse, idealerweise in SAP Master-Data, PS-CD oder SAP Classic (Finanzen, Logistik, etc.). Idealerweise Erfahrungen mit SAP S/4HANA, SAP FIORI und der SAP Integration Suite (BTP). Sehr gute Deutsch- und gute Englischkenntnisse in Wort und Schrift, sowie punktuelle Reisebereitschaft für Projektauftakte, Kunden-Workshops und interne Meetings. Falls du denkst, dass du nicht alle Anforderungen erfüllst: Bei uns sind deiner Entwicklung „keine Grenzen gesetzt“! Geh mit uns gemeinsam deinen Weg – Wir unterstützen dich dabei! Zeige uns einfach wer du bist. Was dich bei uns erwartet: Ein Umfeld, dass jederzeit offen für Veränderungen und Optimierungen ist. Ein „das war schon immer so“ gibt es bei uns nicht. Du hast die Chance dein Wissen einzubringen, Prozesse zu gestalten, vorhandenen Themen zu standardisieren oder Abläufe zu optimieren. Sei Impulsgeber im Thema Projektmanagement und bringe uns mit deiner Expertise noch weiter nach vorne! Wir schaffen Rahmenbedingungen, in denen du dich wohlfühlst. Daher bieten wir dir viele Benefits, wie europaweites flexibles Arbeiten, Mobilität und Altersvorsorge. Im Folgenden findest du mehr Informationen! Wir schaffen Rahmenbedingungen, in denen du dich wohlfühlst: Home-Office Verträge &amp; absolute Flexibilität durch freie Gestaltung der Arbeitszeit&nbsp; Unbefristete Festanstellung und 30 Tage Urlaub&nbsp; FlexWork: Bis zu 3 Monate pro Jahr remote aus dem europäischen Ausland arbeiten&nbsp; Monatliches Budget für individuell wählbare Benefits aus über 50 möglichen Angeboten über emplu, verschiedene Angebote über Corporate Benefits, sowie Businessbike und vermögenswirksame Leistungen nach der Probezeit&nbsp; Mental Health Benefit 'Nilo' – 10 kostenlose Sessions mit Psycholog:innen jährlich sowie Zugang zu Meditationen und Kursen&nbsp; Wir unterstützen dich gezielt bei deiner fachlichen und persönlichen Entwicklung bei Natuvion&nbsp; Mentorenprogramm für eine strukturierte und persönliche Einarbeitung&nbsp; Werde Teil des #teamgreen - Bei Natuvion arbeitest du an innovativen Projekten als Teil eines Teams, das füreinander einsteht. Wir setzen auf Zusammenarbeit, Offenheit und Vertrauen&nbsp; Modernes Equipment und zentrale Büros in Walldorf, Berlin, München und Leipzig &nbsp; Uns ist deine langfristige Perspektive wichtig, deshalb bezuschussen wir deine betriebliche Altersvorsorge sowie vermögenswirksame Leistungen &nbsp; Join #teamgreen - Natuvion ist ein digitales Umzugsunternehmen. Unser Team bewegt keine Tische, Aktenschränke oder Stühle. Natuvion transportiert geschäftskritische Daten und Prozesse von einer Technologieplattform auf eine andere. Typische Natuvion „Umzugsdienstleistungen“ umfassen Datenmigration, Datentransformation, Datenintegration, Datenschutz, Datensicherheit und Datenqualität. Unsere &gt;400 BeraterInnen und EntwicklerInnen in Deutschland, Österreich, Slowakei, USA und Australien verfügen über weitreichendes Knowhow bei (SAP®-)Projekten und ein profundes Prozessverständnis über Branchengrenzen hinweg. Mit viel Erfahrung, Engagement und Einsatz begleiten sie unsere Kunden mit Beratung, Dienstleistung und eigener Softwaretechnologie. So ermöglichen wir Unternehmen, ihre Daten und Prozesse immer auf den modernsten und innovativsten Plattformen zu nutzen. Du bist interessiert? Wir freuen uns auf deine Bewerbung und darauf, dich kennenzulernen! Find Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "public business",
-      "remote"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-data-migration-architect-berlin-26198",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-38823c7d3f34",
-    "title": "Transformation Architect / Team Lead (m/w/d)",
-    "company": "Natuvion GmbH",
-    "location": "Remote job",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Wir suchen ab sofort, bundesweit und standortungebunden, einen Transformation Architect (m/w/d) zur Erweiterung der Kompetenzen unseres bestehenden Expertenteams: Deine Aufgaben: Du übernimmst die Projekt- und Budgetverantwortung für technische Datenmigrationen. Führung deines Teams bei Kunden- &amp; Partnerprojekten im Umfeld S/4HANA Transformation. Du leitest und organisierst eigenverantwortlich Meetings, Workshops und Schulungen in internationalen Projekten. Erarbeitung von technischen Konzepten und Erfassen von Kundenwünschen und -anforderungen. Des Weiteren unterstützt du die Kollegen mit deinem Fundierten Kenntnissen im Pre-Sales. Dein Profil: Technisches oder wirtschaftsorientiertes Studium (oder vgl. Ausbildung). Einschlägige fachliche prozessuale Kenntnisse in mindestens einem SAP-Modul (z.B. FI, CO, MM, SD). Erfahrung in der technischen und disziplinarischen Leitung und Organisation von IT-Projekten (klassisch und agil). Technisches Verständnis verschiedener Migrationsansätze nach S/4HANA (Brownfield, Greenfield, SDT) wünschenswert. Kenntnisse von Migrationswerkzeugen (SAP S/4HANA Migration Cockpit, LSMW, Natuvion DCS oder vergleichbar) von Vorteil. Programmierkenntnisse in einer (objektorientierten) Programmiersprache sind ein Plus. Fließende Deutsch sowie gute Englischkenntnisse in Wort und Schrift. Falls du denkst, dass du nicht alle Anforderungen erfüllst: Bei uns sind deiner Entwicklung „keine Grenzen gesetzt“! Geh mit uns gemeinsam deinen Weg – Wir unterstützen dich dabei! Zeige uns einfach wer du bist. Was dich bei uns erwartet: Ein Umfeld, dass jederzeit offen für Veränderungen und Optimierungen ist. Ein „das war schon immer so“ gibt es bei uns nicht. Du hast die Chance dein Wissen einzubringen, Prozesse zu gestalten, vorhandenen Themen zu standardisieren oder Abläufe zu optimieren. Sei Impulsgeber im Thema Projektmanagement und bringe uns mit deiner Expertise noch weiter nach vorne! Wir schaffen Rahmenbedingungen, in denen du dich wohlfühlst. Daher bieten wir dir viele Benefits, wie europaweites flexibles Arbeiten, Mobilität und Altersvorsorge. Im Folgenden findest du mehr Informationen! Wir schaffen Rahmenbedingungen, in denen du dich wohlfühlst: Home-Office Verträge &amp; absolute Flexibilität durch freie Gestaltung der Arbeitszeit&nbsp; Unbefristete Festanstellung und 30 Tage Urlaub&nbsp; FlexWork: Bis zu 3 Monate pro Jahr remote aus dem europäischen Ausland arbeiten&nbsp; Monatliches Budget für individuell wählbare Benefits aus über 50 möglichen Angeboten über emplu, verschiedene Angebote über Corporate Benefits, sowie Fahrrad- und Autoleasing per Gehaltsumwandlung Mental Health Benefit 'Nilo' – 10 kostenlose Sessions mit Psycholog:innen jährlich sowie Zugang zu Meditationen und Kursen&nbsp; Wir unterstützen dich gezielt bei deiner fachlichen und persönlichen Entwicklung bei Natuvion&nbsp; Mentorenprogramm für eine strukturierte und persönliche Einarbeitung&nbsp; Werde Teil des #teamgreen - Bei Natuvion arbeitest du an innovativen Projekten als Teil eines Teams, das füreinander einsteht. Wir setzen auf Zusammenarbeit, Offenheit und Vertrauen&nbsp; Modernes Equipment und zentrale Büros in Walldorf, Berlin, München und Leipzig &nbsp; Uns ist deine langfristige Perspektive wichtig, deshalb bezuschussen wir deine betriebliche Altersvorsorge sowie vermögenswirksame Leistungen &nbsp; Join #teamgreen - Natuvion ist ein digitales Umzugsunternehmen. Unser Team bewegt keine Tische, Aktenschränke oder Stühle. Natuvion transportiert geschäftskritische Daten und Prozesse von einer Technologieplattform auf eine andere. Typische Natuvion „Umzugsdienstleistungen“ umfassen Datenmigration, Datentransformation, Datenintegration, Datenschutz, Datensicherheit und Datenqualität. Unsere &gt;400 BeraterInnen und EntwicklerInnen in Deutschland, Österreich, Slowakei, USA und Australien verfügen über weitreichendes Knowhow bei (SAP®-)Projekten und ein profundes Prozessverständnis über Branchengrenzen hinweg. Mit viel Erfahrung, Engagement und Einsatz begleiten sie unsere Kunden mit Beratung, Dienstleistung und eigener Softwaretechnologie. So ermöglichen wir Unternehmen, ihre Daten und Prozesse immer auf den modernsten und innovativsten Plattformen zu nutzen. Du bist interessiert? Wir freuen uns auf deine Bewerbung und darauf, dich kennenzulernen! Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "technical migration",
-      "remote"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-transformation-architect-team-lead-walldorf-918",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-bde93b33544a",
-    "title": "(Senior) SAP Consultant ERP/EWM/Utilities – Data Migration (m/w/d)",
-    "company": "Natuvion GmbH",
-    "location": "Remote job",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Du findest technische Beratung in Finance &amp; Controlling, Logistik oder Utilities im SAP-Umfeld spannend, bist interessiert an Themen der Datenmigration und bringst ausgeprägte Modulkenntnisse in den SAP-Modulen mit? Du hast Lust in agilen und internationalen Teams Lösungen für komplexe fachlich-technische Themen zu erarbeiten? Dann suchen wir Dich zur Erweiterung unseres Transformation Teams als (Senior) SAP Consultant ERP/EWM/Utilities – Data Migration (m/w/d) für unsere Kundenprojekte und Produktentwicklungen – bundesweit. Deine Aufgaben: Unterstützung und Durchführung internationaler Transformationsprojekte sowie technische Beratung mit Fokus auf S/4HANA. Lösung fachlich-technischer Fehler mit der Migrationssoftware Natuvion Data Conversion Server (DCS). Weiterentwicklung von Transformations-Content in den Bereichen Finance &amp; Controlling, Logistics und Utilities. Durchführung von Schulungen, Trainings und Erstellung von Dokumentationen für interne und externe Nutzung. Einsatz und Erprobung neuer Technologien in S/4HANA-Projekten. Fachliche und potenziell disziplinarische Verantwortung für Services und Teams. Dein Profil: Dir sind die Grundlagen der (Wirtschafts-)Informatik gut bekannt – Du musst nicht unbedingt einen Bachelor oder Masterabschluss haben, hast aber einen technisch-analytischen Hintergrund. Ein relevantes Bachelor und/oder Master Studium in einem MINT -Fach ist dennoch gern gesehen. Du verfügst über einen ausgeprägten Dienstleistungsgedanken gegenüber unseren Kunden und eine selbstständige und lösungsorientierte Arbeitsweise ist für dich selbstverständlich. Du hast keine Berührungsängste mit unseren Kunden und Kollegen. Überwiegend auf Deutsch , aber international ebenfalls auf Englisch Fachlich-technisches Verständnis in mindestens einem SAP-Modul (z.B. FI, CO, MM, SD, PM usw.) und mindestens 3 Jahre praktische Erfahrung (wie Beratung, Entwicklung und idealerweise Datenmigrationen). Vertiefte Kenntnisse in den SAP-Modulen IS-U (Utilities) und EWM (Extended Warehouse Management) sind von großem Vorteil Erfahrung im Themengebiet der (SAP-)Datenmigration und vor allem im Bereich der tabellenbasierten Datenmigration sind von großem Vorteil Grundlegende Programmierkenntnisse, idealerweise in ABAP, sind vorhanden. Tiefergehende Programmierkenntnisse sind von Vorteil Falls du denkst, dass du nicht alle Anforderungen erfüllst: Bei uns sind deiner Entwicklung „keine Grenzen gesetzt“! Geh mit uns gemeinsam deinen Weg – Wir unterstützen dich dabei! Zeige uns einfach wer du bist. Was dich bei uns erwartet: Ein Umfeld, dass jederzeit offen für Veränderungen und Optimierungen ist. Ein „das war schon immer so“ gibt es bei uns nicht. Du hast die Chance dein Wissen einzubringen, Prozesse zu gestalten, vorhandenen Themen zu standardisieren oder Abläufe zu optimieren. Sei Impulsgeber und bringe uns mit deiner Expertise noch weiter nach vorne! Wir schaffen Rahmenbedingungen, in denen du dich wohlfühlst: Home-Office Verträge &amp; absolute Flexibilität durch freie Gestaltung der Arbeitszeit&nbsp; Unbefristete Festanstellung und 30 Tage Urlaub&nbsp; FlexWork: Bis zu 3 Monate pro Jahr remote aus dem europäischen Ausland arbeiten&nbsp; Monatliches Budget für individuell wählbare Benefits aus über 50 möglichen Angeboten über emplu, verschiedene Angebote über Corporate Benefits, sowie Fahrrad- und Autoleasing per Gehaltsumwandlung Mental Health Benefit 'Nilo' – 10 kostenlose Sessions mit Psycholog:innen jährlich sowie Zugang zu Meditationen und Kursen&nbsp; Wir unterstützen dich gezielt bei deiner fachlichen und persönlichen Entwicklung bei Natuvion&nbsp; Mentorenprogramm für eine strukturierte und persönliche Einarbeitung&nbsp; Werde Teil des #teamgreen - Bei Natuvion arbeitest du an innovativen Projekten als Teil eines Teams, das füreinander einsteht. Wir setzen auf Zusammenarbeit, Offenheit und Vertrauen&nbsp; Modernes Equipment und zentrale Büros in Walldorf, Berlin, München und Leipzig &nbsp; Uns ist deine langfristige Perspektive wichtig, deshalb bezuschussen wir deine betriebliche Altersvorsorge sowie vermögenswirksame Leistungen &nbsp; Join #teamgreen - Natuvion ist ein digitales Umzugsunternehmen. Unser Team bewegt keine Tische, Aktenschränke oder Stühle. Natuvion transportiert geschäftskritische Daten und Prozesse von einer Technologieplattform auf eine andere. Typische Natuvion „Umzugsdienstleistungen“ umfassen Datenmigration, Datentransformation, Datenintegration, Datenschutz, Datensicherheit und Datenqualität. Unsere &gt;400 BeraterInnen und EntwicklerInnen in Deutschland, Österreich, Slowakei, USA und Australien verfügen über weitreichendes Knowhow bei (SAP®-)Projekten und ein profundes Prozessverständnis über Branchengrenzen hinweg. Mit viel Erfahrung, Engagement und Einsatz begleiten sie unsere Kunden mit Beratung, Dienstleistung und eigener Softwaretechnologie. So ermöglichen wir Unternehmen, ihre Daten und Prozesse immer auf den modernsten und innovativsten Plattformen zu nutzen. Du bist interessiert? Wir freuen uns auf deine Bewerbung und darauf, dich kennenzulernen! Sende uns gerne deinen Lebenslauf zu, ein Anschreiben benötigen wir nicht. Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "technical migration",
-      "remote"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-sap-consultant-erp-ewm-utilities-data-migration-berlin-378305",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-5873b309f20a",
-    "title": "SAP S/4HANA Utilities / IS-U Migration Architect (m/w/d)",
-    "company": "Natuvion GmbH",
-    "location": "Remote job",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Du findest technische Beratung und Datenmigrationsthemen in der SAP Energiewirtschaft spannend, bist interessiert an Zukunftsthemen rund um SAP S/4HANA Utilities und bringst ausgeprägte Modulkenntnisse aus dem SAP IS-U mit? Du hast Lust in agilen und internationalen Teams Lösungen für komplexe fachlich-technische Themen zu erarbeiten? Dann suchen wir Dich zur Erweiterung unseres Transformation Teams als S/4HANA Utilities / IS-U Migration Architect (m/w/d) für unsere Kundenprojekte und Produktentwicklungen – bundesweit. &nbsp; Deine Aufgaben: &nbsp; Eigenverantwortliche technische Durchführung von Datenmigrations- und Transformationsprojekten nach Anforderungen des Kunden.&nbsp; Fachliche Führung eines Teams bei Kunden- &amp; Partnerprojekten im Umfeld SAP S/4HANA Utilities bzw. SAP IS-U. &nbsp; Du leitest und organisierst eigenverantwortlich Meetings, Workshops und Schulungen in internationalen Projekten. &nbsp; Erarbeitung von technischen Konzepten und Erfassen von Kundenwünschen und -anforderungen.&nbsp; Unterstützung im Pre-Sales zu energiewirtschaftlichen Themen.&nbsp; Dein Profil: &nbsp; Dir sind die Grundlagen der (Wirtschafts-)Informatik gut bekannt – Du musst nicht unbedingt einen Bachelor oder Masterabschluss haben, hast aber einen technisch-analytischen Hintergrund. Ein relevantes Bachelor und/oder Master Studium in einem MINT -Fach ist dennoch gern gesehen.&nbsp; Du verfügst über einen ausgeprägten Dienstleistungsgedanken gegenüber unseren Kunden und eine selbstständige und lösungsorientierte Arbeitsweise ist für dich selbstverständlich.&nbsp; Tiefgehende Kenntnisse im technischen Datenmodell von SAP S/4HANA Utilities bzw. SAP IS-U, idealerweise auch kombiniert mit energiewirtschaftlichem Prozesswissen&nbsp; Programmierkenntnisse in ABAP vorhanden, idealerweise auch in einer objektorientierten Sprache, wie z.B. ABAP OO oder JAVA &nbsp; Erfahrung in der technischen und disziplinarischen Leitung und Organisation von IT-Projekten (klassisch und agil) wünschenswert. &nbsp; Technisches Verständnis verschiedener Migrationsansätze nach S/4HANA (Brownfield, Greenfield, SDT) wünschenswert.&nbsp; Kenntnisse von Migrationswerkzeugen (SAP S/4HANA Migration Cockpit, LSMW, Natuvion DCS oder vergleichbar) von Vorteil. &nbsp; Falls du denkst, dass du nicht alle Anforderungen erfüllst: Bei uns sind deiner Entwicklung „keine Grenzen gesetzt“! Geh mit uns gemeinsam deinen Weg – Wir unterstützen dich dabei! Zeige uns einfach wer du bist. Was dich bei uns erwartet: Ein Umfeld, dass jederzeit offen für Veränderungen und Optimierungen ist. Ein „das war schon immer so“ gibt es bei uns nicht. Du hast die Chance dein Wissen einzubringen, Prozesse zu gestalten, vorhandenen Themen zu standardisieren oder Abläufe zu optimieren. Sei Impulsgeber im Thema Projektmanagement und bringe uns mit deiner Expertise noch weiter nach vorne! Wir schaffen Rahmenbedingungen, in denen du dich wohlfühlst. Daher bieten wir dir viele Benefits, wie europaweites flexibles Arbeiten, Mobilität und Altersvorsorge. Im Folgenden findest du mehr Informationen! Wir schaffen Rahmenbedingungen, in denen du dich wohlfühlst: Home-Office Verträge &amp; absolute Flexibilität durch freie Gestaltung der Arbeitszeit&nbsp; Unbefristete Festanstellung und 30 Tage Urlaub&nbsp; FlexWork: Bis zu 3 Monate pro Jahr remote aus dem europäischen Ausland arbeiten&nbsp; Monatliches Budget für individuell wählbare Benefits aus über 50 möglichen Angeboten über emplu, verschiedene Angebote über Corporate Benefits, sowie Fahrrad- und Autoleasing per Gehaltsumwandlung Mental Health Benefit 'Nilo' – 10 kostenlose Sessions mit Psycholog:innen jährlich sowie Zugang zu Meditationen und Kursen&nbsp; Wir unterstützen dich gezielt bei deiner fachlichen und persönlichen Entwicklung bei Natuvion&nbsp; Mentorenprogramm für eine strukturierte und persönliche Einarbeitung&nbsp; Werde Teil des #teamgreen - Bei Natuvion arbeitest du an innovativen Projekten als Teil eines Teams, das füreinander einsteht. Wir setzen auf Zusammenarbeit, Offenheit und Vertrauen&nbsp; Modernes Equipment und zentrale Büros in Walldorf, Berlin, München und Leipzig &nbsp; Uns ist deine langfristige Perspektive wichtig, deshalb bezuschussen wir deine betriebliche Altersvorsorge sowie vermögenswirksame Leistungen &nbsp; Join #teamgreen - Natuvion ist ein digitales Umzugsunternehmen. Unser Team bewegt keine Tische, Aktenschränke oder Stühle. Natuvion transportiert geschäftskritische Daten und Prozesse von einer Technologieplattform auf eine andere. Typische Natuvion „Umzugsdienstleistungen“ umfassen Datenmigration, Datentransformation, Datenintegration, Datenschutz, Datensicherheit und Datenqualität. Unsere &gt;400 BeraterInnen und EntwicklerInnen in Deutschland, Österreich, Slowakei, USA und Australien verfügen über weitreichendes Knowhow bei (SAP®-)Projekten und ein profundes Prozessverständnis über Branchengrenzen hinweg. Mit viel Erfahrung, Engagement und Einsatz begleiten sie unsere Kunden mit Beratung, Dienstleistung und eigener Softwaretechnologie. So ermöglichen wir Unternehmen, ihre Daten und Prozesse immer auf den modernsten und innovativsten Plattformen zu nutzen. Du bist interessiert? Wir freuen uns auf deine Bewerbung und darauf, dich kennenzulernen! Find Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "technical migration",
-      "remote"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-sap-s-4hana-utilities-is-u-migration-architect-berlin-232032",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-de9068a4e316",
-    "title": "(Senior) SAP Consultant - Digital Transformation (m/w/d)",
-    "company": "Natuvion GmbH",
-    "location": "Remote job",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Du brennst für alle Themen rund um die Digitale Transformation und findest die Arbeit mit SAP Technologien spannend, konntest idealerweise schon einiges an Erfahrung in dem Bereich sammeln und hast Lust in agilen und internationalen Teams Lösungen für komplexe fachlich-technische Themen zu erarbeiten? Dann suchen wir Dich zur Erweiterung unseres Teams als (Senior) SAP Consultant - Digital Transformation (m/w/d) für unsere Kundenprojekte und Produktentwicklungen. Obwohl wir bundesweit tätig sind, setzen wir auf remote-first - mit minimaler Reisetätigkeit Deine Aufgaben: &nbsp; Eigenverantwortliche technische Durchführung von Datenmigrations- und Transformationsprojekten nach Anforderungen des Kunden.&nbsp; Fachliche Führung eines Teams bei Kunden- &amp; Partnerprojekten. Du leitest und organisierst eigenverantwortlich Meetings, Workshops und Schulungen in internationalen Projekten. &nbsp; Erarbeitung von technischen Konzepten und Erfassen von Kundenwünschen und -anforderungen.&nbsp; Unterstützung im Pre-Sales zu vielfältigen Themen.&nbsp; Dein Profil: &nbsp; Du musst nicht unbedingt einen Bachelor oder Masterabschluss haben, hast aber einen technisch-analytischen Hintergrund. Ein relevantes Bachelor und/oder Master Studium in einem MINT -Fach ist dennoch gern gesehen.&nbsp; Du verfügst über einen ausgeprägten Dienstleistungsgedanken gegenüber unseren Kunden und eine selbstständige und lösungsorientierte Arbeitsweise ist für dich selbstverständlich.&nbsp; Du verfügst idealerweise über Kenntnisse in einer objektorientierten Sprache, wie z.B. ABAP OO oder JAVA. &nbsp; Du konntest schon erste Erfahrung in der technischen und disziplinarischen Leitung und Organisation von IT-Projekten (klassisch und agil) gewinnen.&nbsp; Du verfügst über ein technisches (Grund-)Verständnis verschiedener Migrationsansätze nach S/4HANA (Brownfield, Greenfield, SDT). Kenntnisse von Migrationswerkzeugen (SAP S/4HANA Migration Cockpit, LSMW, Natuvion DCS oder vergleichbar) sind von Vorteil, aber nicht Voraussetzung. Am wichtigsten: Falls du denkst, dass du nicht alle Anforderungen erfüllst: Bei uns sind deiner Entwicklung „keine Grenzen gesetzt“! Geh mit uns gemeinsam deinen Weg – Wir unterstützen dich dabei! Zeige uns einfach wer du bist. Was dich bei uns erwartet: Ein Umfeld, dass jederzeit offen für Veränderungen und Optimierungen ist. Ein „das war schon immer so“ gibt es bei uns nicht. Du hast die Chance dein Wissen einzubringen, Prozesse zu gestalten, vorhandenen Themen zu standardisieren oder Abläufe zu optimieren. Sei Impulsgeber im Thema Projektmanagement und bringe uns mit deiner Expertise noch weiter nach vorne! Wir schaffen Rahmenbedingungen, in denen du dich wohlfühlst. Daher bieten wir dir viele Benefits, wie europaweites flexibles Arbeiten, Mobilität und Altersvorsorge. Im Folgenden findest du mehr Informationen! Wir schaffen Rahmenbedingungen, in denen du dich wohlfühlst: Home-Office Verträge &amp; absolute Flexibilität durch freie Gestaltung der Arbeitszeit Unbefristete Festanstellung und 30 Tage Urlaub FlexWork: Bis zu 3 Monate pro Jahr remote aus dem europäischen Ausland arbeiten Monatliches Budget für individuell wählbare Benefits aus über 50 möglichen Angeboten über emplu, verschiedene Angebote über Corporate Benefits, sowie Fahrrad- und Autoleasing per Gehaltsumwandlung Mental Health Benefit 'Nilo' – 10 kostenlose Sessions mit Psycholog:innen jährlich sowie Zugang zu Meditationen und Kursen Individuelles Aus- und Weiterbildungskontingent für deine fachliche und persönliche Entwicklung Mentorenprogramm für eine strukturierte und persönliche Einarbeitung Werde Teil des #teamgreen - Bei Natuvion arbeitest du an innovativen Projekten als Teil eines Teams, das füreinander einsteht. Wir setzen auf Zusammenarbeit, Offenheit und Vertrauen. Dich erwartet modernes Equipment und zentrale Büros in Walldorf, Berlin, München und Leipzig. Uns ist deine langfristige Perspektive wichtig, deshalb bezuschussen wir deine betriebliche Altersvorsorge sowie vermögenswirksame Leistungen Join #teamgreen - Natuvion ist ein digitales Umzugsunternehmen. Unser Team bewegt keine Tische, Aktenschränke oder Stühle. Natuvion transportiert geschäftskritische Daten und Prozesse von einer Technologieplattform auf eine andere. Typische Natuvion „Umzugsdienstleistungen“ umfassen Datenmigration, Datentransformation, Datenintegration, Datenschutz, Datensicherheit und Datenqualität. Unsere &gt;400 BeraterInnen und EntwicklerInnen in Deutschland, Österreich, Slowakei, USA und Australien verfügen über weitreichendes Knowhow bei (SAP®-)Projekten und ein profundes Prozessverständnis über Branchengrenzen hinweg. Mit viel Erfahrung, Engagement und Einsatz begleiten sie unsere Kunden mit Beratung, Dienstleistung und eigener Softwaretechnologie. So ermöglichen wir Unternehmen, ihre Daten und Prozesse immer auf den modernsten und innovativsten Plattformen zu nutzen. Du bist interessiert? Wir freuen uns auf deine Bewerbung und darauf, dich kennenzulernen! Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "technical migration",
-      "remote"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-sap-consultant-digital-transformation-berlin-312765",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-51bef1fbec59",
-    "title": "(Senior) Consultant SAP HCM PY (m/w/d)",
-    "company": "Natuvion GmbH",
-    "location": "Remote job",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Über die Position HR Tech ist deine Leidenschaft und du hast es zu deiner Mission gemacht, das Personalwesen in die neue Welt zu bringen? Du hast in den letzten Jahren deine&nbsp; Expertise aufgebaut&nbsp; und hast jetzt&nbsp; Lust auf neue Herausforderungen ? Dann passt du hervorragend in unser Team! 💚 Als&nbsp; (Senior) SAP HCM Consultant PY (m/w/d) bist du für unsere Kunden ein zuverlässiger Berater bei allen Fragen rund um das SAP-Modul&nbsp; der Personalabrechnung und trägst somit maßgeblich zum Erfolg ihrer HR-Digitalisierung bei -&nbsp;und das alles, ohne auf den&nbsp; Komfort deines Homeoffice &nbsp;verzichten zu müssen 🏡 Deine Aufgaben: Du bist für die&nbsp; Planung, Konzeption und Umsetzung&nbsp; unserer Kundenprojekte verantwortlich und realisierst deren Anforderungen im Modul&nbsp; Personalabrechnung . Dabei wirst du&nbsp; Anforderungskonzepte &nbsp;erstellen, ihre Umsetzung leiten und koordinieren, sowie&nbsp; Kundenworkshops und Schulungen &nbsp;organisieren. Du unterstützt unsere Kunden bei&nbsp; Neuimplementierungen , zum Beispiel EC Payroll, der&nbsp; Umstellung auf SAP HCM for S/4HANA&nbsp; und&nbsp; Application Management- Projekten. Du übernimmst&nbsp; Verantwortung für Dein Fachthema&nbsp; und betreust deine Kollegen als&nbsp; Mentor . Dein Profil: Du hast dein Studium oder deine Ausbildung in einem kaufmännischen oder technischen Umfeld erfolgreich abgeschlossen. In den letzten 2-3 oder mehr Jahren hast du bereits&nbsp; Erfahrungen und Fachwissen in der Personalabrechnung mit SAP HCM und/oder EC Payroll gesammelt und verfügst über sehr gute Kenntnisse der&nbsp; SAP Personalabrechnungs und -folgeprozesse . Idealerweise hast du auch Kenntnisse in anderen SAP HCM-Modulen. Deine&nbsp; lösungsorientierte Arbeit&nbsp; und dein&nbsp; Teambewusstsein&nbsp; sichern den Erfolg unserer Projekte. Du sprichst&nbsp; Deutsch auf sehr hohem oder muttersprachlichem Niveau &nbsp;sowie fließend Englisch und kannst daher sicher mit unseren Kunden interagieren. Falls du denkst, dass du nicht alle Anforderungen erfüllst: Bei uns sind deiner Entwicklung „keine Grenzen gesetzt“! Geh mit uns gemeinsam deinen Weg – Wir unterstützen dich dabei! Zeige uns einfach, wer du bist. Was dich bei uns erwartet: Ein Umfeld, das jederzeit offen für Veränderungen und Optimierungen ist. Ein „das war schon immer so“ gibt es bei uns nicht. Du hast die Chance, dein Wissen einzubringen, Prozesse zu gestalten, vorhandene Themen zu standardisieren oder Abläufe zu optimieren. Sei Impulsgeber und bringe uns mit deiner Expertise noch weiter nach vorne! Wir schaffen Rahmenbedingungen, in denen du dich wohlfühlst: Home-Office Verträge &amp; absolute Flexibilität durch freie Gestaltung der Arbeitszeit&nbsp; Unbefristete Festanstellung und 30 Tage Urlaub&nbsp; FlexWork: Bis zu 3 Monate pro Jahr remote aus dem europäischen Ausland arbeiten&nbsp; Monatliches Budget für individuell wählbare Benefits aus über 50 möglichen Angeboten über emplu, verschiedene Angebote über Corporate Benefits,&nbsp;sowie Fahrrad- und Autoleasing per Gehaltsumwandlung Mental Health Benefit 'Nilo' – 12 kostenlose Sessions mit Psycholog:innen jährlich sowie Zugang zu Meditationen und Kursen&nbsp; Wir unterstützen dich gezielt bei deiner fachlichen und persönlichen Entwicklung bei Natuvion&nbsp; Mentorenprogramm für eine strukturierte und persönliche Einarbeitung&nbsp; Werde Teil des #teamgreen -&nbsp; Bei Natuvion arbeitest du an innovativen Projekten als Teil eines Teams, das füreinander einsteht. Wir setzen auf Zusammenarbeit, Offenheit und Vertrauen&nbsp; Modernes Equipment und zentrale Büros in Walldorf, Berlin, München und Leipzig &nbsp; Uns ist deine langfristige Perspektive wichtig, deshalb bezuschussen wir deine betriebliche Altersvorsorge sowie vermögenswirksame Leistungen&nbsp; Join #teamgreen&nbsp; - Natuvion ist ein digitales Umzugsunternehmen. Unser Team bewegt keine Tische, Aktenschränke oder Stühle. Natuvion transportiert geschäftskritische Daten und Prozesse von einer Technologieplattform auf eine andere. Typische Natuvion „Umzugsdienstleistungen“ umfassen Datenmigration, Datentransformation, Datenintegration, Datenschutz, Datensicherheit und Datenqualität. Unsere &gt;400 BeraterInnen und EntwicklerInnen in Deutschland, Österreich, Slowakei, USA und Australien verfügen über weitreichendes Knowhow bei (SAP®-)Projekten und ein profundes Prozessverständnis über Branchengrenzen hinweg. Mit viel Erfahrung, Engagement und Einsatz begleiten sie unsere Kunden mit Beratung, Dienstleistung und eigener Softwaretechnologie. So ermöglichen wir Unternehmen, ihre Daten und Prozesse immer auf den modernsten und innovativsten Plattformen zu nutzen. Du bist interessiert? Wir freuen uns auf deine Bewerbung und darauf, dich kennenzulernen! Find Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "hcm & cross industries",
-      "remote"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-consultant-sap-hcm-py-walldorf-452728",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-efc757060ddd",
-    "title": "(Senior) Consultant SAP HCM",
-    "company": "Natuvion GmbH",
-    "location": "Remote job",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "HR Tech ist deine Leidenschaft und du hast es zu deiner Mission gemacht, das Personalwesen in die neue Welt zu bringen? Du hast dir in den letzten Jahren fundierte Expertise im SAP-HCM-Umfeld aufgebaut und hast jetzt&nbsp; Lust auf neue Herausforderungen ? Dann passt du hervorragend in unser Team! Als&nbsp; (Senior) SAP HCM Consultant (m/w/d) bist du für unsere Kunden ein kompetenter und zuverlässiger Ansprechpartner bei allen Fragen rund um die SAP-Module&nbsp;der HCM-Landschaft und du trägst somit maßgeblich zum Erfolg ihrer HR-Digitalisierung bei -&nbsp;und das alles, ohne auf den&nbsp; Komfort Deines Homeoffice &nbsp;verzichten zu müssen. Deine Aufgaben: Je nach deiner Erfahrung unterstützt du bei der Planung, Konzeption und Umsetzung&nbsp; unserer Kundenprojekte oder übernimmst die Verantwortung für diese. Du realisierst Kundenanforderungen in Modulen wie PT, PY, OM, PA oder FI-TV. Dabei wirst du&nbsp; Anforderungskonzepte &nbsp;erstellen, ihre Umsetzung begleiten, leiten oder koordinieren, sowie&nbsp; Kundenworkshops und Schulungen &nbsp;organisieren. Du unterstützt unsere Kunden bei Neuimplementierungen von SAP-HCM-Modulen , bei der Umstellung auf SAP HCM for S/4HANA oder auch in Application-Management-Projekten . Du übernimmst&nbsp; Verantwortung für dein Fachthema&nbsp; und betreust deine KollegInnen als&nbsp; Mentor . Dein Profil: Du hast dein Studium oder deine Ausbildung in einem kaufmännischen oder technischen Umfeld erfolgreich abgeschlossen. Du verfügst über mindestens 2–3 Jahre relevante Berufserfahrung und hast dir fundierte Kenntnisse in einem oder mehreren SAP-HCM-Modulen (z. B. PT, PY, OM, PA oder FI-TV) aufgebaut. Deine&nbsp; lösungsorientierte Arbeit&nbsp; und dein&nbsp; Teambewusstsein&nbsp; sichern den Erfolg unserer Projekte. Du sprichst&nbsp; Deutsch auf sehr hohem oder muttersprachlichem Niveau &nbsp;sowie fließend Englisch und kannst daher sicher mit unseren Kunden interagieren. Falls du denkst, dass du nicht alle Anforderungen erfüllst: Bei uns sind deiner Entwicklung „keine Grenzen gesetzt“! Geh mit uns gemeinsam deinen Weg – Wir unterstützen dich dabei! Zeige uns einfach, wer du bist. Was dich bei uns erwartet: Ein Umfeld, das jederzeit offen für Veränderungen und Optimierungen ist. Ein „das war schon immer so“ gibt es bei uns nicht. Du hast die Chance, dein Wissen einzubringen, Prozesse zu gestalten, vorhandene Themen zu standardisieren oder Abläufe zu optimieren. Sei Impulsgeber und bringe uns mit deiner Expertise noch weiter nach vorne! Wir schaffen Rahmenbedingungen, in denen du dich wohlfühlst: Home-Office Verträge &amp; absolute Flexibilität durch freie Gestaltung der Arbeitszeit&nbsp; Unbefristete Festanstellung und 30 Tage Urlaub&nbsp; FlexWork: Bis zu 3 Monate pro Jahr remote aus dem europäischen Ausland arbeiten&nbsp; Monatliches Budget für individuell wählbare Benefits aus über 50 möglichen Angeboten über emplu, verschiedene Angebote über Corporate Benefits,&nbsp;sowie Fahrrad- und Autoleasing per Gehaltsumwandlung Mental Health Benefit 'Nilo' – 12 kostenlose Sessions mit Psycholog:innen jährlich sowie Zugang zu Meditationen und Kursen&nbsp; Wir unterstützen dich gezielt bei deiner fachlichen und persönlichen Entwicklung bei Natuvion&nbsp; Mentorenprogramm für eine strukturierte und persönliche Einarbeitung&nbsp; Werde Teil des #teamgreen -&nbsp; Bei Natuvion arbeitest du an innovativen Projekten als Teil eines Teams, das füreinander einsteht. Wir setzen auf Zusammenarbeit, Offenheit und Vertrauen&nbsp; Modernes Equipment und zentrale Büros in Walldorf, Berlin, München und Leipzig &nbsp; Uns ist deine langfristige Perspektive wichtig, deshalb bezuschussen wir deine betriebliche Altersvorsorge sowie vermögenswirksame Leistungen&nbsp; Join #teamgreen - Natuvion ist ein digitales Umzugsunternehmen. Unser Team bewegt keine Tische, Aktenschränke oder Stühle. Natuvion transportiert geschäftskritische Daten und Prozesse von einer Technologieplattform auf eine andere. Typische Natuvion „Umzugsdienstleistungen“ umfassen Datenmigration, Datentransformation, Datenintegration, Datenschutz, Datensicherheit und Datenqualität. Unsere &gt;400 BeraterInnen und EntwicklerInnen in Deutschland, Österreich, Slowakei, USA und Australien verfügen über weitreichendes Knowhow bei (SAP®-)Projekten und ein profundes Prozessverständnis über Branchengrenzen hinweg. Mit viel Erfahrung, Engagement und Einsatz begleiten sie unsere Kunden mit Beratung, Dienstleistung und eigener Softwaretechnologie. So ermöglichen wir Unternehmen, ihre Daten und Prozesse immer auf den modernsten und innovativsten Plattformen zu nutzen. Du bist interessiert? Wir freuen uns auf deine Bewerbung und darauf, dich kennenzulernen! Sende uns gerne deinen Lebenslauf zu, ein Anschreiben benötigen wir nicht. Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "hcm & cross industries",
-      "remote"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-consultant-sap-hcm-berlin-457471",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-a7fa3b828246",
-    "title": "Cloud Consultant-Architect",
-    "company": "ITQ",
-    "location": "Remote job",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Are you ready to put your expertise to work and transform traditional infrastructures into modern, agile cloud environments? As a Cloud Consultant/Architect with us, you’ll have the opportunity to collaborate with leading organizations and leverage cutting-edge technologies to optimize their data centers. This is your chance: At ITQ, we offer you an environment where you can learn and grow—together with colleagues who maintain high standards of quality. We are passionate about our customers, but equally passionate about developing our people with new skills and ways of working. Your Role at ITQ: As a Cloud Consultant/Architect, you will support our clients in transforming their traditional data centers into modern, flexible, and efficient software-defined environments. Working closely with customers, you’ll understand their business requirements and develop tailored solutions using the latest technologies. You’ll be there to save the day—by simplifying complex data center infrastructures or cloud environments, reducing costs, and increasing overall performance. The Benefits at ITQ: Integration: A comprehensive onboarding process, followed by an informal lunch or dinner with your “buddy.” ITQ: A friendly atmosphere with a strong corporate culture. Regular team events (team building, after-work events, partner/publisher conferences). Flexible working hours and the option for remote work. Excellence: Collaboration with top experts in their field, participation in regular trade fairs and events, as well as global networking opportunities. Involvement in innovative and large-scale projects. Continuous training programs and sponsored certifications. A clear and ambitious vision for the future, with openness to your ideas and feedback. What We Offer You: Numerous opportunities for your personal and professional development. A competitive salary package, a collective bonus, and an annual budget for training and certifications. A company car or mobility budget. A remote work budget to set up your workspace. Social benefits such as retirement provisions and an employee savings plan. The chance to be part of a warm and inclusive team—the ITQ family. Your Tasks and Technologies: You bring solid experience in one or more of the following areas: VMware technologies (one or more) such as VMware vSphere, vSAN, Aria Operations, or NSX; experience in a Dell VxRail environment is a strong plus. Design, implementation, and optimization of AWS architectures, including cloud migrations, security, and cost optimization. Planning, implementation, and administration of Red Hat Enterprise Linux, as well as related technologies such as OpenShift, Ansible, and Satellite. HashiCorp technologies, particularly Terraform for Infrastructure-as-Code and Vault for secret management. You are hands-on experienced with Hyper-Converged Infrastructure (HCI) solutions—experience in this area is an advantage. You have architectural knowledge in the field of SDDC with a solid understanding of x86 virtualization, operating systems, advanced networking, and storage architectures. You hold up-to-date industry-standard certifications and are willing to acquire further certifications. What We Expect From You: You are passionate about your work as a Consultant or Architect and can identify customer use cases and translate them into concrete solutions. You are fluent in German and can communicate confidently in English. You are curious about new technologies—because that’s exactly your thing. You live in Germany. Find Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "de - sddc",
-      "remote"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/itq/remote-cloud-consultant-architect-dusseldorf-261020",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-7d8d8cacec9b",
-    "title": "Creative Strategist · Paid Social, KI-native (m/w/d)",
-    "company": "Infinos GmbH",
+    "id": "arbeitnow-32467e2a4219",
+    "title": "Freelance Acquisition Paid Media (Google Ads, Meta Ads)",
+    "company": "Trustt",
     "location": "Berlin",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Warum es diese Stelle gibt Infinos ist eine der größten Telemedizin-Plattformen für medizinische Abnehmtherapie in Deutschland. Wir machen einen mittleren 7-stelligen Jahresumsatz und haben bis heute kein Investorengeld genommen. Zwei Gründer, ein Team von rund 8 Leuten, tausende Patienten, die wir jeden Monat begleiten. Ich bin Linus, einer der beiden Gründer und habe die Creatives für unsere Ads bisher zum großen Teil selbst gemacht. Das Marketing wächst schneller, als ich es neben allem anderen leisten kann. Deshalb suche ich die Person, die diesen Bereich übernimmt und mit uns ausbaut. Was du machst Den Markt beobachten: was die Konkurrenz in Deutschland und im Ausland schaltet und was im Abnehmmarkt außerhalb der Medizin funktioniert. Daraus testbare Konzepte machen, jeweils mit klarer Hypothese und mehreren Hooks, und davon jede Woche neue an den Start bringen. Creatives selbst bauen, vor allem mit KI: Statics, Animationen und Schnitte aus vorhandenem Material. Drehs organisieren, mit uns Gründern, unserem Team und UGC-Creator, von Briefing und Skript bis zur Abnahme. Auswerten, was läuft und daraus die nächste Runde ableiten. Später dazu: unseren Newsletter und Shortform-Content für TikTok und Reels. Deine ersten 90 Tage Woche 1: deine erste eigene Ad ist live. Monat 1: Marktbeobachtung und Ideenplanung laufen über dich und jede Woche gehen neue Tests von dir raus. Monat 3: du gibst deine Ads selbst frei, kennst die Regeln für Werbung im Gesundheitsbereich sicher und hast einen Plan, wie wir organisch auf Shortform wachsen. Wen wir suchen Du hast schon Creatives für Paid Social gebaut, die gelaufen sind und weißt, warum sie funktioniert haben. Wie groß das Budget dahinter war, ist zweitrangig. Du baust selbst, statt nur zu briefen, und arbeitest dafür täglich mit KI-Tools für Bild, Video, Stimme und Text. Du schreibst gute deutsche Hooks und Skripte. Sehr gute deutsche Sprachkenntnisse in Wort und Schrift sind deshalb Voraussetzung. Du verstehst, warum jemand mit Übergewicht nach Hilfe sucht und warum er sie dann oft doch nicht annimmt und du schreibst darüber ohne Herablassung. Du hast Lust, dich in die Regeln für Werbung im Gesundheitsbereich einzuarbeiten. Was wir zeigen dürfen und was nicht, bringen wir dir bei. Du willst die Stelle in Vollzeit machen und nicht nebenbei. Hilfreich, aber nicht nötig: Erfahrung in Health, Fitness oder Ernährung oder mit anderer regulierter Werbung, ein Netzwerk an UGC-Creator, Videoschnitt. Wenn du aus dem Performance-Marketing kommst und kreativer arbeiten willst, bewirb dich trotzdem. Was wir bieten €48.000–60.000 Fixgehalt, je nach Erfahrung. Virtuelle Unternehmensanteile aus unserem Mitarbeiterbeteiligungspool (VSOP). Die Höhe besprechen wir im ersten Gespräch. KI-Tooling ohne Budgetgrenze. Remote mit regelmäßigen Teamtreffen vor Ort und freier Zeiteinteilung, solange die Arbeit stimmt. Direkte Zusammenarbeit mit beiden Gründern und ehrliches Feedback in beide Richtungen. 30 Tage Urlaub. So bewirbst du dich Kein Anschreiben. Im Bewerbungsformular hier auf join fragen wir dich zwei Dinge: warum du die richtige Person für diese Rolle bist, mit deiner Erfahrung und dem, was du bisher erreicht hast, gern mit Zahlen. Und welche unserer Ads aus der Meta Ad Library du anders machen würdest, mit einem Satz, wie. Wir antworten innerhalb von 3 Tagen. Dann: 30 Minuten Videocall mit Jan und mir. Wir erzählen, wie wir arbeiten und warum es die Stelle gibt. Du erzählst uns, was du bisher gemacht hast und was du suchst. Eine Probeaufgabe von etwa 4 bis 5 Stunden: Markt anschauen, ein Testpaket entwickeln und ein Creative fertig bauen. 30 Minuten, in denen du uns die Probeaufgabe vorstellst und wir über die Erwartungen beider Seiten sprechen. Angebot, schriftlich. Vom ersten Gespräch bis hierhin brauchen wir in der Regel zwei bis drei Wochen. Find more English Speaking Jobs in Germany on Arbeitnow",
+    "description": "Nous recherchons un(e) consultant(e) freelance spécialisé(e) en acquisition payante pour intervenir sur plusieurs projets e-commerce dans la beauté, la nutrition et la santé. Notre terrain de jeu : l'acquisition payante nourrie par les contenus de créateurs . Spark Ads, whitelisting, Partnership Ads, amplification de contenus UGC. Si vous savez transformer une vidéo de créatrice en campagne rentable, cette mission est pour vous. Nous recherchons un partenaire capable aussi bien d'optimiser des dispositifs existants que de construire une stratégie paid media de A à Z pour de nouvelles marques ou de nouveaux marchés. Cette première mission pourra déboucher sur une collaboration récurrente. Vos missions 1. Audit et optimisation de l'existant Auditer les comptes Google Ads, Meta Ads et TikTok Ads. Identifier les principaux freins à la performance (tracking, structure des campagnes, ciblages, créas, audiences, budget, attribution). Construire un plan d'actions priorisé selon l'impact business, puis le mettre en œuvre. Suivre les performances et formuler de nouvelles recommandations. 2. Amplification des contenus créateurs Sélectionner les contenus UGC et créateurs à fort potentiel publicitaire. Mettre en place les autorisations (Spark Ads, whitelisting, Partnership Ads) avec les créateurs. Tester les hooks, formats et angles, puis industrialiser ce qui performe. 3. Construction d'une stratégie d'acquisition sur un nouveau marché Sur l'un des projets, vous définirez et déploierez une stratégie d'acquisition payante sur les réseaux sociaux pour accompagner le lancement d'un concept sur le marché américain : choix des plateformes et des formats, architecture des campagnes, audiences, premiers tests, optimisation continue. Selon les projets, la mission pourra évoluer vers un pilotage mensuel des campagnes. Vos compétences Nous recherchons un profil senior, opérationnel, qui pilote lui-même les comptes. Indispensable : une expérience réelle des Spark Ads, du whitelisting ou des Creator Ads, avec des résultats à montrer. Une excellente maîtrise de Meta Ads et TikTok Ads. Une solide expérience sur Google Ads (Search, Shopping, Performance Max). Un tracking propre : GA4, GTM, Pixel, API Conversions. Une approche orientée rentabilité : ROAS, CPA, marge. Une expérience de marques e-commerce D2C (cosmétique, beauté, nutrition, santé) sera particulièrement appréciée, tout comme une expérience à l'international. Conditions Mission freelance, 350 à 380 € par jour selon profil. 100 % à distance, depuis l'Europe : nous travaillons sur le fuseau de Paris et les échanges se font en journée (UTC-1 à UTC+3). Statut d'indépendant en règle. Pour postuler Merci de nous donner un résultat chiffré avant / après sur une campagne que vous avez pilotée (ROAS, CPA ou CAC, budget mensuel, période). Les candidatures sans aucun chiffre ne seront pas étudiées. Joignez aussi : deux ou trois références de missions similaires, idéalement avec des contenus créateurs ; votre niveau sur Google Ads, Meta Ads et TikTok Ads ; votre disponibilité pour démarrer. Find more English Speaking Jobs in Germany on Arbeitnow",
     "required_skills": [
       "remote",
-      "social media manager"
+      "online marketing"
     ],
     "requirements": [],
     "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/infinos-gmbh/creative-strategist-paid-social-ki-native-berlin-291349",
+    "url": "https://www.arbeitnow.com/jobs/companies/trustt/freelance-acquisition-paid-media-google-ads-meta-ads-berlin-11498",
     "date_posted": null
   },
   {
-    "id": "arbeitnow-6f983051598b",
-    "title": "Werkstudent (m/w/d) als Sprachdozent Deutsch/ Englisch",
-    "company": "Education Partners",
-    "location": "Hessen BBI",
+    "id": "arbeitnow-c30750f4c452",
+    "title": "Veeam Kasten, Director SE – EMEA & APJ",
+    "company": "veeamsoftware",
+    "location": "Remote",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Über uns - Berger Bildungsinstitut Das Berger Bildungsinstitut ist ein zertifizierter Bildungsträger nach AZAV und bietet berufliche Weiterbildungen sowie Umschulungen in verschiedenen Fachbereichen an. An über 100 Standorten bundesweit unterstützen wir unsere Teilnehmenden mit praxisnahen Qualifizierungen, digitalen Lernformaten und persönlicher Begleitung auf dem Weg zurück in den Arbeitsmarkt. Das Berger Bildungsinstitut sucht engagierte Werkstudenten (m/w/d) als Sprachdozentinnen und Sprachdozenten für Deutsch/ Englisch zur Durchführung individueller 1:1-Sprachschulungen . Im Mittelpunkt steht die gezielte sprachliche Vorbereitung von Fachkräften auf ihren beruflichen Alltag in Deutschland. Unsere Teilnehmenden kommen insbesondere aus qualifizierten Berufsgruppen wie Ingenieurwesen, Medizin, IT, Technik und weiteren akademischen Fachrichtungen . Deine Aufgaben Durchführung von individuellem Deutsch- und Englischunterricht im 1:1-Format Berufsbezogene Sprachförderung und Fachkommunikation Vorbereitung auf typische Gesprächssituationen im Berufsalltag Training von Fachwortschatz, Kommunikation, Präsentationen und Schriftverkehr Individuelle Anpassung des Unterrichts an Beruf, Sprachniveau und Lernziel Dein Profil Erfahrung als Deutschdozent/in, Sprachtrainer/in oder DaF-/DaZ-Lehrkraft Idealerweise bereits praktische Erfahrung im berufsbezogenen Deutschunterricht Erfahrung in der Sprachförderung von Ärzten, Ingenieuren, IT-Fachkräften oder anderen qualifizierten Fachkräften ist von Vorteil Sehr gute Deutsch- und Englischkenntnisse, vorzugsweise auf muttersprachlichem bzw. C2-Niveau Erfahrung im 1:1-Unterricht von Vorteil Sicherer Umgang mit unterschiedlichen Sprachniveaus Selbstständige und zuverlässige Arbeitsweise Warum wir? Abwechslungsreiche Tätigkeiten in einem wachsenden Unternehmen Intensive Einarbeitung und feste Ansprechpartner Kollegiales und freundliches Arbeitsklima Einblicke in Verwaltung, Organisation und Bildungsmanagement Flache Hierarchien und kurze Entscheidungswege Kostenfreie Getränke Umfassende Einblicke in die Aus- und Weiterbildung eines stark wachsenden Unternehmens Find more English Speaking Jobs in Germany on Arbeitnow",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div class=&quot;elementToProof&quot;&gt; &lt;p&gt;Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security, and AI risk. Headquartered in Seattle with offices in more than 30 countries, Veeam protects over 550,000 customers worldwide, who trust Veeam to keep their businesses running. Join us as we go fearlessly forward together, growing, learning, and making a real impact for some of the world’s biggest brands.&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;&lt;h4&gt;&lt;strong&gt;About the Role&lt;/strong&gt;&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;Veeam Kasten &lt;em&gt;for Kubernetes&lt;/em&gt;&lt;/strong&gt; is Veeam&#39;s Kubernetes-native data protection platform, purpose-built for modern cloud-native applications and AI-driven workloads. As enterprises accelerate Kubernetes adoption through container-based application modernization and modern virtualization, Kasten is positioned to be the data resilience standard for cloud-native infrastructure.&lt;/p&gt; &lt;p&gt;Reporting to the leader of Worldwide Kasten Solution Sales, you will partner with regional Kasten and field sales leadership to build territory strategy, raise technical win rates, and scale Kasten expertise across the broader Veeam field organization. You will also own the field-to-product feedback loop, working directly with Kasten Product Management and engineering to represent customer requirements. While Kasten is the primary focus, this leader will also support Veeam Data Platform opportunities where Kubernetes and virtualization workloads converge.&lt;/p&gt; &lt;p&gt;This is a hands-on leadership role. You will inherit an established team of senior specialists, and your mandate is to make them better: sharper technical execution, deeper coverage across both regions, and a higher bar for how Kasten is positioned and proven. You will stay credible in front of enterprise architects and technical executives.&lt;/p&gt; &lt;h4 id=&quot;id-📝JobDescription&amp;amp;JobPostGuidelines-WhatYou’llDo.1&quot;&gt;&lt;strong&gt;What You’ll Do&lt;/strong&gt;&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;Lead and develop a distributed team of Kasten Specialist Solutions Engineers/Architects across EMEA and APJ&lt;/li&gt; &lt;li&gt;Own the technical win across both regions: set the standard for discovery, solution architecture, demonstration, and POC execution, and hold the team accountable to measurable technical win rates&lt;/li&gt; &lt;li&gt;Partner with regional specialist and field sales leaders on territory planning, pipeline development, and pursuit strategy, and lead regular business reviews on technical pipeline health&lt;/li&gt; &lt;li&gt;Build Kasten and VDP Proxy technical capability across the wider Veeam field organization through enablement, certification, and repeatable assets&lt;/li&gt; &lt;li&gt;Develop the ecosystem technical relationships that matter in region, including Red Hat, AWS, SUSE, and regional channel partners and system integrators&lt;/li&gt; &lt;li&gt;Travel up to 30% across EMEA and APJ, with occasional global travel&lt;/li&gt; &lt;/ul&gt; &lt;h4 id=&quot;id-📝JobDescription&amp;amp;JobPostGuidelines-WhatYou’llDo.1&quot;&gt;&lt;strong&gt;What You’ll Bring&lt;/strong&gt;&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;8+ years of pre-sales or solutions engineering experience in enterprise software, including 3+ years in a people leadership role&lt;/li&gt; &lt;li&gt;Track record of leading pre-sales teams, including coaching, development, retention, and performance management across multiple countries, cultures, and time zones&lt;/li&gt; &lt;li&gt;Hands-on experience with Kubernetes and virtualized environments in production or evaluation, and working knowledge of enterprise data protection and recovery&lt;/li&gt; &lt;li&gt;Demonstrated success supporting complex, multi-stakeholder enterprise deals with long sales cycles, including channel-led and partner-influenced motions&lt;/li&gt; &lt;li&gt;Ability to translate complex technical capabilities into business value, and to present credibly to groups of varying size and seniority&lt;/li&gt; &lt;/ul&gt; &lt;h4 id=&quot;id-📝JobDescription&amp;amp;JobPostGuidelines-WhatYou’llDo.1&quot;&gt;&lt;strong&gt;Bonus Skills&lt;/strong&gt;&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;Background selling to enterprise DevOps, Platform Engineering, or IT Operations teams&lt;/li&gt; &lt;li&gt;Direct experience with Kubernetes data protection, or with container and virtualization platforms such as Red Hat OpenShift, AWS EKS, or VMware vSphere&lt;/li&gt; &lt;li&gt;Leadership experience in a high-growth environment, launching or scaling a new product or business inside a larger enterprise or a startup&lt;/li&gt; &lt;li&gt;Experience operating in a specialist overlay model alongside a core field sales organization&lt;/li&gt; &lt;li&gt;Credibility in the cloud-native community, through CNCF project involvement, conference speaking, or open-source contribution&lt;/li&gt; &lt;/ul&gt; &lt;h4 id=&quot;id-📝JobDescription&amp;amp;JobPostGuidelines-WhatYou’llGet.1&quot;&gt;&lt;strong&gt;What You’ll Get&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;Comprehensive Financial Security – Company-sponsored retirement savings, life insurance, and accident coverage to help protect you and your family.&lt;/li&gt; &lt;li&gt;Generous Time Off – Enjoy 30 vacation days per year, plus company-wide VeeaMe Days dedicated to rest, wellbeing, and self-care.&lt;/li&gt; &lt;li&gt;Wellbeing &amp;amp; Mental Health Support – Access confidential counseling and professional support services through our Employee Assistance Program for employees and their families.&lt;/li&gt; &lt;li&gt;Make an Impact Beyond Work – Receive paid volunteer time each year through the Veeam Cares program to support causes that matter to you.&lt;/li&gt; &lt;li&gt;Healthcare &amp;amp; Wellness Benefits – Benefits include healthcare support and wellbeing-focused programs designed to help you thrive both personally and professionally.&lt;/li&gt; &lt;li&gt;Additional Lifestyle Perks – Enjoy benefits that support your everyday wellbeing, including lifestyle-focused programs and employee-friendly perks.&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;span data-ccp-props=&quot;{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}&quot;&gt;Please note: If an applicant is permanently located outside of Germany, Veeam reserves the right to decline the application for this position&lt;/span&gt;&lt;/p&gt; &lt;p&gt;#LI-IN1&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;div data-pm-slice=&quot;1 1 [&amp;quot;ul&amp;quot;,null,&amp;quot;li&amp;quot;,{&amp;quot;style&amp;quot;:null,&amp;quot;checked&amp;quot;:null,&amp;quot;value&amp;quot;:null,&amp;quot;displayValue&amp;quot;:null,&amp;quot;backgroundColor&amp;quot;:null,&amp;quot;color&amp;quot;:null,&amp;quot;listStyleType&amp;quot;:null}]&quot; data-en-clipboard=&quot;true&quot;&gt; &lt;p data-local-id=&quot;56095010243a&quot; data-prosemirror-content-type=&quot;node&quot; data-prosemirror-node-name=&quot;paragraph&quot; data-prosemirror-node-block=&quot;true&quot; data-pm-slice=&quot;1 1 []&quot;&gt;&lt;strong data-prosemirror-content-type=&quot;mark&quot; data-prosemirror-mark-name=&quot;strong&quot;&gt;Veeam Software is an equal opportunity employer&lt;/strong&gt; and does not tolerate discrimination in any form on the basis of race, color, religion, gender, age, national origin, citizenship, disability, veteran status or any other classification protected by federal, state or local law. All your information will be kept confidential.&lt;/p&gt; &lt;p&gt;Personal data collected during the recruitment process will be processed in accordance with our &lt;a href=&quot;https://www.veeam.com/legal/recruiting-privacy-notice.html&quot;&gt;Recruiting Privacy Notice&lt;/a&gt;, which explains how your information is collected, used, and handled in connection with hiring activities. By applying for this position, you consent to this processing.&amp;nbsp;&lt;/p&gt; &lt;p&gt;By submitting your application, you confirm that the information provided, including any supporting documents, is complete and accurate to the best of your knowledge. Any misrepresentation, omission, or falsification may result in disqualification from consideration or, if discovered after employment begins, termination of employment.&lt;/p&gt; &lt;/div&gt; &lt;p&gt;&lt;a id=&quot;app&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt; Find more English Speaking Jobs in Germany on Arbeitnow",
     "required_skills": [
-      "werkstudent",
-      "sprache",
-      "lehre",
-      "gesprächssituationen",
-      "kommunikation",
-      "remote",
-      "sprachniveau",
-      "englisch",
-      "deutsch",
-      "fachkommunikation",
-      "sprachförderung",
-      "kassel",
-      "hessen",
-      "sprachtrainer"
+      "kasten sales 1009429"
     ],
     "requirements": [],
     "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/education-partners/remote-werkstudent-als-sprachdozent-deutsch-englisch-hessen-bbi-112218",
+    "url": "https://www.arbeitnow.com/jobs/companies/veeamsoftware/remote-veeam-kasten-director-se-emea-apj-476768",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-948b6376f0e1",
+    "title": "Project Manager - Software Implementation (m/f/x)",
+    "company": "Makersite GmbH",
+    "location": "Remote job",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Job Title: Project Manager - Software Implementation (m/f/x)&nbsp; Location: EU (Remote)&nbsp; &nbsp; Who You’ll Work For: &nbsp; &nbsp; At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle management (PLM), we empower companies to make smarter, more sustainable decisions across their entire supply chain. Our cutting-edge software enables teams to design, prototype, and manufacture with transparency, efficiency, and responsibility—reducing environmental impact while optimizing performance.&nbsp; We're a fast-growing, innovative company that thrives on creativity, collaboration, and continuous learning. If you're passionate about technology, sustainability, and creating meaningful impact, we’d love to hear from you. Join us and be a part of shaping the future of manufacturing and product innovation.&nbsp; &nbsp; Who we're looking for: &nbsp; &nbsp; As part of our growing team, you will play a key role in shaping the future of sustainable product development. We’re looking for innovative, driven Project Managers who are passionate about technology and sustainability to join us in building tools that enable companies to make smarter, more responsible decisions. In this role, you’ll have the opportunity to collaborate with talented professionals, contribute to cutting-edge projects, and help drive the digital transformation of industries worldwide. If you're ready to make an impact and contribute to meaningful change, we want to hear from you!&nbsp; This role is a fixed, permanent position. All successful applicants will receive a permanent employment contract regardless of location.&nbsp;&nbsp; &nbsp; The role: &nbsp; &nbsp; Lead the planning and implementation of software projects related to system connections with our customers, ensuring they are delivered on time and within scope.&nbsp; Maintain and update project plans, proactively identifying and managing any project risks.&nbsp; Ensure the availability of the right expertise for each project phase, coordinating with internal and external resources as necessary.&nbsp; Manage stakeholder expectations, delivering regular and comprehensive project updates and effectively resolving any arising issues.&nbsp; Contribute to the standardization of project implementation methodology and project templates to improve project standardization and efficiency.&nbsp; Generate thorough Project/Solution Documentation, outlining project goals, deliverables, and timelines.&nbsp; Handle all customer communication across various projects, ensuring clear, consistent, and timely communication with all stakeholders.&nbsp; Master's degree in project management or related technical field required.&nbsp; Background in Electronics/Electricals Professional Project Management Certification from an accredited institution preferred.&nbsp; Demonstrated understanding of Project Management processes, strategies, and methods&nbsp; Excellent time management and organizational skills and experience establishing guidelines in these areas for others.&nbsp; 3+ years of Project management experience in the field of software implementations&nbsp; Experience with complex data projects where a systematic approach is crucial to success.&nbsp; Dexterity with software tools and data manipulation &amp; analysis&nbsp; A creative mind that can think outside the box.&nbsp; Curiosity to find disruptive as opposed to incremental solutions to challenging data problems.&nbsp; Residing in and legally permitted to work in the EU.&nbsp; &nbsp; What We Offer: &nbsp; &nbsp; Competitive Salary – We reward your skills and experience with a compensation package that reflects your value.&nbsp; 30 Days Paid Time Off – Take the time you need to recharge and maintain a healthy work-life balance.&nbsp; Remote-First Flexibility – Work from anywhere in the EU, with the option to collaborate in person at our offices in Stuttgart, Berlin (role dependent).&nbsp; Generous Learning &amp; Development Budget – We invest in your growth, providing ample resources for personal and professional development.&nbsp; Choose Your Ideal Work Equipment – Whether you prefer Apple or Microsoft, we’ll equip you with the tools you need to excel.&nbsp; &nbsp; The Experience: &nbsp; &nbsp; Purpose-Driven Work – Build something meaningful. Here, you’re not just creating another app; you’re contributing to a transformative vision that you can be proud of.&nbsp; Great Colleagues – Join a team that’s open, transparent, and international. We value inclusivity and foster a culture of collaboration and mutual respect.&nbsp; Work-Life Balance – As a remote-first company, we trust you to do your best work, your way. You have the flexibility to work when it suits you, ensuring a healthy balance between personal and professional life.&nbsp; Pride in Impact – We're already making a significant difference with global, well-known customers who share our vision. Be part of something that matters.&nbsp; Stability with Ambition – With realistic growth plans, we’re committed to changing the way things are made—without sacrificing our ambitious goals for innovation and impact.&nbsp; If you want to find out more about what it’s like to work at Makersite, check out our Careers Page here &nbsp; &nbsp;&nbsp; Diversity and Inclusion &nbsp; If you have a medical condition or an individual need for an adjustment to our process, and you believe this may affect your ability to be at your best – please let us know so we can talk about how we can best support you and make any adjustments that may be needed.&nbsp;&nbsp; &nbsp; At Makersite, we are dedicated to fostering an environment that champions diversity, equity, inclusion, and belonging. We believe that diverse teams drive innovation and success, and we are proud to be an equal opportunity employer. We welcome applicants from all backgrounds and will consider all applications regardless of age, disability, gender identity, marital status, pregnancy or maternity, race, nationality, religion, sex, sexual orientation, or any other status protected by applicable law. Rest assured, all applications will be handled with the utmost confidentiality.&nbsp; Find more English Speaking Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "services and data",
+      "remote"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-project-manager-software-implementation-berlin-117239",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-e9a0657f7894",
+    "title": "Senior Frontend Engineer (m/f/x)",
+    "company": "Makersite GmbH",
+    "location": "Remote job",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Senior Frontend Engineer (m/f/x)&nbsp; Location: EU/UK&nbsp; (Remote)&nbsp; &nbsp; Who You’ll Work For : &nbsp; &nbsp; At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle management (PLM), we empower companies to make smarter, more sustainable decisions across their entire supply chain. Our cutting-edge software enables teams to design, prototype, and manufacture with transparency, efficiency, and responsibility—reducing environmental impact while optimizing performance.&nbsp; We're a fast-growing, innovative company that thrives on creativity, collaboration, and continuous learning. If you're passionate about technology, sustainability, and creating meaningful impact, we’d love to hear from you. Join us and be a part of shaping the future of manufacturing and product innovation.&nbsp; &nbsp; Who we're looking for: &nbsp; &nbsp; As part of our growing team, you will play a key role in shaping the future of sustainable product development. We’re looking for innovative, driven Frontend Engineers who are passionate about technology and sustainability to join us in building tools that enable companies to make smarter, more responsible decisions. In this role, you’ll have the opportunity to collaborate with talented professionals, contribute to cutting-edge projects, and help drive the digital transformation of industries worldwide. If you're ready to make an impact and contribute to meaningful change, we want to hear from you!&nbsp; This role is a fixed, permanent position. All successful applicants will receive a permanent employment contract regardless of location.&nbsp;&nbsp; &nbsp; The role:&nbsp; &nbsp; Frontend Feature Development: &nbsp;Design, develop and maintain frontend features and functionalities across the company's platform, delivering intuitive and reliable user experiences.&nbsp; Angular Ownership: &nbsp;Take ownership of the Angular codebase, driving its ongoing development, maintenance and technical direction.&nbsp; Frontend Architecture &amp; Standards: &nbsp;Lead frontend architectural decisions and establish scalable patterns, reusable components and consistent development practices.&nbsp; Design Systems &amp; Component Libraries: &nbsp;Develop and maintain shared UI components and design systems to improve consistency, accessibility and development efficiency across the platform.&nbsp; Testing &amp; Code Quality: &nbsp;Implement automated tests, including unit, integration and end-to-end testing, to ensure application reliability and maintainability.&nbsp; Performance &amp; Maintenance: &nbsp;Investigate and resolve bugs, optimise frontend performance and continuously improve existing functionality.&nbsp; Product Collaboration: &nbsp;Work closely with the Product Owner and engineering team to translate product requirements and domain logic into clear technical solutions.&nbsp; Cross-Functional Delivery: &nbsp;Contribute to product development across different areas of the business, collaborating with backend and frontend engineers to deliver agreed roadmap priorities.&nbsp; Technical Problem-Solving: &nbsp;Navigate an evolving codebase, investigate existing implementations and work independently to solve complex technical and product challenges.&nbsp; Continuous Improvement: &nbsp;Identify opportunities to improve development workflows, technical practices and the overall quality and scalability of the platform.&nbsp; Frontend Development: &nbsp;Several years of professional frontend development experience, with strong hands-on expertise in Angular, preferably version 17 or later.&nbsp; Angular Expertise: &nbsp;Comfortable working with the Angular Signals API, RxJS and observable patterns, and modern Angular development practices.&nbsp; Frontend Architecture: &nbsp;Experience making frontend architectural decisions, establishing coding standards and maintaining scalable, maintainable applications.&nbsp; Component Libraries &amp; Design Systems: &nbsp;Experience building and maintaining design systems and reusable component libraries, including applying smart/dumb component patterns.&nbsp; Reusable &amp; Accessible Components: &nbsp;Experience building accessible, reusable UI components using Angular Material or equivalent component libraries.&nbsp; Automated Testing: &nbsp;Experience writing and maintaining unit, integration and end-to-end tests, including hands-on experience with Playwright.&nbsp; Product Engineering: &nbsp;Ability to translate product requirements and domain logic into effective user experiences and reliable functionality.&nbsp; Independent Delivery: &nbsp;Self-directed and delivery-focused, able to manage workload independently and take ownership of features from implementation through to release.&nbsp; Problem-Solving &amp; Quality: &nbsp;Strong debugging skills, attention to detail and the ability to resolve bugs, improve performance and maintain code quality.&nbsp; Communication &amp; Collaboration: &nbsp;Clear communicator who works effectively with product owners, engineers and cross-functional stakeholders.&nbsp; Legally permitted to work within the EU or UK.&nbsp; Desirable Skills &amp; Experience &nbsp; Java &amp; Spring: &nbsp;Experience with Java and Spring, particularly when working across frontend and backend boundaries, is a significant advantage.&nbsp; Enterprise SaaS: &nbsp;Experience building B2B enterprise applications, including complex forms, data grids, role-based access and multi-tenant environments.&nbsp; AI-Assisted Development: &nbsp;Interest in and experience using AI-assisted development tools and workflows.&nbsp; Product Team Experience: &nbsp;Experience working in small, autonomous engineering teams within a fast-paced scale-up environment.&nbsp; Domain Knowledge: &nbsp;An interest in sustainability, carbon footprint data or industrial data exchange is beneficial.&nbsp; Experience using Storybook and collaborating with UX teams through Figma&nbsp; Experience using OpenAPI-generated types and contract-first API development approaches&nbsp; &nbsp; What We Offer: &nbsp; &nbsp; Competitive Salary – We reward your skills and experience with a compensation package that reflects your value.&nbsp; 30 Days Paid Time Off – Take the time you need to recharge and maintain a healthy work-life balance.&nbsp; Remote-First Flexibility – Work from anywhere in the EU, and the UK, with the option to collaborate in person at our offices in Stuttgart, Berlin (role dependent).&nbsp; Generous Learning &amp; Development Budget – We invest in your growth, providing ample resources for personal and professional development.&nbsp; Choose Your Ideal Work Equipment – Whether you prefer Apple or Microsoft, we’ll equip you with the tools you need to excel.&nbsp; &nbsp; &nbsp; The Experience: &nbsp; &nbsp; Purpose-Driven Work – Build something meaningful. Here, you’re not just creating another app; you’re contributing to a transformative vision that you can be proud of.&nbsp; Great Colleagues – Join a team that’s open, transparent, and international. We value inclusivity and foster a culture of collaboration and mutual respect.&nbsp; Work-Life Balance – As a remote-first company, we trust you to do your best work, your way. You have the flexibility to work when it suits you, ensuring a healthy balance between personal and professional life.&nbsp; Pride in Impact – We're already making a significant difference with global, well-known customers who share our vision. Be part of something that matters.&nbsp; Stability with Ambition – With realistic growth plans, we’re committed to changing the way things are made—without sacrificing our ambitious goals for innovation and impact.&nbsp; &nbsp; If you want to find out more about what it’s like to work at Makersite, check out our Careers Page here &nbsp; &nbsp;&nbsp; Diversity and Inclusion &nbsp; If you have a medical condition or an individual need for an adjustment to our process, and you believe this may affect your ability to be at your best – please let us know so we can talk about how we can best support you and make any adjustments that may be needed.&nbsp;&nbsp; &nbsp; At Makersite, we are dedicated to fostering an environment that champions diversity, equity, inclusion, and belonging. We believe that diverse teams drive innovation and success, and we are proud to be an equal opportunity employer. We welcome applicants from all backgrounds and will consider all applications regardless of age, disability, gender identity, marital status, pregnancy or maternity, race, nationality, religion, sex, sexual orientation, or any other status protected by applicable law. Rest assured, all applications will be handled with the utmost confidentiality.&nbsp; Find Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "engineering",
+      "remote"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-frontend-engineer-berlin-338888",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-bc8a50e876f0",
+    "title": "Staff Solutions Architect, AI Subject Matter Expert",
+    "company": "gitlab",
+    "location": "Remote",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt;*&lt;em&gt;Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;An overview of this role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As a Subject Matter Expert (SME), you&#39;ll be the deepest technical voice in the field for one product group, helping customers make technical decisions on GitLab&#39;s most important opportunities, roughly the top 10% by size or complexity.&lt;/p&gt; &lt;p&gt;Account Solutions Architects (Account SAs) will bring you into prioritized opportunities. The Account SA owns the opportunity; you own your product group&#39;s success within it. You&#39;ll work directly with Product and Engineering, bringing customer needs and field insights into roadmap discussions. You&#39;ll also help the wider Solutions Architecture team build expertise through reusable assets, enablement, and coaching.&lt;/p&gt; &lt;p&gt;You&#39;ll specialize in one product group, not all four. In Security &amp;amp; Compliance, you&#39;ll focus on GitLab Ultimate, application security, Dependency Firewall, software supply chain security, compliance, and artificial intelligence (AI) governance. In Platform, you&#39;ll focus on GitLab Dedicated, self-managed deployments, bring your own model, and cloud and hybrid architecture. In Core DevSecOps, you&#39;ll focus on GitLab Premium, continuous integration and continuous delivery (CI/CD), source code management, Orbit, Artifact Central, and migrations. DevSecOps brings development, security, and operations together across software delivery. In AI &amp;amp; Competitive, you&#39;ll focus on GitLab Duo Agent Platform, agentic workflows, AI-native development, competitive displacement including GitHub, and migrations.&lt;/p&gt; &lt;p&gt;Your success will be measured by technical win rate and bookings on SME-engaged opportunities, product-category commit attainment and consumption growth in your region, and Proof of Value (PoV) conversion rate, evaluation cycle time, and time from technical win to production use. We&#39;ll also measure how often Account SAs reuse your assets, their confidence in handling your product group without escalation, and the quality and impact of your feedback to Product.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Act as the technical authority for your product group on prioritized opportunities, from discovery and architecture through trials and PoV evaluations.&lt;/li&gt; &lt;li&gt;Lead technical deep dives, workshops, and executive briefings that connect product capabilities to business outcomes and explain how GitLab differs from competing solutions.&lt;/li&gt; &lt;li&gt;Design and improve standardized PoV templates with clear, repeatable success criteria. Account SAs own the customer PoV; you&#39;ll contribute product-specific content and expertise while keeping the evaluation connected to the broader GitLab platform.&lt;/li&gt; &lt;li&gt;Equip account teams for product launches with Product Management and Product Marketing. Build demos and talk tracks, and turn early customer wins into reference stories.&lt;/li&gt; &lt;li&gt;Serve as the escalation point for Account SAs and Post-Sales Solutions Architects (Post-Sales SAs) on complex product questions, integrations, and objections.&lt;/li&gt; &lt;li&gt;Hand off PoV success criteria and architecture decisions to the Post-Sales SA with the account team when an opportunity closes. Stay involved until the customer&#39;s first production workload uses the product, and support complex accounts when Post-Sales SAs bring you in to drive adoption and consumption.&lt;/li&gt; &lt;li&gt;Bring structured field feedback, competitive insights, and customer requirements to Product Management and Engineering with the wider SME team. Help manage early-access and design-partner programs, and represent GitLab through customer events, conferences, industry working groups, and published content.&lt;/li&gt; &lt;li&gt;Build reference architectures, demo environments, competitive battlecards, PoV playbooks, and enablement content so account teams can handle more opportunities without your direct involvement. Mentor Account SAs and contribute to GitLab&#39;s global SME community of practice.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;What you’ll bring&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Substantial experience in technical pre-sales, solutions architecture, consulting, or software engineering, with deep, hands-on expertise in one domain: application security testing, supply chain security, and compliance; scalable cloud and hybrid platforms; large CI/CD environments and source code migrations; or production AI-assisted development, working prototypes, and competitive evaluations.&lt;/li&gt; &lt;li&gt;Practical expertise in agentic and AI-assisted development workflows across planning, coding, testing, security, and delivery, applied in a customer-facing, pre-sales context.&lt;/li&gt; &lt;li&gt;Experience winning technical decisions on large, complex enterprise opportunities through structured Proof of Concept (PoC) or PoV evaluations with defined success criteria and executive sign-off.&lt;/li&gt; &lt;li&gt;Hands-on experience with Git, CI/CD, containers, Kubernetes, and at least one major cloud provider.&lt;/li&gt; &lt;li&gt;The ability to lead a whiteboard session with engineers and present the business case to executives in the same meeting.&lt;/li&gt; &lt;li&gt;Strong written communication, including the ability to turn complex topics into clear playbooks that others use.&lt;/li&gt; &lt;li&gt;Comfort working asynchronously across time zones with Sales, Product, and Engineering.&lt;/li&gt; &lt;li&gt;Optional: public speaking, published technical content, open source contributions, or relevant certifications in Kubernetes, cloud architecture, or security.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;If you bring transferable experience in an adjacent domain, we encourage you to apply.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;We&#39;re building our SME organization within GitLab&#39;s Solutions Architecture team, and we&#39;re distributed and all-remote.&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h4&gt;&lt;strong&gt;How GitLab Supports Full-Time Employees&lt;/strong&gt;&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/&quot;&gt;Benefits to support your health, finances, and well-being&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/people-group/time-off-and-absence/time-off-types/#flexible-paid-time-off-pto&quot;&gt;Flexible Paid Time Off&amp;nbsp;&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/company/culture/inclusion/tmrg-tmag/&quot;&gt;Team Member Resource Groups&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/total-rewards/stock-options/&quot;&gt;Equity Compensation &amp;amp; Employee Stock Purchase Plan&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/people-group/learning-and-development/growth-and-development/&quot;&gt;Growth and Development Fund&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave&quot;&gt;Parental Leave&lt;/a&gt;&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Please note that we welcome interest from candidates with varying levels of experience; many successful candidates do not meet every single requirement. Additionally, studies have shown that people from &lt;a href=&quot;https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups&quot;&gt;underrepresented groups&lt;/a&gt; are less likely to apply to a job unless they meet every single qualification. If you&#39;re excited about this role, please apply and allow our recruiters to assess your application.&lt;/p&gt; &lt;hr&gt; &lt;p&gt;&lt;strong&gt;Country Hiring Guidelines: &lt;/strong&gt;GitLab hires new team members in countries around the world. All of our roles are remote, however some roles may carry specific location-based eligibility requirements. Our Talent Acquisition team can help answer any questions about location after starting the recruiting process.&amp;nbsp;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Privacy Policy: &lt;/strong&gt;Please review our &lt;a href=&quot;https://handbook.gitlab.com/handbook/hiring/candidate-faq/recruitment-privacy-policy/&quot; target=&quot;_blank&quot;&gt;Recruitment Privacy Policy.&lt;/a&gt; Your privacy is important to us.&lt;/p&gt; &lt;p&gt;GitLab is proud to be an equal opportunity workplace and is an affirmative action employer. GitLab’s policies and practices relating to recruitment, employment, career development and advancement, promotion, and retirement are based solely on merit, regardless of race, color, religion, ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity, or gender expression), national origin, age, citizenship, marital status, mental or physical disability, genetic information (including family medical history), discharge status from the military, protected veteran status (which includes disabled veterans, recently separated veterans, active duty wartime or campaign badge veterans, and Armed Forces service medal veterans), or any other basis protected by law. GitLab will not tolerate discrimination or harassment based on any of these characteristics. See also&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/people-policies/inc-usa/#equal-employment-opportunity-policy&quot; target=&quot;_blank&quot;&gt;GitLab’s EEO Policy&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/labor-and-employment-notices/#eeoc-us-equal-employment-opportunity-commission-notices&quot; target=&quot;_blank&quot;&gt;EEO is the Law&lt;/a&gt;. If you have a disability or special need that requires&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation&quot; target=&quot;_blank&quot;&gt;accommodation&lt;/a&gt;, please let us know during the&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/hiring/interviewing/#adjustments-to-our-interview-process&quot; target=&quot;_blank&quot;&gt;recruiting process&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt; Find Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "sa"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-staff-solutions-architect-ai-subject-matter-expert-456239",
     "date_posted": null
   }
 ]
