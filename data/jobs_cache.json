@@ -1,853 +1,915 @@
 [
   {
-    "id": "jobicy-31d57d67011d",
-    "title": "Senior Product Marketing Manager | Sweden | Remote",
-    "company": "Grafana Labs",
+    "id": "jobicy-6f42484963a1",
+    "title": "Senior PR and Communications Manager (12 month fixed-term contract)",
+    "company": "Monzo",
+    "location": "UK",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal and business bank accounts, we offer joint&hellip;",
+    "required_skills": [
+      "marketing & sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/157823-senior-pr-and-communications-manager-12-month-fixed-term-contract",
+    "date_posted": "2026-10-29"
+  },
+  {
+    "id": "jobicy-eeffd52335f9",
+    "title": "Site Reliability Engineer in Hardware Infrastructure",
+    "company": "Nebius",
     "location": "Europe",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving&hellip;",
+    "description": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From&hellip;",
     "required_skills": [
-      "marketing & sales"
+      "devops & infrastructure"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157688-senior-product-marketing-manager-sweden-remote",
-    "date_posted": "2026-10-28"
+    "url": "https://jobicy.com/jobs/157822-site-reliability-engineer-in-hardware-infrastructure",
+    "date_posted": "2026-10-29"
   },
   {
-    "id": "jobicy-6b7c7f196747",
-    "title": "Senior Product Marketing Manager | Spain | Remote",
-    "company": "Grafana Labs",
-    "location": "Spain",
+    "id": "jobicy-cdf85acac2e2",
+    "title": "Engineering Director (100% Remote within Poland)",
+    "company": "Docplanner",
+    "location": "Poland",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving&hellip;",
+    "description": "Build the AI-native healthcare journey Every month, around 100 million people come to Docplanner to find a doctor, book a visit, stay in touch with their care and pay for it. Each of those steps is now being reinvented with AI. Search is turning into conversation. Booking is becoming something an agent can do for&hellip;",
     "required_skills": [
-      "marketing & sales"
+      "software engineering"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157687-senior-product-marketing-manager-spain-remote",
-    "date_posted": "2026-10-28"
+    "url": "https://jobicy.com/jobs/157821-engineering-director-100-remote-within-poland",
+    "date_posted": "2026-10-29"
   },
   {
-    "id": "jobicy-0c1457e96d6c",
-    "title": "Senior Product Marketing Manager | Ireland | Remote",
-    "company": "Grafana Labs",
-    "location": "Ireland",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving&hellip;",
-    "required_skills": [
-      "marketing & sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157686-senior-product-marketing-manager-ireland-remote",
-    "date_posted": "2026-10-28"
-  },
-  {
-    "id": "jobicy-2cdf38d95a7a",
-    "title": "Senior Product Marketing Manager | Germany | Remote",
-    "company": "Grafana Labs",
-    "location": "Germany",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving&hellip;",
-    "required_skills": [
-      "marketing & sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157685-senior-product-marketing-manager-germany-remote",
-    "date_posted": "2026-10-28"
-  },
-  {
-    "id": "jobicy-cc058065bdce",
-    "title": "Senior Engineering Manager, Grafana Frontend | United Kingdom | Remote",
-    "company": "Grafana Labs",
+    "id": "jobicy-fd8f02d90861",
+    "title": "Senior Fraud Risk Manager",
+    "company": "Monzo",
     "location": "UK",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157684-senior-engineering-manager-grafana-frontend-united-kingdom-remote",
-    "date_posted": "2026-10-28"
-  },
-  {
-    "id": "jobicy-86814ac63597",
-    "title": "Uber Driver with Electric Vehicle Needed for App Testing (France)",
-    "company": "Testlio",
-    "location": "France",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Hi there! We are Testlio, a global software testing company with its own freelance network. Our freelancers test apps from companies across the globe. Testlio is a great place for people who value the freedom and flexibility of remote work. At the moment, we're working with Uber to test new EV charging scenarios within the&hellip;",
-    "required_skills": [
-      "qa & testing"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157683-uber-driver-with-electric-vehicle-needed-for-app-testing-france",
-    "date_posted": "2026-10-28"
-  },
-  {
-    "id": "jobicy-b3a761f279dc",
-    "title": "Start Up Specialist - Fluent in Hungarian",
-    "company": "Precision Medicine Group",
-    "location": "Hungary,  Poland,  Romania,  Serbia,  Slovakia",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Precision’s uniquely integrated offering enables the science of precision medicine by combining novel clinical trial designs, industry-leading operational and medical experts, advanced biomarker and data analytics solutions, and an unequivocal real passion for rare diseases and oncology, in addition to working across other therapeutic areas. As our company continues we grow we are seeking a&hellip;",
-    "required_skills": [
-      "healthcare & medical"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157682-start-up-specialist-fluent-in-hungarian",
-    "date_posted": "2026-10-28"
-  },
-  {
-    "id": "jobicy-b2672d24a1c3",
-    "title": "Senior Engineering Manager, Grafana Frontend | Sweden | Remote",
-    "company": "Grafana Labs",
-    "location": "Sweden",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157681-senior-engineering-manager-grafana-frontend-sweden-remote",
-    "date_posted": "2026-10-28"
-  },
-  {
-    "id": "jobicy-191689e1fae0",
-    "title": "Staff Software Engineer, Containers",
-    "company": "Chainguard",
-    "location": "Canada,  Germany,  UK,  USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157680-staff-software-engineer-containers",
-    "date_posted": "2026-10-28"
-  },
-  {
-    "id": "jobicy-6202197f2c02",
-    "title": "Principal Software Architect",
-    "company": "Testlio",
-    "location": "EMEA,  USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Location: This is a 100% remote role open to those who reside in the US, UK, or EMEA region. About the job Testlio's fully managed crowdsourced testing platform, powered by our proprietary intelligence technology - LeoCore™, integrates expert, on-demand testers directly into your release process. Ship faster and more confidently with global coverage across 600,000+&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157679-principal-software-architect-2",
-    "date_posted": "2026-10-28"
-  },
-  {
-    "id": "jobicy-9cba6dec89c6",
-    "title": "Strategic Project Lead - Speech & Audio AI (London)",
-    "company": "Appen",
-    "location": "UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About the Role The Strategic Project Lead – Speech &amp; Audio will sit in Appen's Operations organization and support the development of frontier AI through high-quality data programs for leading AI companies. We’re looking for someone with experience in speech, audio, or language data to own complex projects from planning through delivery. You’ll combine project&hellip;",
-    "required_skills": [
-      "project & program management"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157678-strategic-project-lead-speech-audio-ai-london",
-    "date_posted": "2026-10-28"
-  },
-  {
-    "id": "jobicy-787bf07a4867",
-    "title": "Site Contracts Manager",
-    "company": "Precision Medicine Group",
-    "location": "Hungary,  Poland,  Romania,  Serbia,  Slovakia",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Precision for Medicine is looking for a Site Contracts Manager to join our European Team. The position can be covered fully remotely from Poland, Slovakia, Serbia, Romania or Hungary. Position Summary: Review, draft, negotiate and track a variety of legal agreements including confidentiality agreements, master confidentiality agreements, clinical study agreements and amendment agreements. Work closely&hellip;",
+    "description": "We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal and business bank accounts, we offer joint&hellip;",
     "required_skills": [
       "legal & compliance"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157677-site-contracts-manager",
-    "date_posted": "2026-10-28"
+    "url": "https://jobicy.com/jobs/157820-senior-fraud-risk-manager",
+    "date_posted": "2026-10-29"
   },
   {
-    "id": "jobicy-697883779573",
-    "title": "Senior Engineering Manager, Grafana Frontend | Spain | Remote",
-    "company": "Grafana Labs",
-    "location": "Spain",
+    "id": "jobicy-a3c3caab29f0",
+    "title": "Senior Technical Program Manager - New Data Center Launches",
+    "company": "Nebius",
+    "location": "Europe",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157676-senior-engineering-manager-grafana-frontend-spain-remote",
-    "date_posted": "2026-10-28"
-  },
-  {
-    "id": "jobicy-258bc5a2ec07",
-    "title": "Senior Software Engineer (Customer Platform)",
-    "company": "Chainguard",
-    "location": "UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157675-senior-software-engineer-customer-platform",
-    "date_posted": "2026-10-28"
-  },
-  {
-    "id": "jobicy-e6ed78eb72bd",
-    "title": "Freelance Software Tester for Payments testing (Remote in Germany & the Netherlands)",
-    "company": "Testlio",
-    "location": "Germany,  Netherlands",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Hi there! We are Testlio, a global software testing company with its own freelance network. Our freelancers test apps from companies across the globe. Testlio is a great place for people who value the freedom and flexibility of remote work. At the moment, we are looking for freelance software testers based in Germany &amp; the&hellip;",
-    "required_skills": [
-      "qa & testing"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157674-freelance-software-tester-for-payments-testing-remote-in-germany-the-netherlands",
-    "date_posted": "2026-10-28"
-  },
-  {
-    "id": "jobicy-9c5c59fbe0d4",
-    "title": "Strategic Project Lead - Multimodal AI (London)",
-    "company": "Appen",
-    "location": "UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About the Role The Strategic Project Lead – Multimodal AI supports frontier AI development through complex, high-quality data programs for leading AI companies. We’re looking for someone with experience in multimodal AI data, such as image, video, 3D, sensor, or robotics-related workflows. You’ll lead projects that turn complex real-world data into reliable training and evaluation&hellip;",
+    "description": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From&hellip;",
     "required_skills": [
       "project & program management"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157673-strategic-project-lead-multimodal-ai-london",
-    "date_posted": "2026-10-28"
+    "url": "https://jobicy.com/jobs/157819-senior-technical-program-manager-new-data-center-launches",
+    "date_posted": "2026-10-29"
   },
   {
-    "id": "jobicy-34f91e168eda",
-    "title": "Senior Clinical Research Associate",
-    "company": "Precision Medicine Group",
-    "location": "Germany",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At Precision for Medicine, we are always looking to connect with exceptional talents, and we are currently seeking Senior Clinical Research Associates in Poland, Hungary, United Kingdom, France and Germany to support a dedicated FSP partnership, working closely with a strategic sponsor in a highly collaborative and quality-focused environment. This evergreen posting is part of&hellip;",
-    "required_skills": [
-      "healthcare & medical"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157672-senior-clinical-research-associate",
-    "date_posted": "2026-10-28"
-  },
-  {
-    "id": "jobicy-7cbace2ebd78",
-    "title": "Named Core Account Executive",
-    "company": "Databricks",
-    "location": "Denmark",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "SLSQ128R3 Want to help solve the world's toughest problems with data and AI? This is what we do every day at Databricks. Databricks operates at the leading edge of the Data and AI space. Our customers turn to us to lead the accelerated innovation their businesses need to gain first-mover advantage in today's ultra-competitive landscape.&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157671-named-core-account-executive",
-    "date_posted": "2026-10-28"
-  },
-  {
-    "id": "jobicy-dd9f9354c769",
-    "title": "Senior Engineering Manager, Grafana Frontend | Ireland | Remote",
-    "company": "Grafana Labs",
-    "location": "Europe",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157670-senior-engineering-manager-grafana-frontend-ireland-remote",
-    "date_posted": "2026-10-28"
-  },
-  {
-    "id": "jobicy-c28978fb29c1",
-    "title": "Senior Software Engineer - Search Infrastructure",
-    "company": "Algolia",
-    "location": "France",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Algolia is the retrieval intelligence layer that turns intent into trusted, decision-grade outcomes. Powering more than 1.7 trillion queries a year for over 18,000 customers with millisecond latency and 99.999% reliability, we are the recognized leader for Search and Product Discovery by top industry analyst firms. The Algolia platform turns a company's products, content, and&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157669-senior-software-engineer-search-infrastructure",
-    "date_posted": "2026-10-28"
-  },
-  {
-    "id": "jobicy-7a751c99ff21",
-    "title": "Senior Software Engineer, Containers",
-    "company": "Chainguard",
-    "location": "Canada,  Germany,  UK,  USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157668-senior-software-engineer-containers",
-    "date_posted": "2026-10-28"
-  },
-  {
-    "id": "jobicy-f56714c2cdce",
-    "title": "Customer Service Advisor - Midnights Team Fixed",
-    "company": "Capital on Tap",
+    "id": "jobicy-0a7b772d132b",
+    "title": "Senior Director of Global Tax",
+    "company": "Monzo",
     "location": "UK",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "We’re Capital on Tap Capital on Tap started because small businesses were underserved. Big banks were slow, their products weren't fit for purpose, and small business owners often couldn't access what they needed. We set out to fix that. Today we're a financial platform - not just a credit card company. We offer a&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157667-customer-service-advisor-midnights-team-fixed",
-    "date_posted": "2026-10-28"
-  },
-  {
-    "id": "jobicy-1775191285f7",
-    "title": "Account Director, Enterprise",
-    "company": "OpenAI",
-    "location": "UAE",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About the Team OpenAI’s mission is to build safe artificial general intelligence (AGI) which benefits all of humanity. This long-term undertaking brings the world’s best scientists, engineers, and business professionals into one lab together to accomplish this. In pursuit of this mission, our Go To Market (GTM) team is responsible for helping customers learn how&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157666-account-director-enterprise-2",
-    "date_posted": "2026-10-28"
-  },
-  {
-    "id": "jobicy-f63dbdbcf6d7",
-    "title": "Dental Launch Trainer (UK)",
-    "company": "Dandy",
-    "location": "UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Dandy is transforming the massive and antiquated dental industry—an industry worth over $400B. Backed by some of the world’s leading venture capital firms, we’re on an ambitious mission to simplify and modernize every function of the dental practice through technology. As we expand our reach globally, Dandy is building the operating system for dental offices&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157665-dental-launch-trainer-uk-2",
-    "date_posted": "2026-10-28"
-  },
-  {
-    "id": "jobicy-3f07b3466a17",
-    "title": "Engineering Manager, Product Catalogs",
-    "company": "Reddit",
-    "location": "Netherlands,  UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157664-engineering-manager-product-catalogs",
-    "date_posted": "2026-10-28"
-  },
-  {
-    "id": "jobicy-6a8c3a9b8a09",
-    "title": "Accounts Payable Specialist (Remote in Estonia)",
-    "company": "Testlio",
-    "location": "Estonia",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Location: Remote in Estonia About the job About the job Testlio’s fully managed crowdsourced testing platform, powered by our proprietary intelligence technology - LeoAI EngineTM, integrates expert, on-demand testers directly into your release process. Ship faster and more confidently with global coverage across 600,000+ devices, 800+ payment methods, 150+ countries, and 100+ languages. To learn&hellip;",
+    "description": "We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal and business bank accounts, we offer joint&hellip;",
     "required_skills": [
       "finance & accounting"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157663-accounts-payable-specialist-remote-in-estonia",
-    "date_posted": "2026-10-28"
+    "url": "https://jobicy.com/jobs/157817-senior-director-of-global-tax",
+    "date_posted": "2026-10-29"
   },
   {
-    "id": "jobicy-f2c2acf3ad53",
-    "title": "Strategic Project Lead - AI Post-Training (London)",
-    "company": "Appen",
-    "location": "UK",
+    "id": "jobicy-0410f1a49575",
+    "title": "Senior Product Manager, Panel (Remote, EU/UK)",
+    "company": "Maze",
+    "location": "Europe,  UK",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "About the Role The Strategic Project Lead – AI Post-Training will help lead AI companies develop and improve frontier models through high-quality data programs. We’re looking for someone with experience in AI post-training, preference data, or model evaluation to lead projects that shape how models respond, reason, and perform. You’ll own delivery while bringing practical&hellip;",
+    "description": "About Maze Maze is the user research platform that helps companies build the right products faster by making user insights available at the speed of product development. In most companies, research demand far exceeds supply. Time, cost, and lack of access to expertise hold teams back. In today’s AI-powered world, anyone can build a product&hellip;",
+    "required_skills": [
+      "product & operations"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/157816-senior-product-manager-panel-remote-eu-uk",
+    "date_posted": "2026-10-29"
+  },
+  {
+    "id": "jobicy-8bc14c5041cf",
+    "title": "Head of Tax Information Reporting",
+    "company": "OKX",
+    "location": "EMEA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Who We Are At OKX, we believe that the future will be reshaped by crypto, and ultimately contribute to every individual's freedom. OKX is a leading crypto exchange, and the developer of OKX Wallet, giving millions access to crypto trading and decentralized crypto applications (dApps). OKX is also a trusted brand by hundreds of large&hellip;",
+    "required_skills": [
+      "finance & accounting"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/157815-head-of-tax-information-reporting",
+    "date_posted": "2026-10-29"
+  },
+  {
+    "id": "jobicy-2a6cd9742557",
+    "title": "Project Development Manager- Data Centers, EMEA",
+    "company": "Nebius",
+    "location": "Europe",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From&hellip;",
     "required_skills": [
       "project & program management"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157662-strategic-project-lead-ai-post-training-london",
-    "date_posted": "2026-10-28"
+    "url": "https://jobicy.com/jobs/157814-project-development-manager-data-centers-emea-2",
+    "date_posted": "2026-10-29"
   },
   {
-    "id": "jobicy-0a75bf6f96dc",
-    "title": "Senior Clinical Project Manager - Oncology",
-    "company": "Precision Medicine Group",
+    "id": "jobicy-d11da2f8d2c2",
+    "title": "Credit Model Validation Manager",
+    "company": "Monzo",
     "location": "UK",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Are you an experienced full service Project Manager in the field of clinical trials who’s engaged in addressing the challenges facing the research and development of novel compounds in Oncology. Are you passionate about impacting the health and lives of patients around the world? Do you take a consultative approach to trial management, proving to&hellip;",
+    "description": "We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal and business bank accounts, we offer joint&hellip;",
     "required_skills": [
-      "project & program management"
+      "finance & accounting"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157661-senior-clinical-project-manager-oncology",
-    "date_posted": "2026-10-28"
+    "url": "https://jobicy.com/jobs/157812-credit-model-validation-manager",
+    "date_posted": "2026-10-29"
   },
   {
-    "id": "jobicy-73fe6abd41f6",
-    "title": "Lakebase Sales Specialist, Nordics",
-    "company": "Databricks",
-    "location": "Denmark",
+    "id": "jobicy-e77ea0877c1e",
+    "title": "Sr. HR Business Partner",
+    "company": "Thumbtack",
+    "location": "USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "SLSQ327R349 Databricks is seeking a Lakebase Sales Specialist to help customers modernise their operational data foundation with Databricks Lakebase, our fully-managed Postgres offering for intelligent applications. This high-impact role sits within the Lakebase Go-To-Market team and partners closely with regional Account Executives to drive adoption of Lakebase with platform, application, and data teams. Lakebase gives&hellip;",
+    "description": "Thumbtack helps millions of people confidently care for their homes. Thumbtack is the one app you need to take care of and improve your home — from personalized guidance to AI tools and a best-in-class hiring experience. Every day in every county of the U.S., people turn to Thumbtack to complete urgent repairs, seasonal maintenance&hellip;",
     "required_skills": [
-      "sales"
+      "hr & recruiting"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157660-lakebase-sales-specialist-nordics",
-    "date_posted": "2026-10-28"
+    "url": "https://jobicy.com/jobs/157809-sr-hr-business-partner",
+    "date_posted": "2026-10-29"
   },
   {
-    "id": "jobicy-3af10e3d0e96",
-    "title": "Account Development Representative - France",
-    "company": "Samsara",
-    "location": "France,  UK",
+    "id": "jobicy-0634def0a6a6",
+    "title": "Partner Account Manager",
+    "company": "Apollo.io",
+    "location": "USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical&hellip;",
+    "description": "Apollo.io is the leading go-to-market solution for revenue teams, trusted by over 500,000 companies and millions of users globally, from rapidly growing startups to some of the world's largest enterprises. Founded in 2015, the company is one of the fastest growing companies in SaaS, raising approximately $250 million to date and valued at $1.6 billion.&hellip;",
     "required_skills": [
-      "sales"
+      "business development"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157659-account-development-representative-france-3",
-    "date_posted": "2026-10-28"
+    "url": "https://jobicy.com/jobs/157807-partner-account-manager",
+    "date_posted": "2026-10-29"
   },
   {
-    "id": "jobicy-d7b96158ca41",
-    "title": "Sr. Software Engineer, AI Agent & Orchestration (MXC)",
-    "company": "AlertMedia",
-    "location": "Mexico",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Do work that matters. At AlertMedia, we help organizations protect their people, operations, and brand. Our modern Risk Intelligence and Response platform empowers teams to detect emerging threats, assess impact, and respond with confidence. We believe building resilience should be simpler—and it starts with bringing critical information and workflows together in one unified platform. Our&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157644-sr-software-engineer-ai-agent-orchestration-mxc",
-    "date_posted": "2026-10-28"
-  },
-  {
-    "id": "jobicy-c2bce89f247d",
-    "title": "Art Director",
-    "company": "StackAdapt",
+    "id": "jobicy-a72171fdcd9c",
+    "title": "Director of GTM Data, Processes, and AI Enablement",
+    "company": "MaintainX",
     "location": "Canada,  USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to drive measurable results across the entire customer journey. The most forward-thinking marketers choose StackAdapt to orchestrate high-impact campaigns across&hellip;",
+    "description": "MaintainX is a leading mobile-first work execution platform for industrial and frontline teams. More than 13,000 customers, including Duracell, McDonald's, Shell, DHL and Volvo, use MaintainX to cut unplanned downtime and run better operations, across 13.9 million managed assets and 79.5 million completed work orders. In August 2026 MaintainX became part of Autodesk, joining Autodesk&hellip;",
     "required_skills": [
-      "creative & design"
+      "product & operations"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157658-art-director-2",
-    "date_posted": "2026-10-28"
+    "url": "https://jobicy.com/jobs/157806-director-of-gtm-data-processes-and-ai-enablement",
+    "date_posted": "2026-10-29"
   },
   {
-    "id": "jobicy-bd9625192059",
-    "title": "Franchise Success Manager II",
-    "company": "Toast",
+    "id": "jobicy-0fd16a001b30",
+    "title": "Principal Engineer, Applied AI (Fullstack/Backend)",
+    "company": "hims &#038; hers",
     "location": "USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "The Franchise Success Manager II (FSM II) supports a portfolio of Toast’s largest enterprise restaurant brands. You’ll partner with Senior Customer Success Managers (CSMs) to drive net revenue retention, build customer trust, and deliver a premium experience to every franchisee and location in your book of business. This role blends three areas of work: reactive&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157657-franchise-success-manager-ii",
-    "date_posted": "2026-10-28"
-  },
-  {
-    "id": "jobicy-f5163a85a7b4",
-    "title": "Field Marketing Intern - Summer 2027",
-    "company": "Veeam Software",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security,&hellip;",
-    "required_skills": [
-      "marketing & sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157656-field-marketing-intern-summer-2027",
-    "date_posted": "2026-10-28"
-  },
-  {
-    "id": "jobicy-7ef49a49374c",
-    "title": "Account Manager, Western Canada",
-    "company": "StackAdapt",
-    "location": "Canada",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to drive measurable results across the entire customer journey. The most forward-thinking marketers choose StackAdapt to orchestrate high-impact campaigns across&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157655-account-manager-western-canada",
-    "date_posted": "2026-10-28"
-  },
-  {
-    "id": "jobicy-87e48234251f",
-    "title": "Director, UCC & Tax Lien Compliance",
-    "company": "Toast",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At Toast, we are passionate about creating raving fans and delivering an unparalleled customer experience — and that includes assisting our restaurant customers when their business becomes entangled in a creditor dispute. When a lien, levy, or garnishment is filed against a merchant, our customers need a partner who moves quickly, communicates clearly, and gets&hellip;",
-    "required_skills": [
-      "legal & compliance"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157654-director-ucc-tax-lien-compliance",
-    "date_posted": "2026-10-28"
-  },
-  {
-    "id": "jobicy-3467f4ab2c0c",
-    "title": "Sr. Software Engineer (MXC)",
-    "company": "AlertMedia",
-    "location": "Mexico",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Do work that matters. At AlertMedia, we help organizations protect their people, operations, and brand. Our modern Risk Intelligence and Response platform empowers teams to detect emerging threats, assess impact, and respond with confidence. We believe building resilience should be simpler—and it starts with bringing critical information and workflows together in one unified platform. Our&hellip;",
+    "description": "Hims &amp; Hers is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are redefining healthcare by putting the customer first and delivering access to care that is affordable, accessible, and personal, from diagnosis to treatment to delivery. No two people are&hellip;",
     "required_skills": [
       "software engineering"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157653-sr-software-engineer-mxc",
-    "date_posted": "2026-10-28"
+    "url": "https://jobicy.com/jobs/157805-principal-engineer-applied-ai-fullstack-backend",
+    "date_posted": "2026-10-29"
   },
   {
-    "id": "jobicy-7ab0a0986705",
-    "title": "Federal Health (VA, DHA, HHS) Account Executive (Remote: DC/MD/VA)",
-    "company": "Veeam Software",
+    "id": "jobicy-5adf2044597c",
+    "title": "Account Executive III",
+    "company": "Cision",
     "location": "USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security,&hellip;",
+    "description": "At Cision, we believe in empowering every individual to make an impact. Here, your voice is heard, your ideas are valued, and your unique perspective fuels our collective success. As part of our global team, you'll thrive in an environment that champions curiosity, collaboration, and innovation, all while making meaningful contributions to the brands we&hellip;",
     "required_skills": [
       "sales"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157652-federal-health-va-dha-hhs-account-executive-remote-dc-md-va",
-    "date_posted": "2026-10-28"
+    "url": "https://jobicy.com/jobs/157804-account-executive-iii-2",
+    "date_posted": "2026-10-29"
   },
   {
-    "id": "jobicy-3169bfbc7dfa",
-    "title": "Account Manager, Toronto",
-    "company": "StackAdapt",
+    "id": "jobicy-3d247c91230c",
+    "title": "Product Manager",
+    "company": "Thumbtack",
     "location": "Canada",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to drive measurable results across the entire customer journey. The most forward-thinking marketers choose StackAdapt to orchestrate high-impact campaigns across&hellip;",
+    "description": "Thumbtack helps millions of people confidently care for their homes. Thumbtack is the one app you need to take care of and improve your home — from personalized guidance to AI tools and a best-in-class hiring experience. Every day in every county of the U.S., people turn to Thumbtack to complete urgent repairs, seasonal maintenance&hellip;",
     "required_skills": [
-      "customer support & success"
+      "product & operations"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157651-account-manager-toronto",
-    "date_posted": "2026-10-28"
+    "url": "https://jobicy.com/jobs/157803-product-manager-9",
+    "date_posted": "2026-10-29"
   },
   {
-    "id": "jobicy-efa30b4f0418",
-    "title": "Brand Experience Designer, Consumer",
-    "company": "Toast",
+    "id": "jobicy-b1f67851dd4c",
+    "title": "Account Executive",
+    "company": "WorkWhile",
     "location": "USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Location(s): US (remote), Boston (hybrid), or New York (hybrid) - EST preferred Toast is expanding into the B2C market and is looking for a Brand Experience Designer to define and build the consumer-facing brand that millions of diners will come to know. This role is critical for turning a fledgling brand into one that feels&hellip;",
+    "description": "About WorkWhileWorkWhile is on a mission to help workers earn a better living and live better lives. 83 million Americans work hourly jobs, often with unpredictable schedules that pay close to minimum wage and offer limited benefits, leading to financial instability. WorkWhile identifies the best hourly workers and matches them with shifts that fit their&hellip;",
     "required_skills": [
-      "creative & design"
+      "sales"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157650-brand-experience-designer-consumer",
-    "date_posted": "2026-10-28"
+    "url": "https://jobicy.com/jobs/157801-account-executive-31",
+    "date_posted": "2026-10-29"
   },
   {
-    "id": "jobicy-d423217abedb",
-    "title": "Sr. Software Engineer, AI Tools (MXC)",
-    "company": "AlertMedia",
-    "location": "Mexico",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Do work that matters. At AlertMedia, we help organizations protect their people, operations, and brand. Our modern Risk Intelligence and Response platform empowers teams to detect emerging threats, assess impact, and respond with confidence. We believe building resilience should be simpler—and it starts with bringing critical information and workflows together in one unified platform. Our&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157649-sr-software-engineer-ai-tools-mxc",
-    "date_posted": "2026-10-28"
-  },
-  {
-    "id": "jobicy-83b2aacf00ed",
-    "title": "Events Marketing, Senior Specialist (REMOTE CST or EST)",
-    "company": "Veeam Software",
+    "id": "jobicy-389422c94493",
+    "title": "Head of Partner Programs, Strategy and Operations",
+    "company": "Apollo.io",
     "location": "USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security,&hellip;",
+    "description": "Apollo.io is the leading go-to-market solution for revenue teams, trusted by over 500,000 companies and millions of users globally, from rapidly growing startups to some of the world's largest enterprises. Founded in 2015, the company is one of the fastest growing companies in SaaS, raising approximately $250 million to date and valued at $1.6 billion.&hellip;",
+    "required_skills": [
+      "product & operations"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/157800-head-of-partner-programs-strategy-and-operations",
+    "date_posted": "2026-10-29"
+  },
+  {
+    "id": "jobicy-633d2d38110b",
+    "title": "Field Marketing Manager",
+    "company": "MaintainX",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "MaintainX is a leading mobile-first work execution platform for industrial and frontline teams. More than 13,000 customers, including Duracell, McDonald's, Shell, DHL and Volvo, use MaintainX to cut unplanned downtime and run better operations, across 13.9 million managed assets and 79.5 million completed work orders. In August 2026 MaintainX became part of Autodesk, joining Autodesk&hellip;",
     "required_skills": [
       "marketing & sales"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157648-events-marketing-senior-specialist-remote-cst-or-est",
-    "date_posted": "2026-10-28"
+    "url": "https://jobicy.com/jobs/157799-field-marketing-manager-3",
+    "date_posted": "2026-10-29"
   },
   {
-    "id": "jobicy-64d132ce9f04",
-    "title": "Account Manager, SoCal",
-    "company": "StackAdapt",
+    "id": "jobicy-a5b265138f59",
+    "title": "Staff Analyst, Product & Marketing",
+    "company": "hims &#038; hers",
     "location": "USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to drive measurable results across the entire customer journey. The most forward-thinking marketers choose StackAdapt to orchestrate high-impact campaigns across&hellip;",
+    "description": "Hims &amp; Hers is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are redefining healthcare by putting the customer first and delivering access to care that is affordable, accessible, and personal, from diagnosis to treatment to delivery. No two people are&hellip;",
     "required_skills": [
-      "customer support & success"
+      "data science & analytics"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157647-account-manager-socal",
-    "date_posted": "2026-10-28"
+    "url": "https://jobicy.com/jobs/157798-staff-analyst-product-marketing",
+    "date_posted": "2026-10-29"
   },
   {
-    "id": "jobicy-043634d7ad9c",
-    "title": "Threat Investigator Team Lead",
-    "company": "Discord",
-    "location": "USA",
+    "id": "jobicy-7b94977ebba9",
+    "title": "Staff, Escalations Manager",
+    "company": "Twilio",
+    "location": "Spain",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people&hellip;",
+    "description": "Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work, and strong culture of connection and global inclusion means that no&hellip;",
+    "required_skills": [
+      "technical support"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/157796-staff-escalations-manager",
+    "date_posted": "2026-10-29"
+  },
+  {
+    "id": "jobicy-46f04ce54170",
+    "title": "Software Development Engineer",
+    "company": "Twilio",
+    "location": "Ireland",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work, and strong culture of connection and global inclusion means that no&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/157793-software-development-engineer",
+    "date_posted": "2026-10-29"
+  },
+  {
+    "id": "jobicy-fb0f9255cde0",
+    "title": "Senior Strategic Account Executive (French Speaker)",
+    "company": "Twilio",
+    "location": "Ireland,  Spain,  UK",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work, and strong culture of connection and global inclusion means that no&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/157790-senior-strategic-account-executive-french-speaker",
+    "date_posted": "2026-10-29"
+  },
+  {
+    "id": "jobicy-2f0b97c24843",
+    "title": "Senior Software Engineer",
+    "company": "Twilio",
+    "location": "Ireland",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work, and strong culture of connection and global inclusion means that no&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/157787-senior-software-engineer-18",
+    "date_posted": "2026-10-29"
+  },
+  {
+    "id": "jobicy-1a631a07336f",
+    "title": "Staff DevOps Engineer",
+    "company": "Bloomreach",
+    "location": "Czechia",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Bloomreach is building the world’s premier agentic platform for personalization.We’re revolutionizing how businesses connect with their customers, building and deploying AI agents to personalize the entire customer journey. We're taking autonomous search mainstream, making product discovery more intuitive and conversational for customers, and more profitable for businesses. We’re making conversational shopping a reality, connecting every&hellip;",
+    "required_skills": [
+      "devops & infrastructure"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/157784-staff-devops-engineer-4",
+    "date_posted": "2026-10-29"
+  },
+  {
+    "id": "jobicy-3c1bd81dd37b",
+    "title": "Senior Manager, New Business DACH & Benelux",
+    "company": "Twilio",
+    "location": "Ireland,  Spain,  UK",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work, and strong culture of connection and global inclusion means that no&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/157783-senior-manager-new-business-dach-benelux",
+    "date_posted": "2026-10-29"
+  },
+  {
+    "id": "jobicy-ca6f360762e6",
+    "title": "Principal Technical Consultant",
+    "company": "Ping Identity",
+    "location": "UK",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Ping Identity: At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They&hellip;",
     "required_skills": [
       "cybersecurity"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157646-threat-investigator-team-lead",
-    "date_posted": "2026-10-28"
+    "url": "https://jobicy.com/jobs/157782-principal-technical-consultant",
+    "date_posted": "2026-10-29"
   },
   {
-    "id": "jobicy-7de59b21ca2c",
-    "title": "Bilingual Strategic Cuisines Inside Account Executive (Spanish) - CA",
-    "company": "Toast",
-    "location": "USA",
+    "id": "jobicy-35c539f25299",
+    "title": "Senior DevOps Engineer",
+    "company": "Bloomreach",
+    "location": "Slovakia",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "This is a fully remote bilingual Spanish inside sales opportunity based out of a personal home office. Toast creates technology to help restaurants and local businesses succeed in a digital world, helping business owners operate, increase sales, engage customers, and keep employees happy. As a Strategic Cuisines Account Executive, you will help grow Toast’s presence&hellip;",
+    "description": "Bloomreach is building the world’s premier agentic platform for personalization.We’re revolutionizing how businesses connect with their customers, building and deploying AI agents to personalize the entire customer journey. We're taking autonomous search mainstream, making product discovery more intuitive and conversational for customers, and more profitable for businesses. We’re making conversational shopping a reality, connecting every&hellip;",
     "required_skills": [
-      "sales"
+      "devops & infrastructure"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157645-bilingual-strategic-cuisines-inside-account-executive-spanish-ca",
-    "date_posted": "2026-10-28"
+    "url": "https://jobicy.com/jobs/157779-senior-devops-engineer-12",
+    "date_posted": "2026-10-29"
   },
   {
-    "id": "jobicy-abe8fc8c7511",
-    "title": "Director, Commercial Legal, Americas",
-    "company": "Veeam Software",
-    "location": "USA",
+    "id": "jobicy-d0e264d24002",
+    "title": "Senior International Payroll Analyst",
+    "company": "Twilio",
+    "location": "Ireland",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security,&hellip;",
+    "description": "Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work, and strong culture of connection and global inclusion means that no&hellip;",
     "required_skills": [
-      "legal & compliance"
+      "finance & accounting"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157643-director-commercial-legal-americas",
-    "date_posted": "2026-10-28"
+    "url": "https://jobicy.com/jobs/157778-senior-international-payroll-analyst",
+    "date_posted": "2026-10-29"
   },
   {
-    "id": "jobicy-5ec833250bf1",
-    "title": "Account Manager, NYC",
-    "company": "StackAdapt",
-    "location": "USA",
+    "id": "jobicy-e71609cc2e6c",
+    "title": "Customer Success Manager",
+    "company": "Ping Identity",
+    "location": "UK",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to drive measurable results across the entire customer journey. The most forward-thinking marketers choose StackAdapt to orchestrate high-impact campaigns across&hellip;",
+    "description": "About Ping Identity: At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They&hellip;",
     "required_skills": [
       "customer support & success"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157642-account-manager-nyc",
-    "date_posted": "2026-10-28"
+    "url": "https://jobicy.com/jobs/157777-customer-success-manager-56",
+    "date_posted": "2026-10-29"
   },
   {
-    "id": "jobicy-4350cd94d751",
-    "title": "Staff Software Engineer, Machine Learning (Consumer Revenue)",
-    "company": "Discord",
-    "location": "USA",
+    "id": "jobicy-c88e68753e3b",
+    "title": "Senior Software Engineer, Security Assurance | Ireland | Remote",
+    "company": "Grafana Labs",
+    "location": "Germany,  Ireland,  Spain,  Sweden,  UK",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people&hellip;",
+    "description": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving&hellip;",
+    "required_skills": [
+      "cybersecurity"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/157774-senior-software-engineer-security-assurance-ireland-remote",
+    "date_posted": "2026-10-29"
+  },
+  {
+    "id": "jobicy-b4fe2561d01c",
+    "title": "AI Trainers Network - Basque",
+    "company": "Welo Global",
+    "location": "Spain",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Welo Data, part of Welocalize, is a global AI data company with 500,000+ contributors delivering high-quality, ethical data to train the world’s most advanced AI systems. We’re building smarter, more human AI with a diverse community in 100+ countries. At Welo Data, Limitless AI. Limitless You. isn’t just a slogan—it’s our promise. We build smarter&hellip;",
+    "required_skills": [
+      "data science & analytics"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/157773-ai-trainers-network-basque",
+    "date_posted": "2026-10-29"
+  },
+  {
+    "id": "jobicy-fdb22fa8a566",
+    "title": "Golang Software Engineer, Commercial Systems",
+    "company": "Canonical",
+    "location": "EMEA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Canonical is a leading provider of open-source software and operating systems for global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many&hellip;",
     "required_skills": [
       "software engineering"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157641-staff-software-engineer-machine-learning-consumer-revenue",
-    "date_posted": "2026-10-28"
+    "url": "https://jobicy.com/jobs/157772-golang-software-engineer-commercial-systems",
+    "date_posted": "2026-10-29"
   },
   {
-    "id": "jobicy-5a57a8f564c5",
-    "title": "Associate Product Manager, Data Governance",
-    "company": "Toast",
+    "id": "jobicy-2df47f09d53e",
+    "title": "Intermediate Backend Engineer, Pipeline Authoring",
+    "company": "GitLab",
+    "location": "Poland",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/157771-intermediate-backend-engineer-pipeline-authoring",
+    "date_posted": "2026-10-29"
+  },
+  {
+    "id": "jobicy-50f987c89370",
+    "title": "Senior Software Engineer, Security Assurance | Germany | Remote",
+    "company": "Grafana Labs",
+    "location": "Germany,  Ireland,  Spain,  Sweden,  UK",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving&hellip;",
+    "required_skills": [
+      "cybersecurity"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/157770-senior-software-engineer-security-assurance-germany-remote",
+    "date_posted": "2026-10-29"
+  },
+  {
+    "id": "jobicy-fb0740960e6e",
+    "title": "AI Trainers Network - Amharic",
+    "company": "Welo Global",
+    "location": "Europe",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Welo Data, part of Welocalize, is a global AI data company with 500,000+ contributors delivering high-quality, ethical data to train the world’s most advanced AI systems. We’re building smarter, more human AI with a diverse community in 100+ countries. At Welo Data, Limitless AI. Limitless You. isn’t just a slogan—it’s our promise. We build smarter&hellip;",
+    "required_skills": [
+      "data science & analytics"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/157769-ai-trainers-network-amharic",
+    "date_posted": "2026-10-29"
+  },
+  {
+    "id": "jobicy-082d4c23f5f5",
+    "title": "General Counsel",
+    "company": "Canonical",
+    "location": "EMEA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "We are hiring a General Counsel, reporting to the Chief Operating Officer (COO). This role leads Canonical’s global Legal and Compliance function. This is a unique opportunity for an exceptional and commercially-minded senior lawyer to lead the legal and compliance function of a profitable, fast-growing technology company that is privately held with the intention to&hellip;",
+    "required_skills": [
+      "legal & compliance"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/157768-general-counsel-2",
+    "date_posted": "2026-10-29"
+  },
+  {
+    "id": "jobicy-09e44d52718e",
+    "title": "Engineering Manager, Architecture Engineering: Async",
+    "company": "GitLab",
+    "location": "Poland,  UK",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
+    "required_skills": [
+      "devops & infrastructure"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/157766-engineering-manager-architecture-engineering-async",
+    "date_posted": "2026-10-29"
+  },
+  {
+    "id": "jobicy-8a8c3433bd76",
+    "title": "Senior Product Marketing Manager | UK | Remote",
+    "company": "Grafana Labs",
+    "location": "UK",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving&hellip;",
+    "required_skills": [
+      "marketing & sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/157765-senior-product-marketing-manager-uk-remote",
+    "date_posted": "2026-10-29"
+  },
+  {
+    "id": "jobicy-b7d0fc3a89fc",
+    "title": "Ads Quality Rater - Bulgarian (Bulgaria)",
+    "company": "Welo Global",
+    "location": "Bulgaria",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Welo Data is an award-winning localization and data transformation company. We run one of the world’s largest Ads Rating Programs and we want you to join! As an Ads Quality Rater, you will review and grade internet advertisements to help shape how ads are delivered to the end users. In other words, you’ll tell the&hellip;",
+    "required_skills": [
+      "qa & testing"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/157764-ads-quality-rater-bulgarian-bulgaria-2",
+    "date_posted": "2026-10-29"
+  },
+  {
+    "id": "jobicy-d8351b9ce7c3",
+    "title": "Senior Data Analyst (MedTech)",
+    "company": "YipitData",
     "location": "USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Toast creates technology to help restaurants and local businesses succeed in a digital world, helping business owners operate, increase sales, engage customers, and keep employees happy. The Enterprise Data Solutions (EDS) team at Toast is on a mission to deliver a trusted, scalable, and governed data foundation that empowers every team to make decisions with&hellip;",
+    "description": "About Us: YipitData is the leading market research and analytics firm for the disruptive economy and most recently raised $475M from The Carlyle Group at a valuation of over $1B. Every day, our proprietary technology analyzes billions of alternative data points to uncover actionable insights across sectors like software, AI, cloud, e-commerce, ridesharing, and payments.&hellip;",
     "required_skills": [
-      "product & operations"
+      "data science & analytics"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157640-associate-product-manager-data-governance",
-    "date_posted": "2026-10-28"
+    "url": "https://jobicy.com/jobs/157762-senior-data-analyst-medtech",
+    "date_posted": "2026-10-29"
   },
   {
-    "id": "jobicy-6f99fd69a480",
-    "title": "Sr. Product Manager",
-    "company": "AlertMedia",
+    "id": "jobicy-60b73b0e8552",
+    "title": "Solutions Architect - Strategic High Tech",
+    "company": "Databricks",
     "location": "USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Do work that matters. At AlertMedia, we help organizations protect their people, operations, and brand. Our modern Risk Intelligence and Response platform empowers teams to detect emerging threats, assess impact, and respond with confidence. We believe building resilience should be simpler—and it starts with bringing critical information and workflows together in one unified platform. Our&hellip;",
+    "description": "While candidates in the listed location(s) are encouraged for this role, candidates in other locations will be considered. #LI-REMOTE As a Strategic Solutions Architect on the Digital Natives team, you will shape the future of the big data landscape of one of the largest global tech companies by working with the most sophisticated data engineering&hellip;",
     "required_skills": [
-      "product & operations"
+      "software engineering"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157639-sr-product-manager",
-    "date_posted": "2026-10-28"
+    "url": "https://jobicy.com/jobs/157761-solutions-architect-strategic-high-tech",
+    "date_posted": "2026-10-29"
+  },
+  {
+    "id": "jobicy-cf4ac707bc52",
+    "title": "Senior Data Analyst",
+    "company": "YipitData",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Us: YipitData is the leading market research and analytics firm for the disruptive economy and most recently raised $475M from The Carlyle Group at a valuation of over $1B. Every day, our proprietary technology analyzes billions of alternative data points to uncover actionable insights across sectors like software, AI, cloud, e-commerce, ridesharing, and payments.&hellip;",
+    "required_skills": [
+      "data science & analytics"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/157759-senior-data-analyst-3",
+    "date_posted": "2026-10-29"
+  },
+  {
+    "id": "jobicy-a0f68e131d1e",
+    "title": "Solutions Architect - Retail, Consumer Goods, Travel & Hospitality",
+    "company": "Databricks",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "FEQ327R526 Solutions Architect (L5) The Role As a Solutions Architect, you will lead the technical strategy for your customers — owning architecture discussions, driving platform adoption, and serving as a trusted advisor to customer technical leads and architects. You combine deep technical expertise with strategic thinking to position Databricks as the foundation of your customers’&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/157758-solutions-architect-retail-consumer-goods-travel-hospitality",
+    "date_posted": "2026-10-29"
+  },
+  {
+    "id": "jobicy-ecafa8fcaf29",
+    "title": "Senior Account Executive - West",
+    "company": "Garner Health",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "What you’ll be part of Garner is on a mission to transform the U.S. healthcare system — and we’re the only proven player doing exactly that. We partner with employers to redesign how healthcare works: applying 550+ proprietary clinical metrics across 80+ specialties to a dataset of 320M+ patients to identify the best-performing doctors, then&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/157757-senior-account-executive-west",
+    "date_posted": "2026-10-29"
+  },
+  {
+    "id": "jobicy-7e138855be78",
+    "title": "Senior Business Development Executive - Quant Sales",
+    "company": "YipitData",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Us: YipitData is the leading market research and analytics firm for the disruptive economy and most recently raised $475M from The Carlyle Group at a valuation of over $1B. Every day, our proprietary technology analyzes billions of alternative data points to uncover actionable insights across sectors like software, AI, cloud, e-commerce, ridesharing, and payments.&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/157756-senior-business-development-executive-quant-sales",
+    "date_posted": "2026-10-29"
+  },
+  {
+    "id": "jobicy-ccd7fefd059d",
+    "title": "Solutions Architect - Public Sector (SLED)",
+    "company": "Databricks",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "FEQ427R58 Mission Solutions Architects at Databricks lead the growth of the Databricks Unified Analytics Platform. As a team, we have expertise in cloud platforms, data engineering, data analytics, and data science and machine learning. As a member of our team, you will exercise and develop expertise in those areas, using open-source projects such as Apache&hellip;",
+    "required_skills": [
+      "data science & analytics"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/157755-solutions-architect-public-sector-sled",
+    "date_posted": "2026-10-29"
+  },
+  {
+    "id": "jobicy-a8b979284fb3",
+    "title": "Senior Account Executive - Southwest",
+    "company": "Garner Health",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "What you’ll be part of Garner is on a mission to transform the U.S. healthcare system — and we’re the only proven player doing exactly that. We partner with employers to redesign how healthcare works: applying 550+ proprietary clinical metrics across 80+ specialties to a dataset of 320M+ patients to identify the best-performing doctors, then&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/157754-senior-account-executive-southwest",
+    "date_posted": "2026-10-29"
+  },
+  {
+    "id": "jobicy-4b2928a42528",
+    "title": "Senior Business Development Executive",
+    "company": "YipitData",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Us: YipitData is the leading market research and analytics firm for the disruptive economy and most recently raised $475M from The Carlyle Group at a valuation of over $1B. Every day, our proprietary technology analyzes billions of alternative data points to uncover actionable insights across sectors like software, AI, cloud, e-commerce, ridesharing, and payments.&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/157753-senior-business-development-executive",
+    "date_posted": "2026-10-29"
+  },
+  {
+    "id": "jobicy-9b406c66e515",
+    "title": "Solutions Architect - Manufacturing",
+    "company": "Databricks",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "FEQ427R286 We are looking for experienced pre-sales professionals with a proven track record of helping large enterprises become more data-driven. Working with the Enterprise Account Executive (AE), the Solutions Architect defines and directs the technical strategy for our largest and important accounts, leading to more widespread use of our products and wider and deeper adoption&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/157752-solutions-architect-manufacturing",
+    "date_posted": "2026-10-29"
+  },
+  {
+    "id": "remotive-fca984526022",
+    "title": "Senior Back-end Developer",
+    "company": "Lemon.io",
+    "location": "Europe, USA, Canada, Australia, Singapore, Mexico, Saudi Arabia",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired engineers through us. Currently, we have a few open positions from our client, an AI-native cloud company. AI teams use its platform to run inference on open-source models, fine-tune them and rent large GPU clusters. The fleet is set to grow about 10×; the team won't. That's where you come in. Who they’re looking for : Site Reliability Engineer, Senior Back-end Developer with Golang, Senior Back-end Developer with Python, AI Infrastructure Engineer, Distributed Storage Engineer, DevOps. Requirements for Senior Back-end Developers with Golang 5+ years of commercial experience with Golang 2+ years of commercial experience with Kubernetes 1+ year of experience in AI-assisted coding Experience with distributed systems Requirements for Senior Back-end Developers with Python 5+ years of commercial experience with Python 2+ years of commercial experience with Linux 2+ years of commercial experience with Kubernetes 1+ year of experience in AI-assisted coding Experience with distributed systems You own problems end-to-end: you spot the issue, design and build the solution, and ship it to production You can show the business impact of your work with concrete results (e.g., faster processing, lower costs, more users, fewer incidents) Advanced English: you discuss business tasks, explain your decisions, raise issues early, and present yourself and your results well on client calls You work full-time remotely and deliver without supervision You onboard quickly and start shipping in your first weeks Other job listings you can check using the link . You will be redirected to the career page with offers from the client on our website. How it works Apply and complete your profile Verify your role Once approved, we match you with a project. Ready? Apply! NOT YOUR TECH STACK? We're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, Enterprise Software Engineering, React &amp; Python, React &amp; Golang, Golang, React &amp; Java, React &amp; Ruby, Ruby, PHP &amp; Vue, Vue &amp; Node.js, React &amp; .NET, Android &amp; iOS, iOS &amp; Swift, Flutter &amp; Firebase, Solutions Engineer, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular &amp; Node.js, Vue &amp; .NET, Python &amp; Vue, DevOps, MLOps, Data Science, Angular &amp; PHP, Angular &amp; .NET, Symfony &amp; React, Symfony &amp; Vue, Symfony &amp; An gular, Python, Symfony &amp; JavaScript &amp; Next.js &amp; TypeScript, Data Analysis, React &amp; PHP, Data Engineering, Project Management, Product Management, QA Automation, QA Manual, Embedded Software Engineering, React Native &amp; Node, React Native &amp; React, React Native &amp; Ruby, React Native &amp; Python, WordPress, Android, Angular, Python &amp; Node, React &amp; Node.js, Node &amp; TypeScript, Java &amp; Spring, Svelte &amp; Python, Svelte &amp; Node.js, Svelte &amp; TypeScript, Rust, Shopify &amp; JavaScript, Vue &amp; Nuxt, PHP &amp; Laravel, UI/UX Design, Animation, Graphic Design, React &amp; Node &amp; React Native, .NET &amp; C#, Electron, Scala, C++, Unreal Engine &amp; C++, Python &amp; LLM, Unity, or Machine Learning Engineering and more. Reach out and we'll match you. We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire. We work with developers from 75+ countries across Europe, Latin America, North America (the U.S. and Canada), selected countries in Asia (Japan, Singapore, South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, Saudi Arabia, and Israel), Oceania (Australia, New Zealand, and Papua New Guinea), and Africa (including Morocco and South Africa).",
+    "required_skills": [
+      ".net",
+      "android",
+      "c",
+      "c#",
+      "c++",
+      "cloud",
+      "data science",
+      "golang",
+      "ios",
+      "java",
+      "javascript",
+      "kubernetes",
+      "node.js",
+      "php",
+      "python",
+      "react",
+      "ruby/rails",
+      "scala",
+      "shopify",
+      "swift",
+      "ui/ux",
+      "wordpress",
+      "blockchain",
+      "ai/ml",
+      "automation",
+      "project management",
+      "react native",
+      "rust",
+      "unity",
+      "electron",
+      "spring",
+      "laravel",
+      "ethereum",
+      "graphic design",
+      "typescript",
+      "distributed systems",
+      "angular",
+      "firebase",
+      "data engineering",
+      "site reliability",
+      "symfony",
+      "linux/unix",
+      "next.js",
+      "infrastructure",
+      "flutter",
+      "gpu"
+    ],
+    "requirements": [],
+    "source": "Remotive",
+    "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135",
+    "date_posted": "2026-10-27"
   },
   {
     "id": "remotive-2a4e48893c49",
@@ -1210,146 +1272,237 @@
     "date_posted": "2026-09-30"
   },
   {
-    "id": "arbeitnow-b3b390ec2532",
-    "title": "Media Buyer (m/w/d) Meta & Google",
-    "company": "Strehlow Media GmbH",
-    "location": "Berlin",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Wir wachsen und suchen keine Unterstützung – sondern eine starke Persönlichkeit, die Verantwortung übernimmt und Kunden eigenständig nach vorne bringt. Als Media Buyer (m/w/d) für die Plattformen Meta & Google wirst Du Teil unserer Performance-Marketing-Agentur in Kiel oder arbeitest Remote . Unser Fokus liegt auf dem Aufbauen und Skalieren von Online-Shops und der Lead Generierung. Wir arbeiten als Boutique Agentur, heißt, wir arbeiten nicht eine Anzahl an Kunden ab, sondern haben ausgewählte Kunden, für diese geben wir alles und nehmen uns die Zeit. Wenn Du Dich für Social Media, Strategie und starke Creatives begeisterst, bist Du bei uns genau richtig. Die wöchentliche Arbeitszeit beträgt 40 Stunden. Aufgaben Du entwickelst und setzt nachhaltige Paid Social Strategien und Kampagnen auf Meta und Google und im besten Fall auch auf TikTok und LinkedIn um. Du verantwortest ein mind. 6-stelliges monatliches Marketing Budget und triffst eigenständig Entscheidungen Als Verstärkung unseres Teams hilfst Du bei der Planung und Umsetzung aller Performance-Marketing-Aktivitäten, sowie bei der Umsatzsteigerung und Kundengewinnung für unsere Kund*innen. Du entwickelst Konzepte und erstellst Briefings für Creatives für unser Brand & Design Team sowie Content Creator*innen. Du entwickelst beratend, strategisch und nachhaltig unsere Kunden. Sie sind Dein Daily Business, indem Du eigenverantwortlich die Qualitätssicherungs- und Monitoringprozesse steuerst und daraus die richtigen Handlungsempfehlungen ableitest. Du bringst proaktiv neue Ansätze und Ideen ein, um bestehende Kanäle und Kund*innen weiter auszubauen und neue Kanäle zu erschließen. Qualifikation Mind. 2 Jahre Berufserfahrung im Performance Marketing mit Schwerpunkt Paid Social und mind. 100.000€ Adspend im Jahr verwaltet. Du hast Erfahrung im Creative Strategy und Direct Response Ads Du schaffst es, Dich schnell in neue Themengebiete einzuarbeiten, bist kommunikationsstark, handelst in hohem Maße kundenorientiert und verfügst über sehr gute analytische und konzeptionelle Fähigkeiten Du arbeitest gerne Hands-on und setzt neue Maßstäbe , um die Qualität Deiner Arbeit stets zu gewährleisten Du besitzt neben sicheren Deutsch- auch gute Englischkenntnisse „No Bullshit!“, du bist in der Lage auch großen Kunden Ideen zu pitchen und diese zu führen. Benefits Diese Benefits sind für uns selbstverständlich: Attraktive Vergütung: Je nach Skillset und Erfahrung zahlen wir dir ein Jahresgehalt von mind. 42.000€. Mind. 2 Teamevents/Jahr + Workation Steuerfreie Sachbezüge und Corporate Benefits Du arbeitest selbstständig und eigenverantwortlich von Zuhause aus. Alternativ in unserem zentralen Büro in Kiel Freie Zeiteinteilung: Hobbys, Familie, etc. sind genauso wichtig. Arbeite so, wie es für Dich am besten passt 28 Tage Urlaub: Pro Jahr Unternehmensangehörigkeit gibt es einen Tag mehr Du bekommst für Deinen Arbeitsplatz alles, was Du brauchst: Macbook, Monitor, Firmenhandy etc. Du kannst ihn Dir selbst zusammenstellen, damit du effektiv arbeiten kannst. Ein hoch motiviertes Team, das jeden Tag Vollgas gibt und mit der gleichen Motivation sich die Zeit nimmt, Dir all ihr Wissen weiterzugeben Kurze Kommunikationswege über Slack & Co. Enge Zusammenarbeit mit den Plattformen Meta & TikTok Wir bilden Dich zum Experten für Social Media Advertising aus und stetig weiter. Zusätzlich hast du mind. 1.000€ Weiterbildungsbudget pro Jahr. Teilnahme an fachbezogenen Konferenzen, Meetups und Kursen zur Weiterbildung - ohne geht es einfach nicht Dir fehlt was? Sprich es bitte an! Klingt spannend? Ist es auch! Auf dich wartet ein Team aus 13 Personen die alle den Anspruch haben, das Maximum für jeden kunden aus den Accounts rauszuholen. Haben wir Dein Interesse geweckt? Dann bewirb Dich jetzt ganz unkompliziert bei uns. Wir freuen uns auf Deine Bewerbung. Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "media planning",
-      "purchasing"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/strehlow-media-gmbh/media-buyer-meta-google-berlin-118906",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-be7b9556cc76",
-    "title": "Senior oder Mid-Level Performance Marketing Manager (m/w/d) Meta & Google",
-    "company": "Strehlow Media GmbH",
-    "location": "Kiel",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Wir wachsen und suchen keine Unterstützung – sondern eine starke Persönlichkeit, die Verantwortung übernimmt und Kunden eigenständig nach vorne bringt. Als Senior oder Mid-Level Performance Marketing Manager (m/w/d) für die Plattformen Meta & Google wirst Du Teil unserer Performance-Marketing-Agentur in Kiel oder arbeitest Remote . Unser Fokus liegt auf dem Aufbauen und Skalieren von Online-Shops und der Lead Generierung. Wir arbeiten als Boutique Agentur, heißt, wir arbeiten nicht eine Anzahl an Kunden ab, sondern haben ausgewählte Kunden, für diese geben wir alles und nehmen uns die Zeit. Wenn Du Dich für Social Media, Strategie und starke Creatives begeisterst, bist Du bei uns genau richtig. Die wöchentliche Arbeitszeit beträgt 40 Stunden. Wenn du Lust hast und qualifiziert bist, kann diese Stelle auch die Funktion des Teamleads übernehmen. Aufgaben Du entwickelst und setzt nachhaltige Paid Social Strategien und Kampagnen auf Meta, Google und im besten Fall auch auf TikTok und LinkedIn um. Du verantwortest ein mind. 6-stelliges monatliches Marketing Budget und triffst eigenständig Entscheidungen Als Verstärkung unseres Teams hilfst Du bei der Planung und Umsetzung aller Performance-Marketing-Aktivitäten, sowie bei der Umsatzsteigerung und Kundengewinnung für unsere Kund*innen. Du entwickelst Konzepte und erstellst Briefings für Creatives für unser Brand & Design Team sowie Content Creator*innen. Du entwickelst beratend, strategisch und nachhaltig unsere Kunden. Sie sind Dein Daily Business, indem Du eigenverantwortlich die Qualitätssicherungs- und Monitoringprozesse steuerst und daraus die richtigen Handlungsempfehlungen ableitest. Du bringst proaktiv neue Ansätze und Ideen ein, um bestehende Kanäle und Kund*innen weiter auszubauen und neue Kanäle zu erschließen. Qualifikation Mind. 3 Jahre Berufserfahrung im Performance Marketing mit Schwerpunkt Paid Social und mind. 100.000€ Adspend im Jahr verwaltet. Du hast Erfahrung im Creative Strategy und Direct Response Ads Du schaffst es, Dich schnell in neue Themengebiete einzuarbeiten, bist kommunikationsstark, handelst in hohem Maße kundenorientiert und verfügst über sehr gute analytische und konzeptionelle Fähigkeiten Du arbeitest gerne Hands-on und setzt neue Maßstäbe , um die Qualität Deiner Arbeit stets zu gewährleisten Du besitzt neben sicheren Deutsch- auch gute Englischkenntnisse „No Bullshit!“, du bist in der Lage auch großen Kunden Ideen zu pitchen und diese zu führen. Benefits Diese Benefits sind für uns selbstverständlich: Attraktive Vergütung: Je nach Skillset und Erfahrung zahlen wir dir ein Jahresgehalt von mind. 42.000€. Mind. 2 Teamevents/Jahr + Workation Steuerfreie Sachbezüge und Corporate Benefits Du arbeitest selbstständig und eigenverantwortlich von Zuhause aus. Alternativ in unserem zentralen Büro in Kiel Freie Zeiteinteilung: Hobbys, Familie, etc. sind genauso wichtig. Arbeite so, wie es für Dich am besten passt 28 Tage Urlaub: Pro Jahr Unternehmensangehörigkeit gibt es einen Tag mehr Du bekommst für Deinen Arbeitsplatz alles, was Du brauchst: Macbook, Monitor, Firmenhandy etc. Du kannst ihn Dir selbst zusammenstellen, damit du effektiv arbeiten kannst. Ein hoch motiviertes Team, das jeden Tag Vollgas gibt und mit der gleichen Motivation sich die Zeit nimmt, Dir all ihr Wissen weiterzugeben Kurze Kommunikationswege über Slack & Co. Enge Zusammenarbeit mit den Plattformen Meta & TikTok Wir bilden Dich zum Experten für Social Media Advertising aus und stetig weiter. Zusätzlich hast du mind. 1.000€ Weiterbildungsbudget pro Jahr. Teilnahme an fachbezogenen Konferenzen, Meetups und Kursen zur Weiterbildung - ohne geht es einfach nicht Dir fehlt was? Sprich es bitte an! Klingt spannend? Ist es auch! Auf dich wartet ein Team aus 13 Personen die alle den Anspruch haben, das Maximum für jeden kunden aus den Accounts rauszuholen. Haben wir Dein Interesse geweckt? Dann bewirb Dich jetzt ganz unkompliziert bei uns. Wir freuen uns auf Deine Bewerbung. Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "online marketing"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/strehlow-media-gmbh/senior-oder-mid-level-performance-marketing-manager-meta-google-kiel-196023",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-c7d27afb0e9f",
-    "title": "Werkstudent (m/w/d) – Finance & Beratung (unternehmerisch, leistungsbasiert)",
-    "company": "Kevin Kehr",
+    "id": "arbeitnow-a584f6561e85",
+    "title": "Produktmanager (m/w/d) in Hamburg oder Remote",
+    "company": "DEMV Systems Gmbh",
     "location": "Homeoffice",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Du studierst und willst mehr als einen „Nebenjob“? Du willst Verantwortung, klare Ziele und ein Umfeld, in dem Leistung zählt? Dann ist diese Werkstudentenrolle dein Einstieg in die Finanzberatung, mit strukturiertem Onboarding, Coaching und einem klaren Weg in ein Trainee-Programm. Diese Rolle ist unternehmerisch geprägt und bietet dir die Möglichkeit, dich aktiv einzubringen, Verantwortung zu übernehmen und dich fachlich wie persönlich weiterzuentwickeln. Leistung und Eigeninitiative spielen dabei eine zentrale Rolle, gleichzeitig wirst du durch strukturiertes Onboarding, Coaching und ein erfahrenes Team unterstützt. Sehr gute Deutschkenntnisse (C1+) sind erforderlich, da die Ausbildung, die Kommunikation im Team sowie die Perspektive Richtung IHK vollständig auf Deutsch stattfinden. Dein Aufgabenbereich Startphase (erste Wochen): Terminaufbau: Du vereinbarst Kundentermine (Telefon, Netzwerk, Leads) und baust eine saubere Pipeline auf. Prozesslernen: Du lernst Gesprächsleitfäden, Bedarfsermittlung, Nachbereitung und Dokumentationsstandards. Performance-Optimierung: Du arbeitest mit KPIs, bekommst Feedback und verbesserst systematisch deine Ergebnisse. Im weiteren Verlauf: Analyse &amp; Vorbereitung: Du unterstützt bei der Analyse von Kundensituationen und bereitest Beratungsunterlagen strukturiert vor. Kundenkontakt: Du begleitest Gespräche (je nach Stand), übernimmst Follow-ups und sorgst für klare nächste Schritte. Dokumentation &amp; Organisation: Du hältst Prozesse sauber, dokumentierst konsequent und stellst Verlässlichkeit sicher. Teamarbeit: Du arbeitest eng mit einem leistungsstarken Team und übernimmst Verantwortung für deine Aufgabenpakete. Das bieten wir dir Strukturierter Einstieg : Trainingsplan, Leitfäden, klare Standards Mentoring &amp; Coaching : regelmäßiges Feedback, klare Ziele Leistungsorientierte Vergütung (Erfolgslogik – du wirst für Output belohnt) Skalierbare Perspektive : Option auf Übernahme ins Trainee-Programm Remote möglich – eigenverantwortlich statt “nach Uhr” Team mit Performance-Kultur : klare Kommunikation, klare Ergebnisse Nichts für dich, wenn… du einen typischen Werkstudentenjob mit “ein paar Stunden nebenbei” suchst du Telefon/Terminaufbau vermeiden willst dein Deutsch unter C1 liegt du lieber Sicherheit als Entwicklung priorisierst Muss Immatrikuliert (Uni/FH) Deutsch mindestens C1 (mündlich &amp; schriftlich) Kommunikationsstärke, Verbindlichkeit, Zuverlässigkeit Eigeninitiative und strukturierte Arbeitsweise Lust auf Leistung und messbare Ergebnisse Wunsch Erste Erfahrung in Vertrieb, Service, Beratung, Sport-/Leistungskultur Find more English Speaking Jobs in Germany on Arbeitnow",
+    "description": "Der Deutsche Maklerverbund ist eine bundesweite Plattform sowie Einkaufs- und Interessengemeinschaft für Versicherungsmakler und Finanzvermittler, die ihren Mitgliedern sowohl stark wettbewerbsfähige Produkte, Courtagen und innovative Prozesse als auch Unabhängigkeit bietet. Mit Blick auf die Digitalisierung entwickeln wir die Maklersoftware Professional works und stellen sie unseren Mitgliedern zur Verfügung.&nbsp; Wir lösen damit das Problem des digitalen Rückstands in der Versicherungs- und Finanzwelt mit intelligenten Softwarelösungen, tragen zur Transparenz bei und verbessern die Kundenorientierung und Schnelligkeit in Beratungs- und Verwaltungsprozessen. Seit zehn Jahren wächst der Unternehmens-Umsatz jährlich um ca. 30 %. Die Kombination aus einem finanziell soliden Unternehmen und der Unternehmenskultur eines Start-Ups führt zu Kreativität und hoher Motivation bei den Mitarbeitern. Und unsere Kunden sind Makler und Vermittler, die unsere Visionen teilen. Nun suchen wir dich! Deine Aufgaben Du bist Ansprechperson in allen Belangen der Kooperation mit den Gesellschaften von Anbindung neuer Versicherer über Verhandlung der Courtage, Führen von Jahresgesprächen, Angebot von Marketingpaketen bis hin zur Verhandlung von Rabatten Du bist Ansprechperson für Makler in Fachfragen zu den Sparten Kranken, Leben, SHUK und Gewerbe Du verhandelst mit den Gesellschaften attraktive Deckungskonzepte und Sonderaktionen Du bist verantwortlich für den Ausbau und die Optimierung unserer Tarifierungsseite Du wirkst maßgeblich bei der Umsetzung von saisonalen und laufenden Vertriebsaktionen und (öffentlichen) Veranstaltungen mit Du unterstützt unser Innendienst-Team bei Fachfragen, um die Mitglieder bestmöglich zu servicieren Du arbeitest eng mit unseren Produkt-Teams zusammen und bringst dein Know-how konstruktiv ein Du übernimmst das Qualitätsmanagement im Bereich der Schadenquoten Du bleibst auf dem Laufenden und beobachtest den Markt, um neue Produkte und neue Gesellschaften auf die Plattform zu holen Starker Fokus auf die Endkundenperspektive: Du arbeitest daran, Anliegen und Themen aus der Endkundenbetreuung gemeinsam mit den Versicherungsgesellschaften zu optimieren, Prozesse und Abläufe zu vereinfachen bzw. zu verschlanken und diese mithilfe von Technologie und KI weiter zu automatisieren Wir wünschen uns Sehr gute Kommunikationsfähigkeiten und Selbstorganisationsfähigkeiten Hohe Eigenmotivation, überdurchschnittlicher Qualitätsanspruch und die Lust, etwas zu bewegen gute Auffassungsgabe, um komplexe, digitale Themen schnell zu erfassen Idealerweise hast du bereits bei einem Maklerpool oder professionellem Maklerhaus gearbeitet und bringst sehr gute Fachkenntnisse in den Sparten Kranken, Leben, SHUK oder Gewerbe mit Ausgeprägte Verhandlungsstärke und Interesse an kontinuierlicher Weiterbildung Benefits Einen unbefristeten Job in einem soliden und stark wachsenden Unternehmen Eine fixe, attraktive Vergütung im Angestelltenverhältnis Eine offene und sympathische Unternehmenskultur mit reiner Duz-Kultur und einem freundschaftlichen Miteinander Flache Hierarchien und interessante Entwicklungsmöglichkeiten und -perspektiven Eine fundierte und individuelle Einarbeitung Flexible Arbeitszeiten und Home-Office Mitarbeiter-Events Eine vielseitige und interessante Tätigkeit mit viel Gestaltungsfreiraum Agiles Arbeiten Einen modernen Arbeitsplatz Zahlreiche Mitarbeiter-Rabatte sowie Fahrtkostenzuschuss und bAV-Zuschuss Wenn dich diese Position anspricht und du Lust hast, gemeinsam mit uns die Zukunft der Versicherungs- und Finanzwelt aktiv mitzugestalten, freuen wir uns auf deine Bewerbung! Find Jobs in Germany on Arbeitnow",
     "required_skills": [
+      "alle",
       "remote"
     ],
     "requirements": [],
     "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/kevin-kehr/remote-werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-137491",
+    "url": "https://www.arbeitnow.com/jobs/companies/demv-systems-gmbh/produktmanager-in-hamburg-oder-remote-195394",
     "date_posted": null
   },
   {
-    "id": "arbeitnow-4e10c0b06503",
-    "title": "Team Lead Accounting (m/w/d)",
-    "company": "Interlead GmbH",
+    "id": "arbeitnow-dfa24fe64fe1",
+    "title": "Senior Software Engineer Ruby on Rails 100 % remote (m/w/d)",
+    "company": "easybill GmbH",
     "location": "Berlin",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Was wir suchen Jedes Unternehmen braucht laufend neue Kunden – und genau dieses Problem lösen wir. Mit Interlead bauen wir die #1 Plattform für Leads, Termine und Aufträge und machen die Kundengewinnung für unsere Partner damit einfacher, transparenter und planbarer. Zum nächstmöglichen Zeitpunkt suchen wir einen Team Lead Accounting (m/w/d) zur Verstärkung unseres Finance-Teams – in V ollzeit oder Teilzeit und mit der Möglichkeit, hybrid oder remote zu arbeiten. Das sind deine Aufgaben Du übernimmst gemeinsam mit unserem Head of Finance die Gesamtverantwortung für die laufende Finanzbuchhaltung . Du erstellst eigenständig Monats-, Quartals- und Jahresabschlüsse inDATEV. Du betreust und optimierst unsere Vorsysteme (u. a. easybill und Finway) und sorgst für reibungslose Schnittstellen zu DATEV . Du entwickelst unsere buchhalterischen Prozesse kontinuierlich weiter und standardisierst sie, mit Fokus auf Digitalisierung , Effizienz und aussagekräftiges Reporting. Du überwachst die Offenen Posten und steuerst sowie optimierst unser Mahnwesen. Du arbeitest eng mit unserem Head of Finance zusammen und bist A nsprechperson für Wirtschaftsprüfer, Steuerberater sowie interne Fachbereiche. Du erstellst Finanzreports und analysierst relevante Kennzahlen als Entscheidungsgrundlage für Management und Geschäftsführung. Perspektivisch übernimmst Du die fachliche Teamleitung im Accounting. Dank deiner Expertise erreichst du folgende Meilensteine bei uns 0–3 Monate: Du übernimmst eigenverantwortlich erste Bereiche der Finanzbuchhaltung und lernst unsere gesamte Systemlandschaft, von easybill über Finway bis DATEV umfassend kennen. 4–6 Monate: Du verantwortest die Monatsabschlüsse in DATEV, standardisierst zentrale Buchhaltungsprozesse und entwickelst diese kontinuierlich weiter. 7–12 Monate: Du übernimmst die fachliche Führung des Accounting-Teams, steuerst die Monats-, Quartals- und Jahresabschlüsse sowie Audits und entwickelst das Accounting zu einer skalierbaren Organisation für nachhaltiges Wachstum weiter. Das bringst du mit Du hast eine abgeschlossene kaufmännische Ausbildung , z. B. als Steuerfachangestellte, oder eine Weiterbildung zum/zur Bilanzbuchhalter (IHK). Du bringst mehrjährige Berufserfahrung in der Finanzbuchhaltung mit, idealerweise in einem digital aufgestellten mittelständischen Unternehmen oder einem Scale-up. Du verfügst über sehr gute Kenntnisse in DATEV und hast Erfahrung im Umgang mit Vorsystemen wie easybill, Finway oder vergleichbaren Tools. Du kennst die Grundsätze ordnungsmäßiger Buchführung (GoB) und erstellst Monats- und Jahresabschlüsse routiniert und eigenständig. Du gehst sicher mit MS Excel um und hast Freude daran, Prozesse zu optimieren und Digitalisierung aktiv voranzutreiben. Du arbeitest strukturiert, eigenverantwortlich und präzise und überzeugst durch ein hohes Maß an Zuverlässigkeit. Du kommunizierst klar, arbeitest gerne im Team und m öchtest perspektivisch fachliche Verantwortung übernehmen. Das bieten wir dir Ein dynamisches Marketing- und Tech-Umfeld sowie die Möglichkeit, gemeinsam “The Lead Company” aufzubauen. Ein riesiger Markt und zahlreiche interne Wachstumsmöglichkeiten – wir lösen das größte Problem unserer Partner: die Automatisierung ihrer Neukundengewinnung. Volle Flexibilität im Arbeitsort (remote, im Bremer Headquarter oder nach Absprache auch aus dem Ausland). Volle Flexibilität in der Arbeitszeit – du gestaltest deine Arbeitszeiten individuell mit deinem Team. 30 Tage Urlaub pro Jahr + die Möglichkeit, jederzeit unbezahlten Urlaub zu nehmen. Zuschuss zur betrieblichen Altersvorsorge (die “Interlead‑Rente”). Jährliche Teamevents wie Sommerfest & Weihnachtsfeier. Agiles Arbeitsumfeld – moderne Tools wie Slack, Monday, Notion, Google Workspace und OKRs/Scrum unterstützen dich bei der täglichen Arbeit. Zuschuss fürs Fitnessstudio (über Urban Sports Club oder E‑Gym Wellpass). Schnelle Entscheidungen – wir sind 100 % bootstrapped, profitabel und unabhängig von Investoren. Eine offene Feedback‑Kultur und regelmäßige interne Trainings. Transparente Kommunikation durch monatliche All‑Hands‑Meetings , wöchentlichen Newsletter und feste Team‑Updates. Im Headquarter in der Bremer Überseestadt erwarten dich ergonomische Arbeitsplätze, großartiger Kaffee & Espresso, Getränke und Grillabende. Für Home‑Office‑Mitarbeitende: monatliche Home‑Office‑Pauschale von 20 €. Bikeleasing, lease dein Wunschfahrrad oder E-Bike zu attraktiven Konditionen. Das sind unsere Werte Fail Fast: Wir leben eine ausgeprägte Testing- und Fehlerkultur. Wir sind pragmatisch, mutig und fühlen uns mit Veränderung wohl. Ergebnisse: Wir arbeiten flexibel, aber verlässlich. Bei uns steht Freiheit in Einklang mit Ergebnisorientierung und Eigenverantwortung. Vertrauen: Wir gehen offen mit Zahlen, Stärken und Schwächen um und machen das, was für die Firma richtig ist („Ego zurück“). Find Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "finance"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/interlead-gmbh/team-lead-accounting-berlin-277960",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-bf31259df103",
-    "title": "DevOps Engineer (m/w/d)",
-    "company": "Interlead GmbH",
-    "location": "Berlin",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Was wir suchen Jedes Unternehmen braucht laufend neue Kunden – und genau dieses Problem lösen wir. Mit Interlead bauen wir die #1 Plattform für Leads, Termine und Aufträge und machen die Kundengewinnung für unsere Partner damit einfacher, transparenter und planbarer. Zum nächstmöglichen Zeitpunkt suchen wir daher einen DevOps Engineer (m/w/d) für unser IT Team, zu 100 % aus dem Home-Office (Deutschland) oder bei uns im Bremer Office! Das sind deine Aufgaben Du überwachst und betreust unsere Server Du kümmerst dich um das interne Monitoring Du bist verantwortlich für die Weiterentwicklung und Wartung der IT-Infrastruktur Du verwaltest unsere Infrastruktur als Code (z. B. mit Terraform, Ansible) Du integrierst Security-Checks direkt in unsere CI/CD-Pipelines (Shift-Left-Ansatz) und entwickelst diese kontinuierlich weiter Du führst regelmäßige Schwachstellen-Scans und Penetrationstests durch Du kümmerst dich um das Secrets-Management und die sichere Verwaltung von Zugangsdaten Du sorgst für die Einhaltung von Sicherheitsstandards und Compliance-Vorgaben (z. B. ISO 27001, DSGVO) Du betreibst Threat Modeling und bewertest Sicherheitsrisiken frühzeitig Du dokumentierst Prozesse und Infrastruktur Du beobachtest aktuelle Trends und bringst neue Tools und Best Practices ein Du berätst Kolleg:innen bei sicherheitsrelevanten Fragestellungen Dank deiner Expertise erreichst du folgende Meilensteine bei uns 0-3 Monate: Du hast unser Team, unsere Prozesse und unsere IT-Infrastruktur kennengelernt Du hast dich in unsere bestehende Server-, Monitoring- und CI/CD-Landschaft eingearbeitet Du hast einen Überblick über unsere aktuellen Sicherheitsmaßnahmen und erste Optimierungspotenziale identifiziert Du übernimmst eigenständig erste Aufgaben im Tagesbetrieb und Monitoring 4-6 Monate: Du hast erste Security-Checks in unsere CI/CD-Pipelines integriert (Shift-Left) Du hast Verbesserungen im Monitoring und Alerting umgesetzt Du hast bei der Weiterentwicklung unserer Infrastruktur aktiv mitgewirkt Du hast erste Schwachstellen-Scans durchgeführt und Maßnahmen abgeleitet 7-12 Monate: Du verantwortest eigenständig zentrale Teile unserer IT-Infrastruktur Du hast Sicherheitsstandards und Best Practices im Team etabliert Du treibst die Automatisierung von Prozessen eigenverantwortlich voran Du bist zentrale:r Ansprechpartner:in für sicherheitsrelevante Fragestellungen Du bringst eigene Ideen ein und gestaltest die Weiterentwicklung unserer DevSecOps-Kultur aktiv mit Das bringst du mit Du hast eine abgeschlossene Ausbildung oder ein Studium im IT-Bereich (z. B. Informatik, Wirtschaftsinformatik) – oder vergleichbare praktische Erfahrung Du hast fundierte Kenntnisse in der Administration von Linux-Servern Du bist vertraut mit Container-Technologien (Docker, Kubernetes) und deren sicherem Betrieb Du hast Erfahrung mit Infrastructure-as-Code-Tools (z. B. Terraform, Ansible) Du hast Erfahrung mit Cloud-Plattformen (z. B. AWS, Azure, GCP) Du hast Kenntnisse in Monitoring- und Logging-Tools (z. B. Prometheus, Grafana, ELK-Stack) Du bringst ein gutes Verständnis für Netzwerke, Firewalls und gängige Sicherheitskonzepte mit Das bieten wir dir Diese Stelle kann zu 100% im Home Office (aus Deutschland) erledigt werden. Du arbeitest in einem erfahrenem Senior-Team, das schnell, lean und ohne unnötige Bürokratie agiert. Wir setzen konsequent auf modernste Technologien und geben dir den Freiraum, Neues auszuprobieren. Kurze Entscheidungswege und flache Hierarchien – deine Ideen landen nicht in der Schublade, sondern direkt in der Umsetzung. Du übernimmst von Anfang an Verantwortung und gestaltest aktiv mit. Flexible Arbeitszeiten, die sich an Ergebnissen orientieren – nicht an Anwesenheit. Mitarbeit an spannenden, technologisch anspruchsvollen Projekten Moderne Hardware deiner Wahl Das sind unsere Werte Fail Fast: Wir leben eine ausgeprägte Testing- und Fehlerkultur. Wir sind pragmatisch, mutig und fühlen uns mit Veränderung wohl. Ergebnisse: Wir arbeiten flexibel, aber verlässlich. Bei uns steht Freiheit in Einklang mit Ergebnisorientierung und Eigenverantwortung. Vertrauen: Wir gehen offen mit Zahlen, Stärken und Schwächen um und machen das, was für die Firma richtig ist (\"Ego zurück\"). Find more English Speaking Jobs in Germany on Arbeitnow",
+    "description": "Nicht jede gute Software steht im Rampenlicht. Aber sie sorgt dafür, dass Unternehmen jeden Tag zuverlässig arbeiten können. Bei easybill bauen wir Software, die über 27.000 Unternehmen dabei unterstützt, Rechnungen, Prozesse und Integrationen einfacher, schneller und automatisierter zu steuern. E-Rechnung wird Pflicht. E-Commerce wird komplexer. KI verändert, wie gute Software entsteht. Und genau hier setzen wir an. Für unsere E-Commerce-Anwendung easybill Connect suchen wir einen Senior Software Engineer Ruby on Rails (w/m/d) , der nicht nur Code schreibt, sondern Verantwortung übernimmt, Systeme versteht und Lust hat, mit KI, Ownership und technischem Anspruch echte Produktwirkung zu erzielen. Wenn du Projekte gerne eigenständig steuerst, komplexe Probleme sauber löst und KI-Tools wie Claude Code nicht als Spielerei, sondern als Produktivitätshebel verstehst: Willkommen bei easybill. Worum es geht? easybill Connect ist unsere zentrale Lösung für e-Commerce-Händler, die Rechnungen, Marktplätze, Shopsysteme, Versandprozesse und steuerliche Anforderungen miteinander verbinden müssen. Die Anwendung wird in Ruby on Rails entwickelt. Unser Stack ist technisch anspruchsvoll und umfasst unter anderem: MySQL / Percona XtraDB Cluster TiDB Elasticsearch Redis MinIO Docker TypeScript React und viele weitere Technologien. Du arbeitest an Funktionen und Systemen, die täglich echte Prozesse vereinfachen. Es geht nicht um hübsche Demo-Features, sondern um belastbare Software, saubere Architektur, stabile Integrationen und Lösungen, auf die sich unsere Kunden verlassen. Warum jetzt? E-Rechnung wird Pflicht. Finance-Automation wird zur Kategorie. E-Commerce bleibt komplex. Und KI verändert, wie Software entsteht. easybill steht genau an dieser Schnittstelle: gesetzlicher Wandel, echter Kundenbedarf, ein etabliertes Produkt und ein Engineering-Team, das mit hoher Ownership weiterbauen will. Aufgaben Du entwickelst und verbesserst unsere e-Commerce-Anwendung easybill Connect mit Ruby on Rails Du übernimmst Verantwortung für komplette Features und Projekte – von der technischen Konzeption über die Umsetzung bis zum stabilen Betrieb Du arbeitest an skalierbaren Backend-Lösungen, robusten Schnittstellen und performanten Prozessen für Marktplätze, Shopsysteme, Versand- und e-Commerce-APIs Du entwickelst bei Bedarf auch im Frontend mit TypeScript und React und bringst dich dort ein, wo dein Beitrag Wirkung erzielt Du begleitest Datenmigrationen, Refactorings und technische Modernisierungen mit einem klaren Blick für Stabilität, Wartbarkeit und Qualität Du analysierst Fehler systematisch, gehst Ursachen auf den Grund und sorgst dafür, dass Probleme nachhaltig gelöst werden Du nutzt KI-Tools wie Claude Code selbstverständlich in deinem Entwicklungsalltag, um schneller zu iterieren, Code besser zu prüfen, Zusammenhänge zu verstehen und deine Produktivität zu steigern Du bringst eigene Ideen ein, hinterfragst bestehende Lösungen konstruktiv und hilfst dabei, unsere Engineering-Prozesse kontinuierlich weiterzuentwickeln Du arbeitest eng mit Produkt, UX, Support und anderen Engineering-Bereichen zusammen, wenn es für das Projekt sinnvoll ist Wenn du dich auch in angrenzenden Disziplinen wie UX, Produktmanagement oder Infrastruktur einbringen möchtest, schaffen wir gezielt Raum dafür Qualifikation Wir erwarten nicht, dass du unseren Tech-Stack bereits vollständig beherrschst. Wichtiger ist uns: Du hast tiefes Wissen in der Webentwicklung, meisterst deinen aktuellen Stack und bringst die Motivation sowie die schnelle Auffassungsgabe mit, dich zügig in unsere Technologien einzuarbeiten. Das solltest du mitbringen: Du hast tiefgreifende Erfahrung in der Softwareentwicklung und verstehst, wie moderne Webanwendungen zuverlässig gebaut, betrieben und weiterentwickelt werden Du hast sehr gute Kenntnisse in mindestens einem relevanten Backend-Stack – idealerweise Ruby on Rails, alternativ bringst du die Fähigkeit mit, dich schnell und strukturiert einzuarbeiten Du denkst nicht nur in Code, sondern in Produkten, Prozessen, Nutzern und langfristig tragfähigen Lösungen Du arbeitest eigenverantwortlich, proaktiv und mit hohem Qualitätsanspruch Du hast Erfahrung damit, technische Themen zu strukturieren, Entscheidungen vorzubereiten und Projekte selbstständig voranzubringen Du nutzt KI-Tools wie Claude Code, ChatGPT oder ähnliche Lösungen ganz selbstverständlich als Teil deines Workflows – nicht, weil es gerade Trend ist, sondern weil du darin einen echten Hebel für Geschwindigkeit, Qualität und Lernen siehst Du hast Freude daran, neue Tools, Arbeitsweisen und Automatisierungsmöglichkeiten auszuprobieren und sinnvoll in deinen Alltag zu integrieren Du kommunizierst klar, verbindlich und auf Augenhöhe Du sprichst fließend Deutsch und gutes Englisch Deine Pluspunkte: Du musst nicht alles davon mitbringen. Aber wenn du dich in einigen Punkten wiedererkennst, sollten wir sprechen: Erfahrung mit Ruby on Rails Erfahrung mit TypeScript und React Erfahrung mit eCommerce-, Marktplatz- oder Versand-APIs Verständnis für Rechnungsprozesse, Steuern oder Buchhaltung Erfahrung mit Datenmigrationen, Refactoring oder Legacy-Modernisierung Interesse an Infrastruktur, Skalierung, Performance oder DevOps-Themen Erfahrung mit KI-gestützter Softwareentwicklung, z. B. Claude Code, Cursor oder eigenen Automatisierungen Benefits Du wirst Teil eines engagierten Engineering-Teams, das stetig an neuen Funktionen, hochskalierbaren Lösungen und der Weiterentwicklung unserer Plattform arbeitet. Bei uns bekommst du keine Tickets zum Abarbeiten ohne Kontext. Du bekommst Verantwortung, klare Ziele und den Raum, Dinge wirklich sauber zu lösen. Du übernimmst komplette Projekte, denkst fachlich mit, triffst technische Entscheidungen und bringst Themen eigenständig voran. Gleichzeitig arbeitest du nicht allein: Du wirst von einem Team aufgenommen, das hohen Anspruch mit Hilfsbereitschaft verbindet und deinen Drive wertschätzt. Wir suchen Menschen, die Probleme lieber lösen als verwalten. Die nicht auf perfekte Vorgaben warten. Und die KI aktiv nutzen, um schneller zu verstehen, besser zu entwickeln und Qualität zu erhöhen. So arbeiten wir: Du arbeitest deutschlandweit remote-first , aber nicht allein. Bei easybill bekommst du klare Prioritäten, kurze Wege und genug Raum, um Dinge wirklich sauber zu lösen. Keine Meeting-Karaoke. Keine Konzern-Polonaise. Kein „Dafür brauchen wir noch sieben Freigaben“. Dafür bekommst du: Fokus Verantwortung gute Tools hohe technische Standards direkte Kommunikation ein Team, das Probleme lieber löst als verwaltet KI ist für uns kein Buzzword. Sie ist ein zentraler Bestandteil davon, wie wir Engineering, Produktentwicklung und operative Prozesse weiterdenken. Wenn du KI nicht nur „nutzt“, sondern aktiv in deinen Workflow integrierst und als Wettbewerbsvorteil verstehst, passt du sehr gut zu uns. Benefits sind bei uns keine Deko. Wir glauben an ein Setup, in dem gute Leute gute Arbeit machen können – flexibel, fokussiert und mit allem, was sie dafür brauchen Remote-first: Arbeite deutschlandweit von dort, wo du produktiv bist Flexible Arbeitszeiten: 39-Stunden-Woche, kein 9-to-5-Dogma Modernes Equipment: Wir statten dich mit hochwertigen Arbeitsmitteln aus, MacBook inklusive 30 Tage Urlaub: Für echte Erholung und neue Energie Workation: Nutze unsere Workation-Möglichkeiten (Villa auf Mallorca) Weiterbildung: 1.500 EUR/Jahr Budget für deine fachliche und persönliche Entwicklung Hackathons: Eigene Ideen in echte Features verwandeln Ownership ab Tag 1: Verantwortung statt Beschäftigungstherapie JobRad: Lease dein Wunschfahrrad oder E-Bike zu attraktiven Konditionen Givve Card: Monatliche steuerfreie Sachbezüge für deine persönlichen Wünsche Dann freuen wir uns auf deine Bewerbung als Senior Software Engineer Ruby on Rails (m/w/d) . Wenn du Systeme bauen willst, die echte Arbeit erleichtern, gerne Verantwortung übernimmst und KI als festen Bestandteil moderner Softwareentwicklung verstehst: Willkommen bei easybill ! Find more English Speaking Jobs in Germany on Arbeitnow",
     "required_skills": [
       "remote",
       "software development"
     ],
     "requirements": [],
     "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/interlead-gmbh/devops-engineer-berlin-362354",
+    "url": "https://www.arbeitnow.com/jobs/companies/easybill-gmbh/senior-software-engineer-ruby-on-rails-100-remote-berlin-362971",
     "date_posted": null
   },
   {
-    "id": "arbeitnow-f39a04fd15ff",
-    "title": "Senior Performance Marketing Manager (m/w/d)",
-    "company": "Interlead GmbH",
-    "location": "Berlin",
+    "id": "arbeitnow-c4d31c96067b",
+    "title": "Projektleiter/in Beratung Milch",
+    "company": "Claudius Wurth Agrarberatung",
+    "location": "Offenburg",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Was wir suchen Hi, wir von Interlead haben ein klares Ziel: Bis Ende 2026 wollen wir die #1 Lead Company im deutschsprachigen Raum aufbauen. Damit lösen wir das größte Problem unserer Partner – laufend neue Leads, Termine und Aufträge zu generieren. Wir leben und lieben Marketing – und wollen unser Wachstum weiter beschleunigen. Dafür brauchen wir kreative, analytische Köpfe, die Lust haben, echte Wirkung zu erzeugen. Zum nächstmöglichen Zeitpunkt suchen wir daher einen Senior Performance Marketing Manager (m/w/d) für unser Marketing‑Team – hybrid oder remote. Das sind deine Aufgaben Entwicklung von Briefings, Hypothesen, Hooks und Messaging-Strategien sowie Aufbau eines strukturierten Creative-Testing-Systems mit kontinuierlicher Ad-Iteration Konzeption und Optimierung von Landing Pages, Pre-Landern und Conversion-Flows mit Fokus auf Conversion Rate, Leadqualität und Customer Journey Analyse von Funnel- und Kampagnen-Daten (CTR, CVR, CPA/CAC, ROAS, Leadqualität) und Ableitung konkreter Maßnahmen zur Skalierung und Budget-Allokation Enge Zusammenarbeit mit dem Creative- und Data-Team zur schnellen Umsetzung neuer Ideen und datengetriebener A/B-Tests Erstellung, Testing und Optimierung von Creatives und Landing Pages mithilfe von KI-gestützten Insights und Tools Ganzheitliches Channel-Verständnis über Google, Social und Native Ads – inklusive Mitdenken in Budgetsteuerung, Reporting und Performance-Analyse Laufende Markt- und Wettbewerbsanalyse zur Identifikation neuer Wachstumschancen und Trends im Bereich KI & Performance Marketing Das bringst du mit Mindestens 5 Jahre Erfahrung im Performance Marketing mit Schwerpunkt Leadgenerierung Fundierte Kenntnisse in Google Ads und Native Advertising (Hauptfokus), idealerweise auch Meta und TikTok Erfahrung im Einsatz diverser KI-Tools zur Kampagnenoptimierung, Creative-Erstellung oder Datenanalyse (ChatGPT alleine reicht nicht aus) Sicherer Umgang mit Tracking, Tag Management, Google Analytics, A/B-Testing und Marketing Automation Kenntnisse in CRO sowie Konzeption und Optimierung von Landing Pages und Conversion-Funnels Starke analytische Fähigkeiten, datengetriebene Denkweise und Leidenschaft für Testing & Growth Kreatives Gespür für Werbemittel und Messaging, um Leads mit Relevanz und Präzision anzusprechen Teamgeist, Eigeninitiative , selbständige Arbeitsweise und verhandlungssichere Deutschkenntnisse Das bieten wir dir Ein dynamisches Marketing- und Tech-Umfeld sowie die Möglichkeit, gemeinsam “The Lead Company” aufzubauen. Ein riesiger Markt und zahlreiche interne Wachstumsmöglichkeiten , wir lösen das größte Problem unserer Partner: die Automatisierung ihrer Neukundengewinnung. Volle Flexibilität im Arbeitsort (remote, im Bremer Headquarter oder nach Absprache auch aus dem Ausland). Volle Flexibilität in der Arbeitszeit , du gestaltest deine Arbeitszeiten individuell mit deinem Team. 30 Tage Urlaub pro Jahr + die Möglichkeit, jederzeit unbezahlten Urlaub zu nehmen. Zuschuss zur betrieblichen Altersvorsorge (die “Interlead‑Rente”). Jährliche Teamevents wie Sommerfest & Weihnachtsfeier. Agiles Arbeitsumfeld , moderne Tools wie Slack, Monday, Notion, Google Workspace und OKRs/Scrum unterstützen dich bei der täglichen Arbeit. Zuschuss fürs Fitnessstudio (über Urban Sports Club oder E‑Gym Wellpass). Schnelle Entscheidungen , wir sind 100 % bootstrapped, profitabel und unabhängig von Investoren. Eine offene Feedback‑Kultur und regelmäßige interne Trainings. Transparente Kommunikation durch monatliche All‑Hands‑Meetings , wöchentlichen Newsletter und feste Team‑Updates . Im Headquarter in der Bremer Überseestadt erwarten dich ergonomische Arbeitsplätze, großartiger Kaffee & Espresso, Getränke und Grillabende. Für Home‑Office‑Mitarbeitende: monatliche Home‑Office‑Pauschale von 20 € . Bikeleasing , lease dein Wunschfahrrad oder E-Bike zu attraktiven Konditionen. Ein ansprechendes Onboarding-Package sowie ein umfassendes Onboarding durch das gesamte Unternehmen. Find more English Speaking Jobs in Germany on Arbeitnow",
+    "description": "Als Claudius Wurth Agrarberatung, ein führendes Unternehmen im Beatung für landwirtschaftliche Betriebe, suchen wir eine/n dynamische/n und engagierte/n Projektleiter/in Beratung Milch. In dieser Schlüsselposition sind Sie verantwortlich für die Leitung und Umsetzung von Beratung von Betriebe mit dem Schwerpunkt Milch. Sie arbeiten eng mit unseren Kunden zusammen, um maßgeschneiderte Lösungen zu entwickeln, die deren betrieblichen Erfolg nachhaltig steigern. Mit Ihrer Expertise und Ihrem strategischen Denken tragen Sie maßgeblich dazu bei, unsere Position als vertrauenswürdiger Partner in der Landwirtschaftsberatung weiter auszubauen. Wenn Sie eine Leidenschaft für die Milchwirtschaft haben und über ausgezeichnete Kommunikations- sowie Führungsfähigkeiten verfügen, freuen wir uns darauf, Sie in unserem Team willkommen zu heißen. Aufgaben Leitung und Koordination von Beratungsprojekten im Bereich Milchproduktion Durchführung von Betriebsanalysen und Erarbeitung von Optimierungsstrategien Betreuung und Beratung von landwirtschaftlichen Kunden in allen Fragen der Milchviehwirtschaft Entwicklung und Implementierung von Schulungs- und Weiterbildungsprogrammen für Landwirte Überwachung und Bewertung der Projektfortschritte sowie Reporting an die Geschäftsleitung Qualifikation Abgeschlossenes Studium im Bereich Agrarwissenschaften oder vergleichbare Qualifikation Fundierte Kenntnisse im Bereich Tierhaltung, Fütterung und Betriebswirtschaft Ausgeprägte Kommunikations- und Präsentationsfähigkeiten Hohe Reisebereitschaft und Führerschein der Klasse B Benefits Eine anspruchsvolle und vielseitige Tätigkeit in einem zukunftsweisenden Unternehmen Vielfältige Möglichkeiten zur fachlichen und persönlichen Weiterentwicklung Ein professionelles und kollegiales Arbeitsumfeld Flexible Arbeitszeiten sowie die Option, teilweise remote zu arbeiten Wettbewerbsfähiges Gehaltspaket und zusätzliche Sozialleistungen Firmenwagen zur dienstlichen Nutzung Find Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "remote",
+      "business consulting"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/claudius-wurth-agrarberatung/projektleiter-in-beratung-milch-offenburg-2112",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-5cd19c217912",
+    "title": "Copywriter (m/w/d) – Ads & Webinare",
+    "company": "Teaching Socials",
+    "location": "Hockenheim",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Jobbeschreibung Über Teaching Socials Teaching Socials ist die führende Unternehmensberatung für Personal Brands im Finanz- & Immobilienbereich im DACH-Raum. Unser Team aus 25 High-Performern hat innerhalb von 2 Jahren ein konstantes Monatswachstum von über 750.000 € aufgebaut. Wir verbinden Sichtbarkeit, Kundenakquise und Unternehmenswachstum in einem System – und du sorgst mit deiner Copy dafür, dass aus Aufmerksamkeit qualifizierte Leads, aus Interessenten Kunden und aus guten Angeboten messbare Ergebnisse werden. Was für dich drin ist: Starkes Team: Familiäres Umfeld, gemeinsame Erfolge und Geburtstage Schnelle Wege: Deine Ideen werden intern umgesetzt, statt in endlosen Entscheidungsschleifen zu versanden Direkter Impact: Deine Texte beeinflussen unmittelbar die Performance unserer Ads, Webinare und Funnels Wachstum: Du arbeitest an unterschiedlichen Angeboten, Zielgruppen und Kampagnen und entwickelst deine Copywriting-Skills kontinuierlich weiter Das bringst du mit: Nachweisbare Erfahrung im Copywriting, idealerweise mit Fokus auf Direct Response, Paid Ads, Webinar-Skripte oder vergleichbare verkaufsorientierte Texte Ein Portfolio mit konkreten Arbeitsproben und idealerweise messbaren Ergebnissen deiner bisherigen Copy Fundiertes Verständnis für Verkaufspsychologie, Zielgruppenansprache, Kaufmotive und Einwandbehandlung Starkes Gespür für Hooks, Headlines, Storytelling und überzeugende Argumentationsketten Verständnis für Performance Marketing, Funnels und die Rolle von Copy innerhalb der Customer Journey Sicherer Umgang mit relevanten Marketing-Kennzahlen wie CTR, CPC, CPL und Conversion-Rate Analytisches Denken: Du erkennst, warum eine Botschaft funktioniert, leitest Hypothesen ab und übersetzt Erkenntnisse in bessere Texte Schnelle Umsetzung: Du kannst unter Zeitdruck mehrere Ideen und Copy-Varianten entwickeln, ohne dabei an Qualität zu verlieren Feedback-Mentalität: Du hinterfragst deine Arbeit, nimmst Kritik an und optimierst deine Texte konsequent Eigenverantwortung: Du wartest nicht auf fertige Briefings für jeden einzelnen Schritt, sondern recherchierst, denkst mit und bringst eigene Ideen ein Deutsch auf muttersprachlichem Niveau und ein sicheres Gespür für Sprache Du passt eher nicht zu uns, wenn … du lieber kreativ klingende Texte schreibst, statt Texte zu entwickeln, die ein konkretes Ziel verfolgen du Copywriting hauptsächlich als Formulieren und nicht als strategisches Verkaufen verstehst du dich auf Bauchgefühl verlässt und Performance-Daten bei deiner Arbeit ignorierst du generische Werbetexte schreibst, ohne Zielgruppe, Angebot und Kaufmotive wirklich zu verstehen du bestehende Vorlagen lediglich umformulierst, statt eigene Angles und Argumentationen zu entwickeln du Feedback persönlich nimmst, statt es als Chance zur Verbesserung zu nutzen du lange an einzelnen Texten feilst, aber Schwierigkeiten hast, schnell neue Varianten zu liefern du lieber auf perfekte Briefings wartest, statt selbstständig zu recherchieren und Verantwortung zu übernehmen du klare Ziele, Zahlen, Tests und ein performanceorientiertes Umfeld eher abschrecken du einfach nur einen Job suchst und nicht bereit bist, dich fachlich und persönlich weiterzuentwickeln Stellenanforderungen Klingt nach dir? Dann lass uns herausfinden, ob wir zusammenpassen – bewirb dich jetzt! Find Jobs in Germany on Arbeitnow",
     "required_skills": [
       "remote",
       "marketing and communication"
     ],
     "requirements": [],
     "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/interlead-gmbh/senior-performance-marketing-manager-berlin-355045",
+    "url": "https://www.arbeitnow.com/jobs/companies/teaching-socials/copywriter-ads-webinare-hockenheim-25490",
     "date_posted": null
   },
   {
-    "id": "arbeitnow-5d5ed4a86658",
-    "title": "Head of Revenue Operations",
-    "company": "Haut Ai",
-    "location": "Remote",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At Haut.AI , we make skin measurable. We give beauty and wellness brands skin intelligence: AI that analyzes skin from a selfie, simulates how it may change over time, and guides every consumer to the right products. Our technology, including AI Skin Analysis, SkinGPT and Skin.Chat, powers personalized, science-backed experiences online and in store. Today, more than 100 global beauty brands use our technology, including enterprise companies like Neutrogena, Beiersdorf, Ulta Beauty, Grupo Boticário and OLAY. We are looking for a Head of Revenue to own Haut.AI ’s full commercial engine: new business and customer success in one function and lead a team of six exceptional teammates. This is a player-coach role reporting directly to our CEO. What you will do: Own the revenue number. You own new business, renewals and expansion, plus the forecast and the commercial KPIs. You give leadership a clear view of where things really stand. Lead and grow the team. Hire, coach and develop three Account Executives and Account Managers. Run weekly pipeline reviews and one-on-ones that focus on growth as much as on numbers. Coach deal by deal and account by account. Join calls and demos, and give specific feedback while it is fresh. Set a clear standard for discovery, proposals, pricing and demo prep. Carry the biggest deals yourself. Lead a small set of our largest, most strategic enterprise opportunities. Personally manage our most valuable client relationships at senior level. Keep complex buying groups moving. Enterprise beauty deals involve brand and marketing, e-commerce, IT, data privacy, legal and procurement. You map the group, align it and keep it moving toward signature. Build the system the team runs on. This means playbooks and objection handling, and a clean handoff from Account Executive to Account Manager once a deal closes. It also means CS operations from onboarding to renewal and expansion, and health scores that surface risk early. Put AI to work across revenue. Find where AI cuts busywork and sharpens decisions: call prep, deal reviews, proposals, account health. Get hands-on with the tools; don’t stop at writing the plan. Stay close to clients and bring back what you learn. Sit in on onboarding and business reviews. Turn client feedback into real input for Product and Marketing, and bring pricing and packaging signals back from the market. What makes you a fit: An experienced commercial leader. You have 8+ years in B2B SaaS commercial roles, including 3+ years leading a team. Ideally you have owned both new business and account management or customer success. A player-coach. You have built and led a commercial team, and you still enjoy running a deal, reviewing the proposal and joining the call. Your team follows your example. At home with enterprise. You have closed complex enterprise deals with many stakeholders and long sales cycles. You are comfortable in the room with senior leaders, with exceptional English and real executive presence. A high-agency builder. You have built commercial processes, playbooks and KPI frameworks yourself, not just run someone else’s. You would rather put a working playbook in front of the team this week than perfect it for next quarter. Evidence over opinion. You know HubSpot or a similar CRM inside out. You read call recordings, check CRM hygiene and turn activity data into clear next actions. You can explain a forecast in plain language. You own outcomes, not activities, and you finish what you start, even with a lot on your plate in a small, fast-moving remote team. AI-native in how you work. You use AI tools daily and have clear views on where they help a revenue team and where they do not. Curious about skin science. You want to understand how our science turns into business value for beauty brands, and you learn fast. Nice to have: experience selling to beauty, retail or e-commerce brands and retailers, selling API or platform products, or selling across Europe and North America. Why Haut.AI Competitive base salary plus a clear, transparent bonus structure Fully remote, with flexibility across UK and EU time zones A MacBook and the equipment you need for a productive remote setup Paid time off: vacation, personal days, sick leave and Estonian public holidays A rare chance to build the whole commercial function, with your fingerprints on everything A collaborative, supportive team that ships Direct impact on product and company growth Room to grow at the intersection of AI, science and beauty Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/haut-ai/remote-head-of-revenue-operations-67448",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-7537e763c242",
-    "title": "Content Creator Social Media (m/w/d) im Ehrenamt",
-    "company": "Bundesverbraucherhilfe e.V.",
+    "id": "arbeitnow-38076f1a33ff",
+    "title": "Product Manager UX/UI & AI (m/w/d)",
+    "company": "FunnelCockpit",
     "location": "Berlin",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Viele Menschen erfahren über Instagram, TikTok oder Facebook von ihren Rechten. Wir wollen dort mit kurzen, verständlichen Formaten präsent sein, die wirklich weiterhelfen. Als Content Creator Social Media entwickeln und produzieren Sie Beiträge, Reels und kurze Videos auf Grundlage unserer Ratgeber und Stellungnahmen. Ihre Aufgaben Konzeption und Produktion von Beiträgen, Reels und kurzen Videos Übersetzung von Ratgeberinhalten in leicht verständliche Formate Pflege eines Redaktionsplans in Abstimmung mit der Bereichsleitung Kommunikation Community-Management und Weiterleitung von Anfragen an die zuständigen Stellen Auswertung der Reichweite und Weiterentwicklung der Formate Das bringen Sie mit Erfahrung in der Erstellung von Social-Media-Inhalten, gern auch privat oder semiprofessionell Sicherer Umgang mit Smartphone-Videografie und gängigen Schnittwerkzeugen Gespür für Trends, ohne Inhalte zu verkürzen Sorgfalt bei Fakten und Formulierungen Ein formaler Abschluss ist keine Voraussetzung, Ihre Praxis zählt Was wir bieten Kreative Freiheit bei Formaten, die viele Menschen erreichen Berufliche Vernetzung mit Fach- und Führungskräften aus Recht, Wirtschaft und Verwaltung Qualifizierte Tätigkeitsbescheinigung und auf Wunsch ein Referenzschreiben Zugang zu unseren Fortbildungen, Fachtagungen und Ausschusssitzungen Freie Zeiteinteilung, Zusammenarbeit überwiegend remote Die Tätigkeit wird ehrenamtlich ausgeübt. Notwendige Auslagen werden nach unserer Reisekosten- und Auslagenordnung erstattet. Find more English Speaking Jobs in Germany on Arbeitnow",
+    "description": "FunnelCockpit ist eine All-in-one-Plattform, mit der Unternehmen ihre Online-Marketing- und Vertriebsprozesse aufbauen und automatisieren. Wir entwickeln unser Produkt kontinuierlich weiter und setzen dabei stark auf moderne AI-Technologien. Dafür suchen wir eine:n Product Manager:in mit starkem Fokus auf UX/UI und Design: Du verstehst unsere Nutzer, machst aus ihren Problemen klare, einfache Lösungen und sorgst dafür, dass FunnelCockpit nicht nur viel kann, sondern sich auch gut anfühlt. Du arbeitest eng mit unserem Entwicklerteam und der Geschäftsführung zusammen und bringst Ideen vom ersten Entwurf bis zum fertigen Feature. Aufgaben Du verantwortest die Nutzererfahrung von FunnelCockpit und entwickelst Oberflächen und Abläufe konsequent aus Sicht unserer Kunden weiter. Du baust Prototypen und neue Oberflächen direkt mit AI-Tools wie Claude, Codex oder Cursor (Vibe Coding), statt nur Mockups zu zeichnen. Du übersetzt Kundenfeedback und Unternehmensziele in klare Anforderungen, User Stories und Akzeptanzkriterien. Du priorisierst Features und Verbesserungen gemeinsam mit der Geschäftsführung und dem Entwicklerteam. Du stimmst dich eng mit den Entwicklern ab und begleitest die Umsetzung bis zum Release. Du testest neue Funktionen aus Nutzersicht und achtest auf eine einfache, konsistente UX. Du baust unser Design-System weiter aus und sorgst für ein einheitliches Erscheinungsbild im ganzen Produkt. Du entwickelst AI-gestützte Workflows, mit denen wir schneller von der Idee zum fertigen Feature kommen. Qualifikation Erfahrung als Product Manager, Product Owner, Product Designer oder UX/UI Designer, idealerweise bei einem SaaS-Produkt oder einer Webanwendung. Ein sehr gutes Gespür für UX, verständliche Nutzerführung und gutes visuelles Design. Umfangreiche praktische Erfahrung mit AI-Tools wie Claude, Codex oder Cursor. Erfahrung mit Vibe Coding: Du hast schon selbst Prototypen, Tools oder kleine Apps mit AI gebaut. Gutes technisches Grundverständnis für Webanwendungen, damit du mit Entwicklern auf Augenhöhe sprechen kannst. Klassische Programmiererfahrung ist kein Muss. Du arbeitest strukturiert, eigenverantwortlich und triffst pragmatische Entscheidungen. Sehr gute Deutschkenntnisse und gute Englischkenntnisse. Besonders interessant ist dein Profil, wenn du schon mit Marketing-Tools, Landingpage- oder Funnel-Buildern gearbeitet hast und uns Beispiele für Designs oder Projekte zeigen kannst, die du selbst mit AI gebaut hast. Benefits Großer Einfluss auf Produkt und Design von Anfang an. Kurze Entscheidungswege und die Möglichkeit, Ideen schnell umzusetzen. Viel Eigenverantwortung statt starrer Prozesse. 100% Remote mit flexiblen Arbeitszeiten. Eine moderne, AI-gestützte Arbeitsweise. Direkte Zusammenarbeit mit der Geschäftsführung. Bitte schick uns mit deiner Bewerbung Links oder Beispiele zu deinen Designs und deinen mit AI gebauten Projekten. Wir freuen uns darauf, dich kennenzulernen. Find more English Speaking Jobs in Germany on Arbeitnow",
     "required_skills": [
       "remote",
-      "social media manager"
+      "product management"
     ],
     "requirements": [],
     "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/bundesverbraucherhilfe-ev/content-creator-social-media-im-ehrenamt-berlin-264383",
+    "url": "https://www.arbeitnow.com/jobs/companies/funnelcockpit/product-manager-ux-ui-ai-berlin-468014",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-295e15db6e0c",
+    "title": "Senior/Principal Data Scientist (m/f/d)",
+    "company": "Stenon GmbH",
+    "location": "Berlin",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Stenon GmbH At Stenon we are on a mission to democratize soil data. We have become the global market leader in real-time, digital soil data. This provides farmers with essential insights to make optimal and sustainable cultivation decisions, boosting yield, crop quality, and soil health while saving money on inputs. Stenon has closed an $18 million Series B financing round to scale real-time nitrogen and soil data management and is expanding internationally. Position We seek a versatile and experienced Senior Data Scientist, that drives and expands our existing soil nutrient machine learning as well as new data-driven features that support our customers in making better agronomic decisions for their fields using real-time soil data. What you will do Be responsible for a core pillar of Stenon’s products Scale our soil nutrient modelling to support more and more regions across the world Oversee planning, execution and delivery of Data Science projects. Contribute to the Data Science strategy, vision and roadmap, enhancing Stenon’s agronomy intelligence layer to support additional features and enable new data sources Work with a variety of data from spectral sensor data via chemical lab analysis results to spatial fertilization maps. What you must have At least 5+ years of hands-on experience in Data Science products Advanced Degree in Engineering or Science Exceptional understanding of statistical and fundamental machine learning concepts Experience writing and maintaining python code , incl. common libraries like scikit, pytorch as well as ML-Ops infrastructure like MLflow, DVC High degree of autonomy Ability to translate complex statistical or machine learning concepts into digestible information for non-technical audiences Experience across the machine learning product lifecycle : defining success metrics, model evaluation and validation, deployment, monitoring and iteration, in collaboration with data engineers A strong sense for data and code quality and the ability to push for high standards High-dimensional sensor/signal data processing expertise Proven track record of managing complex projects from start to finish in a fast paced environment Experience leading or mentoring team members Good communication and English language skills - verbal and written You may have Experience in geo-spatial products Knowledge of agronomy or agriculture, sensor/IoT data, or field trials Understanding of sensor hardware, physical measurement principles and real world noise characteristics ML Ops or Data Engineering knowledge, like Docker, CI/ What we offer Ownership & Growth: A key role in a fast-growing scale-up where you own your area of responsibility with flat hierarchies and fast decision-making. Real-World Impact: Design products that go directly into the hands of farmers, solving global food production and climate challenges. Collaborative Culture: Work in a highly productive, international team that values hands-on development and mutual support. Work-Life Balance: A permanent full-time role offering adaptable schedules to accommodate your lifestyle. Flexible Location: Choose between hybrid or fully remote options across Germany, featuring one mandatory monthly collaboration day in Potsdam for team cohesion and alignment. Remote Setup Support: A dedicated financial allowance to help you optimize your home workspace Learning Budget: Invest in your professional growth with an annual allowance dedicated to courses, conferences, books and certifications Year-End Break: Enjoy a paid company-wide closure between Christmas and New Year to recharge and spend time with loved ones. Seamless Commuting: Choose between an ABC Berlin/Potsdam travel pass or a Deutschland-Ticket to keep you mobile. Team Spirit: Annual company retreats to warmer climates (last year we went to Gran Canaria), regular social events, and a fully stocked kitchen with coffee, tea, and snacks. Why Us? We are changing how farmers understand and manage their soil, moving from lab-based analysis to real-time insights directly in the field. We value transparency, ownership, and continuous improvement, and we believe great products come from teams that respect and support each other. We set high standards, reward performance, and foster a positive, constructive feedback culture. Find more English Speaking Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "remote",
+      "data scientist"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/stenon-gmbh/senior-principal-data-scientist-berlin-25961",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-331b243a3e97",
+    "title": "Senior Software Engineer (PHP, TypeScript, Node.js) m/w/d",
+    "company": "easybill GmbH",
+    "location": "Berlin",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Nicht jede Heldentat ist laut. 22.000+ Unternehmen verlassen sich auf easybill, oft ohne es zu merken. Wir sorgen dafür, dass Rechnungen, Prozesse und Integrationen im Alltag einfach laufen. Remote-first, technisch anspruchsvoll, mit viel Ownership. Wenn du Systeme bauen willst, die echte Arbeit erleichtern: Willkommen bei easybill. Du bekommst klare Prioritäten, kurze Wege und genug Raum, um Dinge wirklich sauber zu lösen. Keine Meeting-Karaoke. Keine Konzern-Polonaise. Kein „Wir brauchen dafür noch sieben Freigaben“. Dafür: Fokus, Verantwortung, gute Tools und Menschen , die Probleme lieber lösen als verwalten. Das ideale Profil? Du bringst tiefe PHP-/Symfony-Erfahrung mit, bist in TypeScript sattelfest und hast Lust, wie ein Founding Engineer Verantwortung zu übernehmen: pragmatisch, sauber, mit Blick fürs Ganze. Wenn dein Profil nicht jedes Kästchen erfüllt, du aber ein außergewöhnlich starker Engineer bist: Bewirb dich trotzdem und zeig uns, was du gebaut hast. Aufgaben Wir sind ein sehr motiviertes Engineering-Team mit viel Ownership und kurzen Wegen. Als Teil davon baust du neue Features, löst Skalierungsprobleme und übernimmst Verantwortung für komplette Projekte – von der Idee bis zum sauberen Betrieb. Wir suchen Menschen, die nicht nur Tickets abarbeiten, sondern Systeme verstehen, verbessern und die E-Rechnungslandschaft aktiv mitgestalten wollen. Unsere Hauptanwendung ist in PHP und TypeScript geschrieben. Im Bereich E-Rechnung betreiben wir zusätzlich Microservices auf der JVM mit Java und Kotlin. Dazu kommen MySQL bzw. Percona XtraDB Cluster, TiDB, Elasticsearch, Redis, MinIO, Docker und weitere Tools, die man braucht, wenn 22.000+ Unternehmen sich täglich auf stabile Prozesse verlassen. Sicherer Umgang mit mehreren Programmiersprachen ist für diese Rolle wichtig. Du arbeitest eigenständig, motiviert und selbstorganisiert. Wir investieren gern in gute Kolleginnen und Kollegen – und haben gleichzeitig hohe Erwartungen Du entwickelst Backend-Features mit PHP 8.x und Symfony: Domänenlogik, APIs und Schnittstellen in einer über 18 Jahre gewachsenen, datenlastigen Codebasis Du arbeitest im Frontend mit TypeScript, React und TanStack an modernen Oberflächen und produktnahen Workflows Du entwickelst Node.js-Services für ausgewählte Bereiche unserer Plattform mit TypeScript und Next.js Du arbeitest an JVM-Microservices mit Java und Kotlin im Bereich E-Rechnung. Du migrierst Daten, refactorst bestehende Module und modernisierst gewachsene PHP-Bereiche Schritt für Schritt sauber weiter Du gehst tief in Fehleranalyse und Debugging, wenn Systeme nicht so laufen, wie sie sollen Du nutzt KI als echten Produktivitätshebel. Claude Code ist bei uns kein Spielzeug, sondern Teil des Engineering-Alltags – und wir erwarten, dass du intensiv damit arbeitest Je nach Thema arbeitest du auch an Infrastruktur und lokalen dockerisierten Entwicklungsumgebungen mit Qualifikation Grundsätzlich musst du nicht alles können. Wichtiger ist: Du kannst zeigen, dass du in deinem aktuellen Technologie-Stack richtig tief drin bist, gute technische Entscheidungen triffst und dich schnell in neue Systeme einarbeitest. Unser Stack ist anspruchsvoll, aber du bekommst klare Prioritäten, gute Tools und ein Team, das Wissen teilt – wir erwarten dafür Eigenverantwortung, Lernstärke und den Anspruch, Dinge sauber zu lösen. Du hast tiefe, eigenverantwortliche Kenntnisse in der Softwareentwicklung mit PHP und Symfony auf Senior-Level – mit sauberem Domain-Design, Testing und Performance in einer großen, langlebigen Codebasis. Je nach Schwerpunkt bringst du zusätzlich TypeScript/React mit Du gehst sicher mit relationalen Datenbanken wie MySQL um, inklusive Query-Optimierung und Datenmodellierung bei großen Datenmengen Bonus: Du hast Erfahrung mit Node.js, Datenstrukturen & Algorithmen, verteilten Systemen sowie datenlastigen Anwendungen Bonus: Du hast Erfahrung mit JVM-Sprachen wie Java oder Kotlin. Generell freuen wir uns über außergewöhnlich starke Engineers, auch aus anderen Stacks Bonus: Du hast Open-Source-Contributions oder öffentliche Experimente auf GitHub Sprache: Du sprichst fließend Deutsch und hast gute Englischkenntnisse Benefits Deutschlandweit Remote-First Team – keine Bindung an einen Standort Workation auf Mallorca - Unsere Mitarbeiter* haben die Möglichkeit, die angemietete Villa auf Mallorca für eine inspirierende Kombination aus Arbeit und Erholung zu nutzen Hoher Impact Eine inspirierende und flexible Arbeitsumgebung, die auf Vertrauen und Eigenverantwortung basiert. Wir sind ein offenes, motiviertes und nettes Team mit flacher Hierarchie Keine Sprints und künstlich erzeugter Druck Faire Vergütungspakete und Entwicklungsmöglichkeiten 30 Tage Jahresurlaub und einen unbefristeten Arbeitsvertrag Arbeitszeiten sind flexibel und werden mit dem Team abgestimmt Freiwillige Mitarbeiter-Events Aktuelle MacBook Pros Schulungen/Weiterbildungsmöglichkeiten im Wert von bis zu 1.500 Euro pro Jahr Wir haben vielfältige Herausforderungen und suchen einen motivierten Teamplayer! Wenn du dich hierin wiedererkennst und eine neue Herausforderung suchst, freuen wir uns auf deine Bewerbung. Wir freuen uns auf dich! Find Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "remote",
+      "software development"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/easybill-gmbh/senior-software-engineer-php-typescript-nodejs-berlin-53164",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-4cebfe30614a",
+    "title": "Founding Marketing Lead (m/w/d) – Content, LinkedIn & Video | KI-Software für Bau & Immobilien",
+    "company": "neoBIM GmbH",
+    "location": "Berlin",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Über neoBIM neoBIM entwickelt KI-Software für die Bau- und Immobilienbranche. Unser Konfigurator macht aus einem Grundstück Gebäudevarianten mit Wirtschaftlichkeitsrechnung, unser zweites Produkt liest Gemeinderatsprotokolle und findet Bauvorhaben, bevor sie ausgeschrieben werden. Unsere Kunden sind Systembauer, Generalunternehmer und Bauträger. PLIERA (pliera.com) ist unsere Produktmarke. Unsere Gründer sind Pioniere der Architektursoftware und wissen, wie man ein Produkt zum Branchenstandard macht. Bisher entstehen fast alle Gespräche über unseren Outbound-Vertrieb und Messen. Das änderst du: Als erste Marketing-Person baust du Inbound auf, bis Systembauer, Generalunternehmer und Bauträger von sich aus eine Demo anfragen. Du arbeitest täglich eng mit Marko zusammen, unserem Principal Architect. Brand Book, Website, Newsletter und klare Regeln für öffentliche Aussagen gibt es schon. Für wen ist die Rolle ideal? • Du willst Marketing selbst aufbauen, nicht verwalten • Du schreibst, drehst und schneidest lieber selbst, als zu briefen • Du willst sehen, was dein Content im Vertrieb bewirkt • Du hast Lust auf eine Branche, in der Marketing noch fast niemand richtig macht Deine Aufgaben • Positionierung & Story – mit den Gründern festlegen, wie wir über neoBIM und PLIERA sprechen • LinkedIn – unser wichtigster Kanal: Unternehmensseiten, Posts für die Gründer, Unterstützung für Markos Feed, dein eigener Feed • Video – kurze Clips, Videos (gerne mit dir vor der Kamera), App-Walkthroughs für YouTube. Selbst produziert • Website & Blog – Texte, Formulare für Demo und Test, jede Anfrage mit Quelle im CRM. Inhalte, die bei Google und in ChatGPT oder Perplexity gefunden werden • Newsletter – übernimmst du • Content aus Kundengesprächen – zweimal pro Woche bei Vertriebsgesprächen dabei. Daraus werden Posts, Videos, Kundengeschichten und Zitate, jeweils mit Freigabe • Messen – BAU, EXPO REAL, BIM World: Content vorher, währenddessen und danach. Du bist mit am Stand Nach sechs Monaten • Gründer und Vertrieb erzählen dieselbe Story, die du entwickelt hast • Mehr Demo-Anfragen von Unternehmen, die uns selbst gefunden haben • Jede Woche LinkedIn-Posts vom Team und von dir • Regelmäßig neue Videos, kurz und ausführlich • Klarer Weg zur Demo auf der Website, bei jeder Anfrage ist die Quelle bekannt • Erste Blogartikel ranken, KI-Suche getestet Dein Profil • Aufbau von null – mindestens fünf Jahre B2B-Marketing mit Schwerpunkt Content, mindestens einmal die erste Marketing-Person (Startup oder neue Unit) • Hands-on – Texte, Grafiken und einfacher Videoschnitt kommen von dir. Du zeigst Arbeiten, die zum großen Teil deine sind, und was sie gebracht haben • Kamera – du hast schon eigene Videos produziert • SEO & KI-Suche – du hast ein Unternehmen für einen selbst gewählten Suchbegriff sichtbar gemacht und weißt aus eigenen Tests, wie Inhalte in ChatGPT, Perplexity und Googles AI Overviews landen • KI ja, KI-Sprech nein – du arbeitest täglich mit Claude, ChatGPT o. Ä., unser Content-Workflow ist KI-basiert, aber mit deinem Input und deinem Stil • Faktentreue – keine ungeprüften Zahlen, keine Kundenlogos ohne Freigabe • Deutsch & Englisch – in Wort und Schrift so, dass niemand mehr gegenlesen muss Nice to have • Du hast selbst schon gegründet • Systembauer, Generalunternehmer, Bauträger oder Baustoffhersteller als Kunden, PropTech oder ConTech • Texte für Gründer geschrieben oder Webinare moderiert • Du hast schon Messen bespielt • Englisch und Deutsch auch vor der Kamera • Weitere Fremdsprachen (gerne Koreanisch) sind ein Plus • Figma, Premiere oder CapCut, Beehiiv, Zoho CRM Wichtiger als dein Lebenslauf: Eigeninitiative, Persönlichkeit und Lust aufs Machen. Arbeitsumfeld und Benefits • Marketing von Grund auf aufbauen und prägen, wie neoBIM klingt • Kurze Wege: Du berichtest an unseren Principal Architect und die Gründer, Entscheidungen fallen in einem Gespräch • Live-Produkt und echte Kundengespräche als Rohstoff für deinen Content • Remote in Deutschland oder hybrid in Karlsruhe, dazu Team- und Messetage • Vollzeit, Start so bald wie möglich • Gute Hardware und die Tools, die du brauchst • Echte Einarbeitung und Feedback Frauen sind in unserem Team unterrepräsentiert. Wir freuen uns deshalb besonders über ihre Bewerbung. Fragen? Ruf gerne an: Felix, +49 176 95422094 (Telefon oder WhatsApp). Find more English Speaking Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "remote",
+      "marketing manager"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/neobim-gmbh/founding-marketing-lead-content-linkedin-video-ki-software-fur-bau-immobilien-berlin-256440",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-501662bc48d9",
+    "title": "Senior Sales Engineer (m/w/d)",
+    "company": "Co-ship consult GmbH",
+    "location": "Berlin",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Ihre Aufgaben im Bereich Vertrieb co-ship ist Connector! Unsere Mission ist es, eine werthaltige Verbindung herzustellen zwischen Fach- oder Führungskräften mit dem Ziel einer beruflichen Veränderung und dazu passenden Unternehmen. In dieser Rolle begleiten wir Sie vom Erstkontakt bis zur finalen Entscheidung. Weitere Informationen unter www.co-ship.de Unser Auftraggeber ist ein großes, innovatives, international tätiges Unternehmen im Bereich anspruchsvoller Metallverarbeitung und mechanischer Systemtechnik. Mit seiner breiten Produktpalette hat sich das mittelständische Unternehmen in seiner langen Geschichte als führender Anbieter in seiner Branche etabliert. Durch seine Alleinstellungsmerkmale im Hinblick auf Technologie und Produkte sowie auf finanzielle Stabilität und Investitionsstärke hat sich das familiengeführte Unternehmen eine hervorragende Position im internationalen Wettbewerb erarbeitet. Anhaltendes Wachstum und eine auf Produktqualität und technologische Entwicklung aufgebaute Marktstrategie sorgen für glänzende Zukunftsperspektiven. Eine partnerschaftliche und pragmatische Unternehmenskultur mit viel Teamgeist schafft eine angenehme und konstruktive Arbeitsatmosphäre. Die Position Eigenständige Vertriebs- und Vermarktungsverantwortung für das gesamte Produktportfolio im europäischen Markt mit Schwerpunkt DACH Kaufmännische und technische Betreuung und Beratung von Kundenunternehmen und Neukundengewinnung Bearbeitung von Kundenanfragen und -aufträgen (technische Prüfung, Einsatzmöglichkeit, Kreditfähigkeit, Lieferfähigkeit, Preisfindung, Terminverfolgung etc.) Beobachtung und Analyse der Markt- und Wettbewerbssituation und Identifikation neuer Marktpotenziale und Opportunities Enge Zusammenarbeit mit den Bereichen Projektmanagement, Anwendungstechnik, Marketing, Qualitätswesen Durchführung von Kunden- und Mitarbeiterschulungen Permanente Weiterentwicklung und Optimierung der Sales & Account Management Prozesse Planung und Durchführung von Sonderaktionen (z.B. Messepräsenzen) Home-Office mit Reisevolumen ca. 50% Ihr Profil Kaufmännisches oder technisches Studium oder alternativ kaufmännische, technische oder handwerkliche Ausbildung in Kombination mit umfangreicher Vertriebserfahrung Erfahrene Vertriebspersönlichkeit mit hoher technischer Beratungskompetenz Berufserfahrung bzw. Know-how im B2B-Vertrieb erklärungsbedürftiger Investitionsgüter im Industrieumfeld Erfahrung in einer metallgeprägten Branche, z.B. Maschinenbau, Eisen- & Stahlkonstruktion, Metallverarbeitung o.ä. Kenntnisse über Normen und Materialeigenschaften vorteilhaft aber kein Muss Know-how und Erfahrung mit internationalen Sales- und Auftragsabwicklungsprozessen Reisebereitschaft 50% Gewinnende und überzeugende Persönlichkeit mit hoher Abschlussorientierung Sehr gute Kommunikationsfähigkeiten, Verhandlungsgeschick und Freude am Umgang mit Menschen Eigeninitiative, Verantwortungsgefühl und unternehmerisches Denken Ihre Vorteile Eigenverantwortliche Rolle mit viel Gestaltungsspielraum Viel Entscheidungsfreiraum und Möglichkeiten zur Gestaltung Mitwirkung an spannenden und strategischen Entscheidungsprozessen im Unternehmen Dynamisches Umfeld in einem finanzstarken, mittelständischen Unternehmen Attraktives Vergütungspaket mit zahlreichen Sonderleistungen Informationen vorab erhalten Sie gern unter der Telefonnummer 0521 9117790. Wir freuen uns auf Ihre Bewerbung unter Angabe der Kennziffer 2104J über den Button auf dieser Seite. co-ship consult GmbH, www.co-ship.de Find Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "remote",
+      "sales engineer"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/co-ship-consult-gmbh/senior-sales-engineer-berlin-107990",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-3bb629a58b5a",
+    "title": "Vertriebsingenieur International (m/w/d)",
+    "company": "Co-ship consult GmbH",
+    "location": "Berlin",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Ihre Aufgaben im Bereich Vertrieb co-ship ist Connector! Unsere Mission ist es, eine werthaltige Verbindung herzustellen zwischen Fach- oder Führungskräften mit dem Ziel einer beruflichen Veränderung und dazu passenden Unternehmen. In dieser Rolle begleiten wir Sie vom Erstkontakt bis zur finalen Entscheidung. Weitere Informationen unter www.co-ship.de Unser Auftraggeber ist ein großes, innovatives, international tätiges Unternehmen im Bereich anspruchsvoller Metallverarbeitung und mechanischer Systemtechnik. Mit seiner breiten Produktpalette hat sich das mittelständische Unternehmen in seiner langen Geschichte als führender Anbieter in seiner Branche etabliert. Durch seine Alleinstellungsmerkmale im Hinblick auf Technologie und Produkte sowie auf finanzielle Stabilität und Investitionsstärke hat sich das familiengeführte Unternehmen eine hervorragende Position im internationalen Wettbewerb erarbeitet. Anhaltendes Wachstum und eine auf Produktqualität und technologische Entwicklung aufgebaute Marktstrategie sorgen für glänzende Zukunftsperspektiven. Eine partnerschaftliche und pragmatische Unternehmenskultur mit viel Teamgeist schafft eine angenehme und konstruktive Arbeitsatmosphäre. Die Position Eigenständige Vertriebs- und Vermarktungsverantwortung für das gesamte Produktportfolio im europäischen Markt mit Schwerpunkt DACH Kaufmännische und technische Betreuung und Beratung von Kundenunternehmen und Neukundengewinnung Bearbeitung von Kundenanfragen und -aufträgen (technische Prüfung, Einsatzmöglichkeit, Kreditfähigkeit, Lieferfähigkeit, Preisfindung, Terminverfolgung etc.) Beobachtung und Analyse der Markt- und Wettbewerbssituation und Identifikation neuer Marktpotenziale und Opportunities Enge Zusammenarbeit mit den Bereichen Projektmanagement, Anwendungstechnik, Marketing, Qualitätswesen Durchführung von Kunden- und Mitarbeiterschulungen Permanente Weiterentwicklung und Optimierung der Sales & Account Management Prozesse Planung und Durchführung von Sonderaktionen (z.B. Messepräsenzen) Home-Office mit Reisevolumen ca. 50% Ihr Profil Kaufmännisches oder technisches Studium oder alternativ kaufmännische, technische oder handwerkliche Ausbildung in Kombination mit umfangreicher Vertriebserfahrung Erfahrene Vertriebspersönlichkeit mit hoher technischer Beratungskompetenz Berufserfahrung bzw. Know-how im B2B-Vertrieb erklärungsbedürftiger Investitionsgüter im Industrieumfeld Erfahrung in einer metallgeprägten Branche, z.B. Maschinenbau, Eisen- & Stahlkonstruktion, Metallverarbeitung o.ä. Kenntnisse über Normen und Materialeigenschaften vorteilhaft aber kein Muss Know-how und Erfahrung mit internationalen Sales- und Auftragsabwicklungsprozessen Reisebereitschaft 50% Gewinnende und überzeugende Persönlichkeit mit hoher Abschlussorientierung Sehr gute Kommunikationsfähigkeiten, Verhandlungsgeschick und Freude am Umgang mit Menschen Eigeninitiative, Verantwortungsgefühl und unternehmerisches Denken Ihre Vorteile Eigenverantwortliche Rolle mit viel Gestaltungsspielraum Viel Entscheidungsfreiraum und Möglichkeiten zur Gestaltung Mitwirkung an spannenden und strategischen Entscheidungsprozessen im Unternehmen Dynamisches Umfeld in einem finanzstarken, mittelständischen Unternehmen Attraktives Vergütungspaket mit zahlreichen Sonderleistungen Informationen vorab erhalten Sie gern unter der Telefonnummer 0521 9117790. Wir freuen uns auf Ihre Bewerbung unter Angabe der Kennziffer 2104J über den Button auf dieser Seite. co-ship consult GmbH, www.co-ship.de Find more English Speaking Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "remote",
+      "sales engineer"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/co-ship-consult-gmbh/vertriebsingenieur-international-berlin-282110",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-490020a352dd",
+    "title": "Business Analyst Wertpapierprojekt (m/w/d)",
+    "company": "finwyz GmbH",
+    "location": "Berlin",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Über finwyz GmbH banking beyond the hype - Wir übersetzen relevante Bankingtrends und Kundenerwartungen in digitale Lösungen. Mit durchschnittlich über 15 Jahren Branchenerfahrung verstehen wir die Herausforderungen der Finanzindustrie und erreichen Erlössteigerungen und Effizienzgewinne. Unsere Firmenkultur basiert auf flachen Hierarchien, eigenverantwortlichem Arbeiten und Mitgestaltung. Deine Aufgaben Einstieg in laufendes Kundenprojekt zum Ausbau technischer Depot- & Wertpapierlösungen für Sparkassen Business-Analyse & Konzeption (User Stories) in agilem IT-Projekt, Planung und Durchführung von Projekten Anwendung von Projekterfahrung in IT-Projekten mit Wertpapierbezug Einbindung in Projekt-Teams unseres Kunden: Projektstandort Frankfurt am Main, 2 Tage pro Woche vor Ort, ansonsten remote Das bringst du mit Mindestens 2 Jahre Berufs- und Projekterfahrung in IT-Umsetzungsprojekten mit agiler Projektorganisation sehr gute Wertpapier- und Methodenkenntnisse, Fokus agile Development sichere Orientierung in Großprojekten Startup-, Produktanbieter- oder IT-Hintergrund Sehr gute Deutsch- (mindestens C1-Niveau) und gute Englischkenntnisse in Wort und Schrift Deine Vorteile Spannendes, abwechslungsreiches und herausforderndes Wertpapierprojekt persönlicher Entwicklungsplan nach mindestens 2 Jahren Projekteinsatz Unternehmensbonus, Deutschlandticket und Bahncard 50 modernes und digitales Arbeiten: 2 Tage pro Woche vor-Ort-Einsätzen bei unserem Kunden in Frankfurt am Main, flexible Arbeitszeiten, mobiles Arbeiten (zuhause oder international in der MESZ- Zeitzone) Flache Hierarchien und Mitgestaltung unseres Unternehmens Ein motiviertes Team von Experten mit einer offenen und kollegialen Arbeitsatmosphäre Vergütung Das Jahresgehalt liegt bei EUR 60.000–75.000 pro Jahr (+ VSOP oder variable Vergütung). Wir freuen uns auf deine Bewerbung! Find more English Speaking Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "remote",
+      "business analyst"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/finwyz-gmbh/business-analyst-wertpapierprojekt-berlin-249164",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-af761e614eb3",
+    "title": "Customer Success Manager (m/w/d)",
+    "company": "functionHR GmbH",
+    "location": "Berlin",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "WER WIR SIND functionHR ist ein Spin-Off der LMU München. Wir entwickeln eine innovative und preisgekrönte Softwarelösung für Mitarbeiterbefragungen und People Analytics. Damit begleiten wir Unternehmen auf ihrem Weg zum datengestützten Personalmanagement. Durch die Verbindung von Statistik, Machine Learning und künstlicher Intelligenz mit innovativen Web-Anwendungen revolutionieren wir die Art und Weise, wie HR-Entscheidungen in Unternehmen getroffen werden. Zu unseren Kunden zählen namhafte Unternehmen verschiedener Branchen und Größen. Zur Unterstützung unseres Teams suchen wir schnellstmöglich Verstärkung als CUSTOMER SUCCESS MANAGER (M/W/D) in Teilzeit/Vollzeit (mind. 32h/Woche) Sorge gemeinsam mit unseren Kunden dafür, dass ihre Befragungsprojekte erfolgreich umgesetzt werden, und begleite sie als kompetente Ansprechperson von der Implementierung bis zur langfristigen Nutzung unserer Plattform. DAS SIND DEINE AUFGABEN: Projektmanagement Du bist zentrale Ansprechperson für unsere Kunden und baust langfristige, vertrauensvolle Kundenbeziehungen auf Du unterstützt sowohl die Software-Einführung als auch Support-Prozesse im laufenden Betrieb Du strukturierst und koordinierst Projekte, definierst gemeinsam mit unseren Kunden Meilensteine und behältst die fristgerechte Umsetzung im Blick. Du hast neben dem Kundenerfolg auch die wirtschaftliche Perspektive im Blick, achtest auf den vereinbarten Leistungsumfang und erkennst frühzeitig Potenziale für zusätzliche Leistungen und Upselling. Fachliche Betreuung Du bist fachliche:r Sparringspartner:in für unsere Kunden rund um organisationspsychologische Themen und berätst sie rund um Fragebogenerstellung, Befragungsdesign und Datenprozesse. Du konzipierst und moderierst Webinare, Workshops und Trainings und entwickelst unser Customer Enablement kontinuierlich weiter. Anforderungsmanagement Du strukturierst und priorisierst Anforderungen unserer Kunden und übersetzt diese in konkrete Anforderungen an unsere Software und Services. Du sorgst dafür, dass Anforderungen, Entscheidungen und nächste Schritte klar dokumentiert und nachvollziehbar sind. Du testest Neuentwicklungen und kundenindividuelle Setups kritisch, stellst deren Qualität sicher und bringst Verbesserungspotenziale direkt ins Team ein. SO ÜBERZEUGST DU UNS: Du hast Erfahrung im Projektmanagement und behältst auch in großen, komplexen Projekten den Überblick Du hast ein abgeschlossenes Studium, idealerweise in Arbeits- und Organisationspsychologie, Sozialforschung, Soziologie oder einem vergleichbaren Bereich. Du bringst mindestens 2 Jahre relevante Berufserfahrung mit, idealerweise im B2B-Software- und HR-Tech Umfeld. Du arbeitest analytisch, strukturiert und eigenständig. Du kommunizierst sicher und überzeugend auf Deutsch und Englisch. Idealerweise kennst du bereits den People-Analytics- oder Mitarbeiterbefragungsbereich oder hast Lust, dich schnell und tief in diese Themen einzuarbeiten. DAS BIETEN WIR: Erfahrenes, motiviertes und eingespieltes Team von Entwicklern und Data Scientists Große Flexibilität bezüglich Arbeitszeiten und Arbeitsort – 100% Remote möglich (Dt. Wohnsitz nötig) EGYM Wellpass mit geringem Eigenanteil Spannende Einblicke in international tätige Unternehmen aller Größen und die Möglichkeit echte Wirkung auf Entscheidungsprozesse bei Kunden zu erzielen Flache Hierarchien und viel Entscheidungsfreiheit Modernes Toolset – GitLab, Figma & Co. für effiziente Zusammenarbeit Moderne Hardwareausstattung Regelmäßige Team-Events – auch remote bleiben wir connected DAS SPRICHT DICH AN? Wenn Du noch Fragen hast oder dich direkt bewerben möchtest, freuen wir uns auf deine Kontaktaufnahme. Bitte beachte, dass wir den Prozess ab 10.11.2026 starten werden. Find Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "remote",
+      "customer service"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/functionhr-gmbh/customer-success-manager-berlin-433726",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-9a4a65c57faa",
+    "title": "Werkstudent Backoffice Operations (m/w/d) - deutschlandweit im Homeoffice",
+    "company": "Hrmony GmbH",
+    "location": "Berlin",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Hrmony ist ein erfolgreiches SaaS-Startup mit Sitz in Berlin. Als fully remote Company arbeitet unser Team jedoch deutschlandweit aus dem Homeoffice. Unsere Produkte ermöglichen es Unternehmen, ihren Mitarbeitenden mit minimalem Verwaltungsaufwand attraktive steuerfreie Benefits anzubieten und so ihr Employer Branding zu stärken. Für die Mitarbeitenden bedeutet das: mehr netto vom brutto. Wir suchen dich zum nächstmöglichen Zeitpunk Unterstützung für unseren Bereich Operations als Werkstudent Backoffice Operations (m/w/d). Die Stelle wird zu 100% im Homeoffice ausgeübt und wir berücksichtigen Kandidat:innen deutschlandweit. Aufgaben Du kümmerst dich um die Bearbeitung und Erfassung von digital eingehenden Dokumenten Dabei bist du für die Sicherstellung eines reibungslosen Ablaufs verantwortlich Dazu gehört die Prüfung der Vollständigkeit sowie die Pflege, Katalogisierung und Aktualisierung von Daten Zusätzlich unterstützt du den Bereich Operations bei administrativen Aufgaben Qualifikation Du bist eingeschriebene:r Student:in (m/w/d) und noch mind. 1 Jahr immatrikuliert Dein Wohnsitz ist in Deuschland gemeldet Du hast in deinem Homeoffice einen Arbeitsplatz mit Laptop/PC und Monitor zur Verfügung Du hast bereits erste praktische Erfahrungen in einer Tätigkeit mit PC-Arbeitsplatz, idealerweise im verwaltenden Bereich z.B. Backoffice oder Assistenz Du arbeitest sehr zuverlässig und sorgfältig - darauf kommt es in dieser Position an Du hast eine schnelle Auffassungsgabe und arbeitest gern eigenverantwortlich Du hast sehr gute Deutschkenntnisse Benefits Eine Werkstudierendenposition im Homeoffice mit bis zu 20 Stunden pro Woche Flexible Arbeitszeiten nach deinen Verfügbarkeiten Vergütung nach dem Mindestlohn sowie 45€/Monat Guthaben für den Hrmony Essenszuschuss Eine umfangreiche Einarbeitung, die dich optimal auf deine zukünftigen Aufgaben vorbereitet Ein freundliches und motiviertes Team mit einer offenen Unternehmenskultur Lust auf Hrmony? Super, wir freuen uns auf Deine Bewerbung! Schick uns einfach deinen Lebenslauf, Anschreiben, Zeugnisse. Bewirb Dich jetzt und werde Teil von Hrmony! Find more English Speaking Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "remote",
+      "it"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/hrmony-gmbh/werkstudent-backoffice-operations-deutschlandweit-im-homeoffice-berlin-477225",
     "date_posted": null
   }
 ]
