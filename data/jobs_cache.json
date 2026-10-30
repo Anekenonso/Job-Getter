@@ -1,5 +1,175 @@
 [
   {
+    "id": "jobicy-05284f68a4b1",
+    "title": "Senior Strategic Account Executive - SEA",
+    "company": "Twilio",
+    "location": "Singapore",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work, and strong culture of connection and global inclusion means that no&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/157922-senior-strategic-account-executive-sea",
+    "date_posted": "2026-10-29"
+  },
+  {
+    "id": "jobicy-88acbd1c9ee6",
+    "title": "Territory Manager (Traralgon)",
+    "company": "Halter",
+    "location": "Australia",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Halter At Halter, we’re on a mission to enable farmers and graziers to run the most productive and sustainable operations. Our customers are using Halter to break free from the time-intensive constraints of conventional practices. Imagine watching 500 cattle stand up and walk calmly towards their next break? No quad bikes, no dogs, no&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/157921-territory-manager-traralgon",
+    "date_posted": "2026-10-29"
+  },
+  {
+    "id": "jobicy-866a9e78d4e0",
+    "title": "Account Executive (Melbourne)",
+    "company": "Deepgram",
+    "location": "Australia",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Company Overview Deepgram is the leading platform underpinning the emerging trillion-dollar Voice AI economy, providing real-time APIs for speech-to-text (STT), text-to-speech (TTS), and building production-grade voice agents at scale. More than 200,000 developers and 1,300+ organizations build voice offerings that are ‘Powered by Deepgram’, including Twilio, Cloudflare, Sierra, Decagon, Vapi, Daily, Cresta, Granola, and Jack&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/157920-account-executive-melbourne",
+    "date_posted": "2026-10-29"
+  },
+  {
+    "id": "jobicy-4aa353618cac",
+    "title": "Senior Manager, Customer Success",
+    "company": "Twilio",
+    "location": "Australia",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work, and strong culture of connection and global inclusion means that no&hellip;",
+    "required_skills": [
+      "customer support & success"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/157919-senior-manager-customer-success-2",
+    "date_posted": "2026-10-29"
+  },
+  {
+    "id": "jobicy-335902232be1",
+    "title": "Territory Manager (Wagga Wagga)",
+    "company": "Halter",
+    "location": "Australia",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Halter At Halter, we’re on a mission to enable farmers and graziers to run the most productive and sustainable operations. Our customers are using Halter to break free from the time-intensive constraints of conventional practices. Imagine watching 500 cattle stand up and walk calmly towards their next break? No quad bikes, no dogs, no&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/157918-territory-manager-wagga-wagga",
+    "date_posted": "2026-10-29"
+  },
+  {
+    "id": "jobicy-98db67b91676",
+    "title": "Senior Pre-Sales Solutions Engineer (Singapore)",
+    "company": "Deepgram",
+    "location": "Singapore",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Company Overview Deepgram is the leading platform underpinning the emerging trillion-dollar Voice AI economy, providing real-time APIs for speech-to-text (STT), text-to-speech (TTS), and building production-grade voice agents at scale. More than 200,000 developers and 1,300+ organizations build voice offerings that are ‘Powered by Deepgram’, including Twilio, Cloudflare, Sierra, Decagon, Vapi, Daily, Cresta, Granola, and Jack&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/157917-senior-pre-sales-solutions-engineer-singapore",
+    "date_posted": "2026-10-29"
+  },
+  {
+    "id": "jobicy-3c8fdcfc4bb3",
+    "title": "Presales Architect",
+    "company": "Twilio",
+    "location": "Singapore",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work, and strong culture of connection and global inclusion means that no&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/157916-presales-architect",
+    "date_posted": "2026-10-29"
+  },
+  {
+    "id": "jobicy-3f5148ad276c",
+    "title": "Sales Development Representative, APAC",
+    "company": "Cresta",
+    "location": "Australia",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channel. The world’s leading companies, including United Airlines, Cox Communications, and Marriott, use Cresta to&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/157915-sales-development-representative-apac",
+    "date_posted": "2026-10-29"
+  },
+  {
+    "id": "jobicy-3f8f2d825769",
+    "title": "Customer Support Engineer",
+    "company": "Vercel",
+    "location": "Australia",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Vercel: Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production with speed, security, and exceptional developer experience. Now we're scaling our products for both agents and people to ship and run software, built in the open&hellip;",
+    "required_skills": [
+      "technical support"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/157914-customer-support-engineer-4",
+    "date_posted": "2026-10-29"
+  },
+  {
+    "id": "jobicy-da14baedd043",
+    "title": "Public Sector Partnerships - Australia",
+    "company": "Elevenlabs",
+    "location": "Australia",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of&hellip;",
+    "required_skills": [
+      "business development"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/157913-public-sector-partnerships-australia",
+    "date_posted": "2026-10-29"
+  },
+  {
     "id": "jobicy-0992db25899b",
     "title": "Sr. Director of Machine Learning",
     "company": "hims &#038; hers",
@@ -680,176 +850,6 @@
     "date_posted": "2026-10-29"
   },
   {
-    "id": "jobicy-c0027aef32f2",
-    "title": "Billing & Analytics Software Engineer",
-    "company": "Deepgram",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Company Overview Deepgram is the leading platform underpinning the emerging trillion-dollar Voice AI economy, providing real-time APIs for speech-to-text (STT), text-to-speech (TTS), and building production-grade voice agents at scale. More than 200,000 developers and 1,300+ organizations build voice offerings that are ‘Powered by Deepgram’, including Twilio, Cloudflare, Sierra, Decagon, Vapi, Daily, Cresta, Granola, and Jack&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157871-billing-analytics-software-engineer",
-    "date_posted": "2026-10-29"
-  },
-  {
-    "id": "jobicy-12b51be96f49",
-    "title": "Manager of Strategic Customer Success",
-    "company": "Ashby",
-    "location": "Canada,  USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Hi, I’m Loren, the Head of Strategic Customer Success here at Ashby. My team is dedicated to building deep, consultative partnerships within the Enterprise space. One of our operating principles is “Aim High” and I'm excited to find a Manager of Strategic Customer Success who can identify gaps, drive meaningful change, and bring a creative&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157870-manager-of-strategic-customer-success-2",
-    "date_posted": "2026-10-29"
-  },
-  {
-    "id": "jobicy-0b30df485905",
-    "title": "Compensation Analyst",
-    "company": "hims &#038; hers",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Hims &amp; Hers is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are redefining healthcare by putting the customer first and delivering access to care that is affordable, accessible, and personal, from diagnosis to treatment to delivery. No two people are&hellip;",
-    "required_skills": [
-      "hr & recruiting"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157869-compensation-analyst",
-    "date_posted": "2026-10-29"
-  },
-  {
-    "id": "jobicy-c2df1e09f1c9",
-    "title": "ML Ops Infrastructure Engineer",
-    "company": "Deepgram",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Company Overview Deepgram is the leading platform underpinning the emerging trillion-dollar Voice AI economy, providing real-time APIs for speech-to-text (STT), text-to-speech (TTS), and building production-grade voice agents at scale. More than 200,000 developers and 1,300+ organizations build voice offerings that are ‘Powered by Deepgram’, including Twilio, Cloudflare, Sierra, Decagon, Vapi, Daily, Cresta, Granola, and Jack&hellip;",
-    "required_skills": [
-      "devops & infrastructure"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157868-ml-ops-infrastructure-engineer",
-    "date_posted": "2026-10-29"
-  },
-  {
-    "id": "jobicy-1948fe29bffd",
-    "title": "Sr. Product Marketing Manager, Enterprise",
-    "company": "Ashby",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Hi I’m Rosalia, and I look after our Product Marketing team at Ashby. I started my career in Product Marketing and helped build the Sales Enablement function at HubSpot during its journey from startup to IPO. Since then, I've worked across RevOps and Customer Marketing at Procore and Meta, partnering with incredible teams to&hellip;",
-    "required_skills": [
-      "marketing & sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157867-sr-product-marketing-manager-enterprise-2",
-    "date_posted": "2026-10-29"
-  },
-  {
-    "id": "jobicy-f51f2e8f2605",
-    "title": "Sr. Software Engineer, (Fullstack/Frontend)",
-    "company": "hims &#038; hers",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Hims &amp; Hers is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are redefining healthcare by putting the customer first and delivering access to care that is affordable, accessible, and personal, from diagnosis to treatment to delivery. No two people are&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157866-sr-software-engineer-fullstack-frontend",
-    "date_posted": "2026-10-29"
-  },
-  {
-    "id": "jobicy-0d11133e457e",
-    "title": "Backend Engineer- Inference Services",
-    "company": "Deepgram",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Company Overview Deepgram is the leading platform underpinning the emerging trillion-dollar Voice AI economy, providing real-time APIs for speech-to-text (STT), text-to-speech (TTS), and building production-grade voice agents at scale. More than 200,000 developers and 1,300+ organizations build voice offerings that are ‘Powered by Deepgram’, including Twilio, Cloudflare, Sierra, Decagon, Vapi, Daily, Cresta, Granola, and Jack&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157865-backend-engineer-inference-services",
-    "date_posted": "2026-10-29"
-  },
-  {
-    "id": "jobicy-3e1675d6a86a",
-    "title": "Sr. Total Rewards Manager",
-    "company": "Ashby",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Hi! I’m Rachel and I lead People Operations here at Ashby. I recently joined and I’m excited that we're expanding our team! The People Operations Team provides support to Ashby employees through the development and implementation of programs, policies, and services that contribute to a productive and inclusive working environment. We ensure that the work&hellip;",
-    "required_skills": [
-      "hr & recruiting"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157864-sr-total-rewards-manager",
-    "date_posted": "2026-10-29"
-  },
-  {
-    "id": "jobicy-673c1b381c9c",
-    "title": "Principal Data Engineer",
-    "company": "hims &#038; hers",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Hims &amp; Hers is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are redefining healthcare by putting the customer first and delivering access to care that is affordable, accessible, and personal, from diagnosis to treatment to delivery. No two people are&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157863-principal-data-engineer",
-    "date_posted": "2026-10-29"
-  },
-  {
-    "id": "jobicy-a762cd5cfa46",
-    "title": "Associate General Counsel Corporate",
-    "company": "Deepgram",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Company Overview Deepgram is the leading platform underpinning the emerging trillion-dollar Voice AI economy, providing real-time APIs for speech-to-text (STT), text-to-speech (TTS), and building production-grade voice agents at scale. More than 200,000 developers and 1,300+ organizations build voice offerings that are ‘Powered by Deepgram’, including Twilio, Cloudflare, Sierra, Decagon, Vapi, Daily, Cresta, Granola, and Jack&hellip;",
-    "required_skills": [
-      "legal & compliance"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/157862-associate-general-counsel-corporate",
-    "date_posted": "2026-10-29"
-  },
-  {
     "id": "remotive-fca984526022",
     "title": "Senior Back-end Developer",
     "company": "Lemon.io",
@@ -1272,6 +1272,76 @@
     "date_posted": "2026-09-30"
   },
   {
+    "id": "arbeitnow-fe72d78c9d70",
+    "title": "Staff Engineer | Voyagu",
+    "company": "Hirehire",
+    "location": "Remote",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Role: Staff Engineer (Integrations / Supply, air travel) Company: Voyagu Location: Fully remote, Europe preferred. European time zone; about two hours of difference is fine. About eight hours online, and some overlap with US time zones helps because many users are there. Job Type: Full-time. Contract model is flexible: contractor, payroll provider or direct employment. About Voyagu Voyagu builds one platform that runs several travel businesses. Today the focus is air travel. The platform covers client management (CRM), ERP modules for finance and accounting, travel operations, and integrations with travel supply systems. The model is offline travel: agencies that sell through people. Voyagu does not sell the software and does not plan to, but agencies work with it in different models. It is a bootstrap scaleup, so teams are lean and money is counted. Development leans heavily on AI. Teams of AI agents run big features under a business operator and a technical operator. Sometimes this turns two half-years of work into two weeks. It does not always work. When code is cheap, product vision and architecture become the bottleneck, and that is where you come in. This role owns the integrations and supply direction. Air travel alone is deep: every airline has its own distribution channels and APIs. You would lead one of five platform development streams and report to the CTO. There is no product manager in between, and you work directly with the founder and other business stakeholders. The team has no one with your profile today, so you would be the first. What you are expected to do Technical ownership Lead the integrations and supply direction as its technical owner. Build integrations with GDS systems. Voyagu works with one today and needs more. Connect airline direct APIs and non-GDS protocols across multiple sources. Handle servicing after sale: changes, cancellations, refunds, and group bookings split into parts. Work with live, real-time availability. Seat availability does not depend on price. Prevent costly errors. One missed booking can mean tens of thousands of dollars. Design for reliability, for example with idempotency, so nothing is paid or bought twice. Keep the solution sized to Voyagu’s scale and avoid over-design. This is not internet-scale work. Keep the system stable. Speed and error rate are the measures. Vision and delivery Shape the technical vision with stakeholders and defend it. They will challenge it. Expect no ready-made tasks. Business stakeholders give you a direction, not a finished task. Turn the agreed platform capabilities into features and give estimates. Several dozen capabilities are written down, such as search and booking. Success means Voyagu accepts your estimates and you deliver them, or come close. Part of the plan will be agreed together with you. AI-driven development Build and direct teams of AI coding agents instead of writing code by hand. Explain and defend how to use AI effectively. Bring AI practices that are as good as Voyagu’s, or better. Team Lead the two people already working in this direction, once you have onboarded. Hire as little as possible. Hiring is a last resort. Long term the direction may grow to one to three people. What you need to succeed You have worked in the travel domain, especially on integrations with supply systems. About two or more years is likely enough. You understand booking versus ticket, and the statuses and states of each. You have owned a large piece of a product, not a small slice. You work at staff or senior level, as architect and technical lead. You understand what Voyagu does and why, and you talk well with stakeholders. You use AI well beyond the beginner level and have a clear view on how to use it effectively. You believe small teams work. You do not think in big organisations. You work in a European time zone; ideally you are based in Europe. You speak Russian: engineering works mostly in Russian. Business teams speak English, and English B2 is enough. Nice to have: you have seen both corporate and lean startup worlds, or a bootstrap scaleup. You may be an ex-founder or a small-company CTO who stayed hands-on. Nice to have: you have run teams of agents, not only asked an agent to write a feature. Nice to have: vendor-side experience building for end users. Python is the current main stack, but language skill is not important. Not required: high-load experience, writing agent skills, or deep C#/legacy aviation knowledge. What you get You own a whole direction, with responsibility handed over fully. You are the technical lead for integrations and supply, with no product-manager layer in between. You work with AI agent teams. Voyagu will invest heavily in tokens and compute where it pays off. You can bring AI practices better than Voyagu’s own, and the team will share theirs. A large, technically hard platform: real-time inventory, many sources, money at stake. A lean environment with few meetings and flexible hours. Fully remote in Europe, with flexible contract models. Equity is not standard, but it is negotiable for an exceptional candidate. How to apply Apply through hirehire, the agency running this search for Voyagu. The process has three stages: an engineering interview with the CTO, a travel-domain interview with the founder, and a practical case with a defence. Find Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "ai/ml/tech"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-staff-engineer-voyagu-195754",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-b5e539bd2f70",
+    "title": "Recruitment Partner",
+    "company": "Hirehire",
+    "location": "Remote",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Who we are hirehire agency is built around deep product and design expertise. Our expert network is made up of senior designers and PMs who have worked at companies like Intercom, Stripe, Revolut, and others. They interview and evaluate like practitioners – because they’ve done the job. That’s what sets us apart from the typical agency. Our clients include JetBrains, Replika, Recraft, Sentry, Toloka, Nebius, White Circle, Manychat, Capital.com , TripleTen, Pleo, Emerging Travel Group, Solidroad, and others. What’s at our core Three pillars everything revolves around: Clients – they need the right person, fast. Experts – they evaluate candidates with a practitioner’s eye. Talent – people with their own goals and pace, not a line on a resume. A Recruiting Partner holds all three at once: hearing the client’s request, listening to the candidate, guiding and supporting the expert. This is deep, partner-like work with people – like leading a dance, everyone moving in the same direction. What you’ll be doing Own each search end-to-end – from brief to offer, including timelines, quality, and communication. Interviews are run by our experts. Be the main point of contact for clients, candidates, and experts, building long-term, trust-based relationships with candidates rather than transactional touchpoints. Work with top-tier talent – we focus on the top 1% of candidates, and that bar shapes how we engage with people from the very first conversation. Write sharp, un-templated job descriptions, briefs, and outreach. Manage sourcing through our internal network plus targeted external search, powered by AI. Track progress with data and feedback, not just gut feel. Bring structure that raises quality across the team. Help build the AI tools the whole team relies on. What you need to succeed 3+ years of recruiting experience, ideally in fast-paced tech environments. We're built for AI-native hiring, and we work the same way ourselves. We want someone who actually builds AI into their daily workflow. Confidence with ATSs, outreach platforms, and HR tech in general – plus curiosity about what's new. A proactive, solution-oriented mindset – you keep things moving. Empathy and the ability to support people without losing pace. Really, really nice to have Experience hiring designers across seniority levels – or hands-on design experience yourself. What you get A stable base salary, plus a commission on every role you help fill. Fully remote work and flexible hours; CET ± a few hours works fine. Unconventional projects with global reach. Early access to new recruiting tech. Growth in skill and earnings, tied to the results you bring in. Direct mentorship from the co-founders. An environment that’s genuinely open and just as genuinely demanding – support and a high bar reinforce each other here. Find Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "roles at hirehire"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-recruitment-partner-467351",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-9a6670d45167",
+    "title": "Senior Sales Engineer (m/w/d)",
+    "company": "Natuvion GmbH",
+    "location": "Remote job",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Als Senior Sales Engineer (m/w/d) fungierst du als zentrale Schnittstelle zwischen Vertrieb, Consulting und Projektumsetzung . Du unterstützt den Sales-Prozess, indem du komplexe Kundenanforderungen analysierst, strukturierst und daraus tragfähige SAP-Lösungskonzepte entwickelst. Dabei verantwortest du die fachlich-technische Lösungsarchitektur , die Machbarkeitsbewertung , Scope-Definition , Aufwandsschätzung sowie die Konzeption der Umsetzung in der Angebots- und Pre-Sales-Phase. Du arbeitest eng mit Account Executives, Bid Management, Consulting Teams, Product Management und weiteren Fachexperten zusammen und bist ein entscheidender Bestandteil unseres strategischen Vertriebsmodells. Deine Aufgabe: Solution Design &amp; Pre-Sales Analyse komplexer fachlicher und technischer Kundenanforderungen im SAP-Transformationsumfeld sowie Entwicklung belastbarer, kundenspezifischer Lösungskonzepte inklusive fachlich-technischer Lösungsarchitektur. Durchführung und Moderation von Discovery Sessions, Solution Workshops und technischen Deep Dives zur Bewertung von Machbarkeit, Anforderungen und Lösungsoptionen. Definition geeigneter Delivery-Modelle, Projektansätze und Umsetzungsstrategien einschließlich Scope-, Risiko- und Abhängigkeitsmanagement unter Einbringung von Best Practices aus vergleichbaren SAP-Projekten. Sales Support &amp; Customer Advisory Enge Zusammenarbeit mit Account Executives bei strategischen Opportunities, Qualifizierung von Kundenanfragen sowie Übersetzung fachlicher und technischer Anforderungen in konkrete Lösungsansätze. Entwicklung überzeugender Solution Stories und Value Propositions sowie Unterstützung bei Kundenpräsentationen, Pitches, Workshops und Executive Meetings. Beratung von Kunden zu SAP-Transformationen, Datenmigration und Datenmanagement sowie fachliche Positionierung gegenüber Kunden, Partnern und Stakeholdern zur Differenzierung unserer Lösungsansätze im Wettbewerb. Estimation, Scope &amp; Delivery Feasibility Verantwortung für die Definition des Projekt-Scopes sowie die Entwicklung und Validierung belastbarer Aufwands-, Ressourcen- und Delivery-Modelle. Bewertung von Delivery-Risiken, Projektkomplexität und kritischen Abhängigkeiten sowie Festlegung von Annahmen, Voraussetzungen und kundenseitigen Mitwirkungspflichten. Sicherstellung, dass angebotene Lösungen operativ lieferbar und wirtschaftlich tragfähig sind, einschließlich eines strukturierten Übergangs von Sales in die Delivery nach Auftragseingang. Bid &amp; Proposal Support Erstellung und Qualitätssicherung fachlicher und technischer Angebotsinhalte sowie fachliche Verantwortung für die Solution- und Delivery-Kapitel innerhalb von Angeboten. Unterstützung bei RFPs, Ausschreibungen und komplexen Angebotsverfahren durch die Ausarbeitung belastbarer und überzeugender Lösungsansätze. Ansprechpartner für fachliche und technische Rückfragen von Kunden sowie Durchführung von Clarifications im Rahmen des Angebotsprozesses. Knowledge &amp; Enablement Aufbau und kontinuierliche Weiterentwicklung wiederverwendbarer Lösungskonzepte, Methoden und Best Practices zur Steigerung von Effizienz und Qualität. Aktive Weitergabe von Know-how an Sales-, Consulting- und Delivery-Teams sowie Unterstützung beim Ausbau von Sales Enablement und Solution Selling. Identifikation von Markttrends und wiederkehrenden Kundenanforderungen sowie enge Zusammenarbeit mit Product Management und Portfolio-Verantwortlichen zur Weiterentwicklung des Lösungsangebots. Dein Profil: Mindestens 5 Jahre relevante Berufserfahrung im SAP Nachweisliche Erfahrung in Pre-Sales-, Solution-Sales- oder Beratungsprozessen Erfahrung in der fachlichen Konzeption und Bewertung komplexer Kundenanforderungen Erfahrung mit Aufwandsschätzungen, Scope-Definition und Projektplanung Erfahrung in Angebotsverfahren, RFPs und komplexen Sales Cycles Ausgeprägte Präsentations-, Kommunikations- und Verhandlungsfähigkeiten Verhandlungssichere Deutsch- und Englischkenntnisse in Wort und Schrift Bereitschaft zu regelmäßigen Kundenreisen innerhalb des Projektumfelds Falls du denkst, dass du nicht alle Anforderungen erfüllst: Bei uns sind deiner Entwicklung „keine Grenzen gesetzt“! Geh mit uns gemeinsam deinen Weg – Wir unterstützen dich dabei! Zeige uns einfach wer du bist. Was dich bei uns erwartet: Ein Umfeld, dass jederzeit offen für Veränderungen und Optimierungen ist. Ein „das war schon immer so“ gibt es bei uns nicht. Du hast die Chance dein Wissen einzubringen, Prozesse zu gestalten, vorhandenen Themen zu standardisieren oder Abläufe zu optimieren. Sei Impulsgeber im Thema Projektmanagement und bringe uns mit deiner Expertise noch weiter nach vorne! Wir schaffen Rahmenbedingungen, in denen du dich wohlfühlst. Daher bieten wir dir viele Benefits, wie europaweites flexibles Arbeiten, Mobilität und Altersvorsorge. Im Folgenden findest du mehr Informationen! Wir schaffen Rahmenbedingungen, in denen du dich wohlfühlst: Home-Office Verträge &amp; absolute Flexibilität durch freie Gestaltung der Arbeitszeit&nbsp; Unbefristete Festanstellung und 30 Tage Urlaub&nbsp; FlexWork: Bis zu 3 Monate pro Jahr remote aus dem europäischen Ausland arbeiten&nbsp; Monatliches Budget für individuell wählbare Benefits aus über 50 möglichen Angeboten über emplu, verschiedene Angebote über Corporate Benefits, sowie Fahrrad- und Autoleasing per Gehaltsumwandlung Mental Health Benefit 'Nilo' – 10 kostenlose Sessions mit Psycholog:innen jährlich sowie Zugang zu Meditationen und Kursen&nbsp; Wir unterstützen dich gezielt bei deiner fachlichen und persönlichen Entwicklung bei Natuvion&nbsp; Mentorenprogramm für eine strukturierte und persönliche Einarbeitung&nbsp; Werde Teil des #teamgreen - Bei Natuvion arbeitest du an innovativen Projekten als Teil eines Teams, das füreinander einsteht. Wir setzen auf Zusammenarbeit, Offenheit und Vertrauen&nbsp; Modernes Equipment und zentrale Büros in Walldorf, Berlin, München und Leipzig &nbsp; Uns ist deine langfristige Perspektive wichtig, deshalb bezuschussen wir deine betriebliche Altersvorsorge sowie vermögenswirksame Leistungen&nbsp; Join #teamgreen - Natuvion ist ein digitales Umzugsunternehmen. Unser Team bewegt keine Tische, Aktenschränke oder Stühle. Natuvion transportiert geschäftskritische Daten und Prozesse von einer Technologieplattform auf eine andere. Typische Natuvion „Umzugsdienstleistungen“ umfassen Datenmigration, Datentransformation, Datenintegration, Datenschutz, Datensicherheit und Datenqualität. Unsere &gt;400 BeraterInnen und EntwicklerInnen in Deutschland, Österreich, Slowakei, USA und Australien verfügen über weitreichendes Knowhow bei (SAP®-)Projekten und ein profundes Prozessverständnis über Branchengrenzen hinweg. Mit viel Erfahrung, Engagement und Einsatz begleiten sie unsere Kunden mit Beratung, Dienstleistung und eigener Softwaretechnologie. So ermöglichen wir Unternehmen, ihre Daten und Prozesse immer auf den modernsten und innovativsten Plattformen zu nutzen. Du bist interessiert? Wir freuen uns auf deine Bewerbung und darauf, dich kennenzulernen! Find more English Speaking Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "sales",
+      "remote"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-sales-engineer-berlin-220891",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-4baf5451d23e",
+    "title": "Werkstudent Marketing (m/w/d)  · Remote",
+    "company": "Evolve Digital GmbH",
+    "location": "Homeoffice",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Du studierst Marketing oder etwas Ähnliches, hast schon erste Social-Media-Erfahrung und behältst auch bei vielen Themen gleichzeitig den Überblick? Bei uns übernimmst du Verantwortung für unsere LinkedIn- und Instagram-Auftritte und hältst bei Content- und Leadmagnet-Projekten die Fäden zusammen. Dabei arbeitest du eng mit unserem Team zusammen und sorgst dafür, dass unser Marketing zuverlässig und in hoher Qualität live geht. Über EVOLVE Wir sind ein ganzheitlicher Wachstumspartner für E-Commerce-Brands im DACH-Raum. Unser eigenes Marketing betreiben wir mit demselben Anspruch wie für unsere Kunden: mit klarer Botschaft, datenbasiert und mit konsequentem Einsatz von AI, damit Inhalte schnell entstehen und trotzdem auf den Punkt sind. Das wirst du tun LinkedIn-Management: Du finalisierst und veröffentlichst Beiträge für unser Führungsteam und die EVOLVE-Unternehmensseite und setzt gezielte Kommentare im Netzwerk. Projektmanagement: Du steuerst unsere Leadmagnet- und Content-Projekte von der Planung bis zur Veröffentlichung und bist mitverantwortlich dafür, dass die gesetzten Ziele planmäßig erreicht werden.&nbsp; Instagram: Du verantwortest den Instagram-Auftritt von EVOLVE, briefst die Content-Erstellung und bringst die Beiträge online. Texte: Du finalisierst Marketingtexte wie Posts, Leadmagnets und Website-Inhalte und sorgst für einen einheitlichen Ton. AI im Marketing: Du erstellst Landingpages und weitere Marketing-Assets mit AI-Tools und übernimmst flexibel die Aufgaben, die im Marketing-Alltag anfallen. Deine Rolle und deine Ressourcen Du bist die zentrale Schnittstelle, an der unser Content zusammenläuft und von der aus er veröffentlicht wird. Inhaltliche Impulse kommen aus dem Team, Creatives und Videos von unseren Spezialisten für Design und Videoschnitt. Für Fragen, Feedback oder eine zweite Meinung steht dir unser Team jederzeit zur Seite. Das bringst du mit Du bist an einer Hochschule oder Universität eingeschrieben und studierst einen passenden Studiengang, z. B. Marketing, Kommunikations- oder Medienwissenschaften, BWL oder Germanistik. Du hast bereits praktische Erfahrung im Social Media Management gesammelt, idealerweise mit LinkedIn und Instagram, z. B. durch ein Praktikum, einen Werkstudentenjob oder eigene Projekte. Du kannst Erfahrung in der Erstellung und Veröffentlichung von Content nachweisen, belegbar durch betreute Accounts oder Arbeitsproben. Du hast bereits Marketing- oder Content-Projekte mit mehreren Beteiligten koordiniert. Du setzt AI-Tools wie ChatGPT, Claude oder Landingpage-Builder sicher im Alltag ein. Du sprichst Deutsch auf C2-Niveau in Wort und Schrift. Du arbeitest strukturiert, gehst proaktiv vor und übernimmst Verantwortung für die Qualität deiner Ergebnisse. Was wir dir bieten 100 % Remote, kein Hybrid-Kompromiss Werkstudententätigkeit mit 10 bis 20 Stunden pro Woche, in den Semesterferien gern auch mehr Flexible Zeiteinteilung, die sich nach deinem Studium richtet, solange Deadlines und Veröffentlichungstermine stehen Voller Zugriff auf unseren internen AI-Stack Kollegiale und wertschätzende Arbeitsatmosphäre mit flachen Hierarchien und offener Feedbackkultur Umfangreiche Fortbildungs- und Weiterentwicklungsmöglichkeiten Langfristige Perspektive, auch nach deinem Studienabschluss Deine Ansprechpartnerin Vanessa, unsere HR Managerin, ist dein erster Kontakt und freut sich auf deine Bewerbung. Find Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "prozessmanager",
+      "remote"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/werkstudent-marketing-remote-118440",
+    "date_posted": null
+  },
+  {
     "id": "arbeitnow-148af104f28e",
     "title": "Founder’s Associate / Entrepreneur in Residence",
     "company": "Polara",
@@ -1287,134 +1357,6 @@
     "requirements": [],
     "source": "Arbeitnow",
     "url": "https://www.arbeitnow.com/jobs/companies/polara/founders-associate-entrepreneur-in-residence-berlin-448412",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-2bf9246dc8e3",
-    "title": "Technischer Planer Rechenzentrumsbau (m/w/d)",
-    "company": "innovIT AG",
-    "location": "Berlin",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Über innovIT AG Die innovIT AG denkt Rechenzentren neu: schneller geplant, modular aufgebaut und technisch präzise umgesetzt. Hinter unseren Lösungen steht ein Team mit mehr als 15 Jahren Erfahrung in Planung, Bau und Betrieb von Rechenzentren – alle Gewerke kommen aus dem eigenen Haus. Unsere Rechenzentren entstehen in Modulen aus Stahl. Dafür suchen wir jemanden, der aus unseren Grundrissen fertigungsreife Pläne macht – und der dabei mit KI arbeiten will statt gegen sie. Aufgaben Du setzt unsere Grundrisse für Rechenzentren in eine durchgängige Planung um. Du konstruierst daraus die Containermodule für unsere Fertigung – Werkstatt- und Fertigungszeichnungen im Stahlbau auf Basis der vorliegenden Statik. Du planst Kabeltrassen und Kanalwerke und stimmst sie mit dem Stahlbau ab. Eine technische Zeichnerin arbeitet dir nach deinen Vorgaben zu. Du erkennst Kollisionen, Lücken und Widersprüche selbst und sprichst sie an, bevor sie in der Fertigung landen. Du arbeitest mit KI: Claude steuert bei uns AutoCAD – du gibst die Richtung vor, prüfst die Ergebnisse und entwickelst die Arbeitsweise mit. Qualifikation Ausbildung als Technischer Systemplaner (Stahl- und Metallbautechnik), Techniker Stahl- oder Metallbau oder Studium Bauingenieurwesen mit Schwerpunkt Konstruktion Mehrjährige Erfahrung in der Werk- und Fertigungsplanung im Stahl-, Modul- oder Containerbau Sicher in Inventor, dazu AutoCAD Selbstständige, strukturierte Arbeitsweise im Home-Office Verhandlungssicheres Deutsch Ein Plus – und wenn nicht, lernst du es bei uns: Erfahrung mit TGA-Trassen, Rechenzentren, AutoLISP oder Skripten. Das bieten wir Hier planst du, was gerade die Welt bewegt: Rechenzentren für KI und Datenanalyse – modular, energieeffizient und jedes Projekt anders Komplett remote: du arbeitest von zu Hause, Termine vor Ort nur bei Bedarf Eine Zeichnerin, die dir zuarbeitet – du konzentrierst dich auf die Konstruktion KI im CAD als gelebter Alltag, nicht als Zukunftsmusik Ein erfahrenes Team aus Infrastruktur- und RZ-Spezialisten mit flachen Hierarchien und kurzen Entscheidungswegen Unbefristeter Arbeitsvertrag und 30 Tage Erholungsurlaub Moderne Ausstattung mit Laptop und Smartphone Weiterbildung und langfristige Perspektive in einem wachsenden Technologiefeld Du erfüllst nicht jeden Punkt zu 100 %? Schick uns deinen Lebenslauf trotzdem und erzähl uns, warum es passen könnte! Entscheidend sind Konstruktionserfahrung im Stahlbau und ein Blick für Details – darüber hinaus zählen für uns Eigeninitiative und Neugier mehr als ein perfekter Lebenslauf. Du bist bei uns richtig, wenn … du Probleme lieber früh ansprichst als spät ausbadest, du gern selbstständig arbeitest und trotzdem Teil eines Teams sein willst, du neugierig auf neue Werkzeuge bist – auch auf KI, und dir ein sauberer Plan mehr bedeutet als ein schneller. Bitte bewirb dich über den Button auf dieser Seite. Du hast Fragen? Deine Ansprechpartnerin ist Jasmin Damann. Dann schreib uns einfach. Werde Teil unseres Teams und plane mit uns die Rechenzentren von morgen. Find Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "building",
-      "supply",
-      "safety services engineering"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/innovit-ag/technischer-planer-rechenzentrumsbau-berlin-152007",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-22788d42bcb9",
-    "title": "Founders Associate (m/w/d)",
-    "company": "innovIT AG",
-    "location": "Berlin",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Über innovIT AG Die innovIT AG denkt Rechenzentren neu: schneller geplant, modular aufgebaut und technisch präzise umgesetzt. Hinter unseren Lösungen steht ein Team mit mehr als 15 Jahren Erfahrung in Planung, Bau und Betrieb von Rechenzentren – alle Gewerke kommen aus dem eigenen Haus. Mit unseren AI Factories bauen wir die Rechenzentrumsinfrastruktur für KI. Als rechte Hand unseres CEO bist du mittendrin – beim Aufbau des Teams, bei der Einführung von KI und im Vertrieb. Aufgaben Du bereitest CEO-Projekte vor und steuerst sie – von der KI-Einführung bis zum Teamaufbau. Du unterstützt den Vertrieb unserer AI Factories: Zielkunden recherchieren, Präsentationen und Angebotsunterlagen erstellen, Termine vorbereiten und begleiten. Du übernimmst Verantwortung für eigene Themen – ab dem ersten Tag. Qualifikation Abgeschlossenes Studium, z. B. Wirtschaftsingenieurwesen, Wirtschaftsinformatik oder vergleichbar – gern auch direkt nach dem Abschluss Strukturiert, schnell und eigenständig Sehr gute Kommunikation auf Deutsch, gutes Englisch Begeisterung für KI, Technik und Vertrieb – und Unternehmergeist Ein Plus: erste Praxis in Startup, Beratung, Tech-Vertrieb oder Projektarbeit, Pitch- und Präsentationserfahrung, Verständnis für Rechenzentren und Infrastruktur. Das bieten wir Direkte Zusammenarbeit mit dem CEO und eine steile Lernkurve Verantwortung ab Tag 1 statt Kaffeekochen KI und AI Factory: ein Zukunftsmarkt, den du aktiv mitgestaltest Home-Office und Reisen zu spannenden Kundenterminen Unbefristeter Arbeitsvertrag und 30 Tage Erholungsurlaub Hochwertiges Smartphone und Laptop Du hast noch nicht viel Berufserfahrung? Genau dafür ist die Stelle gemacht. Entscheidend sind Neugier, Tempo und der Wille, Verantwortung zu übernehmen. Du bist bei uns richtig, wenn … du lieber anpackst als abwartest, du in kurzer Zeit möglichst viel lernen willst, und dich ein Unternehmen reizt, in dem deine Arbeit sofort sichtbar wird. Bitte bewirb dich über den Button auf dieser Seite. Du hast Fragen? Deine Ansprechpartnerin ist Jasmin Damann. Dann schreib uns einfach. Werde Teil unseres Teams und bring mit uns die AI Factories von morgen auf den Weg. Find Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "business operations"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/innovit-ag/founders-associate-berlin-182618",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-9037581ad179",
-    "title": "KI-Implementierer (m/w/d)",
-    "company": "innovIT AG",
-    "location": "Berlin",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Über innovIT AG Die innovIT AG denkt Rechenzentren neu: schneller geplant, modular aufgebaut und technisch präzise umgesetzt. Hinter unseren Lösungen steht ein Team mit mehr als 15 Jahren Erfahrung in Planung, Bau und Betrieb von Rechenzentren – alle Gewerke kommen aus dem eigenen Haus. Wir bauen die Infrastruktur für KI – und wollen KI auch selbst so nutzen, dass sie unseren Alltag wirklich leichter macht. Dafür suchen wir keinen reinen Techie, sondern jemanden, der Menschen begeistert und mitnimmt. Aufgaben Du findest gemeinsam mit den Fachbereichen heraus, wo KI echten Nutzen bringt, und setzt Prioritäten. Du führst KI-gestützte Abläufe ein – vom Prozessdesign über den Pilot bis zum Rollout. Du befähigst unsere Mitarbeitenden: mit Schulungen, Begleitung im Alltag und einem offenen Ohr. Du entwickelst die Prozesse laufend weiter und machst den Erfolg messbar. Du bist die Schnittstelle zwischen Fachbereichen, IT und Geschäftsführung. Qualifikation Mehrjährige Erfahrung in Prozess-, Projekt- oder Change-Management, idealerweise in Digitalisierung oder Organisationsentwicklung Anwendungsorientiertes KI-Verständnis: Möglichkeiten, Grenzen und Datenschutz Du nutzt KI-Assistenten und Automatisierung selbst ganz selbstverständlich Starke Kommunikation und Moderation – du überzeugst, statt zu verordnen Verhandlungssicheres Deutsch Ein Plus: Erfahrung als Coach oder Trainer. Das bieten wir Gestaltungsfreiheit: Du baust die KI-Nutzung bei uns von Grund auf mit auf Direkte Zusammenarbeit mit dem CEO und kurze Entscheidungswege Ein Zukunftsthema in einem Unternehmen, das die Infrastruktur für KI selbst baut Home-Office mit flexiblem Standort Unbefristeter Arbeitsvertrag und 30 Tage Erholungsurlaub Hochwertiges Smartphone und Laptop Du erfüllst nicht jeden Punkt zu 100 %? Schick uns deinen Lebenslauf trotzdem und erzähl uns, warum es passen könnte! Entscheidend sind Erfahrung darin, Veränderungen mit Menschen umzusetzen, und echte Begeisterung für KI. Du bist bei uns richtig, wenn … du Menschen für Neues gewinnen kannst, auch die Skeptiker, du lieber ausprobierst als präsentierst, und du KI nicht als Selbstzweck siehst, sondern als Werkzeug Nutze den Bewerben-Button auf dieser Seite, um deine Unterlagen einzureichen. Du hast Fragen? Deine Ansprechpartnerin ist Jasmin Damann. Schreib uns einfach! Werde Teil unseres Teams und bring mit uns KI in den Arbeitsalltag. Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "software development"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/innovit-ag/ki-implementierer-berlin-359603",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-087eccfd4be6",
-    "title": "Senior Full Stack Developer (f/m/d) | DE + EN + FR/ES/IT",
-    "company": "HappyOps",
-    "location": "Munich",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Über HappyOps HappyOps entwickelt moderne Softwarelösungen für mittelständische Industrieunternehmen in Europa. Unsere Kunden kommen aus unterschiedlichen Branchen, darunter der Glas, Metall, Kunststoff und Maschinenbauindustrie. Gemeinsam mit ihnen digitalisieren wir Produktionsprozesse und entwickeln individuelle Softwarelösungen, die täglich in realen Fabriken eingesetzt werden. Wir sind ein profitables, eigenfinanziertes Softwareunternehmen mit einem vollständig remote arbeitenden Engineering Team. Unsere Kultur ist geprägt von Eigenverantwortung, direkter Kommunikation und kurzen Entscheidungswegen. Über die Rolle Wir suchen eine n erfahrene n Senior Full Stack Softwareentwickler*in (f/m/d) mit verhandlungssicheren Deutsch- und Englischkenntnissen sowie sehr guten Kenntnissen (mindestens C1) in mindestens einer weiteren Sprache: Französisch, Spanisch oder Italienisch. In dieser Rolle entwickelst du nicht nur Software, sondern arbeitest eng mit unseren internationalen Kunden zusammen, verstehst ihre Prozesse und setzt gemeinsam mit unserem Team moderne Lösungen für die produzierende Industrie um. Du begleitest Projekte von der ersten Anforderung bis zum produktiven Einsatz und verbindest technische Exzellenz mit pragmatischer Problemlösung. Aufgaben Entwicklung, Weiterentwicklung und Betrieb individueller Softwarelösungen für Kunden aus der produzierenden Industrie. Du verantwortest, was du entwickelst. You build it, you run it. Umsetzung komplexer Businesslogik mit modernen Technologien und Softwarearchitekturen sowie kontinuierliche Optimierung bestehender Anwendungen. Entwicklung intuitiver Web UIs, die komplexe Fertigungsprozesse einfach und effizient abbilden. Entwicklung, Betrieb und Wartung skalierbarer Cloud und On Premise Anwendungen inklusive Monitoring, Logging und Fehleranalyse. Entwicklung und Integration von Schnittstellen zu ERP Systemen, Manufacturing Software, Maschinensteuerungen, Sensoren und weiterer OT Infrastruktur. Analyse technischer Anforderungen gemeinsam mit Projektmanagern und Kunden sowie Übersetzung dieser Anforderungen in robuste Softwarelösungen. Enge Zusammenarbeit mit Kunden während des gesamten Projektverlaufs, von der Anforderungsaufnahme über die Implementierung bis zum produktiven Einsatz. Kontinuierliche Verbesserung unserer Plattform, Entwicklungsprozesse und technischen Standards sowie aktive Mitgestaltung unserer Produkt und Technologie Roadmap. Qualifikation Mindestens 5 Jahre Berufserfahrung als Full Stack Softwareentwickler*in in einem professionellen Entwicklungsumfeld. Sehr gute Kenntnisse in TypeScript, React, Node.js, Express.js, modernen Webtechnologien sowie im Schreiben automatisierter Tests. Verhandlungssichere Deutsch- und Englischkenntnisse sowie mindestens C1-Kenntnisse in einer weiteren Sprache (Französisch, Spanisch oder Italienisch). Du kannst technische Anforderungen eigenständig mit internationalen Kunden besprechen und Workshops in diesen Sprachen durchführen. Erfahrung mit Cloud Architekturen, APIs und modernen Softwareentwicklungsprozessen. Kenntnisse im Bereich Industrial IoT, Maschinenkommunikation oder Industrieprotokolle sind ein Plus. Du arbeitest eigenverantwortlich, übernimmst Verantwortung für deine Lösungen und bringst Projekte zuverlässig zum Abschluss. Du denkst pragmatisch, lernst schnell und hast Freude daran, komplexe technische Herausforderungen gemeinsam mit Kunden und dem Team zu lösen. Du kannst technische Entscheidungen fundiert begründen, bringst eigene Ideen ein und bist gleichzeitig offen für neue Perspektiven und konstruktives Feedback. Du arbeitest strukturiert, hast einen hohen Qualitätsanspruch und behältst auch in dynamischen Projekten den Überblick. Du hast Freude an der engen Zusammenarbeit mit Kunden sowie mit unserem Gründungsteam und möchtest die technische Zukunft von HappyOps aktiv mitgestalten. Benefits Entwickle Software mit echtem Einfluss. Deine Lösungen werden täglich in Fabriken eingesetzt und helfen Unternehmen, produktiver, ressourcenschonender und wettbewerbsfähiger zu werden. Arbeite an anspruchsvollen technischen Herausforderungen an der Schnittstelle zwischen Software, Maschinen, Daten und industriellen Prozessen. Gestalte die technische und organisatorische Weiterentwicklung von HappyOps aktiv mit und bringe deine Ideen direkt ein. Arbeite in einem kleinen, erfahrenen Engineering Team mit kurzen Entscheidungswegen, hoher Eigenverantwortung und direktem Austausch mit den Gründern. Flexible Arbeitszeiten, vollständig remote und eine Kultur, die Ergebnisse höher bewertet als Anwesenheit. Freie Wahl deiner Entwicklungsumgebung und deines IT Equipments, damit du mit den Werkzeugen arbeiten kannst, die für dich am besten funktionieren. Ein attraktives Gehalt sowie die Möglichkeit, dich fachlich und persönlich in einem wachsenden Softwareunternehmen weiterzuentwickeln. Die Gehaltsspanne für diese Position liegt, abhängig von Erfahrung und Qualifikation, zwischen 70.000 € und 100.000 € brutto pro Jahr . Bei HappyOps zählen für uns Kompetenz, Motivation und Teamfit. Wir begrüßen Bewerbungen unabhängig von Alter, Geschlecht, sexueller Identität, ethnischer Herkunft, Religion oder einer Behinderung. Klingt die Rolle spannend? Dann freuen wir uns auf deine Bewerbung. Auch wenn du nicht jede einzelne Anforderung erfüllst, möchten wir dich ausdrücklich ermutigen, dich zu bewerben. Sende uns einfach deinen Lebenslauf sowie deinen frühestmöglichen Eintrittstermin und deine Gehaltsvorstellung. Kennst du jemanden, der perfekt zu uns passen könnte? Für jede erfolgreiche Empfehlung, die zu einer Einstellung führt, zahlen wir eine Empfehlungsprämie von 1.500 € . Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "web development"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/happyops/senior-full-stack-developer-de-en-fr-es-it-munich-426677",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-e8a28fe17aed",
-    "title": "Linux Administrator/Consultant (m/w/d) REMOTE",
-    "company": "Pont Connects e.K.",
-    "location": "Berlin",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Ihre Aufgaben Für einen langjährigen Kunden suche ich einen Linux Administrator/Consultant (m/w/d) in Festanstellung. Sie arbeiten vollständig remote innerhalb der DACH-Region und unterstützen das Team bei anspruchsvollen Linux-Umgebungen. Das wird erwartet Sie bringen fundierte Kenntnisse in der Administration von Linux-Systemen mit und beraten Kunden fundiert zu technischen Fragestellungen. Skills: Erfahrung in Kundenprojekten: mehrjährige Erfahrung in technisch komplexen Kundenprojekten – idealerweise als Consultant, Technical Lead, System Engineer oder Solution Architect. sicher in der Administration von Linux-Servern. fundierte Kenntnisse in Netzwerken, DNS, Active Directory, LDAP, Containerisierung (Docker), APIs und Single Sign-on. IAM-Verständnis Struktur & Kommunikation: Du kannst Anforderungen klar strukturieren und technische Konzepte überzeugend und verständlich für unterschiedliche Zielgruppen aufbereiten. Arbeitsweise & Mindset: Du übernimmst Verantwortung, arbeitest eigenständig und verbindest technischen Tiefgang mit echter Beratungskompetenz. Erfahrung mit Kubernetes ist hilfreich (wünschenswert) IAM-Praxis: Du hast bereits mit Lösungen wie Keycloak, Microsoft Entra ID (Azure AD) oder ADFS gearbeitet. CI/CD & Tools: Du kennst dich mit Git und CI/CD-Tools (z. B. GitLab CI) aus. Presales-Erfahrung: Du hast Erfahrung in Aufwandsschätzungen und Angebotsprozessen. Benefits Sie arbeiten flexibel im Remote-Modrag mit einer wöchentlichen Arbeitszeit von 40 Stunden. Find Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "system and network administration"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/pont-connects-ek/linux-administrator-consultant-remote-berlin-212302",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-f725abcab44d",
-    "title": "Initiativbewerbung Büro Greifswald",
-    "company": "advacc  advanced accounting GmbH",
-    "location": "Greifswald",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Gestalte mit uns die Buchhaltung von morgen: cloudbasiert, KI-unterstützt, papierlos Du brennst für Zahlen und möchtest die Finanzbuchhaltung nicht nur verwalten, sondern aktiv in die digitale Zukunft führen? Dann bist du bei uns genau richtig, unabhängig davon, wo du in deiner Karriere gerade stehst. Wir suchen engagierte Persönlichkeiten aus dem Bereich Finanz- und Buchhaltung und freuen uns über Initiativbewerbungen von: Junior-Finanzbuchhaltern (m/w/d) , die nach ihrer Ausbildung oder ihrem Studium durchstarten und wachsen möchten, Finanzbuchhaltern (m/w/d) mit solider Praxiserfahrung, die den nächsten Schritt suchen, Senior-Finanzbuchhaltern (m/w/d) , die eigenverantwortlich Mandate und Projekte steuern wollen, Bilanzbuchhaltern (m/w/d) , die ihre Expertise in HGB-Abschlüssen und Bilanzierung voll einbringen möchten. Ob erste Berufserfahrung oder langjährige Expertise, bei uns findest du den passenden Platz und den Raum, dich weiterzuentwickeln. Deine möglichen Aufgabenfelder Je nach Erfahrung und Spezialisierung: Betreuung unserer Mandantinnen und Mandanten mit modernsten Technologien Mitwirkung an bis hin zur eigenverantwortlichen Führung der digitalen Finanzbuchhaltung Vorbereitung von Monats-, Quartals- und Jahresabschlüssen nach HGB und Finanzbuchhaltungsvorgaben Kontenpflege, Kontenabstimmungen, Vorbereitung des Zahlungsverkehrs sowie Umsatzsteuervoranmeldungen Kontinuierliche Analyse und Optimierung der Buchhaltungsprozesse durch den Einsatz digitaler Tools Gestaltung und Nutzung digitaler Workflows (z. B. Belegflüsse, Freigabeprozesse, Dokumentenmanagement) Bei entsprechender Erfahrung: eigenverantwortliche Projektsteuerung end-to-end sowie, wenn vorhanden, das Einbringen deines eigenen Mandanten-Netzwerks zum Ausbau unseres Kundenportfolios Was du mitbringen solltest Wir wissen: Nicht jede/jeder erfüllt alles und das ist völlig in Ordnung. Bewirb dich, wenn ein Großteil auf dich zutrifft: Eine abgeschlossene kaufmännische Ausbildung oder ein vergleichbares Studium Berufserfahrung passend zu deiner Karrierestufe, von ersten praktischen Erfahrungen (Junior) über mehrjährige Buchhaltungspraxis bis hin zu 3 bis 5+ Jahren und fundierter Bilanzbuchhaltungserfahrung (Senior/Bilanzbuchhalter) Idealerweise (für erfahrene Profile) Praxis aus einer Steuerkanzlei/einem Steuerbüro sowie Beteiligung an oder eigenständige Erstellung von Jahresabschlüssen Kenntnisse in HGB und Finanzbuchhaltung, je nach Level Grundkenntnisse oder umfassende Expertise Begeisterung für digitale Innovationen und Erfahrung bzw. Offenheit im Umgang mit digitalen Workflows Kenntnisse in Microsoft M365 und DATEV (Grundkenntnisse wünschenswert bis sicherer Umgang); Erfahrung mit Business Central, Oracle oder branchenspezifischen ERP-Systemen von Vorteil Ausgeprägtes Zahlenverständnis, Sorgfalt und Genauigkeit Eine selbstständige, lösungsorientierte Arbeitsweise sowie Kommunikationsstärke und Teamfähigkeit, digital wie persönlich Von Vorteil (kein Muss): ein eigenes Mandanten-Netzwerk, das du mit einbringen möchtest Was wir dir bieten Gestaltungsspielraum: Bring deine Ideen ein und gestalte aktiv die Zukunft der Buchhaltung mit Verantwortung & Entwicklung: Baue unser Team in Düsseldorf mit auf, mit echtem Raum für deine persönliche und fachliche Weiterentwicklung Kontinuierliche Weiterbildung: Bleib am Puls der digitalen Entwicklung, insbesondere bei Workflows und Automatisierung Flexibles Arbeiten: Remote oder im modernen Büro mit höhenverstellbaren Schreibtischen in der Düsseldorfer Altstadt, du hast die Wahl Work-Life-Balance: 30 Urlaubstage, zusätzlich frei an Heiligabend und Silvester sowie flexible Arbeitszeiten Mitarbeiter-Benefits: spendit-Karte, kostenlose Getränke, regelmäßige Teamevents (in Planung) Mobilität: Fahrtkostenzuschuss für das Deutschlandticket und JobRad-Leasing Über uns Die advacc advanced accounting GmbH ist der Partner für moderne, vollständig digitale Buchhaltung mit Standorten in Düsseldorf und Greifswald . Als externe Buchhaltung übernehmen wir für unsere Kundinnen und Kunden zentrale Aufgaben der Finanzbuchhaltung, von der Bearbeitung von Ein- und Ausgangsrechnungen über die Buchung aller Geschäftsvorfälle bis zur Lohnabrechnung und stellen fristgerechte, transparente und rechtssichere Abläufe sicher. Darüber hinaus beraten wir betriebswirtschaftlich, steuern das Forderungsmanagement und treiben die Digitalisierung sowie Optimierung von Buchhaltungsprozessen voran. Unser erfahrenes Team arbeitet softwareunabhängig, schnell und proaktiv, mit dem Anspruch, Abläufe zu vereinfachen, Liquidität zu sichern und Freiräume für das Kerngeschäft unserer Kundinnen und Kunden zu schaffen. Wir stehen für innovative Lösungen, hohe Serviceorientierung und echte Hands-on-Mentalität. Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "finance"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/advacc-advanced-accounting-gmbh/initiativbewerbung-buro-greifswald-142461",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-536082ba6ac4",
-    "title": "Initiativbewerbung Büro Düsseldorf",
-    "company": "advacc  advanced accounting GmbH",
-    "location": "Düsseldorf",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Gestalte mit uns die Buchhaltung von morgen: cloudbasiert, KI-unterstützt, papierlos Du brennst für Zahlen und möchtest die Finanzbuchhaltung nicht nur verwalten, sondern aktiv in die digitale Zukunft führen? Dann bist du bei uns genau richtig, unabhängig davon, wo du in deiner Karriere gerade stehst. Wir suchen engagierte Persönlichkeiten aus dem Bereich Finanz- und Buchhaltung und freuen uns über Initiativbewerbungen von: Junior-Finanzbuchhaltern (m/w/d) , die nach ihrer Ausbildung oder ihrem Studium durchstarten und wachsen möchten, Finanzbuchhaltern (m/w/d) mit solider Praxiserfahrung, die den nächsten Schritt suchen, Senior-Finanzbuchhaltern (m/w/d) , die eigenverantwortlich Mandate und Projekte steuern wollen, Bilanzbuchhaltern (m/w/d) , die ihre Expertise in HGB-Abschlüssen und Bilanzierung voll einbringen möchten. Ob erste Berufserfahrung oder langjährige Expertise, bei uns findest du den passenden Platz und den Raum, dich weiterzuentwickeln. Deine möglichen Aufgabenfelder Je nach Erfahrung und Spezialisierung: Betreuung unserer Mandantinnen und Mandanten mit modernsten Technologien Mitwirkung an bis hin zur eigenverantwortlichen Führung der digitalen Finanzbuchhaltung Vorbereitung von Monats-, Quartals- und Jahresabschlüssen nach HGB und Finanzbuchhaltungsvorgaben Kontenpflege, Kontenabstimmungen, Vorbereitung des Zahlungsverkehrs sowie Umsatzsteuervoranmeldungen Kontinuierliche Analyse und Optimierung der Buchhaltungsprozesse durch den Einsatz digitaler Tools Gestaltung und Nutzung digitaler Workflows (z. B. Belegflüsse, Freigabeprozesse, Dokumentenmanagement) Bei entsprechender Erfahrung: eigenverantwortliche Projektsteuerung end-to-end sowie, wenn vorhanden, das Einbringen deines eigenen Mandanten-Netzwerks zum Ausbau unseres Kundenportfolios Was du mitbringen solltest Wir wissen: Nicht jede/jeder erfüllt alles und das ist völlig in Ordnung. Bewirb dich, wenn ein Großteil auf dich zutrifft: Eine abgeschlossene kaufmännische Ausbildung oder ein vergleichbares Studium Berufserfahrung passend zu deiner Karrierestufe, von ersten praktischen Erfahrungen (Junior) über mehrjährige Buchhaltungspraxis bis hin zu 3 bis 5+ Jahren und fundierter Bilanzbuchhaltungserfahrung (Senior/Bilanzbuchhalter) Idealerweise (für erfahrene Profile) Praxis aus einer Steuerkanzlei/einem Steuerbüro sowie Beteiligung an oder eigenständige Erstellung von Jahresabschlüssen Kenntnisse in HGB und Finanzbuchhaltung, je nach Level Grundkenntnisse oder umfassende Expertise Begeisterung für digitale Innovationen und Erfahrung bzw. Offenheit im Umgang mit digitalen Workflows Kenntnisse in Microsoft M365 und DATEV (Grundkenntnisse wünschenswert bis sicherer Umgang); Erfahrung mit Business Central, Oracle oder branchenspezifischen ERP-Systemen von Vorteil Ausgeprägtes Zahlenverständnis, Sorgfalt und Genauigkeit Eine selbstständige, lösungsorientierte Arbeitsweise sowie Kommunikationsstärke und Teamfähigkeit, digital wie persönlich Von Vorteil (kein Muss): ein eigenes Mandanten-Netzwerk, das du mit einbringen möchtest Was wir dir bieten Gestaltungsspielraum: Bring deine Ideen ein und gestalte aktiv die Zukunft der Buchhaltung mit Verantwortung & Entwicklung: Baue unser Team in Düsseldorf mit auf, mit echtem Raum für deine persönliche und fachliche Weiterentwicklung Kontinuierliche Weiterbildung: Bleib am Puls der digitalen Entwicklung, insbesondere bei Workflows und Automatisierung Flexibles Arbeiten: Remote oder im modernen Büro mit höhenverstellbaren Schreibtischen in der Düsseldorfer Altstadt, du hast die Wahl Work-Life-Balance: 30 Urlaubstage, zusätzlich frei an Heiligabend und Silvester sowie flexible Arbeitszeiten Mitarbeiter-Benefits: spendit-Karte, kostenlose Getränke, regelmäßige Teamevents (in Planung) Mobilität: Fahrtkostenzuschuss für das Deutschlandticket und JobRad-Leasing Über uns Die advacc advanced accounting GmbH ist der Partner für moderne, vollständig digitale Buchhaltung mit Standorten in Düsseldorf und Greifswald . Als externe Buchhaltung übernehmen wir für unsere Kundinnen und Kunden zentrale Aufgaben der Finanzbuchhaltung, von der Bearbeitung von Ein- und Ausgangsrechnungen über die Buchung aller Geschäftsvorfälle bis zur Lohnabrechnung und stellen fristgerechte, transparente und rechtssichere Abläufe sicher. Darüber hinaus beraten wir betriebswirtschaftlich, steuern das Forderungsmanagement und treiben die Digitalisierung sowie Optimierung von Buchhaltungsprozessen voran. Unser erfahrenes Team arbeitet softwareunabhängig, schnell und proaktiv, mit dem Anspruch, Abläufe zu vereinfachen, Liquidität zu sichern und Freiräume für das Kerngeschäft unserer Kundinnen und Kunden zu schaffen. Wir stehen für innovative Lösungen, hohe Serviceorientierung und echte Hands-on-Mentalität. Find Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "finance"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/advacc-advanced-accounting-gmbh/initiativbewerbung-buro-dusseldorf-456047",
     "date_posted": null
   }
 ]
