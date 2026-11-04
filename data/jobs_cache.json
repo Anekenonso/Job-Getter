@@ -1,853 +1,879 @@
 [
   {
-    "id": "jobicy-afad915861dc",
-    "title": "AI Content Reviewer",
-    "company": "iMerit",
-    "location": "Australia,  Austria,  Belgium,  Canada,  Czechia,  Denmark,  Finland,  France,  Germany,  Ireland,  Netherlands,  Norway,  Singapore,  Sweden,  Switzerland,  UK,  USA",
+    "id": "jobicy-2c94f0248a26",
+    "title": "Partnership Engagement and Communications Manager",
+    "company": "CodePath",
+    "location": "USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "100% Remote | Independent Contractor | 35 - 40 USD/hourHelp shape the future of AI.Artificial Intelligence is evolving rapidly, and high-quality data plays a key role in making it smarter. We're looking for detail-oriented individuals to contribute to exciting AI projects by reviewing and annotating video content.This is your opportunity to get involved in the&hellip;",
+    "description": "CodePath is the largest educator of college computer science students in the country. We've trained over 50,000 students from more than 1,000 universities. Our partners include Amazon, Google, and other leading technology companies. After nearly a decade of training technical talent, we launched a $150M initiative with Anthropic to prepare people for careers in AI.&hellip;",
+    "required_skills": [
+      "marketing & sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/158884-partnership-engagement-and-communications-manager",
+    "date_posted": "2026-11-04"
+  },
+  {
+    "id": "jobicy-435ac6195d25",
+    "title": "Audio Recording Project - Cantonese (Hong Kong)",
+    "company": "Welo Global",
+    "location": "Hong Kong",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "We are looking for fluent Cantonese (Hong Kong) speakers to participate in a scripted audio data collection project. This is a remote, freelance opportunity that's simple, flexible, and a great way to earn extra money while contributing to future AI and voice technology. PROJECT OVERVIEW Language: Cantonese (Hong Kong) Duration: Approx. 50 minutes of total&hellip;",
+    "required_skills": [
+      "data science & analytics"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/158882-audio-recording-project-cantonese-hong-kong",
+    "date_posted": "2026-11-04"
+  },
+  {
+    "id": "jobicy-8e7d837d7f4b",
+    "title": "Regional Sales Lead, Midwest",
+    "company": "Quince",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "ABOUT QUINCE Quince is a destination for builders, creators, innovators, and operators who want to come together and challenge the status quo. Our mission is simple: make really high quality essentials for really low prices, fairly and sustainably. We deliver on that mission through a unique manufacturer-to-consumer (M2C) model eliminating the layers of traditional retail&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/158881-regional-sales-lead-midwest",
+    "date_posted": "2026-11-04"
+  },
+  {
+    "id": "jobicy-996cd054b78c",
+    "title": "Sr. Product Marketing Manager, LATAM",
+    "company": "OKX",
+    "location": "Argentina,  Brazil,  Mexico",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Who We Are At OKX, we believe that the future will be reshaped by crypto, and ultimately contribute to every individual's freedom. OKX is a leading crypto exchange, and the developer of OKX Wallet, giving millions access to crypto trading and decentralized crypto applications (dApps). OKX is also a trusted brand by hundreds of large&hellip;",
+    "required_skills": [
+      "marketing & sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/158880-sr-product-marketing-manager-latam",
+    "date_posted": "2026-11-04"
+  },
+  {
+    "id": "jobicy-539ec9176273",
+    "title": "GTM Engineer, Marketing",
+    "company": "Tremendous",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Tremendous is the global platform built for businesses to send thousands of payouts to anyone, anywhere, for free. We’re trusted by 20,000 leading organizations like Atlassian, MIT, and United Way to deliver gift cards and money to millions of recipients worldwide. In both our product and our workplace, we’re intentional about making work more efficient,&hellip;",
+    "required_skills": [
+      "marketing & sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/158879-gtm-engineer-marketing",
+    "date_posted": "2026-11-04"
+  },
+  {
+    "id": "jobicy-13ba7771ad1d",
+    "title": "Telehealth Early Intervention BCBA – Life Skills Autism Academy",
+    "company": "Centria Autism",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Are you a BCBA passionate about early intervention and looking for the flexibility of remote work without giving up clinical impact? At Life Skill Autism Academy, a division of Centria Autism, our Telehealth BCBAs lead center-based ABA therapy services virtually for children ages 12 and under. Our mission is clear: deliver compassionate, evidence-based care during&hellip;",
+    "required_skills": [
+      "healthcare & medical"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/158878-telehealth-early-intervention-bcba-life-skills-autism-academy",
+    "date_posted": "2026-11-04"
+  },
+  {
+    "id": "jobicy-622c68f4550b",
+    "title": "Senior Forward Deployed Engineer (Full-Stack)",
+    "company": "dscout",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "At Dscout, we’re building the most flexible and powerful UX research platform on the market—trusted by the world’s top brands in finance (JP Morgan Chase, Intuit, Charles Schwab, PayPal), healthcare (Aya, Headspace), consumer goods (Keen, Verizon, Target, Northface), and tech (Google, Amazon, Facebook, Meta, Spotify, AirBnB). Our tools help teams deeply understand the humans behind&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/158877-senior-forward-deployed-engineer-full-stack",
+    "date_posted": "2026-11-04"
+  },
+  {
+    "id": "jobicy-0f6015d4e322",
+    "title": "Mentor, Claude Corps",
+    "company": "CodePath",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "CodePath is the largest educator of college computer science students in the country. We've trained over 50,000 students from more than 1,000 universities. Our partners include Amazon, Google, and other leading technology companies. After nearly a decade of training technical talent, we launched a $150M initiative with Anthropic to prepare people for careers in AI.&hellip;",
+    "required_skills": [
+      "education & e-learning"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/158876-mentor-claude-corps-2",
+    "date_posted": "2026-11-04"
+  },
+  {
+    "id": "jobicy-7d46c8ee9406",
+    "title": "AI Trainers Network - English (Unites States)",
+    "company": "Welo Global",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Welo Data, part of Welocalize, is a global AI data company with 500,000+ contributors delivering high-quality, ethical data to train the world’s most advanced AI systems. We’re building smarter, more human AI with a diverse community in 100+ countries. At Welo Data, Limitless AI. Limitless You. isn’t just a slogan—it’s our promise. We build smarter&hellip;",
+    "required_skills": [
+      "data science & analytics"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/158874-ai-trainers-network-english-unites-states",
+    "date_posted": "2026-11-04"
+  },
+  {
+    "id": "jobicy-bc7ff251ef55",
+    "title": "Recruiting Systems Administrator",
+    "company": "Quince",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "ABOUT QUINCE Quince is a destination for builders, creators, innovators, and operators who want to come together and challenge the status quo. Our mission is simple: make really high quality essentials for really low prices, fairly and sustainably. We deliver on that mission through a unique manufacturer-to-consumer (M2C) model eliminating the layers of traditional retail&hellip;",
+    "required_skills": [
+      "hr & recruiting"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/158873-recruiting-systems-administrator",
+    "date_posted": "2026-11-04"
+  },
+  {
+    "id": "jobicy-9a4b91c5aca9",
+    "title": "Senior Talent Acquisition Manager",
+    "company": "OKX",
+    "location": "EMEA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About the Opportunity Our recruiting team is a core strategic driver of OKX's success. We build the foundation of our future by hiring extraordinary talent who share our mission of building an inclusive future of finance. We are looking for a Senior Talent Acquisition Manager to partner with our core business teams as we expand&hellip;",
+    "required_skills": [
+      "hr & recruiting"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/158872-senior-talent-acquisition-manager",
+    "date_posted": "2026-11-04"
+  },
+  {
+    "id": "jobicy-23d6725f2a4d",
+    "title": "Senior Product Designer, Foundations",
+    "company": "Tremendous",
+    "location": "LATAM,  Canada,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Tremendous is the global platform built for businesses to send thousands of payouts to anyone, anywhere, for free. We're trusted by 20,000 organizations like Atlassian, MIT, and United Way to deliver gift cards and money to millions of recipients worldwide. Our customers (researchers, marketers, HR teams, nonprofits, and platform businesses) rave about how fast and&hellip;",
+    "required_skills": [
+      "web, ui & ux design"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/158871-senior-product-designer-foundations",
+    "date_posted": "2026-11-04"
+  },
+  {
+    "id": "jobicy-a47762e9cd9c",
+    "title": "Customer Research Advisor",
+    "company": "dscout",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "At Dscout, we’re building the most flexible and powerful UX research platform on the market—trusted by the world’s top brands in finance (JP Morgan Chase, Intuit, Charles Schwab, PayPal), healthcare (Aya, Headspace), consumer goods (Keen, Verizon, Target, Northface), and tech (Google, Amazon, Facebook, Meta, Spotify, AirBnB). Our tools help teams deeply understand the humans behind&hellip;",
+    "required_skills": [
+      "customer support & success"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/158869-customer-research-advisor",
+    "date_posted": "2026-11-04"
+  },
+  {
+    "id": "jobicy-3d9043fcb535",
+    "title": "Grant Writer",
+    "company": "CodePath",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "CodePath is the largest educator of college computer science students in the country. We've trained over 50,000 students from more than 1,000 universities. Our partners include Amazon, Google, and other leading technology companies. After nearly a decade of training technical talent, we launched a $150M initiative with Anthropic to prepare people for careers in AI.&hellip;",
     "required_skills": [
       "content & editorial"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158833-ai-content-reviewer",
+    "url": "https://jobicy.com/jobs/158868-grant-writer",
     "date_posted": "2026-11-04"
   },
   {
-    "id": "jobicy-c1ddbeef3b5b",
-    "title": "Senior Digital Project Manager",
-    "company": "Wpromote",
+    "id": "jobicy-0ae8f1d525f8",
+    "title": "Financial Analyst (P2) - Temp to FTE Opportunity",
+    "company": "Salesloft",
     "location": "USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "The Role The ideal candidate is someone who has experience in a digital agency, is well-versed in project management processes, thrives in a fast-paced environment, and relishes taking complete ownership of programs from beginning to end. You will partner with our client services team to ensure exceptional delivery of clients' needs. You will also work&hellip;",
+    "description": "Job Title: Financial Analyst (P2) Location: Remote THE OPPORTUNITY: At Salesloft, our Financial Analyst will be pivotal to our company’s success. You will be a key member of our fast-growing and high-performing Finance team and will be a critical partner in scaling the company by building key business relationships across the organization. We believe that&hellip;",
+    "required_skills": [
+      "finance & accounting"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/158867-financial-analyst-p2-temp-to-fte-opportunity",
+    "date_posted": "2026-11-04"
+  },
+  {
+    "id": "jobicy-7f9dcbb0fe91",
+    "title": "AI Trainers Network - English (Canada)",
+    "company": "Welo Global",
+    "location": "Canada",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Welo Data, part of Welocalize, is a global AI data company with 500,000+ contributors delivering high-quality, ethical data to train the world’s most advanced AI systems. We’re building smarter, more human AI with a diverse community in 100+ countries. At Welo Data, Limitless AI. Limitless You. isn’t just a slogan—it’s our promise. We build smarter&hellip;",
+    "required_skills": [
+      "data science & analytics"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/158866-ai-trainers-network-english-canada",
+    "date_posted": "2026-11-04"
+  },
+  {
+    "id": "jobicy-eeda81161d54",
+    "title": "Program Manager, Materials Planning",
+    "company": "Quince",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "ABOUT QUINCE Quince is a destination for builders, creators, innovators, and operators who want to come together and challenge the status quo. Our mission is simple: make really high quality essentials for really low prices, fairly and sustainably. We deliver on that mission through a unique manufacturer-to-consumer (M2C) model eliminating the layers of traditional retail&hellip;",
     "required_skills": [
       "project & program management"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158832-senior-digital-project-manager",
-    "date_posted": "2026-11-03"
+    "url": "https://jobicy.com/jobs/158865-program-manager-materials-planning",
+    "date_posted": "2026-11-04"
   },
   {
-    "id": "jobicy-667deffdaeaa",
-    "title": "Principal Partner Solutions Consultant",
-    "company": "Cresta",
-    "location": "USA",
+    "id": "jobicy-faa18ad47dcb",
+    "title": "Senior Compliance Manager, Tokenized Securities Venue (Americas)",
+    "company": "OKX",
+    "location": "LATAM,  USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channel. The world’s leading companies, including United Airlines, Cox Communications, and Marriott, use Cresta to&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158831-principal-partner-solutions-consultant",
-    "date_posted": "2026-11-03"
-  },
-  {
-    "id": "jobicy-12093f80b65f",
-    "title": "Developer Relations Engineer (New York, NY)",
-    "company": "Supabase",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We're looking for a Developer Relations Engineer based in New York, NY to join&hellip;",
-    "required_skills": [
-      "marketing & sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158830-developer-relations-engineer-new-york-ny",
-    "date_posted": "2026-11-03"
-  },
-  {
-    "id": "jobicy-b9b82e35d18f",
-    "title": "Sales Recruiter - US-Based",
-    "company": "Toptal",
-    "location": "Canada,  USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Toptal Toptal is a global network of top talent in business, design, and technology that enables companies to scale their teams, on-demand. With $200+ million in annual revenue and team members based around the globe, Toptal is the world’s largest fully remote workforce. We take the best elements of virtual teams and combine them&hellip;",
-    "required_skills": [
-      "hr & recruiting"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158829-sales-recruiter-us-based",
-    "date_posted": "2026-11-03"
-  },
-  {
-    "id": "jobicy-0c06445d829a",
-    "title": "Product Manager",
-    "company": "Wpromote",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "The Role We’re looking for a Product Manager to join Wpromote’s Technology team and help shape Polaris IQ, our marketing intelligence platform that gives clients more intelligent investment decisions and actions to grow their brand and their bottomline, with solutions across brand health, audience, creative, media, and measurement. You’ll own multiple applications within Polaris IQ&hellip;",
-    "required_skills": [
-      "product & operations"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158828-product-manager-11",
-    "date_posted": "2026-11-03"
-  },
-  {
-    "id": "jobicy-7e166312b62f",
-    "title": "Partner Success Director",
-    "company": "Cresta",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channel. The world’s leading companies, including United Airlines, Cox Communications, and Marriott, use Cresta to&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158827-partner-success-director",
-    "date_posted": "2026-11-03"
-  },
-  {
-    "id": "jobicy-9ef7e757c6e1",
-    "title": "Partner Solutions Architect , AI Builder",
-    "company": "Supabase",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. Supabase is the backend of choice for a growing wave of AI-native builders, and we're deepening structured&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158826-partner-solutions-architect-ai-builder",
-    "date_posted": "2026-11-03"
-  },
-  {
-    "id": "jobicy-f606abc463ce",
-    "title": "Sales Recruiter",
-    "company": "Toptal",
-    "location": "Canada,  USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Toptal Toptal is a global network of top talent in business, design, and technology that enables companies to scale their teams, on-demand. With $200+ million in annual revenue and team members based around the globe, Toptal is the world’s largest fully remote workforce. We take the best elements of virtual teams and combine them&hellip;",
-    "required_skills": [
-      "hr & recruiting"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158824-sales-recruiter-2",
-    "date_posted": "2026-11-03"
-  },
-  {
-    "id": "jobicy-ef90afe0ab3f",
-    "title": "Paid Search Manager (B2B)",
-    "company": "Wpromote",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "The Role We're seeking a Paid Search Manager to support strategy and execution across enterprise and mid-market accounts within Wpromote's growing B2B practice. This individual contributor (IC) role will partner with senior team members to drive performance through thoughtful campaign management, optimization, and cross-functional collaboration. The ideal candidate has experience managing paid search campaigns within&hellip;",
-    "required_skills": [
-      "marketing & sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158823-paid-search-manager-b2b",
-    "date_posted": "2026-11-03"
-  },
-  {
-    "id": "jobicy-9c3e0e9f86da",
-    "title": "Lead Engineer - AI Agent Voice Experience",
-    "company": "Cresta",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channel. The world’s leading companies, including United Airlines, Cox Communications, and Marriott, use Cresta to&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158822-lead-engineer-ai-agent-voice-experience",
-    "date_posted": "2026-11-03"
-  },
-  {
-    "id": "jobicy-f8cf588b3d58",
-    "title": "Senior Account Executive",
-    "company": "Roofr",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At Roofr, we’re obsessed with our customers. We constantly gather feedback to shape, prioritize, and launch the products they truly need. That’s what makes Roofr’s CRM special. We started by building essential sales tools like aerial roof measurements and digital sales proposals. But when our customers asked for a simple, affordable way to manage and&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158821-senior-account-executive-13",
-    "date_posted": "2026-11-03"
-  },
-  {
-    "id": "jobicy-0f2f6d9ca521",
-    "title": "Senior Director, Global Compensation",
-    "company": "Veeam Software",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security,&hellip;",
-    "required_skills": [
-      "hr & recruiting"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158820-senior-director-global-compensation",
-    "date_posted": "2026-11-03"
-  },
-  {
-    "id": "jobicy-02afeb0a5bb9",
-    "title": "Director, Engineering (The Americas)",
-    "company": "Zone &#038; Co",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Zone &amp; Company Software Consulting LLC (“Zone”) is the ERP-native AI platform for financial operations, purpose-built for organizations running on Oracle NetSuite. We are redefining how finance teams operate by delivering an AI-powered system that automates, connects, and scales financial workflows directly within the ERP. As the AI operating system for finance teams in NetSuite,&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158819-director-engineering-the-americas",
-    "date_posted": "2026-11-03"
-  },
-  {
-    "id": "jobicy-521f15d44c6f",
-    "title": "Senior Full Stack Engineer",
-    "company": "Solace",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Solace Healthcare in the U.S. is fundamentally broken. The system is so complex that 88% of U.S. adults do not have the health literacy necessary to navigate it without help. Solace cuts through the red tape of healthcare by pairing patients with expert advocates and giving them the tools to make better decisions—and get&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158818-senior-full-stack-engineer-9",
-    "date_posted": "2026-11-03"
-  },
-  {
-    "id": "jobicy-3e3ebb47db3a",
-    "title": "Application Security Engineer, Generative AI",
-    "company": "Liftoff",
-    "location": "Canada,  USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Liftoff is a leading AI-powered performance marketing platform for the mobile app economy. Our end-to-end technology stack helps app marketers acquire and retain high-value users, while enabling publishers to maximize revenue across programmatic and direct demand. Liftoff’s solutions, including Accelerate, Direct, Monetize, Intelligence, and Vungle Exchange, support over 6,600 mobile businesses across 74 countries in&hellip;",
-    "required_skills": [
-      "cybersecurity"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158817-application-security-engineer-generative-ai",
-    "date_posted": "2026-11-03"
-  },
-  {
-    "id": "jobicy-159fd96b136a",
-    "title": "Paid Search Manager",
-    "company": "Wpromote",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "The Role We’re looking for a Paid Search Manager to join the rapidly expanding team that is the backbone of our company. You’ll directly manage search engine marketing (SEM) campaigns across both Google Ads and Microsoft Ads, making optimizations and updates daily. Your complex and diverse portfolio of clients will be a mix of both&hellip;",
-    "required_skills": [
-      "marketing & sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158816-paid-search-manager",
-    "date_posted": "2026-11-03"
-  },
-  {
-    "id": "jobicy-62788ede31b9",
-    "title": "Client Success Manager, Enterprise",
-    "company": "Doximity",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Doximity Doximity is the leading clinical AI company with the largest network of U.S. clinicians. Doximity’s AI-powered workflow platform is trusted by over 85% of U.S. physicians and 300+ health systems. Doximity's mission is to help clinicians be more productive so they can provide better care for their patients. At Doximity, we value curiosity,&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158815-client-success-manager-enterprise",
-    "date_posted": "2026-11-03"
-  },
-  {
-    "id": "jobicy-3473b47597f1",
-    "title": "Onboarding Manager, Bilingual (Spanish)",
-    "company": "Roofr",
-    "location": "Canada",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At Roofr, we’re obsessed with our customers. We constantly gather feedback to shape, prioritize, and launch the products they truly need. That’s what makes Roofr’s CRM special. We started by building essential sales tools like aerial roof measurements and digital sales proposals. But when our customers asked for a simple, affordable way to manage and&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158813-onboarding-manager-bilingual-spanish",
-    "date_posted": "2026-11-03"
-  },
-  {
-    "id": "jobicy-204ac9986334",
-    "title": "Senior Director, Digital Advertising",
-    "company": "Veeam Software",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security,&hellip;",
-    "required_skills": [
-      "marketing & sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158812-senior-director-digital-advertising",
-    "date_posted": "2026-11-03"
-  },
-  {
-    "id": "jobicy-6b68b321207c",
-    "title": "Demand Generation Manager, NOAM",
-    "company": "Zone &#038; Co",
-    "location": "Canada,  USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Zone &amp; Company Software Consulting LLC (“Zone”) is the ERP-native AI platform for financial operations, purpose-built for organizations running on Oracle NetSuite. We are redefining how finance teams operate by delivering an AI-powered system that automates, connects, and scales financial workflows directly within the ERP. As the AI operating system for finance teams in NetSuite,&hellip;",
-    "required_skills": [
-      "marketing & sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158811-demand-generation-manager-noam",
-    "date_posted": "2026-11-03"
-  },
-  {
-    "id": "jobicy-7c6f52b8a07c",
-    "title": "Brazilian Portuguese Patent Language Lead",
-    "company": "Welo Global",
-    "location": "France,  Germany,  Italy,  Portugal,  Spain,  UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Park IP, a Welo Global brand, is a global IP solutions partner built for modern intellectual property work. The company enables legal teams to protect intellectual assets with accuracy, clarity, and confidence across jurisdictions. Trusted by Am Law 200 firms and Fortune 500 corporate legal departments, Park IP combines deep IP expertise with AI-powered workflows&hellip;",
+    "description": "Who We Are At OKX, we believe that the future will be reshaped by crypto, and ultimately contribute to every individual's freedom. OKX is a leading crypto exchange, and the developer of OKX Wallet, giving millions access to crypto trading and decentralized crypto applications (dApps). OKX is also a trusted brand by hundreds of large&hellip;",
     "required_skills": [
       "legal & compliance"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158810-brazilian-portuguese-patent-language-lead",
-    "date_posted": "2026-11-03"
+    "url": "https://jobicy.com/jobs/158864-senior-compliance-manager-tokenized-securities-venue-americas",
+    "date_posted": "2026-11-04"
   },
   {
-    "id": "jobicy-ea0150cc157a",
-    "title": "AI Trainers Network - Welsh",
-    "company": "Welo Global",
-    "location": "Anywhere",
+    "id": "jobicy-c9442b053247",
+    "title": "People Operations Manager",
+    "company": "Tremendous",
+    "location": "LATAM,  Canada,  USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Welo Data, part of Welocalize, is a global AI data company with 500,000+ contributors delivering high-quality, ethical data to train the world’s most advanced AI systems. We’re building smarter, more human AI with a diverse community in 100+ countries. At Welo Data, Limitless AI. Limitless You. isn’t just a slogan—it’s our promise. We build smarter&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158809-ai-trainers-network-welsh",
-    "date_posted": "2026-11-03"
-  },
-  {
-    "id": "jobicy-a827b6d8bad9",
-    "title": "AI Trainers Network - Vietnamese",
-    "company": "Welo Global",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Welo Data, part of Welocalize, is a global AI data company with 500,000+ contributors delivering high-quality, ethical data to train the world’s most advanced AI systems. We’re building smarter, more human AI with a diverse community in 100+ countries. At Welo Data, Limitless AI. Limitless You. isn’t just a slogan—it’s our promise. We build smarter&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158808-ai-trainers-network-vietnamese",
-    "date_posted": "2026-11-03"
-  },
-  {
-    "id": "jobicy-d05599891af7",
-    "title": "AI Trainers Network - Uzbek",
-    "company": "Welo Global",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Welo Data, part of Welocalize, is a global AI data company with 500,000+ contributors delivering high-quality, ethical data to train the world’s most advanced AI systems. We’re building smarter, more human AI with a diverse community in 100+ countries. At Welo Data, Limitless AI. Limitless You. isn’t just a slogan—it’s our promise. We build smarter&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158807-ai-trainers-network-uzbek",
-    "date_posted": "2026-11-03"
-  },
-  {
-    "id": "jobicy-ad04c3120681",
-    "title": "AI Trainers Network - Ukrainian",
-    "company": "Welo Global",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Welo Data, part of Welocalize, is a global AI data company with 500,000+ contributors delivering high-quality, ethical data to train the world’s most advanced AI systems. We’re building smarter, more human AI with a diverse community in 100+ countries. At Welo Data, Limitless AI. Limitless You. isn’t just a slogan—it’s our promise. We build smarter&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158806-ai-trainers-network-ukrainian",
-    "date_posted": "2026-11-03"
-  },
-  {
-    "id": "jobicy-3040a6ee24fe",
-    "title": "AI Trainers Network - Twi",
-    "company": "Welo Global",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Welo Data, part of Welocalize, is a global AI data company with 500,000+ contributors delivering high-quality, ethical data to train the world’s most advanced AI systems. We’re building smarter, more human AI with a diverse community in 100+ countries. At Welo Data, Limitless AI. Limitless You. isn’t just a slogan—it’s our promise. We build smarter&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158805-ai-trainers-network-twi",
-    "date_posted": "2026-11-03"
-  },
-  {
-    "id": "jobicy-695a96a393ec",
-    "title": "AI Trainers Network - Turkish",
-    "company": "Welo Global",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Welo Data, part of Welocalize, is a global AI data company with 500,000+ contributors delivering high-quality, ethical data to train the world’s most advanced AI systems. We’re building smarter, more human AI with a diverse community in 100+ countries. At Welo Data, Limitless AI. Limitless You. isn’t just a slogan—it’s our promise. We build smarter&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158804-ai-trainers-network-turkish",
-    "date_posted": "2026-11-03"
-  },
-  {
-    "id": "jobicy-c3d1bab340f3",
-    "title": "AI Trainers Network - Thai",
-    "company": "Welo Global",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Welo Data, part of Welocalize, is a global AI data company with 500,000+ contributors delivering high-quality, ethical data to train the world’s most advanced AI systems. We’re building smarter, more human AI with a diverse community in 100+ countries. At Welo Data, Limitless AI. Limitless You. isn’t just a slogan—it’s our promise. We build smarter&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158803-ai-trainers-network-thai",
-    "date_posted": "2026-11-03"
-  },
-  {
-    "id": "jobicy-793554ed7bbd",
-    "title": "AI Trainers Network - Tagalog",
-    "company": "Welo Global",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Welo Data, part of Welocalize, is a global AI data company with 500,000+ contributors delivering high-quality, ethical data to train the world’s most advanced AI systems. We’re building smarter, more human AI with a diverse community in 100+ countries. At Welo Data, Limitless AI. Limitless You. isn’t just a slogan—it’s our promise. We build smarter&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158802-ai-trainers-network-tagalog",
-    "date_posted": "2026-11-03"
-  },
-  {
-    "id": "jobicy-7dcb2b74a390",
-    "title": "AI Trainers Network - Swedish",
-    "company": "Welo Global",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Welo Data, part of Welocalize, is a global AI data company with 500,000+ contributors delivering high-quality, ethical data to train the world’s most advanced AI systems. We’re building smarter, more human AI with a diverse community in 100+ countries. At Welo Data, Limitless AI. Limitless You. isn’t just a slogan—it’s our promise. We build smarter&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158801-ai-trainers-network-swedish",
-    "date_posted": "2026-11-03"
-  },
-  {
-    "id": "jobicy-4147f1392416",
-    "title": "AI Trainers Network - Swahili",
-    "company": "Welo Global",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Welo Data, part of Welocalize, is a global AI data company with 500,000+ contributors delivering high-quality, ethical data to train the world’s most advanced AI systems. We’re building smarter, more human AI with a diverse community in 100+ countries. At Welo Data, Limitless AI. Limitless You. isn’t just a slogan—it’s our promise. We build smarter&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158800-ai-trainers-network-swahili",
-    "date_posted": "2026-11-03"
-  },
-  {
-    "id": "jobicy-19ec5ee2d2ee",
-    "title": "AI Trainers Network - Southeast Asia Talent Hub (Ex-Singapore Residents)",
-    "company": "Welo Global",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Welo Data, part of Welocalize, is a global AI data company with 500,000+ contributors delivering high-quality, ethical data to train the world’s most advanced AI systems. We’re building smarter, more human AI with a diverse community in 100+ countries. At Welo Data, Limitless AI. Limitless You. isn’t just a slogan—it’s our promise. We build smarter&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158799-ai-trainers-network-southeast-asia-talent-hub-ex-singapore-residents",
-    "date_posted": "2026-11-03"
-  },
-  {
-    "id": "jobicy-0510d7b6a9de",
-    "title": "AI Trainers Network - Somali",
-    "company": "Welo Global",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Welo Data, part of Welocalize, is a global AI data company with 500,000+ contributors delivering high-quality, ethical data to train the world’s most advanced AI systems. We’re building smarter, more human AI with a diverse community in 100+ countries. At Welo Data, Limitless AI. Limitless You. isn’t just a slogan—it’s our promise. We build smarter&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158798-ai-trainers-network-somali",
-    "date_posted": "2026-11-03"
-  },
-  {
-    "id": "jobicy-d849e5bed5c7",
-    "title": "AI Trainers Network - Slovenian",
-    "company": "Welo Global",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Welo Data, part of Welocalize, is a global AI data company with 500,000+ contributors delivering high-quality, ethical data to train the world’s most advanced AI systems. We’re building smarter, more human AI with a diverse community in 100+ countries. At Welo Data, Limitless AI. Limitless You. isn’t just a slogan—it’s our promise. We build smarter&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158797-ai-trainers-network-slovenian",
-    "date_posted": "2026-11-03"
-  },
-  {
-    "id": "jobicy-7fc65001d8f5",
-    "title": "AI Trainers Network - Slovak",
-    "company": "Welo Global",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Welo Data, part of Welocalize, is a global AI data company with 500,000+ contributors delivering high-quality, ethical data to train the world’s most advanced AI systems. We’re building smarter, more human AI with a diverse community in 100+ countries. At Welo Data, Limitless AI. Limitless You. isn’t just a slogan—it’s our promise. We build smarter&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158796-ai-trainers-network-slovak",
-    "date_posted": "2026-11-03"
-  },
-  {
-    "id": "jobicy-43ea22d76e2d",
-    "title": "AI Trainers Network - Serbian",
-    "company": "Welo Global",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Welo Data, part of Welocalize, is a global AI data company with 500,000+ contributors delivering high-quality, ethical data to train the world’s most advanced AI systems. We’re building smarter, more human AI with a diverse community in 100+ countries. At Welo Data, Limitless AI. Limitless You. isn’t just a slogan—it’s our promise. We build smarter&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158795-ai-trainers-network-serbian",
-    "date_posted": "2026-11-03"
-  },
-  {
-    "id": "jobicy-c12459031f83",
-    "title": "AI Trainers Network - Romanian",
-    "company": "Welo Global",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Welo Data, part of Welocalize, is a global AI data company with 500,000+ contributors delivering high-quality, ethical data to train the world’s most advanced AI systems. We’re building smarter, more human AI with a diverse community in 100+ countries. At Welo Data, Limitless AI. Limitless You. isn’t just a slogan—it’s our promise. We build smarter&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158794-ai-trainers-network-romanian",
-    "date_posted": "2026-11-03"
-  },
-  {
-    "id": "jobicy-3c799213054c",
-    "title": "AI Trainers Network - Portuguese",
-    "company": "Welo Global",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Welo Data, part of Welocalize, is a global AI data company with 500,000+ contributors delivering high-quality, ethical data to train the world’s most advanced AI systems. We’re building smarter, more human AI with a diverse community in 100+ countries. At Welo Data, Limitless AI. Limitless You. isn’t just a slogan—it’s our promise. We build smarter&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158793-ai-trainers-network-portuguese",
-    "date_posted": "2026-11-03"
-  },
-  {
-    "id": "jobicy-8fcfe89b8fa8",
-    "title": "AI Trainers Network - Polish",
-    "company": "Welo Global",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Welo Data, part of Welocalize, is a global AI data company with 500,000+ contributors delivering high-quality, ethical data to train the world’s most advanced AI systems. We’re building smarter, more human AI with a diverse community in 100+ countries. At Welo Data, Limitless AI. Limitless You. isn’t just a slogan—it’s our promise. We build smarter&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158792-ai-trainers-network-polish",
-    "date_posted": "2026-11-03"
-  },
-  {
-    "id": "jobicy-08891210bbf8",
-    "title": "AI Trainers Network - Persian",
-    "company": "Welo Global",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Welo Data, part of Welocalize, is a global AI data company with 500,000+ contributors delivering high-quality, ethical data to train the world’s most advanced AI systems. We’re building smarter, more human AI with a diverse community in 100+ countries. At Welo Data, Limitless AI. Limitless You. isn’t just a slogan—it’s our promise. We build smarter&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158791-ai-trainers-network-persian",
-    "date_posted": "2026-11-03"
-  },
-  {
-    "id": "jobicy-807ff6e00290",
-    "title": "AI Trainers Network - Norwegian",
-    "company": "Welo Global",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Welo Data, part of Welocalize, is a global AI data company with 500,000+ contributors delivering high-quality, ethical data to train the world’s most advanced AI systems. We’re building smarter, more human AI with a diverse community in 100+ countries. At Welo Data, Limitless AI. Limitless You. isn’t just a slogan—it’s our promise. We build smarter&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158790-ai-trainers-network-norwegian",
-    "date_posted": "2026-11-03"
-  },
-  {
-    "id": "jobicy-da7b32cbef69",
-    "title": "AI Trainers Network - Mongolian",
-    "company": "Welo Global",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Welo Data, part of Welocalize, is a global AI data company with 500,000+ contributors delivering high-quality, ethical data to train the world’s most advanced AI systems. We’re building smarter, more human AI with a diverse community in 100+ countries. At Welo Data, Limitless AI. Limitless You. isn’t just a slogan—it’s our promise. We build smarter&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158789-ai-trainers-network-mongolian",
-    "date_posted": "2026-11-03"
-  },
-  {
-    "id": "jobicy-7428ee3380bd",
-    "title": "AI Trainers Network - Maori",
-    "company": "Welo Global",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Welo Data, part of Welocalize, is a global AI data company with 500,000+ contributors delivering high-quality, ethical data to train the world’s most advanced AI systems. We’re building smarter, more human AI with a diverse community in 100+ countries. At Welo Data, Limitless AI. Limitless You. isn’t just a slogan—it’s our promise. We build smarter&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158788-ai-trainers-network-maori",
-    "date_posted": "2026-11-03"
-  },
-  {
-    "id": "jobicy-c3681d8051e0",
-    "title": "AI Trainers Network - Malay",
-    "company": "Welo Global",
-    "location": "Anywhere",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Welo Data, part of Welocalize, is a global AI data company with 500,000+ contributors delivering high-quality, ethical data to train the world’s most advanced AI systems. We’re building smarter, more human AI with a diverse community in 100+ countries. At Welo Data, Limitless AI. Limitless You. isn’t just a slogan—it’s our promise. We build smarter&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158787-ai-trainers-network-malay",
-    "date_posted": "2026-11-03"
-  },
-  {
-    "id": "jobicy-598be1118e43",
-    "title": "Senior Early Talent & G&A Recruiter",
-    "company": "Samsara",
-    "location": "UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical&hellip;",
+    "description": "Tremendous is the global platform built for businesses to send thousands of payouts to anyone, anywhere, for free. We're trusted by 20,000 organizations like Atlassian, MIT, and United Way to deliver gift cards and money to millions of recipients worldwide. Our customers (researchers, marketers, HR teams, nonprofits, and platform businesses) rave about how fast and&hellip;",
     "required_skills": [
       "hr & recruiting"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158786-senior-early-talent-ga-recruiter",
-    "date_posted": "2026-11-03"
+    "url": "https://jobicy.com/jobs/158863-people-operations-manager-4",
+    "date_posted": "2026-11-04"
   },
   {
-    "id": "jobicy-ccabe36ef376",
-    "title": "AI Trainers Network - Lithuanian",
-    "company": "Welo Global",
-    "location": "Anywhere",
+    "id": "jobicy-b07b2363123f",
+    "title": "AI Research Engineer",
+    "company": "dscout",
+    "location": "USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Welo Data, part of Welocalize, is a global AI data company with 500,000+ contributors delivering high-quality, ethical data to train the world’s most advanced AI systems. We’re building smarter, more human AI with a diverse community in 100+ countries. At Welo Data, Limitless AI. Limitless You. isn’t just a slogan—it’s our promise. We build smarter&hellip;",
+    "description": "At Dscout, we’re building the most flexible and powerful UX research platform on the market—trusted by the world’s top brands in finance (JP Morgan Chase, Intuit, Charles Schwab, PayPal), healthcare (Aya, Headspace), consumer goods (Keen, Verizon, Target, Northface), and tech (Google, Amazon, Facebook, Meta, Spotify, AirBnB). Our tools help teams deeply understand the humans behind&hellip;",
     "required_skills": [
       "data science & analytics"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158784-ai-trainers-network-lithuanian",
-    "date_posted": "2026-11-03"
+    "url": "https://jobicy.com/jobs/158861-ai-research-engineer",
+    "date_posted": "2026-11-04"
   },
   {
-    "id": "jobicy-b237a61361ff",
-    "title": "Security Analyst (Governance and Trust)",
-    "company": "Chainguard",
-    "location": "Canada,  Germany,  UK,  USA",
+    "id": "jobicy-d5e30451d2af",
+    "title": "Early Intervention BCBA – Life Skills Autism Academy (Center-Based)",
+    "company": "Centria Autism",
+    "location": "USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI,&hellip;",
+    "description": "Are you a BCBA passionate about early intervention and looking for the flexibility of remote work without giving up clinical impact? At Life Skill Autism Academy, a division of Centria Autism, our Telehealth BCBAs lead center-based ABA therapy services virtually for children ages 12 and under. Our mission is clear: deliver compassionate, evidence-based care during&hellip;",
     "required_skills": [
-      "cybersecurity"
+      "healthcare & medical"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158783-security-analyst-governance-and-trust",
-    "date_posted": "2026-11-03"
+    "url": "https://jobicy.com/jobs/158862-early-intervention-bcba-life-skills-autism-academy-center-based",
+    "date_posted": "2026-11-04"
   },
   {
-    "id": "jobicy-98c8af01de39",
-    "title": "Senior Customer Success Manager - DACH & North",
-    "company": "Amplitude",
-    "location": "Germany",
+    "id": "jobicy-b057ada1f855",
+    "title": "Director, Early Talent, Claude Corps",
+    "company": "CodePath",
+    "location": "USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Amplitude is the leading AI analytics platform, helping over 5,200 customers—including Atlassian, Burger King, NBCUniversal, and Square—build better products and digital experiences. With powerful AI Agents embedded across our platform, teams can analyze, test, and optimize user experiences faster than ever. Ranked #1 across multiple categories in G2’s Winter 2026 Report, Amplitude is the best-in-class&hellip;",
+    "description": "CodePath is the largest educator of college computer science students in the country. We've trained over 50,000 students from more than 1,000 universities. Our partners include Amazon, Google, and other leading technology companies. After nearly a decade of training technical talent, we launched a $150M initiative with Anthropic to prepare people for careers in AI.&hellip;",
     "required_skills": [
-      "customer support & success"
+      "hr & recruiting"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158782-senior-customer-success-manager-dach-north",
-    "date_posted": "2026-11-03"
+    "url": "https://jobicy.com/jobs/158860-director-early-talent-claude-corps",
+    "date_posted": "2026-11-04"
   },
   {
-    "id": "jobicy-de5ce346e628",
-    "title": "Senior Software Engineer",
-    "company": "Vonage",
-    "location": "Poland",
+    "id": "jobicy-09d15a889b15",
+    "title": "Commercial Account Manager",
+    "company": "Salesloft",
+    "location": "USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Join Vonage and help us innovate cloud communications for businesses worldwide! About Vonage Vonage is the emerging leader in the $100B+ cloud communications platform (CPaaS) market. Customers like Airbnb, Viber, WhatsApp, Snapchat, and many others depend on our APIs and SDKs to connect with their customers all over the world. As businesses continue to shift&hellip;",
+    "description": "Job Title: Commercial Account Manager Location: United States - Remote This is a fully remote opportunity and can be worked from any location in the United States. THE OPPORTUNITY: At Salesloft, our Commercial Account Managers are pivotal to our company's success. You will be a key member of our fast-growing and high-performing sales team and&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/158859-commercial-account-manager-3",
+    "date_posted": "2026-11-04"
+  },
+  {
+    "id": "jobicy-76fa3ceb8da3",
+    "title": "AI Data Annotator - French (Canada)",
+    "company": "Welo Global",
+    "location": "Canada",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "OVERVIEW We are seeking skilled and detail-oriented individuals to join our team as AI Data Annotators. In this role, you will be responsible for performing rating and annotation work that is essential to our AI development process. If you are meticulous and passionate about contributing to the advancement of AI technology, we invite you to&hellip;",
+    "required_skills": [
+      "data science & analytics"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/158858-ai-data-annotator-french-canada",
+    "date_posted": "2026-11-04"
+  },
+  {
+    "id": "jobicy-484afdb67511",
+    "title": "Manager, Return To Vendor (RTV)",
+    "company": "Quince",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "ABOUT QUINCE Quince is a destination for builders, creators, innovators, and operators who want to come together and challenge the status quo. Our mission is simple: make really high quality essentials for really low prices, fairly and sustainably. We deliver on that mission through a unique manufacturer-to-consumer (M2C) model eliminating the layers of traditional retail&hellip;",
+    "required_skills": [
+      "product & operations"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/158857-manager-return-to-vendor-rtv",
+    "date_posted": "2026-11-04"
+  },
+  {
+    "id": "jobicy-fbc00f215745",
+    "title": "Senior Compliance Analyst",
+    "company": "OKX",
+    "location": "Argentina",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Who We Are At OKX, we believe that the future will be reshaped by crypto, and ultimately contribute to every individual's freedom. OKX is a leading crypto exchange, and the developer of OKX Wallet, giving millions access to crypto trading and decentralized crypto applications (dApps). OKX is also a trusted brand by hundreds of large&hellip;",
+    "required_skills": [
+      "legal & compliance"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/158856-senior-compliance-analyst",
+    "date_posted": "2026-11-04"
+  },
+  {
+    "id": "jobicy-694d15809644",
+    "title": "Events Manager, Offsites & Experiences",
+    "company": "Tremendous",
+    "location": "LATAM,  Canada,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Tremendous is the global platform built for businesses to send thousands of payouts to anyone, anywhere, for free. We're trusted by 20,000 organizations like Atlassian, MIT, and United Way to deliver gift cards and money to millions of recipients worldwide. Our customers (researchers, marketers, HR teams, nonprofits, and platform businesses) rave about how fast and&hellip;",
+    "required_skills": [
+      "project & program management"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/158855-events-manager-offsites-experiences",
+    "date_posted": "2026-11-04"
+  },
+  {
+    "id": "jobicy-aede499d33c2",
+    "title": "Marketing Designer",
+    "company": "AppSamurai",
+    "location": "Türkiye",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "What is Storyly? Storyly is an AI-powered content experience platform that gives brands precious social content experience on their apps and websites. From the newest products to promotions, from instant campaigns to long term user education Storyly seamlessly improves user engagement with interactive, personalized, social-native formats such as in-app stories like Instagram, vertical video feeds&hellip;",
+    "required_skills": [
+      "creative & design"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/158854-marketing-designer-2",
+    "date_posted": "2026-11-04"
+  },
+  {
+    "id": "jobicy-bc869eb659f6",
+    "title": "AI Solutions Engineer",
+    "company": "Superside",
+    "location": "Canada",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Superside is hiring an AI Solutions Engineer to be the technical partner to our Account Executives and Account Managers before a deal closes. You’ll find out what a client really needs, work out what is technically possible, and design the solution that delivers it, whether the answer is using our creative services team, an AI&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/158853-ai-solutions-engineer-2",
+    "date_posted": "2026-11-04"
+  },
+  {
+    "id": "jobicy-3d9ffb0c8837",
+    "title": "Technical Support Engineer",
+    "company": "Kustomer",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Kustomer Kustomer is the AI-native customer experience platform that turns every interaction into a lasting relationship and a measurable business outcome. By unifying customer data, conversations and AI-native workflows into a single connected timeline, Kustomer helps teams cultivate customers, not tickets, resolving issues faster and delivering more personalized service across every channel. Today, Kustomer&hellip;",
+    "required_skills": [
+      "technical support"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/158090-technical-support-engineer-5",
+    "date_posted": "2026-11-04"
+  },
+  {
+    "id": "jobicy-05402e906502",
+    "title": "Accounts Receivable Clerk",
+    "company": "Canonical",
+    "location": "EMEA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
+    "required_skills": [
+      "finance & accounting"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/148113-accounts-receivable-clerk",
+    "date_posted": "2026-11-04"
+  },
+  {
+    "id": "jobicy-042f81ca85c9",
+    "title": "Onboarding Project Manager",
+    "company": "Cloudbeds",
+    "location": "Europe",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "What Makes Us Unique At Cloudbeds, we're not just building software, we’re transforming hospitality. Our intelligently designed platform powers properties across 150 countries, processing billions in bookings annually. From independent properties to hotel groups, we help hoteliers transform operations and uplevel their commercial strategy through a unified platform that integrates with hundreds of partners. And&hellip;",
+    "required_skills": [
+      "product & operations"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/144915-onboarding-project-manager",
+    "date_posted": "2026-11-04"
+  },
+  {
+    "id": "jobicy-6603b4bedc6e",
+    "title": "Executive Assistant to the Chief Revenue Officer (CRO)",
+    "company": "EDB",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "A Little About Us EDB provides a data and AI platform that enables organizations to harness the full power of Postgres for transactional, analytical, and AI workloads across any cloud, anywhere. EDB empowers enterprises to control risk, manage costs and scale efficiently for a data and AI led world. Serving more than 1,500 customers globally&hellip;",
+    "required_skills": [
+      "admin & virtual assistance"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154492-executive-assistant-to-the-chief-revenue-officer-cro",
+    "date_posted": "2026-11-04"
+  },
+  {
+    "id": "jobicy-3aa69e08da17",
+    "title": "Solutions Architect for Automotive",
+    "company": "Canonical",
+    "location": "Anywhere",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
     "required_skills": [
       "software engineering"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/158781-senior-software-engineer-21",
-    "date_posted": "2026-11-03"
+    "url": "https://jobicy.com/jobs/154514-solutions-architect-for-automotive",
+    "date_posted": "2026-11-04"
+  },
+  {
+    "id": "jobicy-6d7a2aefa5b8",
+    "title": "Open Source Enterprise Sales Manager - North America",
+    "company": "Canonical",
+    "location": "LATAM,  Canada,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "We are hiring a regional sales manager in North America to lead the direct sales team in the region. Apply here if you believe you possess outstanding revenue generating experience from the Technology industry. Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform,&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154513-open-source-enterprise-sales-manager-north-america",
+    "date_posted": "2026-11-04"
+  },
+  {
+    "id": "jobicy-91141cdf75f3",
+    "title": "Open Source Enterprise Sales / Alliances",
+    "company": "Canonical",
+    "location": "Anywhere",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "This is a general track role, hiring for opportunities across all levels of seniority in our Sales and Alliances teams. Apply here if you believe you possess outstanding revenue generating experience from the Technology industry. Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154506-open-source-enterprise-sales-alliances",
+    "date_posted": "2026-11-04"
+  },
+  {
+    "id": "jobicy-951e3d4d5d05",
+    "title": "Online Mental Health Social Worker",
+    "company": "BetterHelp",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "BetterHelp is one of the world’s largest online therapy platforms, connecting licensed therapists with clients looking for mental health support. With BetterHelp, you can grow your caseload without spending your time marketing a private practice or managing insurance administration. Set your schedule, work remotely, and focus your time on the clients you serve. Why Therapists&hellip;",
+    "required_skills": [
+      "healthcare & medical"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154504-online-mental-health-social-worker",
+    "date_posted": "2026-11-04"
+  },
+  {
+    "id": "jobicy-a6aa401ad2e6",
+    "title": "Online Mental Health Counselor",
+    "company": "BetterHelp",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "BetterHelp is one of the world’s largest online therapy platforms, connecting licensed therapists with clients looking for mental health support. With BetterHelp, you can grow your caseload without spending your time marketing a private practice or managing insurance administration. Set your schedule, work remotely, and focus your time on the clients you serve. Why Therapists&hellip;",
+    "required_skills": [
+      "healthcare & medical"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154503-online-mental-health-counselor",
+    "date_posted": "2026-11-04"
+  },
+  {
+    "id": "jobicy-50c7c1340a3d",
+    "title": "Licensed Marriage & Family Therapist",
+    "company": "BetterHelp",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "BetterHelp is one of the world’s largest online therapy platforms, connecting licensed therapists with clients looking for mental health support. With BetterHelp, you can grow your caseload without spending your time marketing a private practice or managing insurance administration. Set your schedule, work remotely, and focus your time on the clients you serve. Why Therapists&hellip;",
+    "required_skills": [
+      "healthcare & medical"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154502-licensed-marriage-family-therapist",
+    "date_posted": "2026-11-04"
+  },
+  {
+    "id": "jobicy-ed02f6ad3e68",
+    "title": "Large Enterprise Account Executive",
+    "company": "Dandy",
+    "location": "Anywhere",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Dandy is transforming the massive and antiquated dental industry—an industry worth over $400B. Backed by some of the world’s leading venture capital firms, we’re on an ambitious mission to simplify and modernize every function of the dental practice through technology. As we expand our reach globally, Dandy is building the operating system for dental offices&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154497-large-enterprise-account-executive",
+    "date_posted": "2026-11-04"
+  },
+  {
+    "id": "jobicy-de361ed9f93b",
+    "title": "Executive Assistant III",
+    "company": "Affirm",
+    "location": "UK",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden&hellip;",
+    "required_skills": [
+      "admin & virtual assistance"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154490-executive-assistant-iii",
+    "date_posted": "2026-11-04"
+  },
+  {
+    "id": "jobicy-e48299b0d316",
+    "title": "Inbound Support Coordinator",
+    "company": "HomeLight",
+    "location": "Philippines",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "*** This is a permanent work from home position from the Philippines, 9am to 5pm US Pacific time *** Who We Are We’re building the future of real estate — today. HomeLight is the real estate technology platform powering innovative transactions for top agents, lenders, and their clients. Our technology makes it easier to buy&hellip;",
+    "required_skills": [
+      "customer support & success"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/154077-inbound-support-coordinator",
+    "date_posted": "2026-11-04"
+  },
+  {
+    "id": "jobicy-b9541041b4fc",
+    "title": "Talent Scientist",
+    "company": "Canonical",
+    "location": "EMEA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "As a pioneer remote-first tech company with a product that inspires people globally, we attract a huge number of applicants to our organisation. We have created a hiring process that is totally unique empowering our business based Hiring Leadership team to lead talent selection. Our Talent Science team ensures that our processes are effective and&hellip;",
+    "required_skills": [
+      "hr & recruiting"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/149990-talent-scientist",
+    "date_posted": "2026-11-04"
+  },
+  {
+    "id": "jobicy-c3ca75462a78",
+    "title": "Software Engineer - Data Infrastructure - Kafka",
+    "company": "Canonical",
+    "location": "EMEA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Canonical is building a comprehensive automation suite to provide multi-cloud and on-premise data solutions for the enterprise. The data platform team is a collaborative team that develops a managed solutions for a full range of data stores and data technologies, spanning from big data, through NoSQL, cache-layer capabilities, and analytics; all the way to structured&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/149988-software-engineer-data-infrastructure-kafka",
+    "date_posted": "2026-11-04"
+  },
+  {
+    "id": "jobicy-6970f749f534",
+    "title": "Engineering Manager - Public Cloud, Python, Golang",
+    "company": "Canonical",
+    "location": "EMEA,  LATAM,  Canada,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/149985-engineering-manager-public-cloud-python-golang",
+    "date_posted": "2026-11-04"
+  },
+  {
+    "id": "jobicy-202e19c3fd56",
+    "title": "Senior Software Engineer, Storage",
+    "company": "Reddit",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/148143-senior-software-engineer-storage",
+    "date_posted": "2026-11-04"
+  },
+  {
+    "id": "jobicy-ac06ae1f173b",
+    "title": "1775 RPG/AS400 & JD Edwards EnterpriseOne Developer",
+    "company": "Softgic",
+    "location": "Anywhere",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "This is a remote position. We are looking for a professional with hands-on experience developing in RPG/RPGLE on IBM AS400/iSeries, as well as proven experience with JD Edwards EnterpriseOne development tools. We are not looking for an infrastructure administrator, a JD Edwards functional consultant, or an AS400 developer without JD Edwards experience. The ideal candidate&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150052-1775-rpg-as400-jd-edwards-enterpriseone-developer",
+    "date_posted": "2026-11-04"
+  },
+  {
+    "id": "jobicy-f840256d8ff3",
+    "title": "US- Escalation Manager (Customer Support)",
+    "company": "PointClickCare",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "At PointClickCare our mission is simple: to help providers deliver exceptional care. And that starts with our people. As a leading health tech company that’s founder-led and privately held, we empower our employees to push boundaries, innovate, and shape the future of healthcare. With the largest long-term and post-acute care dataset and a Marketplace of&hellip;",
+    "required_skills": [
+      "customer support & success"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/150041-us-escalation-manager-customer-support",
+    "date_posted": "2026-11-04"
+  },
+  {
+    "id": "jobicy-588d860732f3",
+    "title": "Major Accounts Manager",
+    "company": "RStudio",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "We are looking for our next Major Accounts Manager to join the Posit team! In this role, you will be proactively identifying and engaging with new customers to share and demonstrate cutting-edge technologies in the rapidly growing Data Science field. Posit creates great software that helps people understand data and make better decisions in real-world&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/152376-major-accounts-manager",
+    "date_posted": "2026-11-04"
+  },
+  {
+    "id": "jobicy-9507fabb4194",
+    "title": "Inbound Sales Representative (Remote/Pacific Time)",
+    "company": "A Place For Mom",
+    "location": "Canada,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "As an Inbound Sales Representative at A Place for Mom, you’ll be the trusted first point of contact for families searching for senior care solutions. In this high-impact sales role, you’ll use empathy, insight, and strategic guidance to help caregivers as they explore the best care options for their loved ones. What you will do:&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/151231-inbound-sales-representative-remote-pacific-time",
+    "date_posted": "2026-11-04"
+  },
+  {
+    "id": "remotive-a3903d2d4ba3",
+    "title": "Freelance Copywriter",
+    "company": "Coalition Technologies ",
+    "location": "Worldwide",
+    "remote": true,
+    "location_restriction": null,
+    "salary": "$20k -$35k",
+    "description": "CT Marketing Agency is seeking skilled Freelance Copywriters to write high-quality, SEO-driven content for eCommerce and lead generation websites. This is a freelance, project-based writing role. The ideal candidate has excellent English writing skills, strong research ability, and experience writing content that follows detailed, client-specific guidelines. Projects commonly include category pages, product descriptions, blog posts, SEO landing pages, and website copy. About the Role Our client base is constantly evolving, and writers may create content across a wide range of industries, including: Fashion, including mass-market and luxury brands Skincare and beauty Tech and software Finance and investing Law, including family law, divorce, and product liability Education Home improvement Automobiles and motorcycles Health and wellness Medical and clinical fields Digital marketing SEO, PR, advertising, and marketing Writers with experience in highly specialized industries such as tech, finance, law, health, medical, SEO, PR, advertising, or marketing are strongly encouraged to apply. Responsibilities Write clear, engaging, SEO-friendly content for eCommerce and lead generation websites Create category pages, product descriptions, blog posts, landing pages, and website copy Research client industries, products, services, audiences, and competitors Follow detailed client guidelines and adapt to different brand voices Blend SEO best practices with brand priorities and conversion-focused writing Complete assignments by deadline and communicate professionally with the team Qualifications Excellent English writing, grammar, editing, and proofreading skills 2 to 4 years of professional, non-academic writing experience preferred Strong understanding of SEO writing best practices Ability to research unfamiliar industries and technical topics Ability to write creative, engaging, accurate, and ROI-focused content Portfolio featuring published work preferred Experience in specialized industries strongly preferred Compensation Writers are paid on a per-word basis. Rates are assessed according to our KPI rubric. Initial compensation is up to $0.06 per word, with $0.034 per word being the most typical rate This equals approximately $30 or $17 per 500-word page After 400 live pages, the top rate increases to $0.064 per word, with $0.038 per word being the most typical rate After 800 live pages, the top rate increases to $0.07 per word, with $0.044 per word being the most typical rate Application Process Candidates should be prepared to provide a portfolio featuring published work. Once an offer is extended, writers will complete a brief training course.",
+    "required_skills": [
+      "accounting",
+      "excel",
+      "research",
+      "data analysis",
+      "bookkeeping",
+      "google sheets",
+      "quickbooks",
+      "data entry",
+      "insurance",
+      "g suite"
+    ],
+    "requirements": [],
+    "source": "Remotive",
+    "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
+    "date_posted": "2026-11-02"
   },
   {
     "id": "remotive-1124e20ed2cc",
@@ -1165,218 +1191,109 @@
     "date_posted": "2026-10-04"
   },
   {
-    "id": "arbeitnow-23cee32ed783",
-    "title": "Head of Engineering | xpate",
-    "company": "Hirehire",
+    "id": "arbeitnow-05e609c3a7b7",
+    "title": "Software Developer .NET C# (all genders)",
+    "company": "Vexcash AG",
+    "location": "Berlin",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "VEXCASH AG is Germany’s leading online provider of short-term loans. We offer our customers a quick and straightforward solution to bridge the gap until their next payday. More than 800,000 customers already rely on our service. Thanks to our innovative approach, they can secure financial liquidity without having to commit to a long-term agreement. Aufgaben We are looking for an experienced .NET/C# Developer to join our team and contribute to the development of modern web applications in the FinTech sector. You will work in a skilled and collaborative environment using modern Microsoft technologies (.NET 8+) to build reliable, maintainable, and high-quality software solutions. As a full-stack developer, you will contribute across the entire application stack, with a primary focus on backend services and APIs, while also supporting frontend development where needed. Responsibilities: Develop clean, maintainable, testable, and reusable C# code based on business requirements and user stories Design, develop, and maintain applications using ASP.NET Core MVC, ASP.NET Core Razor Pages, and Entity Framework Core. Design and implement RESTful APIs following best practices and scalable architecture principles Contribute to frontend development using HTML5, CSS, Bootstrap, JavaScript, and TypeScript Work with SQL Server, including data modelling, query optimization, and performance tuning Implement automated tests (unit and integration) to ensure software quality Collaborate using Git-based workflows and participate in code reviews Contribute to CI/CD pipelines and automated deployments Work with Microsoft Azure services and cloud-based architectures Analyze, troubleshoot, and resolve technical and performance issues Contribute to continuous improvement of code quality, architecture, and development processes Qualifikation Strong professional experience with C# and the .NET ecosystem Hands-on experience with .NET Framework (maintenance and enhancement of legacy applications) and .NET 8+ / ASP.NET Core for modern application development Solid experience with ADO.NET and Entity Framework Core Experience designing and building RESTful APIs Strong knowledge of SQL Server, relational database design, and query optimization. Experience with frontend technologies (HTML5, JavaScript/TypeScript, CSS) Experience with automated testing frameworks (e.g., xUnit, NUnit, MSTest) Good understanding of software architecture principles and design patterns Experience using Git in collaborative development environments Familiarity with CI/CD pipelines and tooling Experience with Microsoft Azure Experience working in agile development environments Strong problem-solving skills and focus on code quality Good command of English and German Benefits We currently offer the Deutschlandticket on a 100% basis (available to employees only) We currently offer membership of Urban Sports (available to employees only) Fresh fruit baskets, hot and cold drinks in our office An international, dynamic, committed and supportive team An office located right next to Berlin’s main railway station Hauptbahnhof, designed in the style of a co-working space Hybrid Working Opportunities for personal and professional development A secure job in a company that has enjoyed a steady success story since its foundation in 2011 If you are motivated and want to be part of our success story, then send us your CV right away. If you hesitate, it’s your own fault! Find more English Speaking Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "remote",
+      "private banking"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/vexcash-ag/software-developer-net-c-all-genders-berlin-300964",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-e034fe1bbc0c",
+    "title": "Technische Unternehmensberater:in / F&E-Projektmanager:in (m/w/d)",
+    "company": "neowistra GmbH",
+    "location": "Berlin",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Unsere Mission Wir sind eine wachsende Beratung im Bereich angewandte Forschung, Innovation und öffentliche Fördermittel. Unsere Mission ist es, technischen Fortschritt zu ermöglichen, indem wir innovative Unternehmen, Forschungseinrichtungen und passende Förderprogramme zusammenbringen. Unsere Projekte sind interdisziplinär und reichen von Maschinenbau, Materialien, Kunststofftechnik, Biotechnologie und Chemie über Sensorik, Elektronik, Medizintechnik, Energie, IT und KI. Für unsere Kunden identifizieren wir Innovationspotenziale, entwickeln förderfähige Projektansätze, bauen Kooperationen auf, beantragen öffentliche Fördermittel und begleiten Projekte über die gesamte Laufzeit. Wir arbeiten dezentral, digital und eigenverantwortlich - mit hoher Flexibilität, kurzen Wegen und einem starken Teamgedanken. Deine Rolle Wir suchen eine technisch-wissenschaftlich versierte und unternehmerisch denkende Persönlichkeit, die innovative Forschungs- und Entwicklungsprojekte fachlich entwickelt, Förderanträge eigenständig erstellt und unsere Kunden persönlich begleitet. Gleichzeitig hast du Freude daran, neue Projektideen und Kooperationen anzustoßen, Kundenbeziehungen auszubauen und perspektivisch Verantwortung in der Projekt- und Teamkoordination zu übernehmen. Deine Aufgaben Du scoutest spannende Projekte und Technologien in Forschungseinrichtungen und Unternehmen Du entwickelst aus technischen Ideen förderfähige F&E-Projekte Du strukturierst Ziele, Arbeitspakete, Risiken und Ressourcen und erstellst eigenständig anspruchsvolle technische Förderanträge, Projektskizzen und weitere Antragsunterlagen Du erkennst bei Bestands- und Neukunden Entwicklungs-, Innovations- und Investitionsbedarfe und entwickelst daraus neue Projekte und individuelle Förderstrategien Du führst Kunden- und Projektgespräche, gewinnst neue Kontakte in Industrie und Wissenschaft und baust Kooperationen auf. Du erschließt gemeinsam mit uns neue Zugänge über Netzwerke, Wirtschaftsförderungen und weitere Multiplikatoren. Du bringst dich in die fachliche Projektkoordination ein und kannst perspektivisch zusätzliche Teamverantwortung übernehmen. Du wirkst an neuen Beratungsleistungen mit, z. B. Innovationsroadmaps, Förderstrategien und Investitionsförderung. Dein Profil Du hast ein natur-/ingenieurwissenschaftliches oder betriebswirtschaftliches Studium/Ausbildung abgeschlossen. Du bringst Erfahrung in technischer F&E, Innovations- oder Fördermittelberatung, im Projektmanagement oder in Forschung und Industrie mit. Du kannst komplexe technische Sachverhalte schnell verstehen, strukturieren und schriftlich präzise sowie überzeugend darstellen. Idealerweise hast du bereits eigenständig Förderanträge oder technisch-wissenschaftliche Projektanträge erstellt. Du hast Freude am persönlichen Kundenkontakt, an Projektentwicklung und daran, neue Kontakte und Kooperationen aufzubauen. Du arbeitest selbstständig, sorgfältig und verbindlich und übernimmst Verantwortung für Ergebnisse, Qualität und Termine. Du trittst sicher gegenüber Geschäftsführungen, technischen Verantwortlichen und Forschungspartnern auf. Du arbeitest gern im Team und kannst dir vorstellen, perspektivisch fachliche oder personelle Verantwortung zu übernehmen. Du bist zu gelegentlichen deutschlandweiten Reisen bereit und sprichst und schreibst sehr gut Deutsch; Englisch ist von Vorteil. Benefits Eine vielseitige Rolle zwischen technischer Projektarbeit, Fördermittelberatung und Business Development Perspektive auf wachsende Projektverantwortung und ggf. eine spätere Führungsrolle Viel Gestaltungsspielraum in einem kleinen, ambitionierten und wachsenden Team Direkten Austausch mit der Geschäftsführung und erfahrenen Fördermittelberater:innen Die Möglichkeit, eigene Kundenbeziehungen, Kooperationen und neue Beratungsfelder mitzuentwickeln Ein breites Themenspektrum mit innovativen Unternehmen, Forschungseinrichtungen und Zukunftstechnologien Deutschlandweites Homeoffice, digitale Zusammenarbeit und flexible Zeiteinteilung Eine strukturierte Einarbeitung sowie persönliche und fachliche Weiterentwicklung Ein unbefristetes Arbeitsverhältnis mit 30–40 Stunden pro Woche; Start idealerweise im ersten Quartal 2027 Bewerbungsverfahren: Bewerbung mit Lebenslauf und Gehaltsvorstellung Erstgespräch (online) Persönliches Kennenlernen inkl. Case Studies mit GF und Team (online oder vor Ort) Wenn du innovative Projekte nicht nur fachlich begleiten, sondern auch Kunden, Kooperationen und neue Förderchancen aktiv entwickeln möchtest, freuen wir uns über deine Bewerbung. Find Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "remote",
+      "business consulting"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/neowistra-gmbh/technische-unternehmensberaterin-fe-projektmanagerin-berlin-416256",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-8a00d112b0f5",
+    "title": "Senior PreSales Engineer, Civil Government and Commercial",
+    "company": "planetlabs",
     "location": "Remote",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Role: Head of Engineering Company: xpate Location: London or remote Job Type: Full-time About xpate xpate has been a card acquirer since 2019. It combines acquiring and banking for B2B clients only, with €100M+ in annual revenue. About 100 people work there, around 15 of them in engineering. HQ is in London, and the team is spread across Latvia, Cyprus, Serbia and Singapore. The business is changing. xpate is moving from direct sales to distribution through platforms and partners: embedded finance and Payfac-as-a-Service. The platform has to change with it. Tooling, data flow, processes and the release cycle all need a rebuild, and much of the workflow is still tracked by hand. xpate also wants to become AI-native. Guardrails go around the core – the data layer and financial data – so it can’t be lost, rewritten or broken. Everything else runs through an agentic harness on top, so non-engineering teams can build their own tools by prompting agents. What you will do Lead the platform and organizational transformation from the inside, together with the current team. Own the whole technical picture: infrastructure, architecture and vendors. Replace the traditional PM → engineer handoff. Test the idea that engineering and product can work as one, with engineers talking directly to the business and domain experts. Move code writing to LLMs with automated QA. Start where mistakes are cheap and reach the critical financial components later. Hire engineers who talk to people and ask questions, not only write code. You can bring in 1–2 people who share the vision. Focus on internal efficiency. The business sets the direction – the job is not to set a product or market vision of your own. First 6 months Months 1–3: bring all data flow – customer, financial and manual – into one clear perimeter. Months 4–6: build the harness on top, so non-engineering teams can prompt agents, create their own tools and run their workflows. What you need to succeed You have built financial systems: ledger, reconciliation, processing, gateway, double-entry accounting. Ideally you wrote them yourself, and you know what a few cents of error cost at scale. You have a strong data architecture background. You can hold the full technical picture: infrastructure, architecture and vendors. You are a senior engineer with proven results. Team size doesn’t matter – leading 4–5 people is fine. You know code quality and review still matter, and you are ready to change how the work gets done. You think and talk like a business person. You are a mature operator: collaborative, transparent, no “I know best”. You change things carefully and still make bold calls. Payments or acquiring background is not required – any financial systems experience works. Nice to have: you have rebuilt or transformed a team before. Nice to have: you are based in London. What you get A new role with a clear mission: transform the platform and the way the company works. Direct work with the founders, reporting to the CEO. A team of about 15 engineers to inherit and reshape. A profitable company moving into Payfac-as-a-Service and embedded distribution. An AI-native setup where non-engineers build their own tools. Year 1 is fixed pay. From year 2, shadow equity tied to P&amp;L performance, with a path to real equity. Details to be agreed. Find more English Speaking Jobs in Germany on Arbeitnow",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Welcome to Planet. We believe in using space to help life on Earth.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Planet designs, builds, and operates the largest constellation of imaging satellites in history. This constellation delivers an unprecedented dataset of empirical information via a revolutionary cloud-based platform to authoritative figures in commercial, environmental, and humanitarian sectors. We are both a space company and data company all rolled into one.&lt;/p&gt; &lt;p&gt;Customers and users across the globe use Planet&#39;s data to develop new technologies, drive revenue, power research, and solve our world’s toughest obstacles.&lt;/p&gt; &lt;p&gt;As we control every component of hardware design, manufacturing, data processing, and software engineering, our office is a truly inspiring mix of experts from a variety of domains.&lt;/p&gt; &lt;p&gt;We have a people-centric approach toward culture and community and we strive to iterate in a way that puts our team members first and prepares our company for growth. Join Planet and be a part of our mission to change the way people see the world.&lt;/p&gt; &lt;p&gt;Planet is a global company with employees working remotely world wide and joining us from offices in San Francisco, Washington DC, Germany, Austria, Slovenia, and The Netherlands.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;About the Role:&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;As a Senior PreSales Engineer, you&#39;ll demonstrate the value of Planet&#39;s data and services to help organizations across EMEA with a focus on German Government and Commercial B2B to overcome their earth data challenges. You&#39;ll also collaborate with internal cross-functional teams, including Customer Success, Product Management, Professional Services and Business Development, to act as the voice of the customer to enhance Planet&#39;s industry offerings.&lt;/p&gt; &lt;p&gt;This is a full-time, remote position based in Germany. If located near an office, you are expected to work from that office 3 days per week.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Impact You’ll Own:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Use consultative techniques to uncover customers&#39; pain points and business needs within their current or intended processes and ways of working, plus quantify why these needs are important.&lt;/li&gt; &lt;li&gt;Build and deliver presentations and solution demonstrations highlighting technical capabilities of Planet’s platform related to addressing the customer’s business needs and pain points, plus the value that these solutions can bring to the customers business.&lt;/li&gt; &lt;li&gt;Create solid relationships with customers’ technical and management staff as a trusted advisor to their business.&lt;/li&gt; &lt;li&gt;Act as a trusted advisor to customers, actively shaping and recommending tailored solutions architecture that solve key business challenges that bring measurable value to the business&lt;/li&gt; &lt;li&gt;Work with your sales team colleagues to determine account development plans and execute a strategy to engage customers and prospects.&lt;/li&gt; &lt;li&gt;Collaborate with internal cross-functional teams including Customer Success, Product Management, Professional Services and Business Development to act as the voice of the customer and co-develop solutions .&lt;/li&gt; &lt;li&gt;Assist with the response to tenders, RFI’s, RFP’s, proposals with respect to product/solution information.&lt;/li&gt; &lt;li&gt;Attain quarterly and annual sales and operational objectives assigned by management.&lt;/li&gt; &lt;li&gt;Interface with all Pre-Sales Engineers globally, building a community to improve the team’s technical and sales skills.&lt;/li&gt; &lt;li&gt;Act as a mentor (in your specialist areas) to team members and lead training to drive their development.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;What You Bring:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;6+ years experience in supporting governments and/or associated communities in earth observation.&lt;/li&gt; &lt;li&gt;Bachelor’s degree in a relevant field.&lt;/li&gt; &lt;li&gt;Ability to translate technical and business related remote sensing and geospatial requirements and knowledge into smart, value-add solutions and demo architectures that address customer needs.&lt;/li&gt; &lt;li&gt;Fluency in German and professional working proficiency in English, the language of the company.&lt;/li&gt; &lt;li&gt;Expertise with QGIS, ArcGIS, GDAL and other common geospatial software packages.&lt;/li&gt; &lt;li&gt;Ability to translate and articulate complex customer requirements into simple easy to understand (co-created) value-add solutions.&lt;/li&gt; &lt;li&gt;Ability to successfully communicate and coordinate with international customers &amp;amp; sales team.&lt;/li&gt; &lt;li&gt;Excellent problem-solving skills and proactive working style.&lt;/li&gt; &lt;li&gt;Ability to multitask, prioritize and manage time effectively.&lt;/li&gt; &lt;li&gt;Ability to program with Python to process imagery, manipulate vector data, interact with APIs and build data pipelines.&lt;/li&gt; &lt;li&gt;Ability to lead customer engagements.&lt;/li&gt; &lt;li&gt;Ability to run workshops or training sessions with users.&lt;/li&gt; &lt;li&gt;Ability to learn new technologies and industries.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;What Makes You Stand Out:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Experience writing technical proposals for (German) government tenders.&lt;/li&gt; &lt;li&gt;Experience of value / solution selling techniques.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Application Deadline:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;11:45p / 23:45 CET on the date stated below. Applications are reviewed on a rolling basis. This posting may be removed earlier than projected if a suitable pool of applications has been received. For this reason, we recommend applying as soon as you are able to.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Benefits While Working at Planet:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;These offerings are dependent on employment type and geographical location, based upon applicable law or company policy.&lt;/em&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Paid time off including vacation, holidays and company-wide days off&amp;nbsp;&lt;/li&gt; &lt;li&gt;Employee Wellness Program&amp;nbsp;&lt;/li&gt; &lt;li&gt;Home Office Reimbursement&lt;/li&gt; &lt;li&gt;Monthly Phone and Internet Reimbursement&lt;/li&gt; &lt;li&gt;Tuition Reimbursement and access to LinkedIn Learning&lt;/li&gt; &lt;li&gt;Equity&amp;nbsp;&lt;/li&gt; &lt;li&gt;Volunteering Paid Time Off&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Compensation:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;The expected starting gross salary range for this role is listed below. Individual placement within this range is determined objectively based on gender-neutral criteria such as your skills, qualifications, and professional experience. This position may also be eligible for discretionary bonuses and/or equity.&lt;/p&gt; &lt;div id=&quot;message-list_1788369991.807479&quot;&gt; &lt;div&gt; &lt;div&gt; &lt;div&gt; &lt;div&gt; &lt;div&gt; &lt;div&gt; &lt;div&gt; &lt;div&gt; &lt;div&gt; &lt;div&gt; &lt;div&gt;In addition to the salary range listed below, this role is also eligible to receive commission.&lt;/div&gt; &lt;h6&gt;#LI-remote&lt;/h6&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;Germany Salary Range&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;€63.910&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;€79.870 EUR&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;San Francisco Fair Chance Ordinance&lt;br&gt;&lt;/strong&gt;Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Why we care so much about Belonging.&amp;nbsp;&lt;br&gt;&lt;/strong&gt;We’re dedicated to helping the whole Planet, and to do that we must strive to represent all of it within each of our offices and on all of our teams. That’s why Planet is guided by an ultimate north star of Belonging—dreaming big as we approach our ongoing work.&amp;nbsp; If this job intrigues you, but you’re thinking you might not have all the qualifications, please... do apply!&amp;nbsp; At Planet, we are looking for well-rounded people from around the world who can contribute to more ways than just what is listed in this job description.&amp;nbsp; We don’t just fill positions, we aspire to fulfill people’s careers, most excited about folks who are motivated by our underlying humanitarian efforts.&amp;nbsp; We are a few orbits around the sun before we get to where we want to be, so we hope you’re excited to come along for the ride.&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;EEO statement: &lt;br&gt;&lt;/strong&gt;Planet is committed to building a community where everyone belongs and we invite people from all backgrounds to apply. Planet is an equal opportunity employer, and committed to providing employment opportunities regardless of race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, pregnancy, childbirth and breastfeeding, age, sexual orientation, military or veteran status, or any other protected classification, in accordance with applicable federal, state, and local laws. &lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12.pdf&quot;&gt;Know Your Rights.&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Accommodations:&amp;nbsp;&lt;br&gt;&lt;/strong&gt;Planet is an inclusive community and we know that everyone has their own needs. If you have a disability or special need that requires accommodation during the hiring process, please reach out to ----- or contact your recruiter with your request. Your message will be confidential and we will be happy to assist you.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Privacy Policy&lt;/strong&gt;: By clicking &quot;Apply Now&quot; at the top of this job posting, I acknowledge that I have read the &lt;a href=&quot;https://www.planet.com/privacy/#california&quot;&gt;Planet Data Privacy Notice for California Staff Members and Applicants&lt;/a&gt;, and hereby consent to the collection, processing, use, and storage of my personal information as described therein.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Privacy Policy (European Applicants):&lt;/strong&gt; By clicking &quot;Apply Now&quot; at the top of this job posting, I acknowledge that I have read the &lt;a href=&quot;https://www.planet.com/privacy/&quot;&gt;Candidate Privacy Notice GDPR Planet Labs Europe&lt;/a&gt;, and hereby consent to the collection, processing, use, and storage of my personal information as described therein.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;AI in Our Interviewing Process&lt;/strong&gt;: Planet is committed to providing an exceptional interview experience for all candidates. We currently use &lt;a href=&quot;https://www.metaview.ai/&quot; target=&quot;_blank&quot;&gt;Metaview&lt;/a&gt; to better focus on candidates and less on trying to capture notes. As such, with the candidate&#39;s consent, select interviews may be recorded and include a &quot;Planet AI Notetaker&quot; for transcription and summarization purposes. Should an interview involve use of AI interview technologies, the candidate will receive notification and have the ability to opt out both in advance and/or real-time. Opting out will not affect one&#39;s candidacy.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Candidate AI Policy&lt;/strong&gt;: Planet embraces Artificial Intelligence (AI) tools, and we encourage its responsible use. We understand that candidates may use various resources, including AI tools, to &lt;em&gt;prepare&lt;/em&gt; for interviews and assessments. However, &lt;em&gt;during any live interview stage or when actively completing assessments for this position, the use of AI tools—e.g. Large Language Models (LLMs), deep fake technology, etc.—is strictly prohibited unless explicitly prompted by an interviewer or assessment instructions&lt;/em&gt;. If you are unsure about acceptable use, please contact your recruiter for clarification. If an AI tool or similar technology is desired as an accommodation, please contact ----- with your request for assistance. Your message will be confidential, and we will be happy to assist you. Violation of this policy may result in disqualification of your application.&lt;/p&gt;&lt;/div&gt; Find more English Speaking Jobs in Germany on Arbeitnow",
     "required_skills": [
-      "ai/ml/tech"
+      "pre-sales and services"
     ],
     "requirements": [],
     "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-head-of-engineering-xpate-490630",
+    "url": "https://www.arbeitnow.com/jobs/companies/planetlabs/remote-senior-presales-engineer-civil-government-and-commercial-291818",
     "date_posted": null
   },
   {
-    "id": "arbeitnow-173566df7786",
-    "title": "(Senior) Full Stack Engineer (m/f/x) - Based in Germany",
-    "company": "Cara Care",
-    "location": "Berlin, Germany",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Cara Care, a digital health company backed by Bayer AG, is on a mission to improve people’s digestive health through technology. As we expand our product portfolio and modernize our platform, we’re looking for a versatile, pragmatic, and forward-thinking (Senior) Full-Stack Engineer (m/f/x) to help shape the future of digital therapeutics. Your Role You’ll join a cross-functional product team with high ownership, lean processes, and a clear focus: deliver real impact to patients. We’re looking for someone who thrives on solving real-world problems with code, is technology-open, and knows when to build fast and when to build right. Your main focus will be building and improving our backend services, while also contributing to our React Native apps.&nbsp; You’ll also help us use AI tools and coding agents thoughtfully in day-to-day engineering, turning emerging capabilities into reliable workflows that improve how we design, build, test, and operate patient-facing products. Your Responsibilities Design, build, and operate reliable backend services and APIs , primarily using Python, Django, and PostgreSQL, and contribute targeted changes to our React Native applications with TypeScript. Use AI coding agents to implement features, refactor code, and generate tests. Define clear tasks and constraints, provide relevant context, Provide clear context and constraints, and validate changes through code review, automated tests, and application-level checks. Take an end-to-end view of features : understand how mobile clients, APIs, data models, and infrastructure interact, and make pragmatic technical decisions across these boundaries. Own backend delivery from architecture and implementation to automated testing, deployment, monitoring, and iteration, and continuously improve our CI/CD pipelines. Improve the performance and reliability of our backend services, APIs, and databases. Connect AI-assisted development to engineering and design tools via MCP, for example to automate repetitive coding tasks or check frontend changes against Figma designs. Keep patient data, credentials, and other sensitive information out of unapproved tools and workflows. Collaborate closely with Product, Design, and Medical to explore, define, and deliver patient-centric features across our platform, supporting regulated digital health products for IBS, GERD, and upcoming indications. Uphold technical excellence in architecture, code quality, and security , including applicable requirements under IEC 62304, BSI TR-03161, and the MDR.&nbsp; Mentor other developers and help raise the technical bar across the team. Requirements Your Profile Must haves 5+ years of professional software engineering experience , with a strong backend focus and an understanding of how complete applications work from user interface to infrastructure. Strong backend development skills in an established language such as Python, TypeScript, Java, or PHP. Our current stack includes Python, Django, and PostgreSQL. Working knowledge of React Native and TypeScript , with the ability to implement and test changes in an existing mobile application. Solid understanding of relational databases, API design, distributed systems and services . Experience writing and maintaining automated tests for backend services and APIs , including unit and integration tests. Solid understanding of backend security and privacy , including authentication, authorization, secrets management, and secure handling of personal and patient data. Strong practical knowledge of containers, Kubernetes, and cloud-native architecture , with experience using GCP or another major cloud provider such as AWS or Azure. Hands-on experience using AI coding agents to implement features, refactor code, and write automated tests, including connecting agents to engineering tools via MCP . You can explain how you scoped the work, verified the results, and handled tool permissions and sensitive data. A pragmatic product mindset : you collaborate effectively with non-technical stakeholders, understand the impact of technical decisions on patients and UX, and continuously improve both product and platform. Nice-to-have Strong Linux administration skills , including setting up, operating, and securing self-managed cloud instances; familiarity with monitoring and observability concepts. Experience with Prometheus, Loki, and Grafana ; GitOps using ArgoCD or FluxCD; or configuration management using Ansible or similar tools. Networking knowledge and experience with mobile CI/CD, release automation, or application monitoring tools such as Sentry. Experience in regulated industries, healthcare, or other security-conscious environments . 💡 Please note : Cara Care is a remote-first company with a fully distributed team. All team members are based in Germany so candidates must reside in Germany to join us . Benefits 💸 Fair compensation: We offer fair pay, regular salary reviews, and the equipment you need to do your best work. 🫶 Great team spirit: Join a vibrant, interdisciplinary team and enjoy a friendly, supportive working atmosphere, with regular in-person team events. 👨‍💻 Remote-first working: Prefer working from home? No problem. Want to join us at our Berlin office? That works too. Our remote-first approach gives you the flexibility to work where it suits you best. 🏝️ 30 days off per year: Rest matters. You’ll get 26 vacation days plus 4 additional company-wide mental health days each year to take a breather and recharge. 🦉 Flexible working hours: Whether you’re an early bird or prefer a later start, you can shape your working day around what works for you. 🏋️ Urban Sports Club (USC): Enjoy access to a wide range of sports, fitness, and wellness activities at discounted rates. 🧠 OpenUp: Access a variety of resources and services to support your mental health and personal wellbeing. 🛍️ Corporate Benefits: Get attractive discounts and exclusive offers from a wide range of well-known brands and providers. 🚀 Make a real impact: Be involved, contribute your ideas, and help shape what comes next. Your voice matters, and you can make a real difference. About Cara Care Cara Care is a digital health company on a mission to improve the lives of people with digestive health conditions through holistic, science-based digital therapies. Our established IBS therapy, Cara Care für Reizdarm, provides personalised content, practical exercises, and symptom tracking to help people better understand and manage their condition. It is listed in the German Federal Institute for Drugs and Medical Devices’ (BfArM) directory of digital health applications (DiGA) and is covered by statutory health insurance in Germany. We are expanding our product portfolio and evolving our technology platform to bring digital therapies to more people across a broader range of conditions. Backed by Bayer We’re proud to share that Cara Care has recently joined the Bayer Group, a move that strengthens our mission and enables us to scale our impact even further. With Bayer’s global healthcare expertise and our innovative digital approach, we’re poised to redefine care for digestive health. What It’s Like to Work With Us At Cara Care, you’ll be part of an interdisciplinary team of doctors, designers, engineers, and creatives who are deeply passionate about improving lives. We’re inspired by our patients and driven by real-world impact. We move fast, collaborate closely, and never lose sight of the importance of well-being—both for our users and ourselves. Diversity Matters to Us We believe that diverse teams build better products. That’s why we’re committed to creating an inclusive environment for everyone—regardless of race, religion, color, national origin, sex, sexual orientation, gender identity, age, or disability. We know that applying for a new job is a big step, and we genuinely appreciate your time and effort. We’re excited to get to know you! Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "engineering",
-      "product & engineering",
-      "remote"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/cara-care/remote-senior-full-stack-engineer-based-in-germany-berlin-352789",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-234f46ccc572",
-    "title": "Full-Stack-Entwickler*in (Next.js) – Remote",
-    "company": "Itze-Bits GmbH",
-    "location": "Berlin",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Rolle: Frontend/Fullstack in Next.js, eigene (Teil-) Projektverantwortung mit Einfluss auf Projektverlauf Start, Stundenzahl und Vertragslaufzeit flexibel Wir suchen: Typescript, Next.js Skills oder ähnliches im Web Selbstständigkeit beim Einarbeiten in komplexere Themen/Codebases Kommunikationsfähigkeiten und Teamwork Produktiver Umgang mit Claude Code Gutes Deutsch und mindestens mittelgutes Englisch Was wir bieten 20–30 €/h, je nach Erfahrung Performance Boni Remote, vereinzelten Präsenztreffen/-termine Direkter Einfluss auf das Produkt – keine Konzernstrukturen Arbeiten in unterschiedlichen Teamkonstellationen und Projekten Über uns Wir sind ein wachsendes Unternehmen im AI-ERP-Bereich mit Nische auf KMU und Legacy-Systemen. 9 Leute, schnell, dynamisch. Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "web development"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/itze-bits-gmbh/full-stack-entwicklerin-nextjs-remote-berlin-336824",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-9a6c8471bede",
-    "title": "UX/UI Designer (m/w/d) – AI-powered",
-    "company": "Digitale Leute School",
-    "location": "Cologne",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Gestalte die digitale Welt von morgen als AI-powered UX/UI Designer! Digitale Produkte, Apps und Web-Projekte sind die Welt, in der du arbeiten möchtest? Dich faszinieren Technologie, Design und das Nutzererlebnis? Und du willst wissen, wie KI die Arbeit von Designer:innen gerade verändert? Dann ist die Rolle als Product Designer (UX/UI) genau das Richtige für dich. Du gestaltest digitale Produkte mit den neusten AI-Tools und musst dafür nicht selbst tief in Code einsteigen. Benefits: ● Wir bilden dich in 4 Monaten remote/online zum UX/UI Designer aus (deutschsprachig) ● Du lernst die modernsten Tools wie Figma, Claude Design und Miro. Dazu kommen AI-Tools für Ideation, Wireframing und Prototyping sowie Vibe Coding für interaktive Prototypen ● Deine Trainer:innen sind Design-Leads aus Top-Tech-Unternehmen wie Delivery Hero, Personio und SAP ● Wir unterstützen dich schon während der Weiterbildung dabei, ein Unternehmen zu finden, das dir einen Jobeinstieg während oder nach dem Bootcamp bietet ● Die Weiterbildung ist in Vollzeit oder berufsbegleitend in Teilzeit möglich ● Du bekommst Mentor:innen, die dich durch das Programm führen, und simulierst die Arbeit in Product Teams an realen Cases ● Bis zu 100 % förderfähig mit dem Bildungsgutschein der Agentur für Arbeit (AZAV-zertifiziert) ● Nach vier Monaten steigst du mit Zertifikat und eigenem Portfolio-Case als Product Designer / UX/UI Designer in digitale Produktteams ein Deine Aufgaben: Steuerung von Designprozessen ● Als UX/UI Designer arbeitest du eng mit Entwickler:innen, Stakeholder:innen und anderen Beteiligten zusammen, um nutzerzentrierte Lösungen zu schaffen. Du setzt AI-gestützte Workflows ein, damit ihr schneller von der Idee zur Lösung kommt und besser entscheidet. User Research mit KI als Thinking Partner ● Du führst qualitative und quantitative Forschung durch, um die Bedürfnisse der Nutzer:innen zu verstehen. Mit Interviews, Umfragen und Datenanalysen erstellst du Personas und Customer Journeys. KI hilft dir dabei, Erkenntnisse schneller auszuwerten und Muster zu erkennen. AI-gestütztes Prototyping & Wireframing ● Du entwickelst Ideen und visualisierst sie als Wireframes und interaktive Prototypen. Mit AI-Tools erzeugst du Wireframes und Mockups schneller. Mit Vibe Coding baust du klickbare Prototypen, die du direkt mit Nutzer:innen testen kannst. Usability-Tests & Design-Optimierung ● Du planst und führst Usability-Tests durch, damit deine Designs intuitiv und benutzerfreundlich sind. Die Testergebnisse wertest du aus, und das Feedback fließt direkt in die Optimierung der Benutzeroberfläche ein. Produkt- & User Experience Design ● Du gestaltest Erlebnis und Oberfläche des Produkts, damit es gut aussieht und einfach zu bedienen ist. Dabei arbeitest du mit Design Systems und achtest auf Barrierefreiheit nach EAA und WCAG. Designing AI-Native Products ● Du gestaltest Produkte für eine Welt, in der KI selbst zum Interface wird, etwa für Chat- und Assistenz-Erlebnisse. Dabei weißt du, wo KI echten Mehrwert für Nutzer:innen liefert und wo nicht. Tracking & Analyse ● Du beobachtest mit Tools wie Hotjar und Google Analytics, wie Nutzer:innen mit dem Produkt umgehen. Über UX-KPIs misst du, ob dein Design funktioniert, und verbesserst es gezielt weiter. Qualifikation ● Du bist begeistert von Design und Technologie und liebst es, digitale Erlebnisse zu gestalten ● Du bist neugierig auf KI und willst die neuen AI-Tools gezielt in deinem Design-Alltag einsetzen ● Du arbeitest gern im Team und freust dich, gemeinsam Erfolge zu feiern ● Du hast Spaß an agilen Arbeitsmethoden (z. B. Scrum, Kanban) und iterierst Designs schnell ● Du kannst deine Designideen klar kommunizieren und Stakeholder von deinem Konzept überzeugen ● Du zeigst Eigeninitiative, bringst kreative Lösungen ein und arbeitest pragmatisch ● Du hast ein starkes Gespür für Nutzerbedürfnisse und ein gutes Auge für Details ● Vorerfahrung in Design ist kein Muss, wichtig ist deine Bereitschaft, dich in Tools wie Figma einzuarbeiten Jetzt suchen wir Mitarbeiter (m/w/d) aus den Bereichen: UX/UI Designer (m/w/d), Product Designer UX/UI (m/w/d), AI UX/UI Designer (m/w/d), UX Designer (m/w/d), UI Designer (m/w/d), Digital Product Designer (m/w/d) Über uns: Wir, die Digitale Leute School, bilden Product Designer (UX/UI) in unseren Bootcamps aus und vermitteln sie in Einsteigerpositionen (Weiterbildung). KI ist bei uns kein Anhang, sondern fester Bestandteil der Arbeitsweise. So lernst du genau die Skills, die moderne Tech-Teams heute suchen. Unser nächster Kurs startet am 9. Dezember 2026, und wir haben noch Plätze frei! Starte als Quereinsteiger:in, Umsteiger:in, Junior oder Associate Designer (UX/UI) in die Product Designer Weiterbildung und finde danach deine erste Stelle. Wir freuen uns auf deinen Lebenslauf und deine Bewerbung. Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "media",
-      "screen and web design"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/digitale-leute-school/ux-ui-designer-ai-powered-cologne-30977",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-81d1c1390b4e",
-    "title": "Team Lead E-Commerce Growth (m/w/d)",
-    "company": "Turnover Recruitment GmbH",
-    "location": "Berlin",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Über Turnover Recruitment GmbH Turnover Recruitment ist eine spezialisierte Recruiting-Beratung für E-Commerce-Unternehmen, die Recruiting-Probleme dort löst, wo Standardlösungen nicht mehr funktionieren. Für einen Kunden aus dem D2C-Bereich suche ich eine Führungskraft, die ein E-Com-Team führt und selbst hands-on umsetzt: kein Head-of, sondern Leader und Growth Hacker in einer Person. Job Results: Daran wirst du gemessen Testing-Pipeline: Sie ist nie leer. Pro Monat gehen zweistellig viele Tests live, auch zu Angeboten und Pricing. Erfolgsquote: Der Anteil erfolgreicher Tests steigt innerhalb von 6 Monaten messbar. AOV: Durch Up- und Cross-Selling liegt der Warenkorbwert nach 6 Monaten spürbar höher. Führung: Dein Team kennt jeden Tag seine Prioritäten, und Entscheidungen werden vorbereitet statt vertagt. Deine Aufgaben Mindestens 5 Jahre operative Erfahrung im E-Commerce oder D2C mit Fokus auf Growth, CRO oder Performance, davon mindestens 2 Jahre in Führung Nachweisbare Erfolge mit selbst umgesetzten Tests und Maßnahmen Sicheres Zahlen- und Business-Verständnis, zum Beispiel beim Kalkulieren von Angeboten und Bewerten von Testergebnissen Klare Prioritäten und Entscheidungen, auch wenn es eng wird Ownership und proaktive Kommunikation mit Führung und Stakeholdern AI-first: Erfahrung mit AI-Agenten und Interesse an neuen AI-Entwicklungen Sicherer Umgang mit Shopify Plus, GA4 und GTM Pragmatische Hands-on-Mentalität Nice-to-have: Hintergrund in Growth-Marketing oder Offer-Building, Erfahrung in stark wachsenden Brands Nicht bewerben wenn: du noch nie im E-Commerce gearbeitet hast. du noch keine Führungserfahrung hast. du noch nie mit AI-Agenten gearbeitet hast. du noch nie mit Shopify Plus, GA4 und GTM gearbeitet hast. du nur Strategie machen und nicht selbst umsetzen willst. du mit diesem Satz nichts anfangen kannst: „Es gibt keine Probleme.“ Nur Herausforderungen, die es zu hacken gilt. Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote",
-      "management",
-      "team leader"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/turnover-recruitment-gmbh/team-lead-e-commerce-growth-berlin-436613",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-72cc12ac72a3",
-    "title": "Senior Architect, Enterprise Agentic Automation",
-    "company": "Camunda",
+    "id": "arbeitnow-f8a422372ed5",
+    "title": "Endear - Product Manager",
+    "company": "Eleve Talent",
     "location": "Remote",
     "remote": true,
-    "location_restriction": null,
+    "location_restriction": "US only",
     "salary": null,
-    "description": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at scale. Trusted by over 700 organizations worldwide , including 9 of top 10 US banks, Camunda helps enterprises boost operational efficiency, accelerate time-to-value, and deliver better customer experiences. Fully remote and global, we are in the middle of something bigger: transforming into an AI-first organisation, built on our own platform . We use Agentic AI to automate, orchestrate intelligent processes, and elevate human contribution across every team. Named GP Bullhound’s Top 100 Next Unicorn list, 2025 Great Place to Work certified. Visionary in 2025 Gartner® Magic Quadrant™ for Business Orchestration and Automation Technologies. ranked 3rd in Flexa's 2026 Most Flexible Companies , We’re growing fast and looking for top talent to join our team. If you want meaningful work, visible impact and put something genuinely rare on your CV, keep reading. About the Role: We run Camunda on Camunda. Our Enterprise Agentic Automation Team (EAAT) builds production-grade agentic orchestration using Camunda's platform for Camunda's own operations, from Finance to Support to Go-to-Market. As Senior Architect, you own delivery on our EAAT-led initiatives end to end. You partner with process owners to uncover where the biggest value lies, redesign how the work should flow, decide where agents, rules or people handle each step, and shape it into scope our engineers can build from directly. Then you lead technical delivery management with our engineers, steering increments, dependencies and decisions until you get it live and prove the value. You won't design and hand over: you stay until it works in production, and keep evolving it. What You Will Do: Own delivery of our use cases end to end, business and technical, from discovery to production and value realization Run discovery with process owners: as-is baseline, target process, and where agents, rules or humans handle each step Turn target processes into epics engineers can build from directly: scenarios, acceptance criteria, increments Design solutions within our reference architecture, and bring new patterns based on lessons learned Lead technical delivery on your initiatives: plan increments with the engineers, manage dependencies and risks, and keep process owners and sponsors aligned on progress and decisions Define and track value per initiative and increment, and keep business decisions moving Feed delivery learnings back into the reference architecture, our delivery method and Camunda's product What you bring: Ability and/or willingness to use our product . Must Haves: 7+ years in solution architecture or technical/process consulting, with an engineering background (Java, JavaScript or similar) and significant time delivering for the business or customers A track record of leading process orchestration initiatives (Camunda or comparable) from discovery to production, not just designing them and handing over Strong business analysis and process management skills: runs discovery and process redesign workshops with business stakeholders, models processes in BPMN, and turns the outcome into solid solution designs Solution and data architecture in an enterprise context: integrations and APIs, and the data a process and its agents need across systems An AI-first mindset, including first experience designing and building enterprise-grade agentic solutions Holds their own with senior stakeholders and gets decisions made Nice-to-haves: Experience in Finance or other back-office process domains and operations (P2P, Q2C) Experience building value cases from operational data (baselines, volumes, value per increment), value engineering or benefits tracking Experience with process intelligence or mining tools Working knowledge of enterprise systems such as NetSuite, Salesforce or Zip This role is an existing vacancy #LI-JS1 #LI-Remote #C1 What We Have to Offer: Compensation We offer competitive, fair, and transparent compensation. Salary ranges are location-based, with Standard and Major markets (global tech hubs) reflecting local competition. The Annual Total Target Cash (base salary + 100% variable target, where applicable) shown below spans from the minimum in a Standard market to the maximum in a Major market. Final offers depend on skills , experience , and location , and we typically hire in the first half of the range to allow room for growth: United States: $171,100.00 to $275,800.00 United Kingdom: £107,400.00 to £176,700.00 Singapore: S$212,400.00 to S$318,600.00 If you’re based elsewhere, you’ll be hired via Remote.com (our global employer partner), and your Talent Acquisition Partner will provide a personalized Total Rewards Calculator after your first interview. Equity: We also offer equity (where applicable) through our Virtual Stock Option Plan (VSOP) . Benefits &amp; Perks We invest in your wellbeing, growth, and ability to connect, along with perks that support you no matter where you’re based. Our benefits are globally designed and locally delivered where applicable. Remote &amp; Flexible: Work from anywhere with the setup that suits you, home office budget, co-working space support, and flexible time off to recharge when you need it. In Person Connection: We invest in meaningful face time through our Annual Kickoff (Vienna in 2025, Madrid in 2026!), team offsites, and Camundi Connection Budgets , including contributing to meetups while travelling,, and local gatherings with fellow Camundi. Health &amp; Wellbeing: Access locally tailored healthcare, Modern Health for global mental wellbeing, and our Live Well Lifestyle Spending Account (LSA), a flexible, global benefit that puts you in control of your whole life, not just work, from: staying active, to caring for family, exploring personal passions, meaningful experiences, and investing in your financial wellbeing. The Live Well program launches in 2026 and scales to €1,000 annually from 2027 . Financial Security: Retirement and pension plans (often with company contributions), plus life and disability insurance where relevant. Professional Growth: Up to $/€/£1,000 per year for self-driven learning: courses, certifications, books, you decide! AI in our hiring process : Camunda may use AI tools to aid the screening of applications and during the interview process. You can learn more here ”Everyone is welcome at Camunda” — it’s a celebrated component of our culture. We strive to create an inclusive environment that empowers our people. At Camunda, we honour diverse cultures and backgrounds and are proud to be an equal opportunity employer. All qualified applicants will receive consideration without regard to gender, race, ethnicity, religion, belief, sexual orientation, age, disability or any other protected characteristics under applicable law. We are looking forward to your application! Come join us and be part of Camunda’s incredible journey: Make an impact at a pivotal moment in our story! Please be aware that scammers may impersonate Camunda by reaching out about job opportunities. Camunda will only contact candidates from an email address ending in @ camunda.com or @ talent.camunda.com . We will never ask candidates for bank account details, checks, payment, or other sensitive financial information as part of our hiring process. If you receive a suspicious message, please do not respond, click any links, or share personal information. Note for recruiting and placement agencies: Camunda does not accept unsolicited agency resumes. Please do not forward resumes to our careers site, employees, or any other Camunda contact unless we have specifically engaged your firm for that search. Camunda will not pay fees related to unsolicited resumes. For information about how your personal data is processed, please refer to Camunda’s Applicant Privacy Policy . We note that phone numbers and SMS opt-in data are not shared, sold, or rented to third parties or affiliates for marketing or promotional purposes. By opting in to SMS use, please be aware that: Text message frequency may vary; Standard text message and data rates may apply; and By opting in, you will be enrolled directly in ongoing recruiting text messages from Camunda. To opt-out, simply select 'No' when prompted during your application. You can also change your preferences at any time by contacting ----- style=\"min-height:1.5em\"> Find more English Speaking Jobs in Germany on Arbeitnow",
+    "description": "Our Story At Endear, we’re building the first modern CRM for retail teams, starting with the frontline. Our software helps retail teams build stronger customer relationships through thoughtful, intuitive technology. From clienteling and customer capture to appointments and in-store experiences, Endear gives brands the tools they need to create more personal interactions and drive measurable growth. We work with brands like Gorjana, Reformation, and Alo Yoga, and we’re continuing to evolve Endear into an increasingly AI-first product built around how modern retail teams actually work. Position Overview We're looking for a Product Manager to help shape and deliver the next generation of Endear's platform. You'll take ownership of product decisions, priorities, and outcomes, working closely with Design, Engineering, and cross-functional stakeholders to turn customer needs and business opportunities into impactful product experiences. This is a hands-on individual contributor role for someone who can operate autonomously, make thoughtful tradeoffs, and drive initiatives from discovery through launch and iteration. You'll have meaningful ownership over what gets built, why it matters, and how we measure success, while partnering with product leadership on broader vision and direction. AI fluency is central to how we work. You'll use AI to accelerate discovery, bring ideas to life through prototyping, automate workflows, and help the team deliver value faster. This role is well suited for someone who thrives in ambiguity, takes ownership of decisions, and knows how to connect great product experiences to meaningful business impact. What You'll Accomplish In your first 6 months, you'll… Take ownership of product initiatives from discovery through launch, making decisions around scope, priorities, and tradeoffs. Build a deep understanding of our customers, their workflows, and the business problems we're solving. Partner closely with Sales, Customer Experience, and Marketing to gather insights, align priorities, and identify opportunities for product improvement. Translate customer needs, business goals, and product data into clear priorities and actionable plans. Work closely with Design and Engineering to evaluate solutions, make product decisions, and deliver high-quality experiences. Define success metrics and take accountability for the customer and business outcomes of the features you ship. Use AI to improve how product work gets done, including rapid prototyping, documentation, research synthesis, and workflow automation. In your first year, you'll… Independently own meaningful areas of the product roadmap, driving decisions and measurable outcomes within the broader product strategy. Deliver product improvements that increase adoption, engagement, customer value, and business performance. Establish strong feedback loops across customers, Sales, CX, Marketing, Design, and Engineering to inform ongoing product decisions. Build repeatable, AI-powered workflows that help the product team operate more efficiently and ship faster. Become a trusted cross-functional partner who brings clarity to complex problems and drives alignment around priorities and decisions. Demonstrate clear business impact through the products you build and the improvements you deliver. You'll Thrive in This Role If… You love owning product decisions and are comfortable being accountable for outcomes, not just execution. You're able to operate independently, navigate ambiguity, and make sound decisions without needing constant direction. You think commercially and understand how product decisions connect to customer value, adoption, retention, and business growth. You naturally bring together different perspectives from Sales, CX, Marketing, Design, and Engineering to make better product decisions. You're comfortable challenging assumptions, prioritizing competing needs, and communicating tradeoffs clearly. You're highly fluent in AI and actively look for opportunities to automate work, build prototypes, and improve how teams operate. You move quickly, experiment often, and know when to gather more information versus when to make a decision. You care deeply about understanding customers and solving the right problems. You Have Experience With Approximately 5+ years of product management experience, ideally building customer-facing software or B2B SaaS products. Independently owning product initiatives, including discovery, prioritization, decision-making, execution, and measuring outcomes. Making product decisions that balance customer needs, business goals, and technical constraints. Demonstrating measurable business impact through products or features you've shipped. Working cross-functionally with Sales, Customer Experience, Marketing, Design, and Engineering to align stakeholders and drive initiatives forward. Conducting customer discovery, synthesizing feedback, and using qualitative and quantitative data to inform product decisions. Defining success metrics, evaluating product performance, and using insights to guide prioritization and iteration. Operating effectively in ambiguous, fast-moving environments where priorities evolve. Demonstrating strong AI fluency through practical applications, such as: Building functional prototypes with AI to communicate and validate product ideas. Automating product documentation, requirements, and ongoing updates. Creating AI-powered workflows or systems that streamline product copy, content edits, or repetitive processes. Using AI to accelerate research synthesis, problem framing, and product decision-making. Evaluating AI-generated output critically and understanding when human judgment and validation are needed. Experience with retail technology, e-commerce, CRM, mobile-first products, or AI-powered experiences is a plus, but not required. Align With What We Value At Endear, we live by five core principles. Here's how they translate into what we're looking for in this role: Customer First: You prioritize real customer problems, use research and data to guide decisions, and connect product improvements to meaningful customer and business outcomes. Take Ownership: You take responsibility for product decisions and results, independently driving initiatives from identifying opportunities through delivery and iteration. Enable Autonomy: You create clarity around priorities, decisions, and tradeoffs so cross-functional teams can move forward confidently and independently. Under Promise, Over Deliver: You set realistic expectations, communicate openly with stakeholders, and consistently deliver measurable value. Innovate &amp; Deliver Value Quickly: You embrace AI, automation, and experimentation to improve how products are built, reduce unnecessary work, and deliver meaningful improvements faster. About the Team Endear's product organization works across three product areas: AI, IRL (in real life), and Core Flows. You'll collaborate closely with Product, Design, and Engineering while working across the business to understand customer needs, identify opportunities, and drive product outcomes. You'll partner most closely with: Product Leadership: Align on broader product vision, strategic priorities, and business goals while independently owning decisions within your product initiatives. Design Team: Collaborate on discovery, problem definition, prototyping, and delivering intuitive product experiences. Engineering Team: Evaluate technical feasibility, navigate tradeoffs, and turn product decisions into shipped solutions. Sales, Customer Experience &amp; Marketing: Gather customer and market insights, align on product priorities, support launches, and identify opportunities to improve adoption and customer value. We're a small team with big ambitions, collaborative, customer-obsessed, and deeply excited about the problems we're solving in retail. Our Hiring Process Recruiter Screen Behavioral Interview with the Hiring Manager + Co-Founder Panel interview with key Product and Engineering team members Final conversation with Co-Founder + CTO Offer 🎉 Compensation &amp; Benefits Base Salary: $140,000-$170,000 Fully remote, US-based team Comprehensive healthcare (medical, dental, vision) Co-working or home office stipend Flexible PTO and unlimited vacation Opportunity to shape foundational product work in a transformative industry Location: This role is remote and US-based. Our full team comes together for an all-team standup every Monday at 8:00 AM Pacific, so you'll need to be available at that time. Apply Even If You Don't Check Every Box If this role excites you but you're unsure if you meet every requirement, reach out anyway. No retail or e-commerce background is required. We care about your product thinking, skills, motivation, and how you approach problems more than we do about perfect resumes. Find Jobs in Germany on Arbeitnow",
     "required_skills": [
-      "finance"
+      "endear"
     ],
     "requirements": [],
     "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-architect-enterprise-agentic-automation-165952",
+    "url": "https://www.arbeitnow.com/jobs/companies/eleve-talent/remote-endear-product-manager-374700",
     "date_posted": null
   },
   {
-    "id": "arbeitnow-e7f47a2e9669",
-    "title": "Senior Projektentwickler Wohnungsbau (m/w/d)",
-    "company": "Hypertrics GmbH",
+    "id": "arbeitnow-4c22c75c31df",
+    "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
+    "company": "virtual7 GmbH",
     "location": "Homeoffice",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Senior Projektentwickler Wohnungsbau (m/w/d) Standort: Berlin | Vollzeit | Unbefristet Für unseren Mandanten, ein etabliertes Unternehmen mit Projektentwicklung und Bauorganisation unter einem Dach und anspruchsvollen Wohnungsbauprojekten im Berliner Raum, suchen wir im exklusiven Auftrag zum nächstmöglichen Zeitpunkt einen Senior Projektentwickler (m/w/d) . Projekte werden von der ersten Idee bis zur Umsetzung im eigenen Haus realisiert. Sie erwartet eine Position mit echtem Gestaltungsspielraum, kurzen Entscheidungswegen und direkter Zusammenarbeit mit der Unternehmensentwicklung und der Geschäftsführung. Ihre Aufgaben Akquise: Identifikation und Bewertung von Grundstücken und Projekten (On- und Off-Market) im Berliner Raum Vorprüfung: Prüfung von Projektpotenzialen hinsichtlich Baurecht, Flächen, Risiken und Chancen Ankaufskalkulation: Erstellung von Ankaufskalkulationen inklusive Residualwertberechnungen Transaktionen: Unterstützung bei Strukturierung und Durchführung von Transaktionen (LOI, Due Diligence, Kaufvertrag) Netzwerk: Aufbau und Pflege eines aktiven Netzwerks zu Maklern, Eigentümern, Kommunen und Marktpartnern Eigenverantwortliche Entwicklung: Entwicklung von Wohnungsbauprojekten von der Projektidee bzw. Ankaufsphase bis zur Baureife Planungssteuerung: Steuerung der Planungsprozesse mit Architekten, Fachplanern, Gutachtern sowie Rechts- und Steuerberatern Genehmigungen: Koordination der Genehmigungsprozesse mit Behörden und Kommunen (B-Plan, Bauantrag, Bauvoranfrage) Wirtschaftlichkeit: Wirtschaftliche Optimierung der Projekte über alle Entwicklungsphasen Schnittstellen: Abstimmung mit den internen Bereichen Bau, Finanzierung, Controlling und Vertrieb bzw. Asset Management Realisierungsbegleitung: Sicherstellung von Qualität, Kosten und Terminen bis zur Fertigstellung Bauschnittstelle: Schnittstelle zur Bauabteilung während der Realisierung Vermarktung: Mitwirkung bei Vermarktungs- und Exitstrategien (Forward Deal, Einzelverkauf, Portfolio-Ansatz) Entscheidungsgrundlagen: Erstellung von Entscheidungsvorlagen und Präsentationen für Geschäftsführung, Vorstand und Kapitalpartner Ihr Profil Fachliche Qualifikation: Abgeschlossenes Studium in Immobilienwirtschaft, Bauingenieurwesen oder Architektur Berufserfahrung: Mindestens 5 Jahre Praxiserfahrung in der Projektentwicklung, idealerweise mit Schwerpunkt Wohnungsbau in Berlin Nachweisbare Erfahrung: In Projektakquise und Grundstücksankauf, in Wirtschaftlichkeits- und Investitionsrechnungen (Residualwert, DCF, Cashflow-Modelle), in der Steuerung externer Planer und Dienstleister, in Planungs- und Genehmigungsprozessen im Berliner Markt sowie in der Begleitung von Projekten bis in die Realisierung, idealerweise im Zusammenspiel mit einer Bauorganisation Systemkompetenz: Sehr gute Kenntnisse in MS Excel (finanzielle Modellierung) und PowerPoint Marktkenntnis: Starke Marktkenntnis und gute Vernetzung in Berlin Arbeitsweise: Strukturiert, eigenständig und lösungsorientiert Persönlichkeit: Verhandlungssicher, kommunikationsstark und teamorientiert Sprachkompetenz: Fließende Deutschkenntnisse; Englisch von Vorteil Zusatzqualifikation: MRICS / FRICS oder vergleichbare Qualifikation ist ein Plus, aber keine Voraussetzung Ihre Vorteile Gestaltungsspielraum: Spannende Wohnungsbauprojekte in Berlin mit echtem Einfluss und Verantwortung Ganzheitliche Projektrealisierung: Projekte, die von der Idee bis zur Umsetzung im eigenen Haus realisiert werden Entscheidungskultur: Kurze Entscheidungswege und direkte Zusammenarbeit mit der Unternehmensentwicklung und der Geschäftsführung Team: Ein professionelles, umsetzungsstarkes Team mit hoher Marktkenntnis Vergütung: Attraktives Vergütungspaket und klare Entwicklungsperspektive Arbeitsumfeld: Moderne Arbeitsumgebung, flexible Arbeitsmodelle und langfristige Perspektive Kontakt Hypertrics GmbH Schürmannstraße 22a 45136 Essen Find Jobs in Germany on Arbeitnow",
+    "description": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Clusters Justice. DEINE MISSION Als Kubernetes Administrator/Private Cloud Engineer (m/w/d) stellst du sicher, dass unsere Container-Infrastruktur reibungslos läuft und zukunftsfähig bleibt. Deine Mission ist es, eine hochverfügbare, skalierbare und sichere Plattform zu schaffen, auf der unsere Anwendungen zuverlässig betrieben und weiterentwickelt werden können. Gemeinsam mit deinem Team treibst du die Automatisierung und Optimierung unserer Cloud-Umgebung voran. Deine Aufgaben Beratung, Konzeption und Implementierung von Private Cloud Plattformen Zusammenarbeit mit weiteren Fachteams zur Bereitstellung der nötigen Infrastruktur Messung, Analyse und Optimierung der Performance und Stabilität Aufbau und Betrieb verteilter Systeme unter Anwendung des DevOps-Ansatzes Förderung von Continuous Integration &amp; Deployment-Prozessen für eine effiziente und schnelle Bereitstellung der Lösungen Fehleranalyse und -behebung in Container-Umgebungen DAS IST UNS WICHTIG Mindestens 5 Jahre relevante Berufserfahrung im Cloud-/Plattformbetrieb Erfahrung in der agilen Entwicklung und im Betrieb von verteilten Systemen Fundierte Kenntnisse in Kubernetes und Ansible sind unerlässlich Erfahrung in der Fehleranalyse und -behebung in Container-Umgebungen Erfahrung in Konfiguration und Betrieb sowie in der Entstörung von Proxies Ein tiefes Verständnis für DevOps-Praktiken ist von Vorteil Erfahrungen mit CI/CD-Pipelines OpenShift und mit JavaEE sind ein Plus Sehr gute Deutschkenntnisse (C1-Niveau) sowie Englischkenntnisse auf Konversationsniveau DEIN NEUER ARBEITSPLATZ Was bei uns zählt? Klar definierte Rollen, echtes Miteinander und ein gemeinsames Ziel. Wir nennen das Responsiveness – transparent, wertschätzend und zielorientiert. Hier bist du am Wandel direkt beteiligt, wenn du möchtest. – Nimm Teil an Projekten, die uns als Unternehmen weiterentwickeln. Flexible Arbeitszeiten und Remote Work? – Sind selbstverständlich. Individuelles Hardware-Budget? – Stell dir deinen Arbeitsplatz so zusammen, wie du dich am wohlsten fühlst. Mental Health? – Dein mentales Wohlbefinden ist uns wichtig. Mit OpenUp unterstützen wir dich und bieten dir jederzeit kostenlosen Zugang zu professioneller psychologischer Unterstützung. Individuelles Weiterbildungsbudget? – Egal ob die nächste Zertifizierung oder ein lang ersehnter Sprachkurs – du entscheidest, worin und wann du dich weiterbildest. Mitarbeiter:innen-PC-Programm? – Lease dir dein nächstes Device zur rein privaten Nutzung einfach über virtual7. JobRad oder Firmenwagen? – Wir helfen dir dabei, so mobil zu sein, wie du es brauchst Erzähl mir, wer du bist und wann du anfangen kannst. Gerne auch über Ishan De Recruiting Specialist +49 176 30017959 Find Jobs in Germany on Arbeitnow",
     "required_skills": [
+      "customer cluster justice",
       "remote"
     ],
     "requirements": [],
     "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/hypertrics-gmbh/remote-senior-projektentwickler-wohnungsbau-berlin-247894",
+    "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-336464",
     "date_posted": null
   },
   {
-    "id": "arbeitnow-0c5faec6cd9c",
-    "title": "Teamleiter Kalkulation Schlüsselfertiger Hochbau (m/w/d)",
-    "company": "Hypertrics GmbH",
-    "location": "Homeoffice",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Teamleiter Kalkulation Schlüsselfertiger Hochbau (m/w/d) Standort: Berlin | Vollzeit | Unbefristet Für unseren Mandanten, ein etabliertes Bauunternehmen im Bereich schlüsselfertiger Hochbau mit anspruchsvollen Projekten ausschließlich im Berliner Raum und modernen, digital geprägten Planungs- und Bauprozessen, suchen wir im exklusiven Auftrag zum nächstmöglichen Zeitpunkt einen Teamleiter Kalkulation (m/w/d) . Das Unternehmen steht für ein positives Betriebsklima, offene Kommunikation und eine Kultur, in der individuelle Entwicklung aktiv gefördert wird. Sie erwartet eine Führungsposition mit echtem Handlungsspielraum und Rückhalt durch erfahrene Führungskräfte, bei Projekten mit Volumina von ca. 20 bis 150 Mio. €. Ihre Aufgaben Teamführung: Fachliche und disziplinarische Führung des Kalkulationsteams sowie Organisation des operativen Tagesgeschäfts Mitarbeiterentwicklung: Begleitung der fachlichen Entwicklung der Mitarbeitenden und Umsetzung individueller Entwicklungsmaßnahmen in enger Abstimmung mit dem Leiter Angebotsbearbeitung Ressourcensteuerung: Projektbezogene Zuordnung der Kalkulatoren sowie Priorisierung und Steuerung der laufenden Kalkulationsaufgaben Kalkulationssteuerung: Koordination und Qualitätssicherung der Kalkulation anspruchsvoller schlüsselfertiger Hochbauprojekte innerhalb des übergeordneten Angebotsprozesses Qualität &amp; Plausibilisierung: Bewertung wesentlicher Kalkulationsansätze, Mengen, Kostenkennwerte und Annahmen Preiskommissionen: Vorbereitung der Kalkulatoren und ihrer Projekte auf die internen Preiskommissionen sowie Aufbereitung von Chancen, Risiken und wesentlichen Kalkulationsannahmen Risiken &amp; Chancen: Sicherstellung einer strukturierten Identifikation und Bewertung technischer und wirtschaftlicher Projektrisiken und -chancen Schnittstellenmanagement: Enge Zusammenarbeit mit dem Leiter Angebotsbearbeitung sowie mit Ausschreibung/Vergabe, Einkauf, Arbeitsvorbereitung, Projektleitung und Management BIM &amp; Digitalisierung: Weiterentwicklung der Zusammenarbeit zwischen BIM-Modellierung und Kalkulation sowie schrittweise Verbesserung modellbasierter Kalkulationsprozesse Prozessentwicklung: Weiterentwicklung und Standardisierung von Kalkulationsmethoden, Kennwerten, Vorlagen und digitalen Arbeitsabläufen, insbesondere in RIB iTWO Verhandlungen: Fachliche Unterstützung bei Bietergesprächen und Auftragsverhandlungen Ihr Profil Fachliche Qualifikation: Abgeschlossenes Studium des Bauingenieurwesens, Wirtschaftsingenieurwesens Bau oder eine vergleichbare technische Qualifikation, beispielsweise als Bautechniker Berufserfahrung: Mehrjährige, fundierte Erfahrung in der Kalkulation anspruchsvoller Hochbauprojekte, idealerweise im schlüsselfertigen Hochbau auf Seiten eines Generalunternehmers oder Generalübernehmers Führungserfahrung: Erfahrung in der fachlichen und/oder disziplinarischen Führung sowie Freude daran, Mitarbeitende im operativen Alltag anzuleiten, Verantwortung zu übertragen und ihre Entwicklung gemeinsam mit der übergeordneten Führungskraft zu begleiten Kalkulationskompetenz: Sicheres Verständnis von Mengen, Leistungen, Kostenstrukturen, Nachunternehmerleistungen sowie technischen und wirtschaftlichen Projektrisiken Digitale Kompetenz: Sehr gute Kenntnisse moderner Kalkulationsprozesse. Erfahrung mit RIB iTWO sowie modellbasierter Kalkulation / BIM ist von Vorteil Unternehmerisches Denken: Ausgeprägtes wirtschaftliches Verständnis, analytische Stärke und die Fähigkeit, komplexe Sachverhalte auf die entscheidenden Stellhebel zu reduzieren Persönlichkeit: Klarer, verbindlicher Führungsstil, Entscheidungsstärke und souveräne Kommunikation gegenüber Mitarbeitenden, Projektteams, Geschäftspartnern und Management Ihre Vorteile Attraktive Vergütung: Leistungsbezogene Bonusmodelle sowie weitere Zusatzleistungen, darunter vermögenswirksame Leistungen und ein Zuschuss zu einem Fitness- und Gesundheitsprogramm Anspruchsvolle Projekte: Hochbauprojekte mit Volumina von ca. 20 bis 150 Mio. € und entsprechend vielseitigen technischen und organisatorischen Herausforderungen Arbeiten in Berlin statt auf Montage: Projekte ausschließlich im Berliner Raum, ohne lange Reisetätigkeiten oder bundesweite Baustelleneinsätze Entwicklung mit klarem Zielbild: Gemeinsam erstellte Entwicklungspläne, die Ihre Stärken und Interessen mit den aktuellen und zukünftigen Anforderungen Ihrer Rolle verbinden Verantwortung mit Rückhalt: Der nötige Handlungsspielraum für Ihre Aufgaben und der Zugriff auf die Erfahrung von Führungskräften und Kollegen Teamkultur: Sommerfest, Weihnachtsfeier und ein jährliches gemeinsames Wochenende außerhalb der Stadt Stabilität: Sicherer Arbeitsplatz mit langfristiger Perspektive, getragen von einer nachhaltigen Unternehmensentwicklung und einer stabilen Projektbasis Kontakt Hypertrics GmbH Schürmannstraße 22a 45136 Essen Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/hypertrics-gmbh/remote-teamleiter-kalkulation-schlusselfertiger-hochbau-berlin-259402",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-2d2e86489c18",
-    "title": "Product Solution Architect, Connectivity Solutions (all genders)",
-    "company": "Distribusion Technologies",
-    "location": "Remote job",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Distribusion is the world’s leading ground transportation marketplace and gives travelers seamless access to ground transportation online, from search to ticket purchase. We have built a cutting-edge B2B technology platform that connects bus, rail, and ferry operators in 70+ countries with the biggest online retailers, including Google Maps and Booking.com . We are shaping the future of travel and building the largest global network of transport providers and retailers. We are one of the fastest-growing startups in travel, backed by two leading VCs (TQ Ventures &amp; Lightrock), and now, following our recent $80m Series C funding, we are ready to push beyond. As a Product Solution Architect , you translate complex, multi-team requirements into scalable, platform-ready concepts, from requirements gathering and product design through to technical architecture, without hands-on coding. You work with client-facing teams to solve client needs while keeping products coherent across tech verticals. You champion clean concepts, drive down technical debt, and advise engineering teams by analyzing codebases, evaluating standards, and guiding features to high-quality delivery. What you will do: Architecture &amp; System Blueprints: Define high-level platform concepts, system topologies, and technical blueprints that resolve cross-domain dependencies while systematically reducing tech debt. Requirements &amp; Product Design: Partner with stakeholders to translate vague business needs into well-structured, platform-ready functional designs and technical specifications. Technical Advisory &amp; Quality Governance: Analyze existing codebases and implementation standards to advise engineering teams, enforce best practices, and resolve technical blockers. Project &amp; Delivery Alignment: Steer feature initiatives from concept to production, ensuring cross-team synchronization and timely delivery against platform milestones. Workplace: We are a remote-first company with teams located around the Globe and a HQ in Berlin. Who you are: 7+ years in software engineering or technical architecture, including 3+ years working as a solution, platform, or enterprise architect. Proven experience designing platform-level architectures and system blueprints for products spanning multiple teams and domains. Strong grounding in software design patterns, distributed systems, API design, and integration architecture. Demonstrated ability to read and evaluate existing codebases to assess technical debt, risk, and implementation quality. Strong analytical and communication skills, able to translate ambiguous business requirements into clear functional and technical specifications. Experience steering cross-functional delivery and aligning engineering, product, and business stakeholders without formal line-management authority. Bachelor's or Master's degree in Computer Science, Engineering, or a related field, or equivalent practical experience. Nice to Have Experience in travel, mobility, or e-commerce distribution platforms. Familiarity with domain-driven design and large-scale platform migrations or modernization initiatives. Prior experience in a technical advisory, architecture guild, or platform governance function. What you can expect: You will join a fast-paced travel tech company and take on a rapidly growing industry. You will take on ownership and responsibility from day one and have a direct impact on the success of the company. We value agility! We’re constantly updating our tech stack and offer the best possible tools to ensure all of our in-house engineers, partners, and carriers benefit from cutting-edge, efficient solutions. You will work with global companies. Our product attracts the biggest names in travel technology, such as Booking.com, Google Maps, and national carriers like Amtrak, Deutsche Bahn, Renfe, and SNCF. You will join an international team of talented and driven people with a clear mission. Expect your colleagues to inspire, support and challenge you every day! We offer flexible and remote working conditions, relocation opportunities, and career growth in a small and developing company. Our hiring&nbsp;team for this role: Your Talent Partner (TP) and point of contact is Anh Do, and the Hiring Manager (HM) is Mathias Leppmeier . For any queries, contact your Talent Partner at ( Come join us! Find Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "solutions",
-      "remote"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-product-solution-architect-connectivity-solutions-all-genders-berlin-247562",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-dc7d4349b7c2",
-    "title": "Head of IT",
-    "company": "PCS PolymerCycle Solutions GmbH",
+    "id": "arbeitnow-53e6d7fe5684",
+    "title": "Projektmanager (m/w/d) Power BI mit Entscheidungsbefugnis",
+    "company": "Weiler Consult GmbH",
     "location": "Berlin",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Unternehmen Die PolymerCycle Gruppe ist ein integriertes Kunststoffrecycling-Unternehmen und vereint die Best Plastic Management GmbH, PB Solutions GmbH, ATP Service & Consulting GmbH und Hoffmann+Voss GmbH. Gemeinsam machen wir aus Kunststoffabfällen hochwertige Rezyklate, die Neuware in anspruchsvollen Anwendungen ersetzen – etwa in der Automobil-, Elektro- oder Verpackungsindustrie. Dabei decken unsere Gesellschaften jeden Schritt des Recyclingkreislaufs ab: vom Handel mit Sekundärrohstoffen und PCR-/PIR-Stoffströmen über die Trennung komplexer Kunststoffgemische mit innovativen Dichtetrennverfahren und die Regranulierung in großen Mengen bis hin zu maßgeschneiderten Recompounds für technische Kunststoffe. Damit zählt PolymerCycle zu den wenigen Anbietern, die den gesamten Recyclingkreislauf vom Kunststoffabfall bis zum fertig spezifizierten Compound aus einer Hand abbilden – und ist optimal aufgestellt für die wachsende europäische Nachfrage nach hochwertigen Rezyklaten. Digitale Geschäftsprozesse verbinden bei uns alle Bereiche: vom Vertrieb über die Steuerung der Stoffströme und die Produktion bis zur kaufmännischen Abwicklung. Diese vernetzte Systemlandschaft wollen wir gezielt weiterentwickeln. Als Head of IT (m/w/d) der PolymerCycle Gruppe verantwortest Du den zuverlässigen Betrieb dieser Systeme und bringst neue Technologien aktiv und pragmatisch ein, immer mit Blick auf den Nutzen für das Geschäft. Position Head of IT Anstellung in der PolymerCycle Gruppe mit übergreifender Verantwortung für die IT aller Gesellschaften Aufgaben & Verantwortung Gesamtverantwortung für IT und Digitalisierung der Unternehmensgruppe mit klarem Fokus auf Standardisierung, Skalierbarkeit und Wertsteigerung im Private-Equity-Umfeld Entwicklung und Umsetzung einer gruppenweiten IT- und Digitalisierungsstrategie inklusive Roadmap, Budgetverantwortung und Priorisierung in enger Abstimmung mit Geschäftsführung und Gesellschaftern Harmonisierung und Weiterentwicklung der ERP- und Applikationslandschaft über alle Gesellschaften hinweg, inklusive der IT-seitigen Integration neu erworbener Unternehmen Verantwortung für einen stabilen, sicheren und skalierbaren IT-Betrieb an allen Standorten – von Infrastruktur, Netzwerken und Cloud-Services bis hin zur Produktions-IT Sicherstellung und Weiterentwicklung von IT-Security, Business Continuity und Compliance inklusive Richtlinien, Notfallkonzepten und Awareness in der Organisation Führung und Weiterentwicklung der IT-Funktionen in den Gesellschaften sowie Steuerung externer Dienstleister und Partner inklusive Vertrags-, Kosten- und Leistungscontrolling Zentrale Schnittstellenfunktion zwischen den Fachbereichen, den Gesellschaften, der Geschäftsführung und dem Private-Equity-Investor als Sparringspartner für Digitalisierungs- und Automatisierungsinitiativen Qualifikationen Erfolgreich abgeschlossenes Studium der (Wirtschafts-)Informatik, der Ingenieurwissenschaften, der Betriebswirtschaft mit IT-Schwerpunkt oder vergleichbare Qualifikation Mehrjährige relevante Berufserfahrung in der IT, idealerweise mit Führungsverantwortung und Nähe zur Geschäftsführung in einer Unternehmensgruppe oder im industriellen Mittelstand Fundierte Kenntnisse in ERP-, in IT-Infrastruktur und Cloud-Technologien sowie in IT-Security Erfahrung im Aufbau und in der Harmonisierung von IT-Strukturen, Prozessen und Systemen in dynamischen Organisationen, idealerweise im Kontext von Wachstum und Zukäufen Ausgeprägte analytische und strategische Denkweise kombiniert mit hoher Hands-on-Mentalität und Umsetzungsstärke Erfahrung in der Projekt- und Dienstleistersteuerung sowie in der IT-Budgetverantwortung; Kenntnisse in Produktions- bzw. Industrie-IT von Vorteil Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift Wir bieten Eine spannende Tätigkeit in einem wachsenden, zukunftsorientierten Markt Zusammenarbeit in einem dynamischen, interdisziplinären Team Leistungsgerechte Vergütung und attraktive Benefits Entwicklungsmöglichkeiten innerhalb der gesamten PolymerCycle Gruppe Find more English Speaking Jobs in Germany on Arbeitnow",
+    "description": "Über uns Die Weiler Consult GmbH ist eine Power-BI-Boutique für den deutschen Mittelstand und das Konzernumfeld. Rund 10 Power-BI-Expertinnen und -Experten bauen Reporting, das Geschäftsführer und CFOs wirklich nutzen. Unser Prinzip: Wir sind der Sherpa. Wir arbeiten remote-first, deutschlandweit, und treffen uns dreimal im Jahr zur Workation. Worum es geht Du bist die feste Ansprechperson für deine Kunden, vom Kickoff bis zur Verlängerung. Du machst sichtbar, was unsere Power-BI-Arbeit in den Zahlen des Kunden verändert, und steuerst die Umsetzung mit Entwicklern und Freelancern. In deiner Verantwortung liegen rund 10 bis 12 Kunden. Deine Aufgaben Du führst die Kundenbeziehungen, kennst Ziele und Kennzahlen deiner Kunden und hältst ihr Feedback in ClickUp fest. Du benennst die Veränderung in den Zahlen des Kunden, nicht die gelieferten Dashboards. Mit jedem Kunden führst du pro Quartal ein Strategie- und Roadmap-Gespräch: Zufriedenheit, Erfolge, Zielbild für zwei Jahre, Roadmap. Verlängerungen gehst du aktiv und rechtzeitig vor Vertragsende an. Aus der Roadmap entwickelst du Folgeprojekte. In der Umsetzung schneidest und priorisierst du Aufgaben in ClickUp, hältst Termine und koordinierst Entwickler und Freelancer. Du führst die Power-BI-Entwickler fachlich. Bei Unzufriedenheit, Budgetrisiko oder drohender Abwanderung eskalierst du früh. Das bringst du mit Du führst Kundengespräche selbstständig. Du verstehst betriebswirtschaftliche Zahlen und sprichst mit einem CFO auf Augenhöhe. Du kannst Power-BI-Berichte lesen und erklären. Du hältst Termine zuverlässig. Idealerweise hast du Grundlagen in DAX und Datenmodellierung oder Beratungserfahrung. Eher nichts für dich, wenn du Vertriebsgespräche meidest, lieber selbst entwickelst, über Dashboards statt Ergebnisse sprechen willst, Probleme aussitzt. Woran du gemessen wirst Verlängerungsquote (das Wichtigste), Folgeumsatz, Zufriedenheit und NPS, Quartalsgespräche, Termintreue, Budgettreue. Was wir bieten Zielgehalt 100.000 € im Jahr: Sockelgehalt, Kundenprovision ohne Deckel und jährlicher Bonus auf ein persönliches Ziel Remote-first, deutschlandweit; gelegentlich Kundentermine vor Ort Bis zu 100 Tage im Jahr mobil im Ausland arbeiten (EU, Thailand, Brasilien, weitere auf Anfrage) Dreimal im Jahr Workation mit dem Team, komplett von uns bezahlt Mac oder Windows, voll ausgestattet Deutschlandticket mit Zuschuss, Dienstrad per Gehaltsumwandlung, Corporate Benefits 30 Tage Urlaub Direkte Zusammenarbeit mit dem Geschäftsführer So läuft die Bewerbung Kurzbewerbung über JOIN Interview per Video Probetag remote Find Jobs in Germany on Arbeitnow",
     "required_skills": [
       "remote",
-      "management",
-      "team leader"
+      "project management"
     ],
     "requirements": [],
     "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/pcs-polymercycle-solutions-gmbh/head-of-it-berlin-488626",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-dd3bdad5e860",
-    "title": "Werkstudent (m/w/d) – Finance & Beratung (unternehmerisch, leistungsbasiert)",
-    "company": "Kevin Kehr",
-    "location": "Homeoffice",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Du studierst und willst mehr als einen „Nebenjob“? Du willst Verantwortung, klare Ziele und ein Umfeld, in dem Leistung zählt? Dann ist diese Werkstudentenrolle dein Einstieg in die Finanzberatung, mit strukturiertem Onboarding, Coaching und einem klaren Weg in ein Trainee-Programm. Diese Rolle ist unternehmerisch geprägt und bietet dir die Möglichkeit, dich aktiv einzubringen, Verantwortung zu übernehmen und dich fachlich wie persönlich weiterzuentwickeln. Leistung und Eigeninitiative spielen dabei eine zentrale Rolle, gleichzeitig wirst du durch strukturiertes Onboarding, Coaching und ein erfahrenes Team unterstützt. Sehr gute Deutschkenntnisse (C1+) sind erforderlich, da die Ausbildung, die Kommunikation im Team sowie die Perspektive Richtung IHK vollständig auf Deutsch stattfinden. Dein Aufgabenbereich Startphase (erste Wochen): Terminaufbau: Du vereinbarst Kundentermine (Telefon, Netzwerk, Leads) und baust eine saubere Pipeline auf. Prozesslernen: Du lernst Gesprächsleitfäden, Bedarfsermittlung, Nachbereitung und Dokumentationsstandards. Performance-Optimierung: Du arbeitest mit KPIs, bekommst Feedback und verbesserst systematisch deine Ergebnisse. Im weiteren Verlauf: Analyse &amp; Vorbereitung: Du unterstützt bei der Analyse von Kundensituationen und bereitest Beratungsunterlagen strukturiert vor. Kundenkontakt: Du begleitest Gespräche (je nach Stand), übernimmst Follow-ups und sorgst für klare nächste Schritte. Dokumentation &amp; Organisation: Du hältst Prozesse sauber, dokumentierst konsequent und stellst Verlässlichkeit sicher. Teamarbeit: Du arbeitest eng mit einem leistungsstarken Team und übernimmst Verantwortung für deine Aufgabenpakete. Das bieten wir dir Strukturierter Einstieg : Trainingsplan, Leitfäden, klare Standards Mentoring &amp; Coaching : regelmäßiges Feedback, klare Ziele Leistungsorientierte Vergütung (Erfolgslogik – du wirst für Output belohnt) Skalierbare Perspektive : Option auf Übernahme ins Trainee-Programm Remote möglich – eigenverantwortlich statt “nach Uhr” Team mit Performance-Kultur : klare Kommunikation, klare Ergebnisse Nichts für dich, wenn… du einen typischen Werkstudentenjob mit “ein paar Stunden nebenbei” suchst du Telefon/Terminaufbau vermeiden willst dein Deutsch unter C1 liegt du lieber Sicherheit als Entwicklung priorisierst Muss Immatrikuliert (Uni/FH) Deutsch mindestens C1 (mündlich &amp; schriftlich) Kommunikationsstärke, Verbindlichkeit, Zuverlässigkeit Eigeninitiative und strukturierte Arbeitsweise Lust auf Leistung und messbare Ergebnisse Wunsch Erste Erfahrung in Vertrieb, Service, Beratung, Sport-/Leistungskultur Find Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "remote"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/kevin-kehr/remote-werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-18009",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-5fcaf73c9d06",
-    "title": "Head of Product (m/w/d)",
-    "company": "Dr. Ansay Ltd.",
-    "location": "Homeoffice",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Über DrAnsay DrAnsay wurde 2018 gegründet und gehört heute zu den führenden digitalen Gesundheitsplattformen in Deutschland. Als digitales HealthTech-Unternehmen verbinden wir Patient:innen, Ärzt:innen und Apotheken und entwickeln technologische Lösungen, die Gesundheitsversorgung einfacher, schneller und zugänglicher machen. Mehr als 1 Million Patient:innen nutzen unsere Plattform bereits. Unser Anspruch ist klar: digitale Medizin so zu gestalten, dass sie im Alltag wirklich funktioniert. Wir arbeiten schnell, direkt und mit viel Eigenverantwortung. Wer zu uns kommt, übernimmt nicht einfach nur eine bestehende Rolle, sondern gestaltet Strukturen, Prozesse und Entscheidungen aktiv mit. Warum es diese Rolle gibt DrAnsay befindet sich in einer Scale-up-Phase: Die Grundstrukturen der Produktorganisation stehen. Der Fokus liegt jetzt auf Optimierung, Effizienz und der Weiterentwicklung bestehender sowie neuer Produktinitiativen. Unser CPO verantwortet gleichzeitig kommerzielle und strategische Themen der Unternehmensführung. Neue Initiativen brauchen deshalb eine Person, die produktübergreifend Struktur schafft und den Takt hält. Die Position wird neu geschaffen, um diese Lücke zu schließen. Das ist keine Rolle, in der du Grundlagen aufräumst. Es geht darum, dass wir neue Produkte schneller starten und bei bestehenden Produkten an den richtigen Dingen arbeiten. Deine Rolle Als Head of Product übernimmst du die Koordination produktübergreifender Roadmaps und OKR-Zyklen, verantwortest das unternehmensweite Produkt-Reporting und sorgst dafür, dass Metriken, Feature-Impact und Produktstrategie intern klar kommuniziert werden. Du berichtest direkt an unseren CPO und bist Schnittstelle zu einem neunköpfigen Produktteam aus Senior Product Managern und einem UX-Team sowie zu Data, Marketing und Engineering. Dein Ziel in den ersten Monaten ist es, alle Produktbereiche, unseren Markt und das Team gründlich zu verstehen. Du erkennst, wo Planung, Zusammenarbeit und Dokumentation besser werden können, machst einen Plan und setzt ihn um. Was du konkret machst Produktübergreifende Roadmaps über mehrere Produktlinien und Teams hinweg koordinieren, aktuell halten und Abhängigkeiten zwischen Teams früh erkennen und auflösen OKRs und Key Results auf Team-Ebene mit der übergeordneten Produktstrategie verknüpfen und die Zyklen von der Planung bis zur Auswertung begleiten Die Produkt-Metriken und das unternehmensweite Reporting zum Feature-Impact verantworten, gemeinsam mit unserem Data-Team Vorhaben hinterfragen, die zu wenig Kunden- oder Geschäftswert schaffen, und Alternativen vorschlagen User Research strukturiert in laufende Produktentwicklung einbinden, gemeinsam mit unserem Head of UX und dem UX-Team Die Arbeitsweise unserer Product Manager weiterentwickeln, besonders Planung, Dokumentation und Reporting Product Discovery und die frühe Teamstrukturierung neuer Produktinitiativen unterstützen, inklusive Abstimmung mit Engineering Die unternehmensweite Kommunikation zur Produktstrategie aufbauen und Produktentscheidungen für alle nachvollziehbar dokumentieren Das brauchst du Erfahrung in einer Product-Leadership-Rolle, etwa als Head of Product, Product Lead oder Group Product Manager. Du hast über dein eigenes Produkt hinaus Verantwortung getragen, für mehrere Product Manager, Teams oder Produktbereiche, fachlich oder disziplinarisch Erfahrung mit digitalen Produkten für Endkund:innen (B2C) in einem schnell wachsenden Unternehmen Praxis mit OKRs und Roadmapping: Du hast OKR-Zyklen produktübergreifend koordiniert und Roadmaps für mehrere Teams gepflegt und kommuniziert Sicherer Umgang mit Produktkennzahlen: Du hast Metriken definiert, Feature-Impact gemessen und Reporting für interne Stakeholder aufgebaut Du überzeugst über Argumente und Zahlen, nicht über deine Position, und diskutierst auch mit erfahrenen Product Managern auf Augenhöhe Die Bereitschaft, auch die Strukturarbeit selbst zu machen: Roadmaps pflegen, Updates einfordern, Reporting am Laufen halten Sehr gute Deutsch- und Englischkenntnisse (mindestens C1), weil du täglich in beiden Sprachen mit Product, Engineering und Leadership arbeitest Du kannst die Tätigkeit dauerhaft aus Deutschland ausüben und verfügst zum Start über die hierfür erforderliche Arbeitserlaubnis Das fällt positiv auf Erfahrung als Head of Product. Voraussetzung ist sie nicht Mehrjährige eigene Produktverantwortung als Product Manager, bevor du in eine Leadership-Rolle gewechselt bist Erfahrung aus einer größeren Produktorganisation mit ausgereiften Arbeitsweisen Erfahrung mit Roadmap- und Produktmanagement-Tools wie airfocus, Productboard, Jira Product Discovery oder Aha! Erfahrung mit Produktanalyse-Tools wie PostHog, Amplitude oder Mixpanel Produkterfahrung in E-Commerce, Marktplätzen oder Digital Health Erfahrung in stark regulierten Produktumfeldern Erfahrung in der Zusammenarbeit mit UX-Teams und der Einbindung von User Research Was wir bieten Vollzeit und unbefristet, Start ab November 2026 100% Remote: Du arbeitest aus Deutschland, Vollzeit, ohne Standortbindung Eine Rolle, die mitwächst: Je tiefer dein Verständnis von Produkten, Markt und Team, desto mehr Entscheidungen übernimmst du Direkte Zusammenarbeit mit unserem CPO und Zeit, alle Produktbereiche gründlich kennenzulernen Sichtbare Wirkung: Du prägst, wie DrAnsay neue Produkte startet und woran das Product-Team arbeitet Kleines Team mit kurzen Wegen, Low-Ego-Kultur und direktem Feedback Ein Produkt mit realem Nutzen: Wir helfen täglich Menschen, Gesundheitsversorgung einfacher zu bekommen Wie du dich bewirbst Bewirb dich direkt über das Bewerbungsformular. Kein Anschreiben erforderlich, wir stellen dir einige kurze Fragen, die uns helfen zu verstehen, wie du arbeitest. Diese Antworten sind uns wichtiger als dein LinkedIn-Profil. Du hörst von uns innerhalb von fünf Arbeitstagen. DrAnsay ist ein chancengleicher Arbeitgeber. Bewerbungen werden auf Basis von Qualifikationen und Berufserfahrung bewertet. Alle Bewerbenden werden unabhängig von Alter, Geschlecht, Herkunft, Behinderung, Religion oder anderen geschützten Merkmalen berücksichtigt. DrAnsay verarbeitet die mit deiner Bewerbung übermittelten personenbezogenen Daten zur Durchführung des Recruitingprozesses. Find Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "product",
-      "remote"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/dr-ansay-ltd/remote-head-of-product-berlin-88024",
+    "url": "https://www.arbeitnow.com/jobs/companies/weiler-consult-gmbh/projektmanager-power-bi-mit-entscheidungsbefugnis-berlin-476592",
     "date_posted": null
   }
 ]
