@@ -1,245 +1,7 @@
 [
   {
-    "id": "jobicy-4c541d0b8215",
-    "title": "Platform Engineer - FedD180/FedD181",
-    "company": "Defense Unicorns",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "EMPLOYER IS A CONTRACTOR FOR THE U.S. GOVERNMENT. THIS POSITION WILL REQUIRE AN ACTIVE SECRET CLEARANCE TO APPLY. Defense Unicorns is seeking a Platform Engineer to join our platform team — a combined DevOps and Site Reliability Engineering team responsible for the development, maintenance, and reliability of a cloud-based platform environment. The ideal candidate is&hellip;",
-    "required_skills": [
-      "devops & infrastructure"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162137-platform-engineer-fedd180-fedd181",
-    "date_posted": "2026-11-14"
-  },
-  {
-    "id": "jobicy-ce0c623f6f07",
-    "title": "Head of Solutions, Power Markets (West)",
-    "company": "Energy Exemplar",
-    "location": "Canada,  USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Energy Exemplar In an era where the world is rapidly advancing towards a cleaner future through decarbonization, Energy Exemplar’s mission lies in ‘Empowering Transformative Energy Decisions’. Founded in 1999 in Adelaide, Australia, our award-winning software portfolio encompassing the modeling and simulation platform PLEXOS®, Aurora, and Adapt2, is trusted by innovative organizations across the globe.&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162136-head-of-solutions-power-markets-west",
-    "date_posted": "2026-11-14"
-  },
-  {
-    "id": "jobicy-96f5b8154cef",
-    "title": "Sales Operations Analyst",
-    "company": "Clipboard",
-    "location": "Canada,  USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Clipboard Our mission is to uplift as many communities as possible. We do this through our app-based marketplace that connects healthcare professionals with the workplaces that need amazing workers. This enables hundreds of thousands of people to achieve financial stability for themselves and their families while providing essential care to millions of people across&hellip;",
-    "required_skills": [
-      "product & operations"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162135-sales-operations-analyst-3",
-    "date_posted": "2026-11-14"
-  },
-  {
-    "id": "jobicy-87649e64c133",
-    "title": "Senior Software Engineer, Frontend | Product Engineering",
-    "company": "TRM Labs",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Build a Safer World. TRM Labs provides AI-powered intelligence solutions that help public and private sector agencies investigate and disrupt crime. TRM's platforms enable investigators to trace illicit activity, build cases, and construct operating pictures of threat networks. Leading agencies and businesses worldwide rely on TRM to make the world safer and more secure. We&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162134-senior-software-engineer-frontend-product-engineering",
-    "date_posted": "2026-11-14"
-  },
-  {
-    "id": "jobicy-a6113a1594c8",
-    "title": "Lead Counsel, Commercial and Marketing, APAC and Americas",
-    "company": "ŌURA",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Our mission at ŌURA is to empower every person to own their inner potential. Our award-winning products help our global community gain a deeper knowledge of their readiness, activity, and sleep quality by using their Oura Ring and its connected app. We've helped millions of people understand and improve their health by providing daily insights&hellip;",
-    "required_skills": [
-      "legal & compliance"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162133-lead-counsel-commercial-and-marketing-apac-and-americas",
-    "date_posted": "2026-11-14"
-  },
-  {
-    "id": "jobicy-baadf29fe301",
-    "title": "Platform Engineer (FedD145)",
-    "company": "Defense Unicorns",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "EMPLOYER IS A CONTRACTOR FOR THE U.S. GOVERNMENT. Role Description We are seeking a talented and experienced Platform Engineer to join our team. Possessing strong proficiency with Kubernetes, the ideal candidate will play a crucial role in the development and maintenance of our platform, demonstrating a strong understanding of system architecture, problem-solving skills, and the&hellip;",
-    "required_skills": [
-      "devops & infrastructure"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162132-platform-engineer-fedd145",
-    "date_posted": "2026-11-14"
-  },
-  {
-    "id": "jobicy-fb444f3a7a76",
-    "title": "Director Cloud Architecture & Delivery",
-    "company": "Energy Exemplar",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Energy Exemplar In an era where the world is rapidly advancing towards a cleaner future through decarbonization, Energy Exemplar’s mission lies in ‘Empowering Transformative Energy Decisions’. Founded in 1999 in Adelaide, Australia, our award-winning software portfolio encompassing the modeling and simulation platform PLEXOS®, Aurora, and Adapt2, is trusted by innovative organizations across the globe.&hellip;",
-    "required_skills": [
-      "devops & infrastructure"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162131-director-cloud-architecture-delivery",
-    "date_posted": "2026-11-14"
-  },
-  {
-    "id": "jobicy-01eb75046846",
-    "title": "Account Director",
-    "company": "TTC Global",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About TTC Global Since 2004, TTC Global has helped high-profile organizations improve the quality of the software they depend on. We are an independent quality engineering and software testing consultancy operating across the US, Canada, the UK, India, Australia and New Zealand. Our work covers test automation, performance engineering, AI-First Quality Engineering and quality transformation&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162130-account-director-5",
-    "date_posted": "2026-11-14"
-  },
-  {
-    "id": "jobicy-6de3bc84ae7e",
-    "title": "S&O Senior Associate",
-    "company": "Clipboard",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Clipboard Our mission is to uplift as many communities as possible. We do this through our app-based marketplace that connects healthcare professionals with the workplaces that need amazing workers. This enables hundreds of thousands of people to achieve financial stability for themselves and their families while providing essential care to millions of people across&hellip;",
-    "required_skills": [
-      "product & operations"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162129-so-senior-associate",
-    "date_posted": "2026-11-14"
-  },
-  {
-    "id": "jobicy-8032b11353b3",
-    "title": "Head of Product Design",
-    "company": "TRM Labs",
-    "location": "Canada,  USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Build a Safer World. TRM Labs provides AI-powered intelligence solutions that help public and private sector agencies investigate and disrupt crime. TRM's platforms enable investigators to trace illicit activity, build cases, and construct operating pictures of threat networks. Leading agencies and businesses worldwide rely on TRM to make the world safer and more secure. We're&hellip;",
-    "required_skills": [
-      "web, ui & ux design"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162128-head-of-product-design-3",
-    "date_posted": "2026-11-14"
-  },
-  {
-    "id": "jobicy-b84af74b52ba",
-    "title": "Senior GTM Systems Engineer",
-    "company": "Apollo.io",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Apollo.io is the leading go-to-market solution for revenue teams, trusted by over 500,000 companies and millions of users globally, from rapidly growing startups to some of the world's largest enterprises. Founded in 2015, the company is one of the fastest growing companies in SaaS, raising approximately $250 million to date and valued at $1.6 billion.&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162127-senior-gtm-systems-engineer",
-    "date_posted": "2026-11-14"
-  },
-  {
-    "id": "jobicy-a2998df2dc71",
-    "title": "Senior Engineer, Server – NBA 2K",
-    "company": "Visual Concepts",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At Visual Concepts, we believe great games are made by diverse and empowered teams with a shared passion for play. As one of the world’s top game development studios, we have shipped over 100 multi-sku titles to critical acclaim and commercial success. Our teams are independent and entrepreneurial. Our studios in Novato, Irvine, Budapest, Shanghai,&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162125-senior-engineer-server-nba-2k",
-    "date_posted": "2026-11-14"
-  },
-  {
-    "id": "jobicy-1924df8a893c",
-    "title": "Senior Data Scientist - Product",
-    "company": "Apollo.io",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Apollo.io is the leading go-to-market solution for revenue teams, trusted by over 500,000 companies and millions of users globally, from rapidly growing startups to some of the world's largest enterprises. Founded in 2015, the company is one of the fastest growing companies in SaaS, raising approximately $250 million to date and valued at $1.6 billion.&hellip;",
-    "required_skills": [
-      "data science & analytics"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162124-senior-data-scientist-product-3",
-    "date_posted": "2026-11-14"
-  },
-  {
-    "id": "jobicy-e7902c3dc058",
-    "title": "Senior Customer Success Manager, Strategic",
-    "company": "Customer.io",
-    "location": "Canada,  USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Customer.io Over 9,000 companies, from scrappy startups to global brands, use our platform to send billions of emails, push notifications, in-app messages, and SMS every day. Customer.io powers automated communication that people actually want to receive. We help teams send smarter, more relevant messages using real-time behavioral data. Hi! I’m Lauren, Senior Manager of&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162123-senior-customer-success-manager-strategic",
-    "date_posted": "2026-11-14"
-  },
-  {
-    "id": "jobicy-0f09ba95075b",
-    "title": "Principal + Staff Software Engineers",
+    "id": "jobicy-8d7eae7259dc",
+    "title": "Navy Account Executive - Public Sector",
     "company": "Unstructured Technologies Inc.",
     "location": "USA",
     "remote": true,
@@ -247,606 +9,844 @@
     "salary": null,
     "description": "Unstructured is defining the standard for enterprise data transformation in the age of LLMs and generative AI. In just two years, we've raised over $65M from world-class investors, including Menlo Ventures, Bain Capital, Databricks, NVIDIA, Microsoft, and IBM. Our open-source toolkit has been downloaded 97M+ times and is used by 90% of the Fortune 1000.&hellip;",
     "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162122-principal-staff-software-engineers",
-    "date_posted": "2026-11-14"
-  },
-  {
-    "id": "jobicy-b53498097670",
-    "title": "Graphics Engineer - NBA 2K",
-    "company": "Visual Concepts",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "At Visual Concepts, we believe great games are made by diverse and empowered teams with a shared passion for play. As one of the world’s top game development studios, we have shipped over 100 multi-sku titles to critical acclaim and commercial success. Our teams are independent and entrepreneurial. Our studios in Novato, Irvine, Budapest, Shanghai,&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162121-graphics-engineer-nba-2k",
-    "date_posted": "2026-11-14"
-  },
-  {
-    "id": "jobicy-ad319b1d8d78",
-    "title": "Senior Application Security Engineer",
-    "company": "Apollo.io",
-    "location": "USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Apollo.io is the leading go-to-market solution for revenue teams, trusted by over 500,000 companies and millions of users globally, from rapidly growing startups to some of the world's largest enterprises. Founded in 2015, the company is one of the fastest growing companies in SaaS, raising approximately $250 million to date and valued at $1.6 billion.&hellip;",
-    "required_skills": [
-      "cybersecurity"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162120-senior-application-security-engineer-4",
-    "date_posted": "2026-11-14"
-  },
-  {
-    "id": "jobicy-23f8819cb32e",
-    "title": "Account Manager, AMER",
-    "company": "Customer.io",
-    "location": "Canada,  USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Customer.io Over 9,000 companies, from scrappy startups to global brands use our platform to send billions of emails, push notifications, in-app messages, and SMS every day. Customer.io powers automated communication that people actually want to receive. We help teams send smarter, more relevant messages using real-time behavioral data. About the role Hi, I'm Tijani&hellip;",
-    "required_skills": [
       "sales"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162119-account-manager-amer",
+    "url": "https://jobicy.com/jobs/162244-navy-account-executive-public-sector",
     "date_posted": "2026-11-14"
   },
   {
-    "id": "jobicy-83a3f9926097",
-    "title": "Senior Sales Compensation Manager",
-    "company": "ClickUp",
+    "id": "jobicy-9b2820b4bc04",
+    "title": "Director, Strategic Engagements (Northeast)",
+    "company": "Xenon Pharmaceuticals Inc.",
     "location": "USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring process. Join us and&hellip;",
-    "required_skills": [
-      "finance & accounting"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162117-senior-sales-compensation-manager",
-    "date_posted": "2026-11-14"
-  },
-  {
-    "id": "jobicy-c48c77db7622",
-    "title": "Core Network Lead, Run Team",
-    "company": "Airalo",
-    "location": "Europe",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Help Us Build The Future of Travel At Airalo, we're making it easier for people to stay connected wherever they travel. As the world's first eSIM store, we help millions of travelers access affordable mobile data in 200+ countries and regions around the world. Today, we're a team of 400+ people across 60+ countries, building&hellip;",
-    "required_skills": [
-      "devops & infrastructure"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162116-core-network-lead-run-team",
-    "date_posted": "2026-11-14"
-  },
-  {
-    "id": "jobicy-635bb3808b6f",
-    "title": "Project Sceptrum - Multilingual AI Coding Evaluation Specialist - Dutch",
-    "company": "Welo Global",
-    "location": "Netherlands",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Join a short, paid project that tests whether AI coding agents work as well on instructions written in the target language as they do in English. Your language skills and technical background decide where you fit. About the project Welo Data is helping evaluate how well AI coding agents perform when the instructions they receive&hellip;",
-    "required_skills": [
-      "qa & testing"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162115-project-sceptrum-multilingual-ai-coding-evaluation-specialist-dutch",
-    "date_posted": "2026-11-14"
-  },
-  {
-    "id": "jobicy-837dbcd33529",
-    "title": "Senior Full Stack Engineer - Databases - Analytics | UK | Remote",
-    "company": "Grafana Labs",
-    "location": "Germany,  Ireland,  Spain,  Sweden,  UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162114-senior-full-stack-engineer-databases-analytics-uk-remote",
-    "date_posted": "2026-11-14"
-  },
-  {
-    "id": "jobicy-ba099e741800",
-    "title": "Italian Multimedia Content Reviewer",
-    "company": "Welo Global",
-    "location": "Greece,  Romania,  Spain",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Welocalize Welocalize, a Welo Global brand, serves localization teams through AI-enabled multilingual content solutions that enable enterprises to operate and scale globally. Welocalize combines AI, automation, and human expertise to support enterprises in more than 300 languages, enabling accurate, culturally aligned, and compliant multilingual content at scale. Welocalize’s Opal Platform comprises patented technology designed&hellip;",
-    "required_skills": [
-      "content & editorial"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162113-italian-multimedia-content-reviewer",
-    "date_posted": "2026-11-14"
-  },
-  {
-    "id": "jobicy-3f866d28de15",
-    "title": "Senior Full Stack Engineer - Databases - Analytics | Sweden | Remote",
-    "company": "Grafana Labs",
-    "location": "Germany,  Ireland,  Spain,  Sweden,  UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162112-senior-full-stack-engineer-databases-analytics-sweden-remote",
-    "date_posted": "2026-11-14"
-  },
-  {
-    "id": "jobicy-5ad5492746bb",
-    "title": "Implementation Specialist",
-    "company": "Anima",
-    "location": "UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "I quit medicine because I kept watching patients die needlessly, for avoidable reasons. In almost every case, the medical knowledge and clinicians were there. It was the system that failed: the way information moved, decisions got routed, and fragmented teams and data turned solvable problems into tragedy. I started Anima to change that. Our mission&hellip;",
-    "required_skills": [
-      "customer support & success"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162111-implementation-specialist-4",
-    "date_posted": "2026-11-14"
-  },
-  {
-    "id": "jobicy-7acb48649ba7",
-    "title": "English to German Austria Medical Devices Linguist",
-    "company": "Welo Global",
-    "location": "Europe",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Welo Life Sciences Welo Life Sciences, a Welo Global brand, is a specialized language and technology partner serving pharmaceutical, CRO, and medical device organizations operating in regulated global markets. We deliver regulator-ready translation, linguistic validation, and localization solutions that support clinical trials, pharmacovigilance, regulatory affairs, labeling, and global commercialization. Our approach combines subject matter&hellip;",
-    "required_skills": [
-      "content & editorial"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162110-english-to-german-austria-medical-devices-linguist",
-    "date_posted": "2026-11-14"
-  },
-  {
-    "id": "jobicy-41af3f2cd044",
-    "title": "Technical Program Manager - IP Backbone",
-    "company": "Nebius",
-    "location": "Europe,  USA",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From&hellip;",
-    "required_skills": [
-      "project & program management"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162109-technical-program-manager-ip-backbone",
-    "date_posted": "2026-11-14"
-  },
-  {
-    "id": "jobicy-0257a7b737fc",
-    "title": "Senior Full Stack Engineer - Databases, Analytics | Spain | Remote",
-    "company": "Grafana Labs",
-    "location": "Germany,  Ireland,  Spain,  Sweden,  UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162108-senior-full-stack-engineer-databases-analytics-spain-remote",
-    "date_posted": "2026-11-14"
-  },
-  {
-    "id": "jobicy-cb3ddea6c77f",
-    "title": "Customer Support Operations",
-    "company": "Anima",
-    "location": "UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "I quit medicine because I kept watching patients die needlessly, for avoidable reasons. In almost every case, the medical knowledge and clinicians were there. It was the system that failed: the way information moved, decisions got routed, and fragmented teams and data turned solvable problems into tragedy. I started Anima to change that. Our mission&hellip;",
-    "required_skills": [
-      "technical support"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162107-customer-support-operations",
-    "date_posted": "2026-11-14"
-  },
-  {
-    "id": "jobicy-3456acaf173a",
-    "title": "English to Bulgarian Medical Devices Linguist",
-    "company": "Welo Global",
-    "location": "Europe",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Welo Life Sciences Welo Life Sciences, a Welo Global brand, is a specialized language and technology partner serving pharmaceutical, CRO, and medical device organizations operating in regulated global markets. We deliver regulator-ready translation, linguistic validation, and localization solutions that support clinical trials, pharmacovigilance, regulatory affairs, labeling, and global commercialization. Our approach combines subject matter&hellip;",
-    "required_skills": [
-      "content & editorial"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162106-english-to-bulgarian-medical-devices-linguist",
-    "date_posted": "2026-11-14"
-  },
-  {
-    "id": "jobicy-6392999a5f35",
-    "title": "Senior Manager, Integrated Marketing Campaigns",
-    "company": "Nebius",
-    "location": "Europe",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From&hellip;",
+    "description": "Who We Are: Xenon Pharmaceuticals (NASDAQ:XENE) is a neuroscience-focused biopharmaceutical company dedicated to drug discovery, clinical development, and commercialization of life-changing therapeutics for patients in need. We are looking for great people who thrive in a respectful, collaborative, inclusive, and productive culture to join the Xenon team. What We Do: We are advancing an exciting&hellip;",
     "required_skills": [
       "marketing & sales"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162105-senior-manager-integrated-marketing-campaigns",
+    "url": "https://jobicy.com/jobs/162253-director-strategic-engagements-northeast",
     "date_posted": "2026-11-14"
   },
   {
-    "id": "jobicy-d983b5b53ba8",
-    "title": "Senior Full Stack Engineer - Databases - Analytics | Ireland | Remote",
-    "company": "Grafana Labs",
-    "location": "Germany,  Ireland,  Spain,  Sweden,  UK",
+    "id": "jobicy-eca85e9ad21b",
+    "title": "City Manager, New York",
+    "company": "Flex",
+    "location": "USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162104-senior-full-stack-engineer-databases-analytics-ireland-remote",
-    "date_posted": "2026-11-14"
-  },
-  {
-    "id": "jobicy-86a12341e096",
-    "title": "Assurance Lead",
-    "company": "Anima",
-    "location": "UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "I quit medicine because I kept watching patients die needlessly, for avoidable reasons. In almost every case, the medical knowledge and clinicians were there. It was the system that failed: the way information moved, decisions got routed, and fragmented teams and data turned solvable problems into tragedy. I started Anima to change that. Our mission&hellip;",
-    "required_skills": [
-      "legal & compliance"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162103-assurance-lead",
-    "date_posted": "2026-11-14"
-  },
-  {
-    "id": "jobicy-e5f9a32991dc",
-    "title": "Senior / Lead Program Manager",
-    "company": "Nebius",
-    "location": "Europe",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From&hellip;",
-    "required_skills": [
-      "project & program management"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162102-senior-lead-program-manager",
-    "date_posted": "2026-11-14"
-  },
-  {
-    "id": "jobicy-dda0c2a2c548",
-    "title": "Senior Full Stack Engineer - Databases - Analytics | Germany | Remote",
-    "company": "Grafana Labs",
-    "location": "Germany,  Ireland,  Spain,  Sweden,  UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162101-senior-full-stack-engineer-databases-analytics-germany-remote",
-    "date_posted": "2026-11-14"
-  },
-  {
-    "id": "jobicy-3a62d464a699",
-    "title": "Product Engineer (all levels)",
-    "company": "Anima",
-    "location": "UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "I quit medicine because I kept watching patients die needlessly, for avoidable reasons. In almost every case, the medical knowledge and clinicians were there. It was the system that failed: the way information moved, decisions got routed, and fragmented teams and data turned solvable problems into tragedy. I started Anima to change that. Our mission&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162100-product-engineer-all-levels",
-    "date_posted": "2026-11-14"
-  },
-  {
-    "id": "jobicy-b48abedc4b0b",
-    "title": "Technical Lead - Golang",
-    "company": "Nearform",
-    "location": "UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "This is a permanent, full-time remote opportunity open to candidates based in the UK. While the role is primarily remote, occasional travel to client sites across the UK may be required to attend meetings, workshops and other project-related activities. About Nearform Nearform is an independent team of data &amp; AI experts, engineers, and designers who&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162099-technical-lead-golang",
-    "date_posted": "2026-11-14"
-  },
-  {
-    "id": "jobicy-fff8d7ac8cfe",
-    "title": "Enterprise Account Executive (Europe)",
-    "company": "Valdera",
-    "location": "Germany",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Valdera: At Valdera, we empower innovators to turn ideas into reality by transforming how manufacturers source materials. We make it effortless for companies to find the best materials and suppliers for their needs, enabling them to build high-quality products at scale and deliver them to millions of consumers worldwide. We are a team of&hellip;",
+    "description": "Flex is building AI-native financial services for business owners. We’re re-architecting the entire financial system for entrepreneurs—from the first dollar a business earns to how that value compounds, moves, and is ultimately spent in real life. Banking, credit, payments, personal finance, and financial operations—rebuilt from the ground up as a single, intelligent system. Flex is&hellip;",
     "required_skills": [
       "sales"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162098-enterprise-account-executive-europe",
+    "url": "https://jobicy.com/jobs/162252-city-manager-new-york",
     "date_posted": "2026-11-14"
   },
   {
-    "id": "jobicy-7a79c6d3cab7",
-    "title": "Senior AP Accountant",
-    "company": "Nebius",
-    "location": "Europe",
+    "id": "jobicy-ebb367ff198b",
+    "title": "Manager, Paid Search",
+    "company": "Quince",
+    "location": "USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From&hellip;",
+    "description": "ABOUT QUINCE Quince is a destination for builders, creators, innovators, and operators who want to come together and challenge the status quo. Our mission is simple: make really high quality essentials for really low prices, fairly and sustainably. We deliver on that mission through a unique manufacturer-to-consumer (M2C) model eliminating the layers of traditional retail&hellip;",
     "required_skills": [
-      "finance & accounting"
+      "marketing & sales"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162097-senior-ap-accountant",
+    "url": "https://jobicy.com/jobs/162251-manager-paid-search",
     "date_posted": "2026-11-14"
   },
   {
-    "id": "jobicy-4a54f32e1187",
-    "title": "Major Account Executive | Remote | Sweden",
+    "id": "jobicy-ac28d0b542fe",
+    "title": "Director, Observability Architects (Americas) | USA | Remote",
     "company": "Grafana Labs",
-    "location": "Sweden",
+    "location": "USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
     "description": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving&hellip;",
     "required_skills": [
-      "sales"
+      "customer support & success"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162096-major-account-executive-remote-sweden",
+    "url": "https://jobicy.com/jobs/162250-director-observability-architects-americas-usa-remote",
     "date_posted": "2026-11-14"
   },
   {
-    "id": "jobicy-d71679421dea",
-    "title": "Anaesthetic (Pain) Consultant",
-    "company": "Montu UK",
-    "location": "UK",
+    "id": "jobicy-6339e5ad0512",
+    "title": "Part-Time MCAT Tutor",
+    "company": "Inspira Education",
+    "location": "Canada,  USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "At Montu UK, we are passionate about improving the lives of patients who have often exhausted conventional treatment options. Through our Alternaleaf clinic, we are helping people living with chronic and debilitating conditions access treatments that can make a genuine difference to their quality of life. We are looking for Consultant Anaesthetists who are interested&hellip;",
+    "description": "About Inspira Education Inspira Education Group is one of the fastest-growing edtech startups in the US. We started with a simple mission to democratize access to high-quality coaching so that every student in the world has an equal opportunity to access the best opportunities. As the world’s leading network of top admissions coaches in medical,&hellip;",
+    "required_skills": [
+      "education & e-learning"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/162249-part-time-mcat-tutor",
+    "date_posted": "2026-11-14"
+  },
+  {
+    "id": "jobicy-bdbcc2f02321",
+    "title": "Senior Director, Field Access",
+    "company": "Xenon Pharmaceuticals Inc.",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Who We Are: Xenon Pharmaceuticals (NASDAQ:XENE) is a neuroscience-focused biopharmaceutical company dedicated to drug discovery, clinical development, and commercialization of life-changing therapeutics for patients in need. We are looking for great people who thrive in a respectful, collaborative, inclusive, and productive culture to join the Xenon team. What We Do: We are advancing an exciting&hellip;",
     "required_skills": [
       "healthcare & medical"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162095-anaesthetic-pain-consultant",
+    "url": "https://jobicy.com/jobs/162248-senior-director-field-access",
     "date_posted": "2026-11-14"
   },
   {
-    "id": "jobicy-b25e3ccbcb0a",
-    "title": "Mid-Market Account Executive",
-    "company": "Anima",
-    "location": "UK",
+    "id": "jobicy-882c6e5b05cc",
+    "title": "City Manager, Nashville",
+    "company": "Flex",
+    "location": "USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "I quit medicine because I kept watching patients die needlessly, for avoidable reasons. In almost every case, the medical knowledge and clinicians were there. It was the system that failed: the way information moved, decisions got routed, and fragmented teams and data turned solvable problems into tragedy. I started Anima to change that. Our mission&hellip;",
+    "description": "Flex is building AI-native financial services for business owners. We’re re-architecting the entire financial system for entrepreneurs—from the first dollar a business earns to how that value compounds, moves, and is ultimately spent in real life. Banking, credit, payments, personal finance, and financial operations—rebuilt from the ground up as a single, intelligent system. Flex is&hellip;",
     "required_skills": [
       "sales"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162094-mid-market-account-executive-10",
+    "url": "https://jobicy.com/jobs/162247-city-manager-nashville",
     "date_posted": "2026-11-14"
   },
   {
-    "id": "jobicy-98c18b7c7ef6",
-    "title": "Threat Research Engineer, Security Factory: Threat Research",
-    "company": "GitLab",
-    "location": "Israel,  Poland,  UK",
+    "id": "jobicy-49442c0aaa71",
+    "title": "Controller",
+    "company": "Notabene",
+    "location": "USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into&hellip;",
-    "required_skills": [
-      "cybersecurity"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162093-threat-research-engineer-security-factory-threat-research",
-    "date_posted": "2026-11-14"
-  },
-  {
-    "id": "jobicy-5ea4bf58ee57",
-    "title": "Machine Learning Engineering Manager II",
-    "company": "Spotify",
-    "location": "Sweden,  UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "The Personalization team makes deciding what to play next easier and more enjoyable for every listener. From Blend to Discover Weekly, we’re behind some of Spotify’s most-loved features. We built them by understanding the world of music and podcasts better than anyone else. Join us and you’ll keep millions of users listening by making great&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162092-machine-learning-engineering-manager-ii",
-    "date_posted": "2026-11-14"
-  },
-  {
-    "id": "jobicy-f8b0af927f11",
-    "title": "Engineering Manager, Ads Product Catalogs",
-    "company": "Reddit",
-    "location": "Netherlands,  UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit&hellip;",
-    "required_skills": [
-      "software engineering"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162091-engineering-manager-ads-product-catalogs",
-    "date_posted": "2026-11-14"
-  },
-  {
-    "id": "jobicy-c2969f46f171",
-    "title": "Manager, Sales Development - EMEA",
-    "company": "Cresta",
-    "location": "UK",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channel. The world’s leading companies, including United Airlines, Cox Communications, and Marriott, use Cresta to&hellip;",
-    "required_skills": [
-      "sales"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162090-manager-sales-development-emea",
-    "date_posted": "2026-11-14"
-  },
-  {
-    "id": "jobicy-f76937bd6c11",
-    "title": "Technical Director",
-    "company": "Nearform",
-    "location": "Ireland",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "This is a permanent full-time remote opportunity for those based in Ireland. About NearformNearform is an independent team of data &amp; AI experts, engineers, and designers who build intelligent digital solutions and capability at pace. We create AI-enabled solutions that enhance digital experiences, empower developers, and deliver measurable results. In these ways, we partner with&hellip;",
-    "required_skills": [
-      "project & program management"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162089-technical-director-2",
-    "date_posted": "2026-11-14"
-  },
-  {
-    "id": "jobicy-007b012f5600",
-    "title": "Chemical Procurement Specialist",
-    "company": "Valdera",
-    "location": "Spain",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Valdera: At Valdera, we empower innovators to turn ideas into reality by transforming how manufacturers source materials. We make it effortless for companies to find the best materials and suppliers for their needs, enabling them to build high-quality products at scale and deliver them to millions of consumers worldwide. We are a team of&hellip;",
-    "required_skills": [
-      "product & operations"
-    ],
-    "requirements": [],
-    "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162088-chemical-procurement-specialist",
-    "date_posted": "2026-11-14"
-  },
-  {
-    "id": "jobicy-57eea5a7c298",
-    "title": "Intercompany Accountant",
-    "company": "Nebius",
-    "location": "Europe",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From&hellip;",
+    "description": "About Notabene Notabene is building infrastructure that's transforming how money moves in the digital economy. We're evolving beyond our compliance foundations to enable the next generation of digital financial services between regulated institutions with unprecedented efficiency. With nearly 50 employees across 14 countries and having recently closed our Series B round last November with support&hellip;",
     "required_skills": [
       "finance & accounting"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162087-intercompany-accountant",
+    "url": "https://jobicy.com/jobs/162246-controller-3",
     "date_posted": "2026-11-14"
   },
   {
-    "id": "jobicy-8b418f02ef28",
-    "title": "Major Account Executive | Remote | Germany",
-    "company": "Grafana Labs",
-    "location": "Germany",
+    "id": "jobicy-53af67c5b07a",
+    "title": "Account Manager - Merchandising, Retail & Auto",
+    "company": "WorkWhile",
+    "location": "USA",
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving&hellip;",
+    "description": "Account Manager – Merchandising, Retail &amp; Auto About WorkWhile WorkWhile is on a mission to help workers earn a better living and live better lives. 83 million Americans work hourly jobs, often with unpredictable schedules that pay close to minimum wage and offer limited benefits, leading to financial instability. WorkWhile identifies the best hourly workers&hellip;",
+    "required_skills": [
+      "customer support & success"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/162245-account-manager-merchandising-retail-auto-2",
+    "date_posted": "2026-11-14"
+  },
+  {
+    "id": "jobicy-738aa8fd625a",
+    "title": "Senior Systems Engineer – Avionics & Embedded Systems",
+    "company": "Quest Defense Systems &#038; Solutions, Inc.",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "We don’t just build technology—we engineer the future. From next-gen aerospace to cutting-edge defense systems, we tackle the toughest, mission-critical challenges that keep people safe and push the limits of innovation. This is where problem-solvers, innovators, and big thinkers thrive. Quest Defense Systems &amp; Solutions is seeking a Senior Systems Engineer with experience in embedded&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/162243-senior-systems-engineer-avionics-embedded-systems",
+    "date_posted": "2026-11-14"
+  },
+  {
+    "id": "jobicy-e411da8bb607",
+    "title": "Senior Technical Product Manager",
+    "company": "Cobalt",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Who We Are Cobalt was founded on the belief of a fundamental human aspiration: the desire to live better and safer. It all started in 2013, when our founders realized that pentesting can be better. Today our diverse, fully remote team is committed to helping organizations of all sizes with seamless, effective and collaborative Offensive&hellip;",
+    "required_skills": [
+      "product & operations"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/162242-senior-technical-product-manager-2",
+    "date_posted": "2026-11-14"
+  },
+  {
+    "id": "jobicy-932db3e754b3",
+    "title": "Senior Mechanical Design Engineer - Structures & Systems",
+    "company": "Quest Defense Systems &#038; Solutions, Inc.",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Embark on a journey with QDSS at the forefront of technological innovation as we seek talented Engineers to shape the future of cutting-edge projects and contribute to a culture of excellence and creativity. What we do matters. Quest Defense Systems &amp; Solutions is seeking an experienced Mechanical Design Engineer to lead the integration of aircraft&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/162237-senior-mechanical-design-engineer-structures-systems",
+    "date_posted": "2026-11-14"
+  },
+  {
+    "id": "jobicy-b640c3272a8f",
+    "title": "Senior Director, Solutions Engineering",
+    "company": "Domino Data Lab",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Who we are At Domino, we build solutions that help the largest, highly regulated organizations adopt AI to accelerate mission-critical use cases. Our platform integrates a streamlined model and app development environment, advanced model, agent, and app hosting capabilities, and novel governance capabilities providing regulator-ready AI at scale. Our customers — like Johnson &amp; Johnson,&hellip;",
     "required_skills": [
       "sales"
     ],
     "requirements": [],
     "source": "Jobicy",
-    "url": "https://jobicy.com/jobs/162086-major-account-executive-remote-germany",
+    "url": "https://jobicy.com/jobs/162239-senior-director-solutions-engineering",
+    "date_posted": "2026-11-14"
+  },
+  {
+    "id": "jobicy-49fcd566b652",
+    "title": "Accountant I - Mexico remote",
+    "company": "Proper AI",
+    "location": "Mexico",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Proper AI is an AI-first accounting service built for property managers and real estate operators. By combining automation, technology, and a global team of accounting experts, we deliver faster, more accurate financial operations at scale. We’re a team of builders, problem-solvers, and operators from around the world, working together to modernize one of the most&hellip;",
+    "required_skills": [
+      "finance & accounting"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/162238-accountant-i-mexico-remote",
+    "date_posted": "2026-11-14"
+  },
+  {
+    "id": "jobicy-ad2dcb3480dd",
+    "title": "Enterprise Account Director",
+    "company": "Cobalt",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Who We Are Cobalt was founded on the belief of a fundamental human aspiration: the desire to live better and safer. It all started in 2013, when our founders realized that pentesting can be better. Today our diverse, fully remote team is committed to helping organizations of all sizes with seamless, effective and collaborative Offensive&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/162236-enterprise-account-director-5",
+    "date_posted": "2026-11-14"
+  },
+  {
+    "id": "jobicy-ba84826f53ee",
+    "title": "Digital Onboarding Specialist I - Lisbon / Madrid",
+    "company": "Pleo",
+    "location": "Portugal,  Spain",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Pleo Messy spend management is tricky business. And tedious processes are a lose-lose situation for all involved, not just finance. At Pleo, we're changing that. We build spend solutions that make managing money seamless, empowering, and surprisingly effective for finance teams and employees alike - with a vision to help all businesses ‘go beyond’.&hellip;",
+    "required_skills": [
+      "customer support & success"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/162235-digital-onboarding-specialist-i-lisbon-madrid",
+    "date_posted": "2026-11-14"
+  },
+  {
+    "id": "jobicy-83e8eff41c8a",
+    "title": "Key Account Manager, USA",
+    "company": "Volta Labs, Inc.",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "ABOUT US: Volta Labs is an applications company that is revolutionizing the future of genomics. We are a Boston based, venture-backed biotech startup that makes extracting vital information from biological samples is as simple as pressing a button, through our flagship product Callisto. Our product speeds up processing time for scientists and increases accessibility to&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/162232-key-account-manager-usa",
+    "date_posted": "2026-11-14"
+  },
+  {
+    "id": "jobicy-146645d37a45",
+    "title": "Technical Account Manager",
+    "company": "D2L",
+    "location": "Canada",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "D2L is a cloud company that is modernizing education and building the Future of Work. The old models of teaching and learning are in the midst of the largest transformation in history, and D2L is at the heart of that fundamental shift. New models of teaching and learning enable a personalized, student-centric experience – and&hellip;",
+    "required_skills": [
+      "technical support"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/162231-technical-account-manager-13",
+    "date_posted": "2026-11-14"
+  },
+  {
+    "id": "jobicy-e0ef5d4846ef",
+    "title": "AI Solutions Engineer, Public Sector",
+    "company": "Domino Data Lab",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Who we are At Domino, we build solutions that help the largest, highly regulated organizations adopt AI to accelerate mission-critical use cases. Our platform integrates a streamlined model and app development environment, advanced model, agent, and app hosting capabilities, and novel governance capabilities providing regulator-ready AI at scale. Our customers — like Johnson &amp; Johnson,&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/162230-ai-solutions-engineer-public-sector",
+    "date_posted": "2026-11-14"
+  },
+  {
+    "id": "jobicy-836002e37717",
+    "title": "Team Manager, Financial Crime, Business Banking",
+    "company": "Monzo",
+    "location": "UK",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal and business bank accounts, we offer joint&hellip;",
+    "required_skills": [
+      "legal & compliance"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/162229-team-manager-financial-crime-business-banking",
+    "date_posted": "2026-11-14"
+  },
+  {
+    "id": "jobicy-3b463457737a",
+    "title": "Senior Sales Executive",
+    "company": "SiteMinder",
+    "location": "Germany",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "At SiteMinder, we believe our success comes from our people. We build diverse, inclusive teams where different voices, backgrounds and perspectives are valued. Our differences drive innovation for our customers, and our people bring the ideas, expertise and energy that help us keep moving forward. We’re better together. What We Do... Right now, somewhere in&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/162227-senior-sales-executive-2",
+    "date_posted": "2026-11-14"
+  },
+  {
+    "id": "jobicy-bb2803916261",
+    "title": "VP, Mozilla Studio",
+    "company": "Mozilla",
+    "location": "Canada,  Germany,  UK,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Mozilla Foundation is a non-profit building a better technology future — powered by people, open by design, fueled by imagination. We deliver people-first alternatives to today’s extractive systems. We build side by side with developers, innovators and advocates, united in the belief that a better technology future is not only possible — it’s ours to&hellip;",
+    "required_skills": [
+      "product & operations"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/162226-vp-mozilla-studio",
+    "date_posted": "2026-11-14"
+  },
+  {
+    "id": "jobicy-b6e253083a84",
+    "title": "Senior Field Marketing Manager EMEA",
+    "company": "Armada",
+    "location": "EMEA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About the Company Armada is the hyperscaler for the edge, delivering modular AI infrastructure from first deployment to AI factory with speed, scale and sovereignty. Named one of Fast Company's Most Innovative Companies and to the CNBC Disruptor 50, Armada’s solutions are deployed in over 60 countries globally for organizations ranging from energy to defense.&hellip;",
+    "required_skills": [
+      "marketing & sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/162225-senior-field-marketing-manager-emea",
+    "date_posted": "2026-11-14"
+  },
+  {
+    "id": "jobicy-038ba8f75c6a",
+    "title": "Customer Success Enablement Specialist",
+    "company": "Vonage",
+    "location": "Spain",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Join Vonage and help us innovate cloud communications for businesses worldwide! Why this role matters: Our Customer Success Training Specialist will provide the foundational learning for our Customer Success teams. In this role you will be the architect of the CS journey, from the moment a new CSM joins to the mastery of our post-sales&hellip;",
+    "required_skills": [
+      "customer support & success"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/162224-customer-success-enablement-specialist",
+    "date_posted": "2026-11-14"
+  },
+  {
+    "id": "jobicy-b908de5711c0",
+    "title": "Acquisition Account Executive",
+    "company": "Skillsoft",
+    "location": "UK",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "At Skillsoft, we believe skills fuel growth. Our mission is to empower every organization and every learner to turn constant change into continuous growth. As part of the team, your skills will help organizations understand what skills they have, what they need next, and how to apply them in ways that drive real performance and&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/162223-acquisition-account-executive-2",
+    "date_posted": "2026-11-14"
+  },
+  {
+    "id": "jobicy-61bb7349b63c",
+    "title": "VP of Product, Veriff Network",
+    "company": "Veriff",
+    "location": "Estonia,  Spain,  UK,  USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About the team The Veriff Network team spans multiple critical areas, including Fraud, Registries, Human-Driven Accuracy (Verification Specialist Operations), Cross-linking, Data Suppliers, and Compliance Relationships. This team serves Trust, Fraud, and Risk teams in marketplaces and consumer fintech environments by building a data flywheel where every verification makes the next one smarter. This work matters&hellip;",
+    "required_skills": [
+      "product & operations"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/162221-vp-of-product-veriff-network",
+    "date_posted": "2026-11-14"
+  },
+  {
+    "id": "jobicy-f5366c7b9dba",
+    "title": "Field Marketer - Southern Europe (Freelance)",
+    "company": "Elevenlabs",
+    "location": "Spain",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of&hellip;",
+    "required_skills": [
+      "marketing & sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/162220-field-marketer-southern-europe-freelance",
+    "date_posted": "2026-11-14"
+  },
+  {
+    "id": "jobicy-cbedc1ffac75",
+    "title": "Interim Director of Financial Operations & Control",
+    "company": "Monzo",
+    "location": "UK",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal and business bank accounts, we offer joint&hellip;",
+    "required_skills": [
+      "finance & accounting"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/162219-interim-director-of-financial-operations-control",
+    "date_posted": "2026-11-14"
+  },
+  {
+    "id": "jobicy-12220cd448a9",
+    "title": "Accountant (Part-time)",
+    "company": "Aghanim",
+    "location": "Serbia",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Aghanim is an integrated commerce, liveops automation, community engagement, and payments platform for video games. Mobile games have traditionally depended on app stores for distribution, payments, and player relationships. We believe there is a better way. Aghanim helps game studios build direct relationships with players, sell directly, and build their future on their own terms.&hellip;",
+    "required_skills": [
+      "finance & accounting"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/162218-accountant-part-time-2",
+    "date_posted": "2026-11-14"
+  },
+  {
+    "id": "jobicy-8895e122c512",
+    "title": "Director of Account Management",
+    "company": "Vynca",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Join the dynamic journey at Vynca, where we're passionate about transforming care for individuals with complex needs. We’re more than just a team; we're a close-knit community. Our shared commitment to caring for each other and those we serve is what sets us apart. Guided by our unwavering core values: Excellence, Compassion, Curiosity, and Integrity,&hellip;",
+    "required_skills": [
+      "customer support & success"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/162217-director-of-account-management",
+    "date_posted": "2026-11-14"
+  },
+  {
+    "id": "jobicy-b55592f93ba9",
+    "title": "City Manager, Dallas",
+    "company": "Flex",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Flex is building AI-native financial services for business owners. We’re re-architecting the entire financial system for entrepreneurs—from the first dollar a business earns to how that value compounds, moves, and is ultimately spent in real life. Banking, credit, payments, personal finance, and financial operations—rebuilt from the ground up as a single, intelligent system. Flex is&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/162216-city-manager-dallas",
+    "date_posted": "2026-11-14"
+  },
+  {
+    "id": "jobicy-0f291fbca729",
+    "title": "Software Engineer, AI & Automation - Canada",
+    "company": "NerdWallet",
+    "location": "Canada",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "At NerdWallet, we're building tools and experiences that help people make smarter financial decisions. As a Software Engineer focused on AI &amp; Automation within our Security organization, you'll build production software and AI-enabled systems that make security work more scalable, effective, and developer-friendly across NerdWallet. You'll apply strong software engineering fundamentals and hands-on AI experience&hellip;",
+    "required_skills": [
+      "cybersecurity"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/162215-software-engineer-ai-automation-canada",
+    "date_posted": "2026-11-14"
+  },
+  {
+    "id": "jobicy-e10c69788151",
+    "title": "Admin Coordinator, Temporary",
+    "company": "Vynca",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Join the dynamic journey at Vynca, where we're passionate about transforming care for individuals with complex needs. We’re more than just a team; we're a close-knit community. Our shared commitment to caring for each other and those we serve is what sets us apart. Guided by our unwavering core values: Excellence, Compassion, Curiosity, and Integrity,&hellip;",
+    "required_skills": [
+      "healthcare & medical"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/162212-admin-coordinator-temporary",
+    "date_posted": "2026-11-14"
+  },
+  {
+    "id": "jobicy-75752c17d67f",
+    "title": "City Manager, Austin",
+    "company": "Flex",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Flex is building AI-native financial services for business owners. We’re re-architecting the entire financial system for entrepreneurs—from the first dollar a business earns to how that value compounds, moves, and is ultimately spent in real life. Banking, credit, payments, personal finance, and financial operations—rebuilt from the ground up as a single, intelligent system. Flex is&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/162211-city-manager-austin",
+    "date_posted": "2026-11-14"
+  },
+  {
+    "id": "jobicy-75e7908cba7b",
+    "title": "Director, Talent Acquisition",
+    "company": "NerdWallet",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "At NerdWallet, we’re on a mission to bring clarity to all of life’s financial decisions and every great mission needs a team of exceptional Nerds. We’ve built an inclusive, flexible, and candid culture where you’re empowered to grow, take smart risks, and be unapologetically yourself (cape optional). Whether remote or in-office, we support how you&hellip;",
+    "required_skills": [
+      "hr & recruiting"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/162210-director-talent-acquisition-3",
+    "date_posted": "2026-11-14"
+  },
+  {
+    "id": "jobicy-803affbe4f66",
+    "title": "Clinical Intake Specialist",
+    "company": "Vynca",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Join the dynamic journey at Vynca, where we're passionate about transforming care for individuals with complex needs. We’re more than just a team; we're a close-knit community. Our shared commitment to caring for each other and those we serve is what sets us apart. Guided by our unwavering core values: Excellence, Compassion, Curiosity, and Integrity,&hellip;",
+    "required_skills": [
+      "healthcare & medical"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/162207-clinical-intake-specialist",
+    "date_posted": "2026-11-14"
+  },
+  {
+    "id": "jobicy-36081f2ecf21",
+    "title": "City Manager, Atlanta",
+    "company": "Flex",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Flex is building AI-native financial services for business owners. We’re re-architecting the entire financial system for entrepreneurs—from the first dollar a business earns to how that value compounds, moves, and is ultimately spent in real life. Banking, credit, payments, personal finance, and financial operations—rebuilt from the ground up as a single, intelligent system. Flex is&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/162206-city-manager-atlanta",
+    "date_posted": "2026-11-14"
+  },
+  {
+    "id": "jobicy-57b7e90bff6a",
+    "title": "Senior Product Designer (Engagement)",
+    "company": "NerdWallet",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "At NerdWallet, our mission is to bring clarity to all of life’s financial decisions so people can move forward with confidence. We’re building a team of exceptional Nerds in an inclusive, flexible, and candid culture where you’re encouraged to grow, take smart risks, and be yourself. Whether you work remotely or in an office, we&hellip;",
+    "required_skills": [
+      "web, ui & ux design"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/162205-senior-product-designer-engagement",
+    "date_posted": "2026-11-14"
+  },
+  {
+    "id": "jobicy-b9d638fb98d5",
+    "title": "1 on 1 Elementary Math Tutor (Remote in US)",
+    "company": "Think Academy US",
+    "location": "USA",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Job type: Part-Time (15-20hrs/week) Location: Remote in US Intended Start Date: As soon as possible Pay Range: $20–25/hr Who we are: Think Academy US (www.TheThinkAcademy.com), a 100% owned subsidiary of TAL Education Group(NYSE: TAL), is recently established education technology (Ed-Tech) company to provide K-12 extra-curricular learning services through science and technology. At Think Academy, we&hellip;",
+    "required_skills": [
+      "education & e-learning"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/162204-1-on-1-elementary-math-tutor-remote-in-us",
+    "date_posted": "2026-11-14"
+  },
+  {
+    "id": "jobicy-8b95b6b09cbe",
+    "title": "Technical Manager (Ireland)",
+    "company": "Ajax Systems",
+    "location": "Ireland",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Ajax Systems is an international tech company and the largest manufacturer of security systems in Europe, with over 4.5 million end users and 330K PRO users in more than 180 countries worldwide. The company offers end-to-end solutions for protecting homes and businesses оf any scale. To date, Ajax product portfolio includes 280 devices for intrusion&hellip;",
+    "required_skills": [
+      "technical support"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/162202-technical-manager-ireland",
+    "date_posted": "2026-11-14"
+  },
+  {
+    "id": "jobicy-9b1e5fd5c7d2",
+    "title": "Senior Creative Strategist (DTC / eCommerce)",
+    "company": "115 Ventures",
+    "location": "UAE",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Every role in our company exists to drive measurable impact. We are looking for individuals who take ownership, operate with urgency, and think in terms of results. You will be trusted with responsibility and expected to deliver against clear performance metrics. Full-time · Remote · 7000 - 10,000 base compensation + uncapped performance compensation equivalent&hellip;",
+    "required_skills": [
+      "marketing & sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/162201-senior-creative-strategist-dtc-ecommerce",
+    "date_posted": "2026-11-14"
+  },
+  {
+    "id": "jobicy-1a4b58a93c2f",
+    "title": "Product Support Engineer - EMEA",
+    "company": "Ashby",
+    "location": "Czechia,  Denmark,  France,  Germany,  Ireland,  Italy,  Netherlands,  Poland,  Portugal,  Romania,  Spain,  Sweden,  UK",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Hello! I’m Allie, Head of Support at Ashby. I’m excited to share that we’re hiring a Product Support Engineer in EMEA We’re expanding our global Support team to provide 24/7 coverage across time zones. You’ll join a global team while establishing the technical Support Engineering presence in EMEA, with the ownership and visibility that&hellip;",
+    "required_skills": [
+      "technical support"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/162200-product-support-engineer-emea-3",
+    "date_posted": "2026-11-14"
+  },
+  {
+    "id": "jobicy-53a9a583e1b3",
+    "title": "Financial Products General Ledger Team Lead",
+    "company": "SumUp",
+    "location": "Bulgaria",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Financial Products General Ledger Team Lead Sofia, Bulgaria | Permanent, office-first Take a look inside our Sofia office Team description The Financial Products General Ledger (FGL) team sits at the strategic core of SumUp's financial operations. We own the financial integrity of SumUp's financial products (payment services, issuance of electronic money), ensuring every euro of&hellip;",
+    "required_skills": [
+      "finance & accounting"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/162199-financial-products-general-ledger-team-lead",
+    "date_posted": "2026-11-14"
+  },
+  {
+    "id": "jobicy-ff2c7633e384",
+    "title": "Enterprise Account Executive, Norway",
+    "company": "Horizon3.ai",
+    "location": "Norway",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Get to Know Us Horizon3 is a fast-growing, remote cybersecurity company dedicated to the mission of enabling organisations to proactively find and fix and verify exploitable attack vectors before criminals exploit them. Our flagship product, the NodeZeroTM platform, delivers production-safe autonomous pentests and other key assessment operations that scale across the largest internal, external, cloud,&hellip;",
+    "required_skills": [
+      "sales"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/162194-enterprise-account-executive-norway",
+    "date_posted": "2026-11-14"
+  },
+  {
+    "id": "jobicy-4bba55593023",
+    "title": "KYB Operations Lead, UK",
+    "company": "Ramp",
+    "location": "UK",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Ramp Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $275B in annualized spend flows in and out of 85,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books. The problems are high-stakes, data-dense, and unforgiving. We hire&hellip;",
+    "required_skills": [
+      "legal & compliance"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/162198-kyb-operations-lead-uk",
+    "date_posted": "2026-11-14"
+  },
+  {
+    "id": "jobicy-bcec97ca1440",
+    "title": "In-house CRA I/ In-house CRA II",
+    "company": "Precision Medicine Group",
+    "location": "Poland",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Precision for Medicine, Oncology and Rare Disease is not your typical CRO. We are passionate about cultivating our culture and are proud to share extremely high retention rates compared to industry averages. We are now recruiting In-house CRA I/ In-house CRA II to join our team in Poland. Position summary The In-house CRA (IHCRA) provides&hellip;",
+    "required_skills": [
+      "healthcare & medical"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/162197-in-house-cra-i-in-house-cra-ii",
+    "date_posted": "2026-11-14"
+  },
+  {
+    "id": "jobicy-ae99096519b6",
+    "title": "Senior Product Designer",
+    "company": "Wayflyer",
+    "location": "Europe",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Wayflyer Businesses come to Wayflyer to get the capital they need to grow. When they apply, connect their data or upload documents, every screen, word and transition either builds their trust or loses it. We’re looking for a Senior Product Designer with exceptional craft, strong product instincts and a builder mentality to shape how&hellip;",
+    "required_skills": [
+      "web, ui & ux design"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/162196-senior-product-designer-21",
+    "date_posted": "2026-11-14"
+  },
+  {
+    "id": "jobicy-809a88c9a67f",
+    "title": "Senior Video Editor (DTC / eCommerce)",
+    "company": "115 Ventures",
+    "location": "UAE",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Every role in our company exists to drive measurable impact. We are looking for individuals who take ownership, operate with urgency, and think in terms of results. You will be trusted with responsibility and expected to deliver against clear performance metrics. Full-time · Remote · 3000 - 5,500/month + performance bonuses About the Company We’re&hellip;",
+    "required_skills": [
+      "creative & design"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/162193-senior-video-editor-dtc-ecommerce",
+    "date_posted": "2026-11-14"
+  },
+  {
+    "id": "jobicy-3e81e3a9db99",
+    "title": "Senior Backend Engineer (Data serving)",
+    "company": "Pleo",
+    "location": "Denmark,  Portugal,  Spain,  UK",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "About Pleo Messy spend management is tricky business. And tedious processes are a lose-lose situation for all involved, not just finance. At Pleo, we're changing that. We build spend solutions that make managing money seamless, empowering, and surprisingly effective for finance teams and employees alike - with a vision to help all businesses ‘go beyond’.&hellip;",
+    "required_skills": [
+      "software engineering"
+    ],
+    "requirements": [],
+    "source": "Jobicy",
+    "url": "https://jobicy.com/jobs/162192-senior-backend-engineer-data-serving-2",
     "date_posted": "2026-11-14"
   },
   {
@@ -1378,6 +1378,40 @@
     "date_posted": "2026-10-14"
   },
   {
+    "id": "arbeitnow-3985fcd876d7",
+    "title": "Portfolio Accountant",
+    "company": "Access Destination Services",
+    "location": "Remote",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Access Your Potential. Join us to create and deliver experiences that inspire people, spark connection, and bring imagination to life—while having a lot of fun doing it. About the Job We’re seeking a detail-oriented and organized Portfolio Accountant to join our Finance &amp; Accounting team! In this role, you’ll manage the day-to-day accounting operations for an assigned Access territory, ensuring accurate financial records, timely reporting, and effective financial support for territory operations. Working closely with territory leadership and the broader Finance &amp; Accounting team, you’ll oversee accounts payable, accounts receivable, general ledger transactions, month-end closing activities, and financial reporting. This is a great opportunity for someone who enjoys working independently, solving problems, and building strong relationships with internal teams while keeping financial operations running smoothly. What You'll Be Doing Accounting &amp; Financial Reporting Manage day-to-day accounting activities for an assigned territory, including accounts payable, accounts receivable, and general ledger transactions. Process supplier payments, client deposits, final payments, expense reports, and journal entries accurately and within established deadlines. Prepare and maintain general ledger entries, account reconciliations, and supporting financial documentation. Complete month-end closing activities, ensuring financial records are accurate and up to date. Enter territory actuals into monthly budget comparison worksheets, review results for discrepancies, and flag variances for Controller review. Monitor territory revenue, expenses, and cash flow to support accurate financial reporting. Provide financial information and supporting documentation to the Controller and Finance &amp; Accounting leadership. Territory Accounting Support Serve as a primary accounting resource for employees within the assigned territory. Partner with territory leadership and internal departments to resolve accounting-related questions and discrepancies. Review and submit territory-specific labor and staffing reports in accordance with established procedures. Support territory budgeting, forecasting, and financial reporting activities as assigned. Ensure timely and accurate processing of financial transactions to support ongoing territory operations. Compliance &amp; Financial Accuracy Maintain accurate accounting records in accordance with applicable accounting standards and company policies. Assist with internal and external audits by maintaining organized financial records and supporting documentation. Ensure accounting activities are completed in accordance with established procedures and reporting deadlines. Training &amp; Team Collaboration Provide accounting-related guidance and training to new employees within the assigned territory as needed. Collaborate with the Finance &amp; Accounting team to ensure consistent application of established procedures, communicate accounting concerns, and escalate issues as appropriate. Support additional territory-level accounting projects and responsibilities as assigned. About You We know that there’s no one in the world like you. And we know that you have a lot to offer the next company you work with. Below is a list of “nice-to-haves”, but don’t let those deter you from applying. Access believes that an inclusive team and culture is important. We seek applicants from all backgrounds to ensure we get the best, most creative talent on our team. Nice-to-haves: Bachelor's degree in Accounting, Finance, or a related field preferred, or equivalent relevant experience. 1–3 years of accounting experience preferred, ideally within hospitality, destination management, or a related industry. Working knowledge of general accounting principles, accounts payable, accounts receivable, general ledger processes, and financial reconciliations. Proficiency in Microsoft Excel and experience working with accounting or financial management systems (such as Yardi, MRI, Investran, or similar). Strong attention to detail, organizational skills, and commitment to financial accuracy. Ability to independently manage recurring accounting responsibilities and consistently meet established deadlines. Strong analytical and problem-solving skills, with the ability to identify and resolve accounting discrepancies. Effective communication and collaboration skills when working with territory employees and internal stakeholders. What Success Looks Like Consistent Financial Accuracy: Territory financial records, reconciliations, and reporting are accurate, complete, and maintained with minimal corrections or rework. Timely &amp; Reliable Execution: Month-end close activities, financial transactions, and reporting requirements are consistently completed within established deadlines. Effective Problem-Solving: Accounting discrepancies are identified and addressed promptly, with appropriate escalation of complex issues or financial variances. Trusted Territory Partnership: Territory employees and leadership receive responsive, knowledgeable accounting support, with clear communication and dependable follow-through. Why Access? We’re a women-owned, award-winning destination management company with teams in cities coast to coast. For 50+ years, we’ve been producing high-impact events and experiences for global brands—and we’re just getting started. CULTURE &amp; EXTRAS Certified as a Great Place to Work – 3 years in a row and counting! 55+ years in the industry! Women-owned and women-led Fun, creative, and supportive culture Focus on recognition and employee value – including annual and quarterly awards Paid day off to serve your local community Annual all-company retreat to connect, learn, and have fun together Annual qualifier-based incentive trip for top performers (certain departments eligible) Regional team outings Monthly companywide meetings to connect, learn, and celebrate wins Paid Sabbatical leave after 7 years of service! COMPENSATION Highly competitive total compensation, including strong base salary and quarterly bonuses Very strong performance-based quarterly commission plans 401k with company match (eligible after 1 year – up to 4% of salary matched, vested immediately) Monthly cell phone stipend WORK LIFE BALANCE Flexible schedule opportunities Generous PTO Sick days 9 full holidays 5 half days off prior to holidays to unplug early 2 floating holidays off to be used on holidays of your choice ½ day Fridays in July &amp; August (based on achievement of goals) HEALTH, WELLNESS, AND FAMILY Extensive menu of health plans to choose from Paid parental leave Pet insurance program Employee Assistance Plan (EAP) PROFESSIONAL DEVELOPMENT Mentorship program “Masterclasses” in industry/department-specific topics State-of-the-art technology platforms and tools – including training Annual and monthly meeting content that focuses on professional development Ready to ACCESS your next big opportunity? Apply today! Access is committed to building a diverse and inclusive team. We are a proud Equal Opportunity Employer and prohibit discrimination based on race, color, religion, sex (including gender identity, sexual orientation, and pregnancy), national origin, age, disability, or genetic information. We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the application or interview process. If you need assistance or an accommodation due to a disability, you may contact us at ----- Find Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "corporate services group"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/access-destination-services/remote-portfolio-accountant-384566",
+    "date_posted": null
+  },
+  {
+    "id": "arbeitnow-46073418feb6",
+    "title": "Events Auditor Associate",
+    "company": "Access Destination Services",
+    "location": "Remote",
+    "remote": true,
+    "location_restriction": null,
+    "salary": null,
+    "description": "Access Your Potential. Join us to create and deliver experiences that inspire people, spark connection, and bring imagination to life—while having a lot of fun doing it. About the Job We're seeking a detail-oriented and organized Events Auditing Associate to join our Finance &amp; Accounting team! In this role, you'll support the billing and financial closeout process for familiarization (FAM) programs, as well as supplier referral invoicing. You'll also work closely with territory Events Auditors to prepare billing documentation, review program financials, and ensure accurate and timely program closeouts. The ideal candidate enjoys working with numbers, has a strong attention to detail, and is comfortable managing multiple priorities. You'll collaborate with Event Managers, Sales Managers, Accounting, and other internal teams to track outstanding items, resolve discrepancies, and keep program financial records organized and up to date. What You'll Be Doing Program Reporting &amp; Tracking Maintain and update the master program closeout report throughout the day as changes are received, including new programs, outstanding items, invoices sent, and completed closeouts. Utilize the master program closeout report to track familiarization program and supplier referral invoices sent to clients and suppliers throughout the closeout process. Ensure program closeout reports and tracking documentation remain accurate and up to date. Financial Reconciliation &amp; Program Closeouts Retrieve program ledger reports from financial systems as needed. Review program closeout documentation against program ledgers to verify accuracy and identify discrepancies. Identify and verify charges not reflected in the program ledger, including outstanding payment requests and expenses recorded in financial systems. Document and flag outstanding items, discrepancies, and additional information needed to complete program closeouts. Partner with Event Managers to obtain missing information and resolve outstanding items. Collaborate with Accounting regarding discrepancies and necessary corrections identified within financial and payment systems. Document findings and communicate outstanding items to the appropriate team members throughout the closeout process. Assist territory Events Auditors with preparing final billing statements and completing closeouts for revenue-based programs as needed. Supplier Referrals Partner with Sales Managers to verify supplier referral invoice amounts. Update supplier referral records once invoices are received from Accounting. Update invoice statuses and mark supplier referrals as closed and invoiced once invoices are entered into the system. Help ensure supplier referral records and invoicing documentation are accurate and complete. About You We know that there’s no one in the world like you. And we know that you have a lot to offer the next company you work with. Below is a list of “nice-to-haves”, but don’t let those deter you from applying. Access believes that an inclusive team and culture is important. We seek applicants from all backgrounds to ensure we get the best, most creative talent on our team. Nice-to-haves: Previous experience in administrative support, billing, bookkeeping, or a related role preferred, but not required. Experience in a destination management company (DMC), venue, wedding, hotel, or events environment is a plus. Basic proficiency in Microsoft Excel and comfort working with spreadsheets and financial information. Strong attention to detail and organizational skills. Ability to review financial information, identify discrepancies, and track outstanding items. Strong communication skills and the ability to collaborate with multiple departments. Ability to manage multiple tasks, prioritize responsibilities, and consistently meet deadlines. Experience with Salesforce, Sage Intacct, or Corpay is a plus. What Success Looks Like Accurate &amp; Timely Closeouts: Assigned billing and program closeouts are completed accurately and within established deadlines. Organized Reporting: Program reports, tracking documents, and supporting financial documentation are consistently maintained and up to date. Proactive Follow-Through: Outstanding items and discrepancies are identified, documented, and followed up on to keep closeouts moving forward. Effective Collaboration: Internal partners receive clear communication and timely support to resolve missing information and financial discrepancies. Initiative &amp; Accountability: Demonstrates initiative in problem-solving, meets performance expectations, and takes ownership of assigned responsibilities. Commitment to Access: Consistently demonstrates Access values and completes required training and certifications. Why Access? We’re a women-owned, award-winning destination management company with teams in cities coast to coast. For 50+ years, we’ve been producing high-impact events and experiences for global brands—and we’re just getting started. CULTURE &amp; EXTRAS Certified as a Great Place to Work – 3 years in a row and counting! 55+ years in the industry! Women-owned and women-led Fun, creative, and supportive culture Focus on recognition and employee value – including annual and quarterly awards Paid day off to serve your local community Annual all-company retreat to connect, learn, and have fun together Annual qualifier-based incentive trip for top performers (certain departments eligible) Regional team outings Monthly companywide meetings to connect, learn, and celebrate wins Paid Sabbatical leave after 7 years of service! COMPENSATION Highly competitive total compensation, including strong base salary and quarterly bonuses Very strong performance-based quarterly commission plans 401k with company match (eligible after 1 year – up to 4% of salary matched, vested immediately) Monthly cell phone stipend WORK LIFE BALANCE Flexible schedule opportunities Generous PTO Sick days 9 full holidays 5 half days off prior to holidays to unplug early 2 floating holidays off to be used on holidays of your choice ½ day Fridays in July &amp; August (based on achievement of goals) HEALTH, WELLNESS, AND FAMILY Extensive menu of health plans to choose from Paid parental leave Pet insurance program Employee Assistance Plan (EAP) PROFESSIONAL DEVELOPMENT Mentorship program “Masterclasses” in industry/department-specific topics State-of-the-art technology platforms and tools – including training Annual and monthly meeting content that focuses on professional development Ready to ACCESS your next big opportunity? Apply today! Access is committed to building a diverse and inclusive team. We are a proud Equal Opportunity Employer and prohibit discrimination based on race, color, religion, sex (including gender identity, sexual orientation, and pregnancy), national origin, age, disability, or genetic information. We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the application or interview process. If you need assistance or an accommodation due to a disability, you may contact us at ----- Find more English Speaking Jobs in Germany on Arbeitnow",
+    "required_skills": [
+      "corporate services group"
+    ],
+    "requirements": [],
+    "source": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/jobs/companies/access-destination-services/remote-events-auditor-associate-460273",
+    "date_posted": null
+  },
+  {
     "id": "arbeitnow-40559f568e79",
     "title": "Social Media & AI Manager (m/w/d) – Quereinstieg | Homeoffice | Vollzeit oder Teilzeit",
     "company": "Digital Evolution",
@@ -1403,138 +1437,13 @@
     "remote": true,
     "location_restriction": null,
     "salary": null,
-    "description": "Swarm Aero is redefining air power, building the largest swarming UAV and the most versatile swarming aircraft network in the world. The company is moving quickly to launch the first aircraft designed specifically for swarming, as well as the Command &amp; Control software to mobilize swarms of thousands of heterogeneous autonomous assets and empower human operators to achieve superhuman results. The team has created and exited multiple startups, negotiated defense deals worth billions of dollars, and designed and built 30+ novel aircraft, with aerospace experience from Scaled Composites, Airbus, Archer Aviation, Blue Origin, and Boom Supersonic. We are scaling fast, and our software work now carries real customer commitments: releases tied to milestones, integration with hardware we don't always own, and demos that have to work the first time. We need a Program Manager who can run a software-heavy defense program with the rigor of a hardware program and the speed of a software team. You will join our Program Management Office, reporting to the Director of PMO, and own cost, schedule, scope, and risk for a software-centric program. You will sit with engineering leads, product, and our forward deployed engineers, and you will be the person who can tell a customer exactly what ships, when, and what it took to get there. What you'll do Own the program plan and integrated schedule, tying sprint and release plans to contract milestones, demos, and customer events Translate customer requirements into a prioritized, traceable backlog with engineering and product, and manage scope changes against cost and schedule Run the program cadence: release planning, weekly program reviews, risk and issue boards, and monthly status to leadership and customers Manage program budget and burn, including labor across multiple engineering teams, and flag variance early with a recovery plan Coordinate software integration with aircraft, partner hardware, and government systems, including test events, field exercises, and demonstrations Drive software delivery and accreditation work with our DevSecOps team: deliverable packages, documentation, and cyber and ATO requirements where they apply Lead customer-facing milestone reviews and own contract deliverables (CDRLs, status reports, technical data) Partner with the Director of PMO to build program practices that fit how software teams actually work, without adding bureaucracy What you bring 6+ years of program or technical program management, with at least 3 years owning software or software-intensive programs for DoD or other government customers Fluency in agile delivery (Scrum, Kanban, SAFe or similar) and experience mapping it to milestone-based defense contracts Enough technical depth to follow architecture discussions, challenge estimates, and spot integration risk early; a software engineering background is a strong plus Experience delivering software that integrates with hardware: autonomy, C2, mission systems, avionics, or similar Hands-on with schedule and backlog tools (Jira, Smartsheet, MS Project or similar) and with budget tracking Comfort leading customer reviews and owning contract deliverables Clear, direct communicator who can brief an engineer and a program officer in the same afternoon U.S. person status as defined by ITAR, and ability to obtain and maintain a U.S. security clearance Nice to have Program experience on UAS autonomy, collaborative autonomy, or C2 software Experience with DoD software acquisition pathways, OTAs, or SBIR contracts Exposure to DevSecOps, software factories, or ATO and RMF processes Background at a startup or fast-scaling defense tech company Active Secret clearance or higher PMP, PMI-ACP, SAFe, or DAWIA Program Management certification Location and details Location: Hybrid, based in Oxnard, CA, with occasional travel to customers, test events, and partner sites Reports to: Director of PMO Compensation: [Add posted base salary range] plus equity and benefits Export control: This role requires access to information subject to ITAR. Candidates must be U.S. persons as defined by 22 CFR 120.62. ITAR requirement To conform to U.S. Government export regulations, applicant must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State. Swarm Aero is an equal opportunity employer. We value diverse backgrounds and experiences and make employment decisions without regard to race, religion, national origin, gender, sexual orientation, age, veteran status, or disability. What We Offer Meaningful equity in a high-growth defense technology company Competitive base salary commensurate with experience Medical, dental, vision, and 401k PTO and paid sick leave Monthly wellness stipend Daily catered lunch (office) Paid parental leave Direct impact on a critical national security mission A world-class team of engineers and operators solving genuinely hard problems Compensation: $175K – $200K • Offers Equity • $175K – $200K • Offers Equity Find more English Speaking Jobs in Germany on Arbeitnow",
+    "description": "Swarm Aero is redefining air power, building the largest swarming UAV and the most versatile swarming aircraft network in the world. The company is moving quickly to launch the first aircraft designed specifically for swarming, as well as the Command &amp; Control software to mobilize swarms of thousands of heterogeneous autonomous assets and empower human operators to achieve superhuman results. The team has created and exited multiple startups, negotiated defense deals worth billions of dollars, and designed and built 30+ novel aircraft, with aerospace experience from Scaled Composites, Airbus, Archer Aviation, Blue Origin, and Boom Supersonic. We are scaling fast, and our software work now carries real customer commitments: releases tied to milestones, integration with hardware we don't always own, and demos that have to work the first time. We need a Program Manager who can run a software-heavy defense program with the rigor of a hardware program and the speed of a software team. You will join our Program Management Office, reporting to the Director of PMO, and own cost, schedule, scope, and risk for a software-centric program. You will sit with engineering leads, product, and our forward deployed engineers, and you will be the person who can tell a customer exactly what ships, when, and what it took to get there. What you'll do Own the program plan and integrated schedule, tying sprint and release plans to contract milestones, demos, and customer events Translate customer requirements into a prioritized, traceable backlog with engineering and product, and manage scope changes against cost and schedule Run the program cadence: release planning, weekly program reviews, risk and issue boards, and monthly status to leadership and customers Manage program budget and burn, including labor across multiple engineering teams, and flag variance early with a recovery plan Coordinate software integration with aircraft, partner hardware, and government systems, including test events, field exercises, and demonstrations Drive software delivery and accreditation work with our DevSecOps team: deliverable packages, documentation, and cyber and ATO requirements where they apply Lead customer-facing milestone reviews and own contract deliverables (CDRLs, status reports, technical data) Partner with the Director of PMO to build program practices that fit how software teams actually work, without adding bureaucracy What you bring 6+ years of program or technical program management, with at least 3 years owning software or software-intensive programs for DoD or other government customers Fluency in agile delivery (Scrum, Kanban, SAFe or similar) and experience mapping it to milestone-based defense contracts Enough technical depth to follow architecture discussions, challenge estimates, and spot integration risk early; a software engineering background is a strong plus Experience delivering software that integrates with hardware: autonomy, C2, mission systems, avionics, or similar Hands-on with schedule and backlog tools (Jira, Smartsheet, MS Project or similar) and with budget tracking Comfort leading customer reviews and owning contract deliverables Clear, direct communicator who can brief an engineer and a program officer in the same afternoon U.S. person status as defined by ITAR, and ability to obtain and maintain a U.S. security clearance Nice to have Program experience on UAS autonomy, collaborative autonomy, or C2 software Experience with DoD software acquisition pathways, OTAs, or SBIR contracts Exposure to DevSecOps, software factories, or ATO and RMF processes Background at a startup or fast-scaling defense tech company Active Secret clearance or higher PMP, PMI-ACP, SAFe, or DAWIA Program Management certification Location and details Location: Hybrid, based in Oxnard, CA, with occasional travel to customers, test events, and partner sites Reports to: Director of PMO Compensation: [Add posted base salary range] plus equity and benefits Export control: This role requires access to information subject to ITAR. Candidates must be U.S. persons as defined by 22 CFR 120.62. ITAR requirement To conform to U.S. Government export regulations, applicant must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State. Swarm Aero is an equal opportunity employer. We value diverse backgrounds and experiences and make employment decisions without regard to race, religion, national origin, gender, sexual orientation, age, veteran status, or disability. What We Offer Meaningful equity in a high-growth defense technology company Competitive base salary commensurate with experience Medical, dental, vision, and 401k PTO and paid sick leave Monthly wellness stipend Daily catered lunch (office) Paid parental leave Direct impact on a critical national security mission A world-class team of engineers and operators solving genuinely hard problems Compensation: $175K – $200K • Offers Equity • $175K – $200K • Offers Equity Find Jobs in Germany on Arbeitnow",
     "required_skills": [
       "aircraft"
     ],
     "requirements": [],
     "source": "Arbeitnow",
     "url": "https://www.arbeitnow.com/jobs/companies/swarmaero/remote-technical-program-manager-software-197537",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-bbbd40baf615",
-    "title": "Team Lead SAP ABAP Development – Data Migration (m/w/d)",
-    "company": "Natuvion GmbH",
-    "location": "Remote job",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Du findest ABAP-Entwicklungen und technische Beratung im SAP-Umfeld spannend, bist spezialisiert an Themen der Datenmigration und bringst erste Führungserfahrung und Leidenschaft für die Entwicklung deiner Mitarbeitenden mit? Du hast Lust in agilen und internationalen Teams Lösungen für komplexe technische Themen zu erarbeiten, möchtest noch technisch hands-on arbeiten, aber gleichzeitig auch deine Führungsstärke entwickeln? Dann suchen wir Dich zur Erweiterung unseres Transformation Teams als Team Lead SAP ABAP Development – Data Migration (m/w/d) – bundesweit. Deine Aufgaben: Du übernimmst die Projekt- und Budgetverantwortung für technische Datenmigrationen. Du übernimmst die fachliche und disziplinarische Führung eines Entwicklungsteams im Bereich SAP ABAP mit Schwerpunkt Datenmigration Du arbeitest an der Produktentwicklung zur Erweiterung und Standardisierung unseres Service- und Tool-Portfolios rund um unsere Migrationssoftware ( Natuvion DCS ) mit Du pflegst eine enge Zusammenarbeit mit Projektleitung, Fachbereichen und externen Partnern zur Definition von Anforderungen und Prioritäten Du organisierst und steuerst die technische Unterstützung unserer Kunden bei der Konzeption und Umsetzung innovativer IT-Lösungen Du arbeitest an spannenden Zukunftsthemen wie S/4HANA Migrationen sowie auch Einführungen neuer digitaler Plattformen (z.B.: Powercloud, Salesforce) mit Du förderst die Weiterentwicklung und Schulung der Teammitglieder im Bereich ABAP und Migrationstechnologien Dein Profil: Du übernimmst die fachliche und disziplinarische Führung eines Entwicklungsteams im Bereich SAP ABAP mit Schwerpunkt Datenmigration Du arbeitest an der Produktentwicklung zur Erweiterung und Standardisierung unseres Service- und Tool-Portfolios rund um unsere Migrationssoftware ( Natuvion DCS ) mit Du pflegst eine enge Zusammenarbeit mit Projektleitung, Fachbereichen und externen Partnern zur Definition von Anforderungen und Prioritäten Du organisierst und steuerst die technische Unterstützung unserer Kunden bei der Konzeption und Umsetzung innovativer IT-Lösungen Du arbeitest an spannenden Zukunftsthemen wie S/4HANA Migrationen sowie auch Einführungen neuer digitaler Plattformen (z.B.: Powercloud, Salesforce) mit Du förderst die Weiterentwicklung und Schulung der Teammitglieder im Bereich ABAP und Migrationstechnologien Falls du denkst, dass du nicht alle Anforderungen erfüllst: Bei uns sind deiner Entwicklung „keine Grenzen gesetzt“! Geh mit uns gemeinsam deinen Weg – Wir unterstützen dich dabei! Zeige uns einfach wer du bist. Was dich bei uns erwartet: Ein Umfeld, dass jederzeit offen für Veränderungen und Optimierungen ist. Ein „das war schon immer so“ gibt es bei uns nicht. Du hast die Chance dein Wissen einzubringen, Prozesse zu gestalten, vorhandenen Themen zu standardisieren oder Abläufe zu optimieren. Sei Impulsgeber und bringe uns mit deiner Expertise noch weiter nach vorne! Wir schaffen Rahmenbedingungen, in denen du dich wohlfühlst: Home-Office Verträge &amp; absolute Flexibilität durch freie Gestaltung der Arbeitszeit&nbsp; Unbefristete Festanstellung und 30 Tage Urlaub&nbsp; FlexWork: Bis zu 3 Monate pro Jahr remote aus dem europäischen Ausland arbeiten&nbsp; Monatliches Budget für individuell wählbare Benefits aus über 50 möglichen Angeboten über emplu, verschiedene Angebote über Corporate Benefits, sowie Fahrrad- und Autoleasing per Gehaltsumwandlung Mental Health Benefit 'Nilo' – 12 kostenlose Sessions mit Psycholog:innen jährlich sowie Zugang zu Meditationen und Kursen&nbsp; Wir unterstützen dich gezielt bei deiner fachlichen und persönlichen Entwicklung bei Natuvion&nbsp; Mentorenprogramm für eine strukturierte und persönliche Einarbeitung&nbsp; Werde Teil des #teamgreen - Bei Natuvion arbeitest du an innovativen Projekten als Teil eines Teams, das füreinander einsteht. Wir setzen auf Zusammenarbeit, Offenheit und Vertrauen&nbsp; Modernes Equipment und zentrale Büros in Walldorf, Berlin, München und Leipzig &nbsp; Uns ist deine langfristige Perspektive wichtig, deshalb bezuschussen wir deine betriebliche Altersvorsorge sowie vermögenswirksame Leistungen &nbsp; Join #teamgreen - Natuvion ist ein digitales Umzugsunternehmen. Unser Team bewegt keine Tische, Aktenschränke oder Stühle. Natuvion transportiert geschäftskritische Daten und Prozesse von einer Technologieplattform auf eine andere. Typische Natuvion „Umzugsdienstleistungen“ umfassen Datenmigration, Datentransformation, Datenintegration, Datenschutz, Datensicherheit und Datenqualität. Unsere 300 BeraterInnen und EntwicklerInnen in Deutschland, Österreich, Slowakei, USA und Australien verfügen über weitreichendes Knowhow bei (SAP®-)Projekten und ein profundes Prozessverständnis über Branchengrenzen hinweg. Mit viel Erfahrung, Engagement und Einsatz begleiten sie unsere Kunden mit Beratung, Dienstleistung und eigener Softwaretechnologie. So ermöglichen wir Unternehmen, ihre Daten und Prozesse immer auf den modernsten und innovativsten Plattformen zu nutzen. Du bist interessiert? Wir freuen uns auf deine Bewerbung und darauf, dich kennenzulernen! Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "technical migration",
-      "remote"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-team-lead-sap-abap-development-data-migration-berlin-98262",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-e2cf721aad26",
-    "title": "SAP Finance (FI/CO) Migration Architect (m/w/d)",
-    "company": "Natuvion GmbH",
-    "location": "Remote job",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Möchtest du die Zukunft unserer Kunden aktiv mitgestalten und dabei sowohl fachlich als auch technisch Verantwortung übernehmen?&nbsp; Dann bist du bei uns genau richtig!&nbsp; Wir suchen einen Migration Architect SAP FI/CO&nbsp; (m/w/d) der unsere nationalen und internationalen Kunden in anspruchsvollen Transformations- und Datenmigrationsprojekten begleitet. Dich erwartet ein dynamisches Team, abwechslungsreiche Projekte und maximaler Gestaltungsspielraum.&nbsp; &nbsp; Deine Aufgaben: Eigenverantwortliche Umsetzung von SAP Transformations und Datenmigrationsprojekten im SAP Finance Umfeld – von der Analyse über die Konzeption bis zur technischen Realisierung im SAP-System&nbsp;.&nbsp; Erstellung und Umsetzung technischer Migrations und Transformationskonzepte , inkl. Validierung der Migrationsergebnisse sowie Optimierung in Test und Produktivsystemen.&nbsp;&nbsp; Standardisierung und Rollout von SAP FinanceServices wie New G/L, S/4HANA Finance Conversion, Geschäftsjahresumstellungen sowie Währungsmodifikationen/-einführungen. Fachliche (technische) Leitung von Teilprojekten und Projektteams in SAP Finance und S/4HANA Projekten &nbsp;&nbsp; und S/4HANAProjekten. &nbsp; Organisation und Durchführung von technisch geprägten Workshops, Schulungen und Meetings – auch in internationalen Projektkontexten.&nbsp;&nbsp; Technische Beratung unserer Kunden zu SAP FI/CO sowie Unterstützung bei PresalesAktivitäten mit Fokus auf SAPFinance und Transformationsthemen. &nbsp; Dein Profil: Fundierte Grundlagen der (Wirtschafts-)Informatik – ein abgeschlossenes Studium oder eine vergleichbare Ausbildung ist gern gesehen, ein technischanalytischer Hintergrund ist entscheidend.&nbsp;&nbsp; Mehrjährige Berufserfahrung (idealerweise mind. 5 Jahre) in den Modulen SAP FI/CO oder FICA. &nbsp;&nbsp; Tiefes technisches Verständnis von SAP sowie Erfahrung in der ABAPEntwicklung (klassisch und/oder ABAP OO); weitere objektorientierte Sprachen wie Java sind von Vorteil.&nbsp;&nbsp; Erfahrung im Umfeld von SAPDatenmigrations- und Transformationsprojekten , idealerweise mit Fokus auf tabellenbasierte Migrationen.&nbsp;&nbsp; Beratungs- und Projekterfahrung sowie eine strukturierte, analytische und lösungsorientierte Arbeitsweise. &nbsp; &nbsp;Ausgeprägte Kunden und Teamorientierung sowie die Bereitschaft, dich fachlich und technisch kontinuierlich weiterzuentwickeln.&nbsp;&nbsp; Sehr gute Deutschkenntnisse in Wort und Schrift , Englischkenntnisse sind von Vorteil. Am wichtigsten: Falls du denkst, dass du nicht alle Anforderungen erfüllst: Bei uns sind deiner Entwicklung „keine Grenzen gesetzt“! Geh mit uns gemeinsam deinen Weg – Wir unterstützen dich dabei! Zeige uns einfach wer du bist. Was dich bei uns erwartet: Ein Umfeld, dass jederzeit offen für Veränderungen und Optimierungen ist. Ein „das war schon immer so“ gibt es bei uns nicht. Du hast die Chance dein Wissen einzubringen, Prozesse zu gestalten, vorhandenen Themen zu standardisieren oder Abläufe zu optimieren. Sei Impulsgeber im Thema Projektmanagement und bringe uns mit deiner Expertise noch weiter nach vorne! Wir schaffen Rahmenbedingungen, in denen du dich wohlfühlst. Daher bieten wir dir viele Benefits, wie europaweites flexibles Arbeiten, Mobilität und Altersvorsorge. Im Folgenden findest du mehr Informationen! Wir schaffen Rahmenbedingungen, in denen du dich wohlfühlst: Home-Office Verträge &amp; absolute Flexibilität durch freie Gestaltung der Arbeitszeit Unbefristete Festanstellung und 30 Tage Urlaub FlexWork: Bis zu 3 Monate pro Jahr remote aus dem europäischen Ausland arbeiten Monatliches Budget für individuell wählbare Benefits aus über 50 möglichen Angeboten über emplu, verschiedene Angebote über Corporate Benefits, sowie Fahrrad- und Autoleasing per Gehaltsumwandlung Mental Health Benefit 'Nilo' – 12 kostenlose Sessions mit Psycholog:innen jährlich sowie Zugang zu Meditationen und Kursen Individuelles Aus- und Weiterbildungskontingent für deine fachliche und persönliche Entwicklung Mentorenprogramm für eine strukturierte und persönliche Einarbeitung Werde Teil des #teamgreen - Bei Natuvion arbeitest du an innovativen Projekten als Teil eines Teams, das füreinander einsteht. Wir setzen auf Zusammenarbeit, Offenheit und Vertrauen. Dich erwartet modernes Equipment und zentrale Büros in Walldorf, Berlin, München und Leipzig. Uns ist deine langfristige Perspektive wichtig, deshalb bezuschussen wir deine betriebliche Altersvorsorge sowie vermögenswirksame Leistungen Join #teamgreen - Natuvion ist ein digitales Umzugsunternehmen. Unser Team bewegt keine Tische, Aktenschränke oder Stühle. Natuvion transportiert geschäftskritische Daten und Prozesse von einer Technologieplattform auf eine andere. Typische Natuvion „Umzugsdienstleistungen“ umfassen Datenmigration, Datentransformation, Datenintegration, Datenschutz, Datensicherheit und Datenqualität. Unsere &gt;400 BeraterInnen und EntwicklerInnen in Deutschland, Österreich, Slowakei, USA und Australien verfügen über weitreichendes Knowhow bei (SAP®-)Projekten und ein profundes Prozessverständnis über Branchengrenzen hinweg. Mit viel Erfahrung, Engagement und Einsatz begleiten sie unsere Kunden mit Beratung, Dienstleistung und eigener Softwaretechnologie. So ermöglichen wir Unternehmen, ihre Daten und Prozesse immer auf den modernsten und innovativsten Plattformen zu nutzen. Du bist interessiert? Wir freuen uns auf deine Bewerbung und darauf, dich kennenzulernen! Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "technical migration",
-      "remote"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-sap-finance-fi-co-migration-architect-berlin-208083",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-cc1e6c015176",
-    "title": "Senior AI Product Designer  (m/w/d)",
-    "company": "Recare Deutschland GmbH",
-    "location": "Remote job",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "About Recare As one of the leading German HealthTech companies, we are reshaping discharge management – technology-driven, patient-centered, and free from bureaucracy. In addition to our market-leading SaaS platform, we develop AI solutions that radically simplify processes in hospitals and for aftercare providers, relieve healthcare professionals, and refocus attention on patients. Today, we already connect two-thirds of all German hospitals with over 650 rehabilitation clinics and 25,000 nursing and homecare providers. With currently around 100 employees, we continue to grow – and we are looking for people with character who want to help us improve the healthcare system and solve administrative complexity across care journeys in Europe. What you'll own as our Senior AI Product Designer You'll own end-to-end design for one of our core product areas, on a platform where AI is the foundation of the product, not a bolt-on feature. Your mission is to bring consumer-grade craft to a B2B healthcare product used by clinicians and hospital administrators under real time pressure, and to help invent the design patterns for AI-native surfaces that don't exist anywhere else yet. You design the AI-native surfaces our platform is built around, including multi-modal interfaces, agent state, uncertainty, and human-in-the-loop controls, inventing the patterns as you go rather than adapting existing ones. You own end-to-end design for a product area – Discharge Core, Voice Desktop, Extract &amp; Docs, Patient Overview, or Agent – taking work from a messy problem statement through to what ships in production. You contribute to our design system, building the components and AI-specific conventions that other designers and teams build on. You partner closely with product and engineering, shaping technical and product direction rather than being handed a spec to execute against. You work with other designers across the organisation, bringing your input and influence beyond your own product area rather than staying inside a single team's boundary. You hold a high craft bar in critique, lifting the standard of what the wider design team ships. You help hold coherence across our AI Suite (Voice, Docs, Extract, Agent) and Discharge Core, so a fast-growing multi-product platform still feels like one product to the people using it. How we design: We're AI-native. We use AI tools daily in our own process, not just in what we design, and we want strong, opinionated views on how to wield them well. Consumer-grade craft is the bar, even in B2B. Our users are clinicians and hospital administrators. Human-in-the-loop by default. This is healthcare: AI proposes, people stay in control, and we design the approval and verification moments that make that real, not just a confidence score bolted on. We ship in production, not just in Figma. Craft is judged by what clinicians actually use, so we stay close to what ships. What to expect as our Senior AI Product Designer (m/w/d): Purposeful work – your role will have a positive impact on patients, their families, and healthcare professionals. Company culture – we believe in flat hierarchies that promote high performance and strong team dynamics. We foster an environment characterized by mutual respect, loyalty, and recognition. Together, we strive for our goals – and expect the same from you. Flexibility – want to pick up your child from daycare? Like to exercise during lunch? We'll support you. We are a remote-friendly company offering flexible working hours. Workations are also possible by arrangement. Edenred card – which you can use according to your needs. Extra vacation day – so you can celebrate your birthday with your loved ones, you'll have the day off. Here's how we picture you as our Senior AI Product Designer (m/w/d): You have 8+ years of product design experience, with at least 3+ years operating at Senior, Principal, or Staff altitude. You have designed for AI and non-determinism before, and can talk concretely about how you've communicated agent behaviour, handled errors, and kept users in control, not just in the abstract. You have owned or significantly contributed to a design system, at the level of patterns and principles rather than individual components. You are block-shaped: equally strong across UX process, UI craft, product thinking, research, storytelling, and cross-functional collaboration. You have taken features from 0 to 1 through an ambiguous problem statement to shipped code, and you're comfortable feeling like a PM or frontend developer on the days that calls for it. You have high agency and spot gaps without being asked to look for them, including outside your own product area. You hold a position under pressure but change it when new information warrants, rather than becoming precious about your own decisions. You communicate confidently in English and are comfortable operating in an international environment; German is a plus but not required. You bring a consumer-grade craft background with exceptional design; healthtech experience is a plus but not required. If this sounds like your kind of challenge, we'd love to hear from you Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "product",
-      "remote"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-senior-ai-product-designer-berlin-84714",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-8570c632411e",
-    "title": "Software Engineer (Computer Use & Integrations) (m/w/d)",
-    "company": "Recare Deutschland GmbH",
-    "location": "Remote job",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Software Engineer – Backend (Computer Use &amp; Integrations) (m/w/d) Remote job About Recare As one of the leading German HealthTech companies, we are reshaping discharge management – technology-driven, patient-centered, and free from bureaucracy. In addition to our market-leading SaaS platform, we develop AI solutions that radically simplify processes in hospitals and for aftercare providers, relieve healthcare professionals, and refocus attention on patients. Today, we already connect two-thirds of all German hospitals with over 650 rehabilitation clinics and 25,000 nursing and homecare providers. With currently around 100 employees, we continue to grow – and we are looking for people with character who want to help us improve the healthcare system and solve administrative complexity across care journeys in Europe. What to expect as our Software Engineer – Backend (Computer Use &amp; Integrations) (m/w/d): Purposeful work – your role will have a positive impact on patients, their families, and healthcare professionals. Company culture – we believe in flat hierarchies that promote high performance and strong team dynamics. We foster an environment characterized by mutual respect, loyalty, and recognition. Together, we strive for our goals – and expect the same from you. Flexibility – want to pick up your child from daycare? Like to exercise during lunch? We'll support you. We are a remote-friendly company offering flexible working hours. Workations are also possible by arrangement. Edenred card – which you can use according to your needs. Extra vacation day – so you can celebrate your birthday with your loved ones, you'll have the day off. In this role, you can make an impact and grow with us as Software Engineer You'll help build Recare's Operator, our agent that gets AI-generated clinical output into hospital systems by operating their existing software the way a person would, no bespoke interface required. It's the sharp end of our integration strategy: a Windows desktop application that automates UI interactions with hospital systems, running on doctors' devices and often inside RDP or Citrix environments. The first version is already live – you'll help expand its capabilities and make it reliable in production. You build and improve integrations between hospital systems and Recare products. You implement and harden computer-use automation flows so they work reliably in production, including edge cases, recovery, and safety rails. You partner with clinical domain experts to turn ambiguous workflows into shippable plans and robust implementations that solve real customers' needs. You contribute across the stack as needed, including our Go-based gateway. You invest in observability foundations (logs, metrics, traces) so we can trust the system in production. How we work: AI-native – our engineers reach for frontier coding agents every day to move fast across the whole stack, and we want strong, opinionated views on how to wield them well. Frontier models – we build on the best models available and adopt new capabilities as they ship, not a release later. Human-in-the-loop by default – this is healthcare: AI proposes, people stay in control, and we design the approval and validation loops that make that real. Unglamorous foundations – engineers get the time to build the eval harnesses, guardrails, and observability that make AI trustworthy in production, not just the feature on top. Ship and observe – always deployable, telemetry-driven, fix in the open. Here's how we picture you as our Software Engineer You're a builder with a hacker mindset: you default to building rather than waiting, and you're solution-oriented rather than problem-oriented. You have professional backend experience in Go, Python, or TypeScript, and you can point to production software you shipped and owned. You're comfortable working on integration-heavy systems: APIs, workflows, data models, auth, and real-world edge cases. You're pragmatic about reliability: you care about monitoring, debugging, test coverage, and making systems operable. You're excited to use AI coding agents daily and have opinions on how to use them effectively. You're ambitious but frustration-tolerant. Hospital IT is complicated and progress is hard-won; you stay relentless, get your hands dirty, and iterate until it works. You communicate confidently in English and collaborate well across Product, Engineering, and Operations. Nice to have: German language skills. Experience with Electron or TypeScript on the desktop side. Experience with healthcare IT systems (HIS, KIS, PVS, EMR) and interoperability standards such as HL7 v2 or FHIR. Find Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "engineering",
-      "remote"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-software-engineer-computer-use-integrations-berlin-434731",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-5af364bf2dde",
-    "title": "Lead Security Engineer (m/w/d)",
-    "company": "Recare Deutschland GmbH",
-    "location": "Remote job",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "Lead Security Engineer (m/w/d) About Recare As one of the leading German HealthTech companies, we are reshaping discharge management – technology-driven, patient-centered, and free from bureaucracy. In addition to our market-leading SaaS platform, we develop AI solutions that radically simplify processes in hospitals and for aftercare providers, relieve healthcare professionals, and refocus attention on patients. Today, we already connect two-thirds of all German hospitals with over 650 rehabilitation clinics and 25,000 nursing and homecare providers. With currently around 120 employees from a broad range of nations, we continue to grow – and we're now going far beyond our core business, aiming to eliminate bureaucracy and admin in hospitals with a whole portfolio of AI products. What to expect as our Lead Security Engineer (m/w/d): Purposeful work – your role will have a positive impact on patients, their families, and healthcare professionals. Company culture – we believe in flat hierarchies that promote high performance and strong team dynamics. We foster an environment characterized by mutual respect, loyalty, and recognition. Together, we strive for our goals – and expect the same from you. Flexibility – want to pick up your child from daycare? Like to exercise during lunch? We'll support you. We are a remote-friendly company offering flexible working hours. Workations are also possible by arrangement. Edenred card – which you can use according to your needs. Extra vacation day – so you can celebrate your birthday with your loved ones, you'll have the day off. In this role, you can make an impact and grow with us as Lead Security Engineer (m/w/d): You'll be our first dedicated security engineer: a senior IC with no team at the start. You join as Deputy CISO, report to our Director of Technology (currently acting CISO), and build security engineering from scratch. The baseline is already in place – ISO 27001, C5 Type II, regular penetration tests, and encryption in the product. AI is adding new surfaces: voice documentation, document generation, and agentic workflows. You build and own the security program, the tooling, and the security story we tell customers. Vulnerability management – scanners and dependency updates across repos, plus the process that gets findings closed. Partner to Platform – review security-sensitive infrastructure decisions and explore options like customer-managed keys or HSMs. Platform still owns architecture. Certifications, technical side – control design and assessments for our ISO 27001 and C5 setup, the security case for a potential upcoming Class IIa medical device (MDR), and pentest scoping and follow-up, with regulation like the EU Cyber Resilience Act on the horizon. This is roughly a quarter to a third of the role, and we say it openly: for the right person in healthcare security, it's a draw, not a chore. Customer security – reusable docs, evidence, and AI-assisted questionnaires, so the tenth enterprise deal costs a fraction of the first. You join the call when a hospital CISO asks something new about our AI architecture. Incident response – process, runbooks, and escalation, and you lead when it's real. We're too small for a SOC, so you design on-call that fits a company our size. Product incidents and platform bugs have their own owners in engineering. Company-wide security – watch the threat landscape, turn this week's supply-chain mess into concrete actions, and set the baselines IT applies to devices and accounts. How we work: AI-native – our engineers use coding agents every day. Security should too: scanning, evidence, questionnaires. AI is also our attack surface – agent sandboxing, prompt injection, voice data, computer-use automation inside hospitals. We deal with security questions most companies will only meet in a few years. Human-in-the-loop by default – this is healthcare: AI proposes, people stay in control. Ship and observe – we ship continuously and debug from telemetry, including in the open when that's the fastest path. Here's how we picture you as our Lead Security Engineer (m/w/d): You're a hands-on security engineer with 6+ years across software and security engineering, and you can point to a security program (or a big part of one) you've owned. You've been the technical counterpart through at least one ISO 27001, C5, or SOC 2 certification cycle: you've designed controls, faced an auditor, and written the technical side of a Statement of Applicability. This is a hard requirement. You've run vulnerability management somewhere real: scanners, dependency bots, triage, and the follow-through that gets things fixed. You follow the security scene closely (podcasts, advisories, incident write-ups) and usually have an opinion on this week's incident before it reaches the news. You're genuinely curious about AI security – both securing AI systems (agents, sandboxing, data flows) and using AI tooling to work at leverage. You can talk to engineers, auditors, and hospital security teams in English without a slide deck translating for you. Nice to have: German language skills, since our customers and the C5 world are German-speaking. Experience in healthcare or another regulated domain. Offensive security experience. Security certifications such as OSCP, CISSP, or similar. Find Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "engineering",
-      "remote"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-lead-security-engineer-berlin-229517",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-0c2af00cb125",
-    "title": "Tech Lead (Medical Coding Agents) (m/w/d)",
-    "company": "Recare Deutschland GmbH",
-    "location": "Remote job",
-    "remote": true,
-    "location_restriction": "EU only",
-    "salary": null,
-    "description": "About Recare As one of the leading German HealthTech companies, we are reshaping discharge management: technology-driven, patient-centered and free from bureaucracy. In addition to our market-leading SaaS platform, we develop AI solutions that radically simplify processes in hospitals and for aftercare providers, relieve healthcare professionals and refocus attention on patients. Today, we already connect two-thirds of all German hospitals with thousands of rehabilitation clinics, nursing and homecare providers. With around 100 employees, we continue to grow, and we’re looking for people with character who want to help us improve the healthcare system. What you’ll do as our Tech Lead (Medical Coding Agents) (m/w/d): German hospitals are paid a fixed amount per case, based on the codes assigned to it. Insurers dispute a share of the bills through an external medical audit, and the hospital can appeal when the audit cuts a bill. Recare is building medical coding agents to rebuild this chain: they read the case file, propose codes, assess audit findings and draft appeals. A subject matter expert reviews every result. You’ll lead the technical development of this product. The role is about 80% hands-on building and 20% leading, and it grows with the platform into areas beyond billing. Technical direction: set the architecture with the team across backend, frontend and a data model built on healthcare standards such as FHIR. Set the technical roadmap with the team and deliver on it predictably. Agent orchestration: design how models, deterministic rules and human review fit together. Work with our AI engineers on system design. Hands-on delivery: build the backend for cases, documents and long-running agent runs, including the append-only decision log that keeps every case audit-proof when an insurer challenges it months later. Product partnership: be the technical counterpart to the product manager and the subject matter experts on planning, specs and trade-offs. Production quality: own reliability, observability and security in a sensitive healthcare context, with an eval harness built from expert-reviewed cases as a CI gate. How we work: AI coding agents: engineers use them every day and take responsibility for the code we ship. Product managers and designers prototype in our codebase too, and engineers review what goes to production. Human-in-the-loop: agents propose, the expert accepts, corrects or rejects, and every decision is logged with its evidence. Shipping: we release early to development partners and switch features on per hospital. Data protection: EU-only inference and no patient data in logs are hard constraints. Ownership: product owns what we build and why. The tech lead owns how it’s built and that it ships. Stack: TypeScript, Node.js and Go, Python for inference, Postgres, React, AWS Bedrock, Docker and Datadog. Success: measured in revenue hospitals keep, not in usage. What we’re looking for: Leadership: 6+ years of experience, including leading a small team. Hands-on with LLMs: you’ve built with LLMs yourself and understand where they fail: non-determinism, cost, latency and evaluation. You can design systems around them and challenge our AI engineers’ choices. Experience running an LLM or agent system in production is a strong plus, and strong personal projects count. Evals: you can answer “how did you know it was good enough?” with ground truth, regression tests and a clear taxonomy of error classes. Full-stack depth: you go deep across backend, frontend and data, and you commit code. Other people’s systems: you’re comfortable with asynchronous pipelines, legacy interfaces and code written by others. Hospital experience isn’t required. Communication: you explain decisions and trade-offs clearly in English in a remote team. Nice to have: German, as the catalogues, the coding rules and much of the work with our experts are in German; an ML background, including judgement on when fine-tuning pays off; retrieval and source attribution; healthcare data standards such as FHIR; regulation such as MDR and the EU AI Act. What we offer Growth: we invest in each person’s development, whether that’s taking ownership of new projects, deepening your technical leadership or exploring new AI approaches, supported by a dedicated learning and development budget and regular feedback. If you grow, we grow. Purposeful work: your work has a real impact on patients, their families and healthcare professionals. Company culture: flat hierarchies, strong team dynamics and a culture of mutual respect, loyalty and recognition. English is our working language across a team of 20+ nationalities. Flexibility: need to pick up your child from daycare or want to exercise at lunch? We support you, with fully remote work, flexible hours and workations by arrangement. Your setup: a work laptop plus a one-off budget to choose and keep your own accessories. Monthly benefit: €50 per month for vouchers or an Urban Sports Club membership (for employees in Germany). Birthday off: your birthday off to celebrate with your loved ones. Together: team meetups and company-wide events. Location We’re a remote team, and the role is fully remote within European time zones. We’re hiring in Germany, Austria, Spain, Italy, Portugal, the Netherlands and the United Kingdom. Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "engineering",
-      "remote"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-tech-lead-medical-coding-agents-berlin-279658",
-    "date_posted": null
-  },
-  {
-    "id": "arbeitnow-5be31040dfaa",
-    "title": "Staff Forward Deployed Engineer, EMEA",
-    "company": "gitlab",
-    "location": "Remote",
-    "remote": true,
-    "location_restriction": null,
-    "salary": null,
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt;*&lt;em&gt;Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;An overview of this role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;GitLab’s Forward Deployed Engineering team is a field-situated product engineering function focused on strategic customer outcomes, artificial intelligence (AI) adoption, and direct contributions to GitLab’s product. This isn&#39;t a traditional field engineering, solutions architecture, or professional services role. As a Staff Forward Deployed Engineer, you&#39;ll work closely with customers while maintaining the technical standards and contribution discipline of a Staff-level product engineer.&lt;/p&gt; &lt;p&gt;You&#39;ll work where strategic customer urgency, complex technical ambiguity, and GitLab product execution intersect. You&#39;ll partner directly with strategic customers and teams across Product, Engineering, Support, Site Reliability Engineering (SRE), Solutions Architecture (SA), Customer Success Architecture (CSA), Customer Success Management (CSM), and Professional Services. You&#39;ll diagnose and resolve high-impact adoption blockers, contribute production-quality fixes and features, and turn what you learn into repeatable patterns for GitLab and its customers.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Why this role exists&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Strategic customers sometimes encounter challenges that are too broad, deep, urgent, or cross-functional for any single team to own from start to finish. These challenges may involve product gaps, performance degradation, scale bottlenecks, AI governance, adoption blockers, architectural constraints, Git usage patterns, continuous integration and continuous delivery (CI/CD) complexity, application programming interface (API) automation, security requirements, or operational instability.&lt;/p&gt; &lt;p&gt;Forward Deployed Engineering provides technical stewardship in these moments. The team doesn&#39;t simply observe, report, or escalate. You&#39;ll engage directly, diagnose the underlying technical problem, collaborate with the right teams, contribute code or technical solutions where appropriate, and transition the outcome into normal ownership once the customer is stable and the learning can be reused.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;Product contribution&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Contribute production-quality code to GitLab’s product and adjacent systems.&lt;/li&gt; &lt;li&gt;Develop bug fixes, features, integrations, tooling, and performance improvements when strategic customer outcomes require direct engineering work.&lt;/li&gt; &lt;li&gt;Work within GitLab’s product and engineering processes, including issue discovery, merge request creation, testing, review, documentation, and maintainability.&lt;/li&gt; &lt;li&gt;Partner with Product and Engineering so customer-driven solutions support long-term product direction rather than becoming one-off customizations.&lt;/li&gt; &lt;li&gt;Turn blockers discovered in the field into durable product improvements, reference architectures, documentation, and repeatable implementation patterns.&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;&lt;strong&gt;Strategic technical stewardship&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Engage with strategically important customers when adoption, retention, executive confidence, or public trust is materially at risk.&lt;/li&gt; &lt;li&gt;Diagnose complex problems across GitLab product behavior, customer architecture, Git internals, CI/CD workflows, API usage, observability, infrastructure, networking, and cloud environments.&lt;/li&gt; &lt;li&gt;Coordinate across Product, Engineering, SRE, Support, SA, CSA, CSM, Professional Services, and customer technical teams to drive resolution from discovery through handoff.&lt;/li&gt; &lt;li&gt;Provide recommendations grounded in data, traces, and systems analysis to improve GitLab usage, workflows, automation, and architecture.&lt;/li&gt; &lt;li&gt;Create durable outcomes without establishing permanent dependency on Forward Deployed Engineering.&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;&lt;strong&gt;AI adoption and agentic software development lifecycle&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Drive governed, measurable, and production-oriented adoption of GitLab Duo Agent Platform with strategic customers.&lt;/li&gt; &lt;li&gt;Identify and resolve AI adoption blockers involving governance, usage controls, auditability, security, compliance, operating models, workflow design, and integrations.&lt;/li&gt; &lt;li&gt;Develop customer-safe adoption patterns for the agentic software development lifecycle (SDLC), AI-assisted development, intent-based review, AI governance, and human-in-the-loop software delivery.&lt;/li&gt; &lt;li&gt;Partner with Product, Engineering, Field, and Customer Success teams to turn AI adoption learning into reusable guidance and product improvements.&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;&lt;strong&gt;Thought leadership&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Create technical narratives grounded in customer experience and product reality that can help shape the industry’s approach.&lt;/li&gt; &lt;li&gt;Contribute to Well-Architected Frameworks, whitepapers, webinars, reference architectures, technical strategy memos, and adoption frameworks.&lt;/li&gt; &lt;li&gt;Guide ideas through discovery, formulation, validation, amplification, and adoption across GitLab.&lt;/li&gt; &lt;li&gt;Partner with SA, CSA, Product, Engineering, Marketing, Product Marketing Management, CSM, Support, and executive stakeholders to make technical thought leadership a shared company capability.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;What you’ll bring&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Staff-level experience building, operating, or improving complex production software systems.&lt;/li&gt; &lt;li&gt;Experience contributing to large, mature product codebases with high standards for testing, maintainability, performance, and security.&lt;/li&gt; &lt;li&gt;Strong Ruby on Rails or Go experience and the ability to contribute directly to GitLab’s product and adjacent systems.&lt;/li&gt; &lt;li&gt;Experience with AI-assisted software development, agentic workflows, AI governance, model evaluation, context management, prompt and workflow design, or AI adoption in enterprise environments.&lt;/li&gt; &lt;li&gt;Experience diagnosing complex system behavior across application code, data stores, infrastructure, observability, networking, APIs, and customer usage patterns.&lt;/li&gt; &lt;li&gt;Deep knowledge of modern DevSecOps workflows, including Git, merge requests, CI/CD, security controls, compliance needs, and enterprise software delivery.&lt;/li&gt; &lt;li&gt;Experience working with strategic customers or senior technical stakeholders in ambiguous, high-impact situations.&lt;/li&gt; &lt;li&gt;The ability to coordinate across product, engineering, field, and customer teams without formal authority.&lt;/li&gt; &lt;li&gt;Strong written communication and sound judgment, including the ability to create technical narratives and distinguish reusable product work from customer-specific customization.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;Strongly preferred qualifications&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Direct experience with GitLab as a platform, including GitLab.com, GitLab Dedicated, or GitLab Self-Managed.&lt;/li&gt; &lt;li&gt;Production experience with Ruby on Rails, Go, PostgreSQL, Redis, Sidekiq, Vue, TypeScript, Kubernetes, Docker, Linux, or observability tools.&lt;/li&gt; &lt;li&gt;Deep familiarity with Git internals, repository performance, large-scale Git usage patterns, or GitLab Runner behavior.&lt;/li&gt; &lt;li&gt;Experience creating technical thought-leadership materials, such as whitepapers, technical talks, architecture frameworks, requests for comments, public technical writing, or internal strategy documents.&lt;/li&gt; &lt;li&gt;A background in performance engineering, site reliability engineering, platform engineering, infrastructure engineering, or distributed systems.&lt;/li&gt; &lt;li&gt;Experience working in open source or highly asynchronous engineering environments.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;Technologies and domains&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Directly relevant technologies and domains include:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Ruby on Rails&lt;/li&gt; &lt;li&gt;Go&lt;/li&gt; &lt;li&gt;AI-assisted development and the agentic SDLC&lt;/li&gt; &lt;li&gt;PostgreSQL&lt;/li&gt; &lt;li&gt;Redis and Sidekiq&lt;/li&gt; &lt;li&gt;Git internals&lt;/li&gt; &lt;li&gt;GitLab CI/CD and Runner architecture&lt;/li&gt; &lt;li&gt;Kubernetes and containers&lt;/li&gt; &lt;li&gt;Terraform&lt;/li&gt; &lt;li&gt;Linux, networking, observability, and performance analysis&lt;/li&gt; &lt;li&gt;Vue and TypeScript&lt;/li&gt; &lt;li&gt;APIs and automation&lt;/li&gt; &lt;li&gt;DevSecOps governance, security, and compliance&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;What this role is not&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;This role isn&#39;t:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;A generic field engineering role.&lt;/li&gt; &lt;li&gt;A proof-of-concept factory.&lt;/li&gt; &lt;li&gt;A replacement for Solutions Architecture, Customer Success Architecture, Customer Success Management, Professional Services, Support, SRE, Product, or Engineering.&lt;/li&gt; &lt;li&gt;A customer-specific customization function.&lt;/li&gt; &lt;li&gt;Unbilled Professional Services.&lt;/li&gt; &lt;li&gt;A requirements-gathering role that only escalates to Product.&lt;/li&gt; &lt;li&gt;An AI evangelism role disconnected from product execution.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;Success measures&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Success in this role may include:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Stabilizing strategic customer adoption or retention risks.&lt;/li&gt; &lt;li&gt;Fixing product bugs or contributing features.&lt;/li&gt; &lt;li&gt;Removing AI adoption blockers for strategic accounts.&lt;/li&gt; &lt;li&gt;Creating reusable implementation patterns and transitioning them to long-term owners.&lt;/li&gt; &lt;li&gt;Producing or enabling Well-Architected Frameworks, whitepapers, webinars, or technical narratives.&lt;/li&gt; &lt;li&gt;Resolving cross-functional customer challenges without creating permanent dependency on Forward Deployed Engineering.&lt;/li&gt; &lt;li&gt;Equipping Product, Engineering, Support, CSA, CSM, Professional Services, and SA teams with better guidance based on learning from the field.&lt;/li&gt; &lt;li&gt;Increasing adoption and effective use of GitLab capabilities, especially GitLab Duo and GitLab Duo Agent Platform, in targeted accounts.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;The Forward Deployed Engineering team connects strategic customer needs with GitLab product execution. The team works directly with customers and across GitLab to resolve complex adoption challenges, contribute durable product improvements, and create reusable technical guidance. Its goal is to stabilize urgent situations, improve the product, and transition ongoing ownership to the appropriate team rather than create a permanent dependency.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Ideal candidate profile&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;You&#39;re a Staff-level product or platform engineer who can operate in the field without becoming field-only. You&#39;re comfortable reading traces, writing production code, debugging architecture, discussing AI governance, leading a customer technical session, opening a merge request, outlining a whitepaper, and coordinating across teams to achieve a strategic customer outcome.&lt;/p&gt; &lt;p&gt;You&#39;re not simply a strong communicator with technical awareness. You&#39;re a credible engineer with the judgment, presence, and narrative ability to turn customer reality into product contributions, adoption guidance, and company-level thought leadership.&lt;/p&gt; &lt;p&gt;We welcome candidates with different backgrounds and levels of experience. Many successful candidates don&#39;t meet every qualification. If you&#39;re excited about this role, we encourage you to apply and let our recruiting team assess your application.&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h4&gt;&lt;strong&gt;How GitLab Supports Full-Time Employees&lt;/strong&gt;&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/&quot;&gt;Benefits to support your health, finances, and well-being&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/people-group/time-off-and-absence/time-off-types/#flexible-paid-time-off-pto&quot;&gt;Flexible Paid Time Off&amp;nbsp;&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/company/culture/inclusion/tmrg-tmag/&quot;&gt;Team Member Resource Groups&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/total-rewards/stock-options/&quot;&gt;Equity Compensation &amp;amp; Employee Stock Purchase Plan&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/people-group/learning-and-development/growth-and-development/&quot;&gt;Growth and Development Fund&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave&quot;&gt;Parental Leave&lt;/a&gt;&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Please note that we welcome interest from candidates with varying levels of experience; many successful candidates do not meet every single requirement. Additionally, studies have shown that people from &lt;a href=&quot;https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups&quot;&gt;underrepresented groups&lt;/a&gt; are less likely to apply to a job unless they meet every single qualification. If you&#39;re excited about this role, please apply and allow our recruiters to assess your application.&lt;/p&gt; &lt;hr&gt; &lt;p&gt;&lt;strong&gt;Country Hiring Guidelines: &lt;/strong&gt;GitLab hires new team members in countries around the world. All of our roles are remote, however some roles may carry specific location-based eligibility requirements. Our Talent Acquisition team can help answer any questions about location after starting the recruiting process.&amp;nbsp;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Privacy Policy: &lt;/strong&gt;Please review our &lt;a href=&quot;https://handbook.gitlab.com/handbook/hiring/candidate-faq/recruitment-privacy-policy/&quot; target=&quot;_blank&quot;&gt;Recruitment Privacy Policy.&lt;/a&gt; Your privacy is important to us.&lt;/p&gt; &lt;p&gt;GitLab is proud to be an equal opportunity workplace and is an affirmative action employer. GitLab’s policies and practices relating to recruitment, employment, career development and advancement, promotion, and retirement are based solely on merit, regardless of race, color, religion, ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity, or gender expression), national origin, age, citizenship, marital status, mental or physical disability, genetic information (including family medical history), discharge status from the military, protected veteran status (which includes disabled veterans, recently separated veterans, active duty wartime or campaign badge veterans, and Armed Forces service medal veterans), or any other basis protected by law. GitLab will not tolerate discrimination or harassment based on any of these characteristics. See also&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/people-policies/inc-usa/#equal-employment-opportunity-policy&quot; target=&quot;_blank&quot;&gt;GitLab’s EEO Policy&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/labor-and-employment-notices/#eeoc-us-equal-employment-opportunity-commission-notices&quot; target=&quot;_blank&quot;&gt;EEO is the Law&lt;/a&gt;. If you have a disability or special need that requires&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation&quot; target=&quot;_blank&quot;&gt;accommodation&lt;/a&gt;, please let us know during the&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/hiring/interviewing/#adjustments-to-our-interview-process&quot; target=&quot;_blank&quot;&gt;recruiting process&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt; Find more English Speaking Jobs in Germany on Arbeitnow",
-    "required_skills": [
-      "customer experience"
-    ],
-    "requirements": [],
-    "source": "Arbeitnow",
-    "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-staff-forward-deployed-engineer-emea-244241",
     "date_posted": null
   }
 ]
